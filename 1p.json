@@ -1,0 +1,108 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "No princípio criou Deus os céus e a terra."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "E a terra estava desordenada e vazia, e as trevas estavam sobre a face do abismo, e o Espírito de Deus se movia sobre a face das águas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Haja luz;"
+                },
+                {
+                    "speaker": "bible",
+                    "text": "e houve luz."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "E viu Deus que a luz era boa: e separou Deus a luz das trevas."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "E chamou Deus à luz Dia, e às trevas chamou Noite: e foi a tarde e a manhã o primeiro dia."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Haja expansão em meio das águas, e separe as águas das águas."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "E fez Deus a expansão, e separou as águas que estavam debaixo da expansão, das águas que estavam sobre a expansão: e foi assim."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "E chamou Deus à expansão Céus: e foi a tarde e a manhã, o dia segundo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "bible",
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": " Juntem-se as águas que estão debaixo dos céus em um lugar, e descubra-se a porção seca;"
+                },
+                {
+                    "speaker": "bible",
+                    "text": "e foi assim."
+                }
+            ]
+        }
+    ]
+}

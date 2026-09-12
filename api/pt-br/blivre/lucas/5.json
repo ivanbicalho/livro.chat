@@ -1,0 +1,358 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que as multidões o comprimiam para ouvir a palavra de Deus, quando ele estava junto ao lago de Genesaré."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele viu dois barcos que estavam próximos [da margem] do lago, e os pescadores haviam descido deles, e estavam lavando as redes."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele entrou num daqueles barcos, que era o de Simão, e lhe pediu que o afastasse um pouco da terra. Depois se sentou, e do barco ensinou às multidões."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando acabou de falar, disse a Simão: Vai à água profunda, e lançai as vossas redes para pescar."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Simão respondeu: Mestre, trabalhamos toda a noite, mas nada pegamos; mas pela tua palavra lançarei as redes."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles fizeram assim, e recolheram grande quantidade de peixes, e suas redes estavam se rompendo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então acenaram aos companheiros que estavam no outro barco, para que viessem os ajudar. Vieram, e encheram ambos os barcos, de tal maneira que quase afundavam."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Simão Pedro viu[isso] , prostrou-se aos pés de Jesus, dizendo: Afasta-te de mim, Senhor, porque sou um homem pecador."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois ele estava cheio de espanto, como todos os que estavam com ele, por causa da coleta de peixes que haviam feito."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E semelhantemente, também, Tiago e João, filhos de Zebedeu, que eram colegas de Simão. E Jesus disse a Simão: Não temas, de agora em diante pescarás gente."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles levaram os barcos para a terra, deixaram tudo, e o seguiram."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando ele estava numa daquelas cidades, eis que um homem cheio de lepra viu Jesus; então prostrou-se sobre o rosto, e lhe rogou, dizendo: Senhor, se quiseres, podes me tornar limpo."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele estendeu a mão, e o tocou, dizendo: Quero; sê limpo. E logo a lepra desapareceu dele."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandou-lhe que não o dissesse a ninguém: Mas vai, mostra-te ao sacerdote, e oferece por tua purificação, como Moisés mandou, para lhes dar testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém a sua fama se espalhava ainda mais; e ajuntavam-se muitas multidões para o ouvir, e para serem curadas de suas enfermidades."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele se retirava para os desertos, e [ali] orava."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu num daqueles dias que estava ensinando, e estavam [ali] sentados fariseus e instrutores da lei, que tinham vindo de todas as aldeias da Galileia, da Judeia, e de Jerusalém; e o poder do Senhor estava com ele para curar"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que uns homens traziam numa cama um homem que estava paralítico; e procuravam levá-lo para dentro, a fim de o porem diante dele."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como não acharam por onde pudessem levá-lo para dentro, por causa da multidão, subiram ao telhado, e pelas telhas o baixaram com o leito para o meio [do povo] , diante de Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele viu a fé deles, e disse: Homem, teus pecados são perdoados."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os escribas e os fariseus começaram a questionar, dizendo: Quem é este que fala blasfêmias? Quem pode perdoar pecados, senão só Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jesus, conhecendo os seus pensamentos, respondeu-lhes: O que pensais em vossos corações?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que é mais fácil? Dizer: Teus pecados são perdoados? Ou dizer: Levanta-te, e anda?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que saibais que o Filho do homem tem poder sobre a terra para perdoar pecados, (disse ao paralítico:) Eu te digo, levanta-te, toma o teu leito, e vai para a tua casa."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele levantou-se imediatamente diante deles, tomou o [leito] em que estava deitado, e foi para a sua casa, glorificando a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos ficaram admirados, e glorificaram a Deus; e ficaram cheios de temor, dizendo: Hoje vimos maravilhas!"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois destas coisas, ele saiu; e viu um publicano, chamado Levi, sentado na coletoria de tributos, e disse-lhe: Segue-me."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele deixou tudo, levantou-se, e o seguiu."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Levi lhe fez um grande banquete em sua casa; e havia [ali] uma grande multidão de publicanos e de outros que estavam sentados com eles [à mesa] ."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seus fariseus e escribas murmuravam contra os seus discípulos, dizendo: Por que comeis e bebeis com publicanos e pecadores?"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhes respondeu: Os que estão sãos não precisam de médico, mas sim os que estão doentes."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu não vim para chamar os justos, mas sim, os pecadores, ao arrependimento."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então eles lhe disseram: Os discípulos de João jejuam muitas vezes, e fazem orações, como também os dos fariseus, mas os teus comem e bebem."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jesus lhes disse: Podeis vós fazer jejuar os convidados do casamento, enquanto o noivo está com eles?"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém virão dias em que o esposo lhes será tirado; então naqueles dias jejuarão."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizia-lhes também uma parábola: Ninguém tira remendo de pano novo para pô-lo em roupa velha; de outra maneira, romperá o novo, e o remendo do novo não será adequado ao velho."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ninguém põe vinho novo em odres velhos; de outra maneira, o vinho novo romperá os odres, e se derramará, e os odres são destruídos."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o vinho novo deve ser posto em odres novos."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ninguém que beber do velho quer o novo; porque diz: O velho é melhor."
+                }
+            ]
+        }
+    ]
+}

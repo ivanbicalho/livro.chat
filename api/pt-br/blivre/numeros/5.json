@@ -1,0 +1,286 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Manda aos filhos de Israel que expulsem do acampamento a todo leproso, e a todos os que sofrem de corrimento, e a todo contaminado sobre morto:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tanto homens como mulheres lançareis, fora do acampamento os expulsareis; para que não contaminem o acampamento daqueles entre os quais eu habito."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fizeram-no assim os filhos de Israel, que os lançaram fora do acampamento: como o SENHOR disse a Moisés, assim o fizeram os filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel: O homem ou a mulher que cometer algum de todos os pecados dos homens, fazendo transgressão contra o SENHOR, e transgredir aquela pessoa;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Confessarão seu pecado que cometeram, e compensarão sua ofensa inteiramente, e acrescentarão seu quinto sobre ele, e o darão a aquele contra quem pecaram."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se aquele homem não tiver parente ao qual seja ressarcida a ofensa, se dará a indenização da injustiça ao SENHOR, ao sacerdote, a mais do carneiro das expiações, com o qual fará expiação por ele."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E toda oferta de todas as coisas santas que os filhos de Israel apresentarem ao sacerdote, sua será."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o santificado de qualquer um será seu: também o que qualquer um der ao sacerdote, seu será."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, e dize-lhes: Quando a mulher de alguém se desviar, e fizer traição contra ele,"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que alguém se houver deitado com ela em carnal ajuntamento, e seu marido não o houvesse visto por haver-se ela contaminado ocultamente, nem houver testemunha contra ela, nem ela houver sido pega no ato;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se vier sobre ele espírito de ciúme, e tiver ciúme de sua mulher, havendo-se ela contaminado; ou vier sobre ele espírito de ciúme, e tiver ciúmes de sua mulher, não havendo ela se contaminado;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o marido trará sua mulher ao sacerdote, e trará sua oferta com ela, um décimo de um efa de farinha de cevada; não lançará sobre ela azeite, nem porá sobre ela incenso; porque é oferta de ciúme, oferta de recordação, que traz o pecado em memória."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote a fará aproximar, e a porá diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo tomará o sacerdote da água santa em um vaso de barro: tomará também o sacerdote do pó que houver no chão do tabernáculo, e o lançará na água."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fará o sacerdote estar em pé à mulher diante do SENHOR, e descobrirá a cabeça da mulher, e porá sobre suas mãos a oferta da recordação, que é a oferta de ciúme; e o sacerdote terá na mão as águas amargas que trazem maldição."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote a fará jurar, e lhe dirá: Se ninguém houver dormido contigo, e se não te afastaste de teu marido à imundícia, livre sejas destas águas amargas que trazem maldição:"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se te desviaste de teu marido, e te contaminaste, e alguém houver tido relação contigo, fora de teu marido:"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(O sacerdote fará jurar à mulher com juramento de maldição, e dirá à mulher): O SENHOR te dê em maldição e em conspiração em meio de teu povo, fazendo o SENHOR a tua coxa que caia, e a teu ventre que se te inche;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estas águas que dão maldição entrem em tuas entranhas, e façam inchar teu ventre, e cair tua coxa. E a mulher dirá: Amém, Amém."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote escreverá estas maldições em um livro, e as apagará com as águas amargas:"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dará a beber à mulher as águas amargas que trazem maldição; e as águas que operam maldição entrarão nela por amargas."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois tomará o sacerdote da mão da mulher a oferta de ciúme, e a moverá diante do SENHOR, e a oferecerá diante do altar;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e o sacerdote tomará um punhado da oferta em sua memória, e o queimará sobre o altar, e depois dará a beber as águas à mulher."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dará a ela pois a beber as águas; e será, que se for imunda e houver feito traição contra seu marido, as águas que operam maldição entrarão nela em amargura, e seu ventre se inchará, e cairá sua coxa; e a mulher será por maldição em meio de seu povo."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se a mulher não for imunda, mas sim que estiver limpa, ela será livre, e será fértil."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a lei do ciúme, quando a mulher fizer traição a seu marido, e se contaminar;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou do marido, sobre o qual passar espírito de ciúme, e tiver ciúme de sua mulher: ele a apresentará então diante do SENHOR, e o sacerdote executará nela toda esta lei."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aquele homem será livre de iniquidade, e a mulher levará seu pecado."
+                }
+            ]
+        }
+    ]
+}

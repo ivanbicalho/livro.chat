@@ -1,0 +1,277 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR respondeu a Moisés: Agora verás o que eu farei a Faraó; porque com mão forte os deixará ir; e com mão forte os expulsará de sua terra."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Falou, todavia, Deus a Moisés, e disse-lhe: Eu sou o SENHOR;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E apareci a Abraão, a Isaque e a Jacó sob o nome de Deus Todo-Poderoso, mas em meu nome, EU-SOU, não me notifiquei a eles."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também estabeleci meu pacto com eles, de dar-lhes a terra de Canaã, a terra em que foram estrangeiros, e na qual peregrinaram."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também eu ouvi o gemido dos filhos de Israel, aos quais fazem servir os egípcios, e lembrei-me de meu pacto."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto dirás aos filhos de Israel: EU SOU O SENHOR; e eu vos tirarei de debaixo das cargas do Egito, e vos livrarei de sua servidão, e vos resgatarei com braço estendido, e com grandes juízos;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vos tomarei por meu povo e serei vosso Deus: e vós sabereis que eu sou o SENHOR vosso Deus, que vos tiro de debaixo das cargas do Egito:"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vos meterei na terra, pela qual levantei minha mão que a daria a Abraão, a Isaque e a Jacó: e eu vos a darei por herança. EU SOU O SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desta maneira falou Moisés aos filhos de Israel: mas eles não escutavam a Moisés por causa da angústia de espírito, e da dura servidão."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Entra, e fala a Faraó rei do Egito, que deixe ir de sua terra aos filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondeu Moisés diante do SENHOR, dizendo: Eis que os filhos de Israel não me escutam: como, pois, me escutará Faraó, ainda mais sendo eu incircunciso de lábios?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o SENHOR falou a Moisés e a Arão, e deu-lhes mandamento para os filhos de Israel, e para Faraó rei do Egito, para que tirassem aos filhos de Israel da terra do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os chefes das famílias de seus pais. Os filhos de Rúben, o primogênito de Israel: Enoque e Palu, Hezrom e Carmi: estas são as famílias de Rúben."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Simeão: Jemuel, e Jamim, e Oade, e Jaquim, e Zoar, e Saul, filho de uma cananeia: estas são as famílias de Simeão."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes são os nomes dos filhos de Levi por suas linhagens: Gérson, e Coate, e Merari: E os anos da vida de Levi foram cento trinta e sete anos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Gérson: Libni, e Simei, por suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Coate: Anrão, e Izar, e Hebrom, e Uziel. E os anos da vida de Coate foram cento e trinta e três anos."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Merari: Mali, e Musi: estas são as famílias de Levi por suas linhagens."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Anrão tomou por mulher a Joquebede sua tia, a qual lhe deu à luz a Arão e a Moisés. E os anos da vida de Anrão foram cento e trinta e sete anos."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Izar: Corá, e Nefegue e Zicri."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Uziel: Misael, e Elzafã e Sitri."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomou para si Arão por mulher a Eliseba, filha de Aminadabe, irmã de Naassom; a qual lhe deu à luz a Nadabe, e a Abiú, e a Eleazar, e a Itamar."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Corá: Assir, e Elcana, e Abiasafe: estas são as famílias dos coraítas."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Eleazar, filho de Arão, tomou para si mulher das filhas de Putiel, a qual lhe deu à luz a Fineias: E estes são os chefes dos pais dos levitas por suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é aquele Arão e aquele Moisés, aos quais o SENHOR disse: Tirai aos filhos de Israel da terra do Egito por seus esquadrões."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os que falaram a Faraó rei do Egito, para tirar do Egito aos filhos de Israel. Moisés e Arão foram estes."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o SENHOR falou a Moisés na terra do Egito,"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o SENHOR falou a Moisés, dizendo: Eu sou o SENHOR; dize a Faraó rei do Egito todas as coisas que eu te digo."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés respondeu diante do SENHOR: Eis que sou incircunciso de lábios; como, pois, Faraó me ouvirá?"
+                }
+            ]
+        }
+    ]
+}

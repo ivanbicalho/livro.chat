@@ -1,0 +1,421 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que quando havia Isaque envelhecido, e seus olhos se ofuscaram ficando sem vista, chamou a Esaú, seu filho o maior, e disse-lhe: Meu filho. E ele respondeu: Eis-me aqui."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele disse: Eis que já sou velho, não sei o dia de minha morte:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma, pois, agora tuas armas, tua aljava e teu arco, e sai ao campo, e pega-me caça;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E faze-me um guisado, como eu gosto, e traze-o a mim, e comerei: para que te abençoe minha alma antes que morra."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Rebeca estava ouvindo, quando falava Isaque a Esaú seu filho: e foi-se Esaú ao campo para pegar a caça que havia de trazer."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Rebeca falou a Jacó seu filho, dizendo: Eis que eu ouvi a teu pai que falava com Esaú teu irmão, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Traze-me caça, e faze-me um guisado, para que coma, e te abençoe diante do SENHOR antes que eu morra."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, pois, filho meu, obedece à minha voz no que te mando;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vai agora ao gado, e traze-me dali dois bons cabritos das cabras, e farei deles iguarias para teu pai, como ele gosta;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tu as levarás a teu pai, e comerá, para que te abençoe antes de sua morte."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó disse a Rebeca sua mãe: Eis que Esaú meu irmão é homem peludo, e eu liso:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Talvez meu pai me apalpe, e me terá por enganador, e trarei sobre mim maldição e não bênção."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sua mãe respondeu: Filho meu, sobre mim tua maldição: somente obedece à minha voz, e vai e traze-os a mim."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele foi, e tomou, e trouxe-os à sua mãe: e sua mãe fez guisados, como seu pai gostava."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomou Rebeca as roupas de Esaú seu filho maior, as melhores, que ela tinha em casa, e vestiu a Jacó seu filho menor:"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fez-lhe vestir sobre suas mãos e sobre o pescoço onde não tinha pelo, as peles dos cabritos das cabras;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E entregou os guisados e o pão que havia preparado, em mão de Jacó seu filho."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele foi a seu pai, e disse: Meu pai: e ele respondeu: Eis-me aqui, quem és, filho meu?"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó disse a seu pai: Eu sou Esaú teu primogênito; fiz como me disseste: levanta-te agora, e senta, e come de minha caça, para que me abençoe tua alma."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Isaque disse a seu filho: Como é que a achaste tão depressa, filho meu? E ele respondeu: Porque o SENHOR teu Deus fez que se encontrasse diante de mim."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Isaque disse a Jacó: Aproxima-te agora, e te apalparei, filho meu, para [que eu saiba] se és meu filho Esaú ou não."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegou-se Jacó a seu pai Isaque; e ele lhe apalpou, e disse: A voz é a voz de Jacó, mas as mãos, as mãos de Esaú."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não lhe reconheceu, porque suas mãos eram peludas como as mãos de Esaú: e lhe abençoou."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: És tu meu filho Esaú? E ele respondeu: Eu sou."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Aproxima-a a mim, e comerei da caça de meu filho, para que te abençoe minha alma; e ele a aproximou, e comeu: trouxe-lhe também vinho, e bebeu."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhe Isaque seu pai: Aproxima-te agora, e beija-me, filho meu."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele se chegou, e lhe beijou; e cheirou Isaque o cheiro de suas roupas, e lhe abençoou, e disse: Eis que o cheiro de meu filho é como o cheiro do campo que o SENHOR abençoou;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus, pois, te dê do orvalho do céu, e das gorduras da terra, e abundância de trigo e de mosto."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sirvam-te povos, E nações se inclinem a ti: Sê senhor de teus irmãos, e inclinem-se a ti os filhos de tua mãe; malditos os que te amaldiçoarem, e benditos os que te abençoarem."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu, logo que havia Isaque de abençoar a Jacó, e apenas havia saído Jacó de diante de Isaque seu pai, que Esaú seu irmão veio de sua caça."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também ele fez guisado, e trouxe a seu pai, e disse-lhe: Levante-se meu pai, e coma da caça de seu filho, para que me abençoe tua alma."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Isaque seu pai lhe disse: Quem és tu? E ele disse: Eu sou teu filho, teu primogênito, Esaú."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Estremeceu-se Isaque com grande estremecimento, e disse: Quem é o que veio aqui, que agarrou caça, e me trouxe, e comi de tudo antes que viesses? Eu o abençoei, e será bendito."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Esaú ouviu as palavras de seu pai clamou com uma muito grande e muito amarga exclamação, e lhe disse: Abençoa também a mim, meu pai."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele disse: Veio teu irmão com engano, e tomou tua bênção."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele respondeu: Bem chamaram seu nome Jacó, que já me enganou duas vezes; tirou minha primogenitura, e eis que agora tomou minha bênção. E disse: Não guardaste bênção para mim?"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isaque respondeu e disse a Esaú: Eis que eu o pus por senhor teu, e lhe dei por servos a todos os seus irmãos: de trigo e de vinho lhe provi: que, pois, farei a ti agora, filho meu?"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Esaú respondeu a seu pai: Não tens mais que uma só bênção, meu pai? Abençoa também a mim, meu pai. E levantou Esaú sua voz, e chorou."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Isaque seu pai falou e disse-lhe: Eis que será tua habitação sem gorduras da terra, E sem orvalho dos céus de acima;"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por tua espada viverás, e a teu irmão servirás: E sucederá quando te dominares, Que descarregarás seu jugo de teu pescoço."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E odiou Esaú a Jacó pela bênção com que lhe havia abençoado, e disse em seu coração: Chegarão os dias do luto de meu pai, e eu matarei a Jacó meu irmão."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram ditas a Rebeca as palavras de Esaú seu filho mais velho: e ela enviou e chamou a Jacó seu filho mais novo, e disse-lhe: Eis que, Esaú teu irmão se consola acerca de ti com a ideia de matar-te."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, pois, filho meu, obedece à minha voz; levanta-te, e foge-te a Labão meu irmão, a Harã."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mora com ele alguns dias, até que a ira de teu irmão se diminua;"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até que se aplaque a ira de teu irmão contra ti, e se esqueça do que lhe fizeste: eu enviarei então, e te trarei dali: por que serei privada de vós ambos em um dia?"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Rebeca a Isaque: Desgosto tenho de minha vida, por causa das filhas de Hete. Se Jacó toma mulher das filhas de Hete, como estas, das filhas desta terra, para que quero a vida?"
+                }
+            ]
+        }
+    ]
+}

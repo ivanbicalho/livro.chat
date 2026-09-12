@@ -1,0 +1,115 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 36,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, servo do SENHOR, para o regente:A transgressão do perverso diz ao meu coração [que] não há temor a Deus perante seus olhos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele é [tão] orgulhoso diante de seus olhos [que não] achar [nem] odiar sua própria maldade."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As palavras da boca dele são malícia e falsidade; ele deixou de [fazer] o que é sábio e bom."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele planeja maldade em sua cama; fica no caminho que não é bom; não rejeita o mal."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "SENHOR, tua bondade [alcança] os céus, e tua fidelidade [chega] até as mais altas nuvens."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tua justiça é como as montanhas de Deus, teus juízos [como] um grande abismo; tu, SENHOR, guardas [a vida] dos homens e dos animais."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como é preciosa, SENHOR, a tua bondade! Porque os filhos dos homens se abrigam à sombra de tuas asas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles se fartam da comida de tua casa, e tu lhes dás de beber [do] ribeiro de teus prazeres."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque contigo está a fonte da vida; em tua luz vemos a luz [verdadeira] ."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estende tua bondade sobre os que te conhecem; e tua justiça sobre os corretos de coração."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não venha sobre mim o pé dos arrogantes, e que a não dos perversos não me mova."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ali cairão os que praticam a maldade; eles foram lançados, e não podem se levantar."
+                }
+            ]
+        }
+    ]
+}

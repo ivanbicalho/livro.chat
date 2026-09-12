@@ -1,0 +1,133 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filisteus guerrearam contra Israel; e os homens de Israel fugiram diante deles, e caíram feridos no monte de Gilboa."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filisteus perseguiram a Saul e a seus filhos; e os filisteus mataram Jônatas, Abinadabe, e Malquisua, filhos de Saul."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a batalha se dificultou sobre Saul; os flecheiros o alcançaram, e ele foi ferido pelos flecheiros."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Saul disse a seu escudeiro: Tira a tua espada, e atravessa-me com ela, para que não aconteça que estes incircuncisos venham, e escarneçam de mim.Porém seu escudeiro não quis, porque tinha muito medo. Então Saul tomou a espada, e se lançou sobre ela."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando seu escudeiro viu que Saul estava morto, ele também se lançou sobre sua espada, e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim Saul e seus três filhos morreram; e toda a sua casa morreu juntamente com ele."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando todos os homens de Israel que estavam no vale viram que [o exército] havia fugido, e que Saul e seus filhos estavam mortos, deixaram suas cidades, e fugiram; então os filisteus vieram, e habitaram nelas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no dia seguinte, quando os Filisteus vieram para despojar os mortos, acharam Saul e seus filhos estendidos no monte de Gilboa."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o despiram, tomaram sua cabeça e suas armas, e as enviaram por toda a terra dos filisteus para anunciarem a seus ídolos e ao povo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E puseram suas armas no templo de seu deus, e colocaram sua cabeça no templo de Dagom."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando todos os de Jabes-Gileade ouviram tudo quanto filisteus haviam feito a Saul,"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os homens valentes se levantaram, tomaram o corpo de Saul e os corpos de seus filhos, e os trouxeram a Jabes; e sepultaram seus ossos debaixo de um carvalho em Jabes, e jejuaram durante sete dias."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim Saul morreu por sua transgressão com que havia transgredido contra o SENHOR, por causa da palavra do SENHOR, a qual ele não obedeceu; e por ter buscado à médium para lhe consultar,"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não ter buscado ao SENHOR. Por isso ele o matou, e passou o reino a Davi, filho de Jessé."
+                }
+            ]
+        }
+    ]
+}

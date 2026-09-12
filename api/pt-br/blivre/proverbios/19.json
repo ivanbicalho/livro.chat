@@ -1,0 +1,268 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor é o pobre que anda em sua honestidade do que o perverso de lábios e tolo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não é bom a alma sem conhecimento; e quem tem pés apressados comete erros."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A loucura do homem perverte seu caminho; e seu coração se ira contra o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A riqueza faz ganhar muitos amigos; mas ao pobre, até seu amigo o abandona."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A falsa testemunha não ficará impune; e quem fala mentiras não escapará."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muitos suplicam perante o príncipe; e todos querem ser amigos daquele que dá presentes."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os irmãos do pobre o odeiam; ainda mais seus amigos se afastam dele; ele corre atrás deles com palavras, mas eles nada lhe [respondem] ."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem adquire entendimento ama sua alma; quem guarda a prudência encontrará o bem."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A falsa testemunha não ficará impune; e quem fala mentiras perecerá."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O luxo não é adequado ao tolo; muito menos ao servo dominar sobre príncipes."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A prudência do homem retém sua ira; e sua glória é ignorar a ofensa."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A fúria do rei é como o rugido de um leão; mas seu favor é como orvalho sobre a erva."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O filho tolo é uma desgraça ao seu pai; e brigas da esposa são [como] uma goteira duradoura."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A casa e as riquezas são a herança dos pais; porém a mulher prudente [vem] do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A preguiça faz cair num sono profundo; e a alma desocupada passará fome."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem guarda o mandamento cuida de sua alma; e quem despreza seus caminhos morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem faz misericórdia ao pobre empresta ao SENHOR; e ele lhe pagará sua recompensa."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Castiga a teu filho enquanto há esperança; mas não levantes tua alma para o matar."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que tem grande irá será punido; porque se tu [o] livrares, terás de fazer o mesmo de novo."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouve o conselho, e recebe a disciplina; para que sejas sábio nos teus últimos [dias] ."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há muitos pensamentos no coração do homem; porém o conselho do SENHOR prevalecerá."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que se deseja do homem [é] sua bondade; porém o pobre é melhor do que o homem mentiroso."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O temor ao SENHOR [encaminha] para a vida; aquele que [o tem] habitará satisfeito, nem mal algum o visitará."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O preguiçoso põe sua mão no prato, e nem sequer a leva de volta à boca."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fere ao zombador, e o ingênuo será precavido; e repreende ao prudente, e ele aprenderá conhecimento."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que prejudica ao pai [ou] afugenta a mãe é filho causador de vergonha e de desgraça."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, deixa de ouvir a instrução, [então] te desviarás das palavras de conhecimento."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A má testemunha escarnece do juízo; e a boca dos perversos engole injustiça."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Julgamentos estão preparados para zombadores, e açoites para as costas dos tolos."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "book": "canticos",
+    "name": "Cânticos",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou a rosa de Sarom, o lírio dos vales."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ele] : Como um lírio entre os espinhos, assim é minha querida entre as moças."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ela] : Como a macieira entre as árvores do bosque, assim é o meu amado entre os rapazes; debaixo de sua sombra desejo muito sentar, e doce é o seu fruto ao meu paladar."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele me leva à casa do banquete, e sua bandeira sobre mim é o amor."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sustentai-me com passas, fortalecei-me com maçãs; porque estou fraca de amor."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Esteja] sua mão esquerda abaixo de minha cabeça, e sua direita me abraça."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu vos ordeno, filhas de Jerusalém: jurai pelas corças e pelas cervas do campo, que não acordeis, nem desperteis ao amor, até que ele queira."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Esta é] a voz do meu amado: vede-o vindo, saltando sobre os montes, pulando sobre os morros."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu amado é semelhante ao corço, ou ao filhote de cervos; eis que está atrás de nossa parede, olhando pelas janelas, observando pelas grades."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu amado me responde, e me diz:[Ele] : Levanta-te, querida minha, minha bela, e vem."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eis que o inverno já passou; a chuva se acabou, e foi embora."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As flores aparecem na terra, o tempo da cantoria chegou; e ouve-se a voz da rolinha em nossa terra."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A figueira está produzindo seus figos verdes, e as vides florescentes dão cheiro; levanta-te, querida minha, minha bela, e vem."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pomba minha, que andas pelas fendas das rochas no oculto das ladeiras, mostra-me tua face, faze-me ouvir tua voz; porque tua voz é doce, e tua face agradável."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomai-nos as raposas, as raposinhas, que danificam as vinhas, porque nossas vinhas estão florescendo."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu amado é meu, e eu sou sua; ele apascenta entre os lírios."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Antes do dia se romper, e das sombras fugirem, volta, amado meu, faze-te semelhante ao corço, ao filhote de cervos, sobre os montes de Beter."
+                }
+            ]
+        }
+    ]
+}

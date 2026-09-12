@@ -1,0 +1,574 @@
+{
+    "book": "josue",
+    "name": "Josué",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi a sorte da tribo dos filhos de Judá, por suas famílias, junto ao termo de Edom, do deserto de Zim ao sul, ao lado do sul."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seu termo da parte do sul foi desde a costa do mar Salgado, desde a baía que está voltada ao sul;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E saía até o sul à subida de Acrabim, passando até Zim; e subindo pelo sul até Cades-Barneia, passava a Hebrom, e subindo por Adar dava volta a Carca;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De ali passava a Azmom, e saía ao ribeiro do Egito; e sai este termo ao ocidente. Este pois vos será o termo do sul."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O termo do oriente é o mar Salgado até o fim do Jordão. E o termo da parte do norte, desde a baía do mar, desde o fim do Jordão:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobe este termo por Bete-Hogla, e passa do norte a Bete-Arabá, e daqui sobe este termo à pedra de Boã, filho de Rúben."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E torna a subir este termo a Debir desde o vale de Acor: e ao norte olha sobre Gilgal, que está diante da subida de Adumim, a qual está ao sul do ribeiro: e passa este termo às águas de En-Semes, e sai à fonte de Rogel:"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobe este termo pelo vale do filho de Hinom ao lado dos jebuseus ao sul: esta é Jerusalém. Logo sobe este termo pelo cume do monte que está diante do vale de Hinom até o ocidente, o qual está ao fim do vale dos gigantes ao norte;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E rodeia este termo desde o cume do monte até a fonte das águas de Neftoa, e sai às cidades do monte de Efrom, rodeando logo o mesmo termo a Baalá, a qual é Quriate-Jearim."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois torna este termo desde Baalá até o ocidente ao monte de Seir: e passa ao lado do monte de Jearim até o norte, esta é Quesalom, e desce a Bete-Semes, e passa a Timna."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sai logo este termo ao lado de Ecrom até o norte; e rodeia o mesmo termo a Sicrom, e passa pelo monte de Baalá, e sai a Jabneel: e sai este termo ao mar."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O termo do ocidente é o mar grande. Este, pois, é o termo dos filhos de Judá em derredor, por suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas a Calebe, filho de Jefoné, deu parte entre os filhos de Judá, conforme o mandamento do SENHOR a Josué: isto é, a Quiriate-Arba, do pai de Anaque, que é Hebrom."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Calebe expulsou dali três filhos de Anaque, a Sesai, Aimã, e Talmai, filhos de Anaque."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De aqui subiu aos que moravam em Debir: e o nome de Debir era antes Quiriate-Sefer."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Calebe: Ao que ferir a Quiriate-Sefer, e a tomar, eu lhe darei a minha filha Acsa por mulher."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomou-a Otniel, filho de Quenaz, irmão de Calebe; e ele lhe deu por mulher a sua filha Acsa."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que quando a levava, ele a persuadiu que pedisse a seu pai terras para lavrar. Ela então desceu do asno. E Calebe lhe disse: Que tens?"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ela respondeu: Dá-me bênção; pois me deste terra de secura, dá-me também fontes de águas. Ele então lhe deu as fontes de acima, e as de abaixo."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta, pois é a herança das tribos dos filhos de Judá por suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram as cidades do termo da tribo dos filhos de Judá até o termo de Edom ao sul: Cabzeel, e Éder, e Jagur,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Quiná, e Dimona, e Adada,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Quedes, e Hazor, e Itnã,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Zife, e Telém, Bealote,"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Hazor-Hadata, e Queriote-Hezrom, que é Hazor,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Amã, e Sema, e Moladá,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Hazar-Gada, e Hesmom, e Bete-Pelete,"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Hazar-Sual, Berseba, e Biziotiá,"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Baalá, e Iim, e Azém,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Eltolade, e Quesil, e Hormá,"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Ziclague, e Madmana, Sansana,"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Lebaote, Silim, e Aim, e Rimom; em todas vinte e nove cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nas planícies, Estaol, e Zorá, e Asná,"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Zanoa, e En-Ganim, Tapua, e Enã,"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jeremote, e Adulão, Socó, e Azeca,"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Saaraim, e Aditaim, e Gederá, e Gederotaim; catorze cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Zenã, e Hadasa, e Migdal-Gade,"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Dileã, e Mispá, e Jocteel,"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Laquis, e Bozcate, e Eglom,"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Cabom, e Laamás, e Quitilis,"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Gederote, Bete-Dagom, e Naamá, e Maquedá; dezesseis cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Libna, e Eter, e Asã,"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Iftá, e Asná, e Nezibe,"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Queila, e Aczibe, e Maressa; nove cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ecrom com suas vilas e suas aldeias:"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde Ecrom até o mar, todas as que estão à costa de Asdode com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Asdode com suas vilas e suas aldeias: Gaza com suas vilas e suas aldeias até o rio do Egito, e o grande mar com seus termos."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nas montanhas, Samir, e Jatir, e Sucote,"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Dana, e Quiriate-Saná, que é Debir,"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Anabe, e Estemo, e Anim,"
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Gósen, e Holom, e Gilo; onze cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Arabe, e Dumá, e Esã,"
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Janim, e Bete-Tapua, e Afeca,"
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Hunta, e Quiriate-Arba, que é Hebrom, e Zior; nove cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Maom, Carmelo, e Zife, e Jutá,"
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jezreel, Jocdeão, e Zanoa,"
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Caim, Gibeá, e Timna; dez cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 58,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Halul, e Bete-Zur, e Gedor,"
+                }
+            ]
+        },
+        {
+            "verse": 59,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Maarate, e Bete-Anote, e Eltecom; seis cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 60,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quriate-Baal, que é Quriate-Jearim, e Rabá; duas cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 61,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No deserto, Bete-Arabá, Midim, e Secacá,"
+                }
+            ]
+        },
+        {
+            "verse": 62,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Nibsã, e a cidade do sal, e En-Gedi; seis cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 63,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aos jebuseus que habitavam em Jerusalém, os filhos de Judá não os puderam desarraigar; antes restaram os jebuseus em Jerusalém com os filhos de Judá, até hoje."
+                }
+            ]
+        }
+    ]
+}

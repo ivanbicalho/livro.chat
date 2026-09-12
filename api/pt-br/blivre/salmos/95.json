@@ -1,0 +1,106 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 95,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vinde, cantemos alegres ao SENHOR; gritemos [de alegria] à rocha de nossa salvação."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cheguemos adiante de sua presença com agradecimentos; cantemos salmos a ele."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o Senhor é o grande Deus, e maior Rei do que todos os deuses."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na mão dele estão as profundezas da terra; e a ele pertencem os altos montes."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dele [também] é o mar, pois ele o fez; e suas mãos formaram a [terra] seca."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vinde, adoremos, e prostremo-nos; ajoelhemo-nos perante o SENHOR, que nos fez."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele é o nosso Deus, e nós [somos] o povo do seu pasto, e as ovelhas de sua mão. Se hoje ouvirdes a voz dele,"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não endureçais vosso coração, como em Meribá, como no dia da tentação no deserto,"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde vossos pais me tentaram; eles me provaram, mesmo já tendo visto minha obra."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por quarenta anos aguentei com desgosto d [esta] geração, e disse: Este povo se desvia em seus corações; e eles não conhecem meus caminhos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso jurei em minha ira que eles não entrarão no meu [lugar] de descanso."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,439 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 106,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aleluia! Agradecei ao SENHOR, porque ele é bom, porque sua bondade [dura] para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem falará das proezas do SENHOR? [Quem] dirá louvores a ele?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurados [são] os que guardam o juízo; [e] aquele que pratica justiça em todo tempo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembra-te de mim, SENHOR, conforme [tua] boa vontade [para com] teu povo; concede-me tua salvação."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para eu ver o bem de teus escolhidos; para eu me alegrar com a alegria de teu povo; para eu ter orgulho de tua herança."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pecamos com nossos pais, fizemos o mal, agimos perversamente."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nossos pais no Egito não deram atenção a tuas maravilhas, nem se lembraram da abundância de tuas bondades; mas ao invés disso se rebelaram junto ao mar, perto do mar Vermelho."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Apesar disso ele os livrou por causa de seu nome, para que seu poder fosse conhecido."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E repreendeu ao mar Vermelho, e [este] se secou; e os fez caminharem pelas profundezas [do mar] ,como que pelo deserto."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os livrou das mãos daquele que os odiava, e os resgatou das mãos do inimigo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as águas cobriram seus adversários; não sobrou nem um sequer deles."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então creram nas palavras dele, e cantaram louvores a ele."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Porém] logo se esqueceram das obras dele, e não esperaram pelo seu conselho."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas foram levados pelo mau desejo no deserto, e tentaram a Deus no lugar desabitado."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele lhes concedeu o que pediam, porém enviou magreza a suas almas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tiveram inveja de Moisés no acampamento; [e] de Arão, o santo do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terra se abriu, e engoliu a Datã; e encobriu ao grupo de Abirão."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o fogo consumiu o seu grupo; a chama queimou os perversos."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram um bezerro em Horebe; e se inclinaram perante uma imagem de fundição."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mudaram sua glória na figura de um boi, que come erva."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esqueceram-se de Deus, o salvador deles, que tinha feito coisas grandiosas no Egito,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Maravilhas na terra de Cam, coisas temíveis no mar Vermelho."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso ele disse que teria os destruído, se Moisés, seu escolhido, não tivesse se posto na fenda diante dele, para desviar sua ira, para não os destruir."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles também desprezaram a terra desejável, [e] não creram na palavra dele."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao invés disso murmuraram em suas tendas, [e] não deram ouvidos à voz do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso ele levantou sua mão contra eles, [jurando] que os derrubaria no deserto;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que derrubaria sua semente entre as nações; e os dispersaria pelas terras."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles também passaram a adorar Baal-Peor, e a comer sacrifícios dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o provocaram à ira com as obras deles; e [por isso] surgiu a praga entre eles."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se levantou Fineias, e interveio, e cessou aquela praga."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E isto lhe foi reconhecido como justiça, de geração em geração, para todo o sempre."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também o irritaram muito junto às águas de Meribá; e houve mal a Moisés por causa deles;"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque provocaram o seu espírito, de modo que ele falou imprudentemente com seus lábios."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles não destruíram os povos que o SENHOR tinha lhes mandado;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ao invés disso, se misturaram com as nações, e aprenderam as obras delas;"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E serviram a seus ídolos; e vieram a lhes ser por laço de armadilha."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Além disso, sacrificaram seus filhos e suas filhas a demônios,"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E derramaram sangue inocente, o sangue de seus filhos e de suas filhas, os quais eles sacrificaram aos ídolos de Canaã; e a terra foi profanada com [este] sangue."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E contaminaram-se com suas obras; e se prostituíram com suas ações."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso a ira do SENHOR se acendeu contra seu povo; e ele odiou sua propriedade."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os entregou nas mãos das nações estrangeiras, e aqueles que os odiavam passaram a dominá-los."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seus inimigos os oprimiram, e foram humilhados sob as mãos deles."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muitas vezes ele os livrou; mas eles [voltavam a] irritá-lo com seus pensamentos, e foram abatidos pela sua perversidade."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Apesar disso, ele observou a angústia deles, e ouviu quando eles clamaram."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele se lembrou de seu pacto em [favor] deles, e sentiu pena conforme suas muitas bondades."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fez com que todos os que os mantinham em cativeiro tivessem misericórdia deles."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salva-nos, SENHOR nosso Deus, e ajunta-nos dentre as nações, para darmos graças ao teu santo nome, e termos orgulho em louvar a ti."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito [seja] o SENHOR, Deus de Israel, desde sempre e para sempre! E todo o povo diga Amém! Aleluia!"
+                }
+            ]
+        }
+    ]
+}

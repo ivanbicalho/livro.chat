@@ -1,0 +1,106 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 42,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de instrução para o regente; dos filhos de Coré:Assim como a corça geme de desejo pelas correntes de águas, assim também minha alma geme de desejo por ti, Deus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma tem sede de Deus, do Deus vivente: Quando entrarei, e me apresentarei diante de Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minhas lágrimas têm sido [meu] alimento dia e noite, porque o dia todo me dizem: Onde [está] o teu Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disto eu me lembro, e derramo minha alma em mim [com choros] , porque eu ia entre a multidão, [e] com eles entrava na casa de Deus, com voz de alegria e louvor, na festa da multidão."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma, por que tu estás abatida, e te inquietas em mim? Espera em Deus; pois eu o louvarei pelas suas salvações."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus meu, minha alma está abatida dentro de mim; por isso eu me lembro de ti desde a terra do Jordão, e dos hermonitas, desde o monte Mizar."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um abismo chama [outro] abismo, ao ruído de suas cascatas; todos as tuas ondas e vagas têm passado sobre mim."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Mas] de dia o SENHOR mandará sua misericórdia, e de noite a canção dele estará comigo; uma oração ao Deus de minha vida."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Direi a Deus, minha rocha: Por que tu te esqueces de mim? Por que eu ando em sofrimento pela opressão do inimigo?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus adversários me afrontam com uma ferida mortal em meus ossos, ao me dizerem todo dia: Onde [está] o teu Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que estás abatida, minha alma? E por que te inquietas em mim? Espera em Deus; porque eu ainda o louvarei; ele é a minha salvação e o meu Deus."
+                }
+            ]
+        }
+    ]
+}

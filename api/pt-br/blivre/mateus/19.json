@@ -1,0 +1,277 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando Jesus acabou essas palavras, partiu da Galileia, e veio para a região da Judeia, além do Jordão."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E muitas multidões o seguiram, e ele os curou ali."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então uns fariseus se aproximaram dele e, provando-o, perguntaram: É lícito se divorciar da sua mulher por qualquer causa?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele respondeu: Não tendes lido que aquele que [os] criou no princípio, macho e fêmea os fez,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e disse: Portanto o homem deixará pai e mãe, e se unirá a sua mulher, e os dois serão uma única carne?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim eles já não são mais dois, mas sim uma única carne; portanto, o que Deus juntou, o ser humano não separe."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles lhe disseram: Por que, pois, Moisés mandou [lhe] dar carta de separação, e divorciar-se?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] lhes disse: Por causa da dureza dos vossos corações Moisés vos permitiu divorciardes de vossas mulheres; mas no princípio não foi assim."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu vos digo que qualquer um que se divorciar de sua mulher, a não ser por causa de pecado sexual, e se casar com outra, adultera."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os discípulos lhe disseram: Se assim é a condição do homem com a mulher, não convém se casar."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele lhes disse: Nem todos recebem esta palavra, a não ser aqueles a quem é dado;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois há castrados que nasceram assim do ventre da mãe; e há castrados que foram castrados pelos homens; e há castrados que castraram a si mesmos por causa do Reino dos céus. Quem pode receber [isto] ,receba."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então lhe trouxeram crianças, para que pusesse as mãos sobre elas e orasse, mas os discípulos os repreendiam."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jesus disse: Deixai as crianças, e não as impeçais de vir a mim, porque delas é o Reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele pôs as mãos sobre elas, e depois partiu-se dali."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que alguém se aproximou-se dele, e perguntou: “Bom Mestre, que bem farei para eu ter a vida eterna?”"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhe disse: “Por que me perguntas sobre o que é bom? Somente um é bom: Deus. Porém, se queres entrar na vida, guarda os mandamentos.”"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Perguntou-lhe ele: “Quais?” E Jesus respondeu: “Não cometerás homicídio, não adulterarás, não furtarás, não darás falso testemunho;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "honra pai e mãe; e amarás ao teu próximo como a ti mesmo.”"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rapaz lhe disse: “Tenho guardado tudo isso. Que me falta ainda?”"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: “Se queres ser completo, vai, vende o que tens, e dá aos pobres. Assim terás um tesouro no céu. Então vem, segue-me.”"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando o rapaz ouviu essa palavra, foi embora triste, porque tinha muitos bens."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus, então, disse aos seus discípulos: “Em verdade vos digo que dificilmente um rico entrará no reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aliás, eu vos digo que é mais fácil um camelo entrar pela abertura de uma agulha do que o rico entrar no reino de Deus.”"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os discípulos ouviram [isso] , espantaram-se muito, e disseram: “Quem, pois, pode se salvar?”"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus olhou [para eles] ,e lhes respondeu: Para os seres humanos, isto é impossível; mas para Deus tudo é possível."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pedro se pôs a falar, e lhe perguntou: Eis que deixamos tudo, e te seguimos; o que, pois, conseguiremos ter?"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhes disse: Em verdade vos digo que vós que me seguistes, na regeneração, quando o Filho do homem se sentar no trono de sua glória, vós também vos sentareis sobre doze tronos, para julgar as doze tribos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que houver deixado casas, ou irmãos, ou irmãs, ou pai, ou mãe, ou filhos, ou terras por causa do meu nome, receberá muitas vezes mais, e herdará a vida eterna."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém muitos primeiros serão últimos; e últimos, primeiros."
+                }
+            ]
+        }
+    ]
+}

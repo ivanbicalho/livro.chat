@@ -1,0 +1,313 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 24,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não tenhas inveja dos homens malignos, nem desejes estar com eles;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o coração deles imagina destruição, e os lábios deles falam de opressão."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pela sabedoria a casa é edificada, e pelo entendimento ela fica firme;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pelo conhecimento os cômodos se encherão de riquezas preciosas e agradáveis."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem sábio é poderoso; e o homem que tem conhecimento aumenta [sua] força;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque com conselhos prudentes farás tua guerra; e a vitória [é alcançada] pela abundância de conselheiros."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A sabedoria é alta demais para o tolo; na porta [do julgamento] ele não abre sua boca."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem planeja fazer o mal será chamado de vilão."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O pensamento do tolo é pecado; e o zombador é abominável aos homens."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Se] te mostrares fraco no dia da angústia, como é pouca tua força!"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Livra os que estão tomados para a morte, os que estão sendo levados para serem mortos;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois se tu disseres: Eis que não sabíamos,Por acaso aquele que pesa os corações não saberá? Aquele que guarda tua alma não conhecerá? Ele retribuirá ao homem conforme sua obra."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Come mel, meu filho, porque é bom; e o favo de mel é doce ao teu paladar."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim será o conhecimento da sabedoria para tua alma; se a encontrares haverá recompensa [para ti] ; e tua esperança não será cortada."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, perverso, não espies a habitação do justo, nem assoles seu quarto;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o justo cai sete vezes, e se levanta; mas os perversos tropeçam no mal."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando teu inimigo cair, não te alegres; nem teu coração fique contente quando ele tropeçar,"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que não [aconteça] de o SENHOR veja, e o desagrade, e desvie dele sua ira."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não te irrites com os malfeitores, nem tenhas inveja dos perversos;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o maligno não terá um bom futuro; a lâmpada dos perversos se apagará."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu filho, teme ao SENHOR e ao rei; e não te envolvas com os rebeldes;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a destruição deles se levantará de repente; e quem sabe que ruína eles terão?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes [provérbios] também são para os sábios: fazer acepção de pessoas num julgamento não é bom."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que disser ao ímpio: Tu és justo,Os povos o amaldiçoarão, as nações o detestarão."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas para aqueles que [o] repreenderem, haverá coisas boas; e sobre eles virá uma boa bênção."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem responde palavras corretas é [como se] estivesse beijando com os lábios."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Prepara o teu trabalho de fora, e deixa pronto o teu campo; então depois, edifica a tua casa."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não sejas testemunha contra o teu próximo sem causa; por que enganarias com teus lábios?"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não digas: Assim como ele fez a mim, assim também farei a ele; pagarei a cada um conforme sua obra."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Passei junto ao campo do preguiçoso, e junto à vinha do homem sem juízo;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e eis que ela estava toda cheia de espinheiros, [e] sua superfície coberta de urtigas; e o seu muro de pedras estava derrubado."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando eu vi [isso] , aprendi em meu coração, e, olhando, recebi instrução:"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "um pouco de sono, cochilando um pouco, cruzando as mãos por um pouco de tempo, deitado,"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e assim a tua pobreza virá como um assaltante; a tua necessidade, como um homem armado."
+                }
+            ]
+        }
+    ]
+}

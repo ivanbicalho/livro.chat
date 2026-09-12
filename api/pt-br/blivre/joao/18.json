@@ -1,0 +1,367 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 18,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Havendo Jesus dito estas coisas, saiu com seus discípulos para além do ribeiro de Cedrom, onde havia um jardim, em que ele entrou ele, e seus discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também Judas, o que o traía, conhecia aquele lugar; porque muitas vezes se juntara ali Jesus com seus discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tendo Judas, pois, tomado a tropa e [alguns dos] oficiais dos sacerdotes e dos fariseus, veio ali com lanternas, tochas, e armas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sabendo pois Jesus todas as coisas que viriam sobre ele, adiantou-se, e disse-lhes: A quem buscais?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam-lhe: A Jesus Nazareno. Disse-lhes Jesus: Eu sou. E Judas, o que o traía, também estava com eles."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando pois lhes disse: Eu sou, voltaram para trás, e caíram em terra."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voltou pois a lhes perguntar: A quem buscais? E eles disseram: A Jesus Nazareno."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus: Já vos disse que eu sou. Portanto se buscais a mim, deixai a estes irem."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que se cumprisse a palavra, que tinha dito: Dos que me deste, a nenhum deles perdi."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Simão Pedro, pois, que tinha espada, puxou dela, e feriu ao servo do sacerdote, e cortou a sua orelha direita. E era o nome do servo Malco."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse pois Jesus a Pedro: Põe tua espada na bainha; não beberei eu o copo que o Pai tem me dado?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O grupo de soldados pois, e o comandante, e os oficiais dos judeus juntamente tomaram a Jesus, e o amarraram."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o levaram primeiramente a Anás, porque era sogro de Caifás, o qual era o sumo sacerdote daquele ano."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E era Caifás o que havia aconselhado aos judeus de que convinha que um homem morresse pelo povo."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Simão Pedro seguia a Jesus com outro discípulo. E este discípulo era conhecido do sacerdote, e entrou com Jesus no pátio do sumo sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pedro estava fora à porta. Saiu pois o outro discípulo, que era conhecido do sacerdote, e falou à porteira, e pôs dentro a Pedro."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse pois a serva porteira a Pedro: Não és tu também dos discípulos deste homem? Disse ele: Não sou."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estavam [ali] os servos, e os oficiais, que haviam feito [uma fogueira de] brasas, porque fazia frio, e se esquentavam. Estava Pedro com eles, e se esquentava."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Perguntou pois o sacerdote a Jesus sobre seus discípulos, e sobre sua doutrina."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhe respondeu: Eu abertamente falei ao mundo; eu sempre ensinei na sinagoga e no Templo, onde os Judeus de todos os lugares se juntam, e nada falei em oculto."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que perguntas a mim? Pergunta aos que o ouviram, que é o que lhes falei. Eis que estes sabem que é o que tenho dito."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizendo ele isto, um dos oficiais, que ali estava, deu a Jesus uma bofetada, dizendo: Assim respondes ao sumo sacerdote?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhe Jesus: Se falei mal, dá testemunho do mal; e se bem, por que me feres?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(Pois Anás o mandara amarrado ao sumo sacerdote Caifás.)"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Simão Pedro estava ali, e se esquentava; disseram-lhe pois: Não és tu também de seus discípulos? Ele negou, e disse: Não sou."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse um dos servos do sacerdote, parente daquele a quem Pedro cortara a orelha: Eu não te vi no jardim com ele?"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro negou pois outra vez, e logo cantou o galo."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levaram pois a Jesus de Caifás para o tribunal. E era pela manhã; e não entraram no tribunal, para que não se contaminassem, mas que pudessem comer a Páscoa."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saiu pois Pilatos até eles fora, e disse: Que acusação trazeis contra este homem?"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam, e disseram-lhe: Se este não fosse malfeitor, não o entregaríamos a ti."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes pois Pilatos: Tomai-o vós, e julgai-o segundo vossa lei. Disseram-lhe pois os Judeus: Não nos é lícito matar a alguém."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que se cumprisse a palavra de Jesus, que tinha dito, dando a entender de que morte havia de morrer."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pilatos voltou a entrar no tribunal, e chamou a Jesus, e disse-lhe: És tu o Rei dos Judeus?"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhe Jesus: Tu dizes isso de ti mesmo, ou outros te disseram de mim?"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pilatos respondeu: Por acaso eu sou Judeu? Tua gente e os chefes dos sacerdotes te entregaram a mim; que fizeste?"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus: Meu Reino não é deste mundo; se meu Reino fosse deste mundo, meus trabalhadores lutariam, para que eu não fosse entregue aos Judeus; mas agora meu Reino não é daqui."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe pois Pilatos: Logo tu és Rei? Respondeu Jesus: Tu dizes que eu sou Rei. Para isto eu nasci, e para isto vim ao mundo: para dar testemunho à verdade. Todo aquele que é da verdade ouve minha voz."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Pilatos: O que é a verdade? E havendo dito isto, voltou a sair aos Judeus, e disse-lhes: Nenhum crime acho nele."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós tendes por costume que eu vos solte um pela páscoa. Quereis pois que vos solte ao Rei dos Judeus?"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voltaram pois todos a clamar, dizendo: Não a este, mas a Barrabás!E Barrabás era um ladrão."
+                }
+            ]
+        }
+    ]
+}

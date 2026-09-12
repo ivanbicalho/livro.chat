@@ -1,0 +1,538 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jesus foi para o monte das Oliveiras."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pela manhã cedo voltou ao Templo, e todo o povo veio a ele; e sentando-se, ensinava-os."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E trouxeram-lhe os escribas e fariseus uma mulher tomada em adultério;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pondo-a no meio, disseram-lhe: Mestre, esta mulher foi tomada no momento em que estava adulterando."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E na Lei nos mandou Moisés, que as tais sejam apedrejadas; tu pois que dizes?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E isto diziam eles, tentando-o, para que tivessem de que o acusar. Mas inclinando-se Jesus, escrevia com o dedo na terra."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enquanto continuavam lhe perguntando, ele se endireitou, e disse-lhes: Aquele de vós que está sem pecado, [seja] o primeiro que atire pedra contra ela."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltando a se inclinar, escrevia na terra."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ouvindo eles [isto] , e acusados pela [própria] consciência, saíram um a um, começando dos mais velhos até os últimos; e Jesus ficou só, e a mulher, que estava no meio."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E endireitando-se Jesus, e não vendo a ninguém além da mulher, disse-lhe: Mulher, onde estão aqueles teus acusadores? Ninguém te condenou?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse ela: Ninguém, Senhor. E disse-lhe Jesus: Nem eu também te condeno; vai, e não peques mais.»"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Falou-lhes pois Jesus outra vez, dizendo: Eu sou a luz do mundo; quem me seguir não andará em trevas, mas terá luz de vida."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe pois os Fariseus: Tu testemunhas de ti mesmo; teu testemunho não é verdadeiro."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus, e disse-lhes: Ainda que eu testemunho de mim mesmo, meu testemunho é verdadeiro; porque sei de onde vim, e para onde vou; porém vós não sabeis, de onde venho, nem para onde vou."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós julgais segundo a carne, eu não julgo a ninguém."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se eu também julgo, meu juízo é verdadeiro; porque não sou eu só, mas eu, e o Pai que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também em vossa Lei está escrito que o testemunho de duas pessoas é verdadeiro."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou o que testemunho de mim mesmo; e [também] de mim testemunha o Pai, que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe pois: Onde está teu Pai? Respondeu Jesus: Nem a mim me conheceis, nem a meu Pai; se vós a mim conhecêsseis, também conheceríeis a meu Pai."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas palavras falou Jesus junto à arca do tesouro, ensinando no Templo; e ninguém o prendeu, porque sua hora ainda não era chegada."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes pois Jesus outra vez: Eu me vou, e me buscareis, e morrereis em vosso pecado; para onde eu vou vós não podeis vir."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Diziam, pois, os Judeus: Ele, por acaso, matará a si mesmo? Pois diz: Para onde eu vou vós não podeis vir."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes dizia: Vós sois de baixo, eu sou de cima; vós sois deste mundo, eu não sou deste mundo."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso eu vos disse, que morrereis em vossos pecados; porque se não credes que eu sou, morrereis em vossos pecados."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe pois: Quem és tu? Jesus lhes disse: [Sou] o mesmo que desde o princípio tenho vos dito."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muitas coisas tenho que dizer e julgar de vós; mas verdadeiro é aquele que me enviou; e eu, o que dele tenho ouvido, isso falo ao mundo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Mas] não entenderam que ele estava lhes falando do Pai."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus, então, lhes disse: Quando levantardes ao Filho do homem, então entendereis que eu sou, e que nada faço de mim mesmo; mas isto digo, como meu Pai me ensinou."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aquele que me enviou está comigo. O Pai não me tem deixado só, porque sempre faço o que lhe agrada."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Falando ele estas coisas, muitos creram nele."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizia, pois, Jesus aos judeus que criam nele: Se vós permanecerdes em minha palavra, verdadeiramente sereis meus discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E conhecereis a verdade, e a verdade vos libertará."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam-lhe: Somos descendência de Abraão, e nunca servimos a ninguém; como, [pois] , dizes: Sereis livres?"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhes Jesus: Em verdade, em verdade vos digo, que todo aquele que comete pecado é servo do pecado."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o servo não fica em casa para sempre; o Filho fica para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, se o Filho vos libertar, verdadeiramente sereis livres."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem sei que sois descendência de Abraão; porém procurais matar-me, porque minha palavra não encontra lugar em vós."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu, o que vi junto a meu Pai, [isso] falo; e vós, o que também vistes junto a vosso pai [isso] fazeis."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam, e lhe disseram: Nosso pai é Abraão. Disse-lhes Jesus: Se fôsseis filhos de Abraão, faríeis as obras de Abraão."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém agora procurais matar a mim, o homem que tenho vos falado a verdade que de Deus tenho ouvido; Abraão não fez isto."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós fazeis as obras de vosso pai.Disseram-lhe pois: Nós não somos nascidos de pecado sexual; nós temos um Pai: Deus."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes pois Jesus: Se Deus fosse vosso Pai, verdadeiramente me amaríeis; porque eu saí e venho de Deus; pois não vim de mim mesmo, porém ele me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que não entendeis meu discurso? Porque não podeis ouvir minha palavra."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós sois [filhos] de [vosso] pai, o Diabo, e quereis fazer os desejos de vosso pai; ele foi homicida desde o princípio, e não permaneceu na verdade, porque nele não há verdade; quando fala mentira, fala do seu próprio; porque é mentiroso, e pai da [mentira] ."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém a mim, porque [vos] digo a verdade, não credes em mim."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem de vós me convence de pecado? E se digo a verdade, por que não credes em mim?"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é de Deus, ouve as palavras de Deus; portanto vós não [as] ouvis porque não sois de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam, pois, os Judeus, e lhe disseram: Nós não dizemos com razão que és samaritano, e tens o demônio?"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus: Eu não tenho demônio, antes honro a meu Pai; e vós me desonrais."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu não busco minha glória; há quem a busque, e julgue."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade, em verdade vos digo, que se alguém guardar minha palavra, jamais verá a morte."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe pois os Judeus: Agora conhecemos que tens o demônio. Abraão e os profetas morreram; e tu dizes: Se alguém guardar minha palavra, jamais experimentará a morte."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "És tu maior que nosso pai Abraão, que morreu? Os profetas também morreram. Quem tu dizes ser?"
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus: Se eu me glorifico a mim mesmo, minha glória é nada; meu Pai, o qual vós dizeis ser vosso Deus, ele é o que me glorifica."
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vós não o conheceis, mas eu o conheço; e se disser que não o conheço, serei mentiroso como vós; mas eu o conheço, e guardo sua palavra."
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abraão, vosso pai, saltou de alegria por ver o meu dia; ele viu, e se alegrou."
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe, pois. os Judeus: Ainda não tens cinquenta anos, e viste a Abraão?"
+                }
+            ]
+        },
+        {
+            "verse": 58,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhes disse: Em verdade, em verdade vos digo, que antes que Abraão fosse, eu sou."
+                }
+            ]
+        },
+        {
+            "verse": 59,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então tomaram pedras para atirarem nele. Mas Jesus se escondeu, e saiu do Templo."
+                }
+            ]
+        }
+    ]
+}

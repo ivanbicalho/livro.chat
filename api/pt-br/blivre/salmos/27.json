@@ -1,0 +1,133 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:O SENHOR é minha luz e minha salvação; a quem temerei? O SENHOR é a força da minha vida; de quem terei medo?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os maus chegaram perto de mim, meus adversários e meus inimigos contra mim, para devorarem minha carne; eles mesmos tropeçaram e caíram."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ainda que um exército me cercasse, eu não temeria; ainda que uma guerra se levantasse contra mim, nisto mantenho confiança."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedi uma coisa ao SENHOR, [e] a ela buscarei: que eu possa morar na casa do SENHOR todos os dias de minha vida, para ver a beleza do SENHOR, e consultá-lo em seu Templo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque no dia mal ele me esconderá em seu abrigo; ele me encobrirá no oculto de sua tenda; [e] me porá sobre as rochas."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E minha cabeça será exaltada acima de meus inimigos, que estão ao redor de mim; e eu sacrificarei na tenda dele sacrifícios com alta voz; cantarei e louvarei ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouve, SENHOR, minha voz, [quando] eu clamo; tem piedade de mim, e responde-me."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele diz a ti, meu coração: Buscai a minha face.Eu busco a tua face, SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não escondas de mim a tua face, nem rejeites a teu servo com ira; tu tens sido meu socorro; não me deixes, nem me desampares, ó Deus de minha salvação."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque meu pai e minha mãe me abandonaram, mas o SENHOR me recolherá."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ensina-me, SENHOR, o teu caminho; e guia-me pela via correta, por causa dos meus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não me entregues à vontade dos meus adversários, porque se levantaram contra mim falsas testemunhas, e também ao que sopra violência."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu não tivesse crido que veria a bondade do SENHOR na terra dos viventes, [certamente já teria perecido] ."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Espera no SENHOR, esforça-te, e ele fortalecerá o teu coração; espera pois ao SENHOR."
+                }
+            ]
+        }
+    ]
+}

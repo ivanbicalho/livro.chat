@@ -1,0 +1,385 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade, em verdade vos digo, que aquele que no curral das ovelhas não entra pela porta, mas sobe por outra parte, é ladrão, e assaltante."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aquele que entra pela porta é o pastor de ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A este o porteiro abre, e as ovelhas ouvem sua voz, e a suas ovelhas chama nome por nome, e as leva fora."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando tira fora suas ovelhas, vai adiante delas, e as ovelhas o seguem, porque conhecem sua voz."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ao estranho em maneira nenhuma seguirão, ao invés disso dele fugirão; porque não conhecem a voz dos estranhos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta parábola Jesus lhes disse; porém eles não entenderam que era o que lhes falava."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voltou pois Jesus a lhes dizer: Em verdade, em verdade vos digo, que sou a porta das ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos quantos vieram antes de mim, são ladrões e assaltantes; mas as ovelhas não os ouviram."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou a porta; se alguém entrar por mim, será salvo; e entrará, e sairá, e achará pasto."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O ladrão não vem, senão para roubar, matar, e destruir; eu vim para que tenham vida, e [a] tenham em abundância."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou o bom Pastor; o bom Pastor dá sua vida pelas ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o contratado a dinheiro, e que não é o pastor, a quem as ovelhas não pertencem, vê o lobo vir, deixa as ovelhas, e foge; o lobo as captura, e dispersa as ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o contratado foge, porque é contratado, e não tem cuidado das ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou o bom Pastor, e conheço as minhas, e pelas minhas sou conhecido."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como o Pai me conhece, assim também também eu conheço o Pai; e dou a minha vida pelas ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ainda tenho outras ovelhas que não são deste curral; a estas também me convém trazer, e ouvirão minha voz, e haverá um rebanho, [e] um pastor."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso o Pai me ama, porque dou a minha vida para tomá-la de volta."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ninguém a tira de mim, mas eu de mim mesmo a dou; tenho poder para a dar, e tenho poder para tomá-la de volta. Este mandamento recebi de meu Pai."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voltou, pois, a haver divisão entre os judeus, por causa dessas palavras."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E muitos deles diziam: Ele tem demônio, e está fora de si; para que o ouvis?"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Outros diziam: Estas palavras não são de um endemoninhado; por acaso pode um demônio dar vista aos cegos?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E era a festa da renovação [do Templo] em Jerusalém, e era inverno."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E andava Jesus passeando no Templo, na entrada de Salomão."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Rodearam-no, então, os Judeus, e lhe disseram: Até quando farás nossa alma em dúvida? Se tu és o Cristo, dize-nos abertamente."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhes Jesus: Já vos tenho dito, e não credes. As obras que eu faço em nome de meu Pai, essas testemunham de mim."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós não credes, porque não sois de minhas ovelhas, como já vos tenho dito."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minhas ovelhas ouvem minha voz, e eu as conheço, e elas me seguem."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu lhes dou a vida eterna, e para sempre não perecerão, e ninguém as arrancará de minha mão."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu Pai, que [as] deu para mim, é maior que todos; e ninguém pode arrancá-las da mão de meu Pai."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu e o Pai somos um."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voltaram pois os Judeus a tomar pedras para o apedrejarem."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhes Jesus: Muitas boas obras de meu Pai vos tenho mostrado; por qual obra destas me apedrejais?"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam-lhe os judeus dizendo: Por boa obra não te apedrejamos, mas pela blasfêmia; e porque sendo tu homem, a ti mesmo te fazes Deus."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhes Jesus: Não está escrito em vossa Lei: Eu disse: Sois deuses?"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois se [a Lei] chamou deuses a aqueles, para quem a palavra de Deus foi feita, (e a Escritura não pode ser quebrada);"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[A mim] ,a quem o Pai santificou, e ao mundo enviou, dizeis vós: Blasfemas; porque disse: Sou Filho de Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se não faço as obras de meu Pai, não creiais em mim."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém se eu as faço, e não credes em mim, crede nas obras; para que conheçais e creiais que o Pai está em mim, e eu nele."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então procuravam outra vez prendê-lo; e ele saiu de suas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltou a ir para o outro lado do Jordão, ao lugar onde João primeiro batizava; e ficou ali."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E muitos vinham a ele, e diziam: Em verdade que nenhum sinal fez João; mas tudo quanto João disse deste era verdade."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E muitos ali creram nele."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 42,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo Jacó que no Egito havia alimentos, disse a seus filhos: Por que estais olhando uns para os outros?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Eis que, eu ouvi que há alimentos no Egito; descei ali, e comprai dali para nós, para que possamos viver, e não nos morramos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E desceram os dez irmãos de José a comprar trigo ao Egito."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jacó não enviou a Benjamim irmão de José com seus irmãos; porque disse: Não seja acaso que lhe aconteça algum desastre."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vieram os filhos de Israel a comprar entre os que vinham: porque havia fome na terra de Canaã."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E José era o senhor da terra, que vendia a todo o povo da terra: e chegaram os irmãos de José, e inclinaram-se a ele rosto por terra."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E José quando viu seus irmãos, reconheceu-os; mas fez que não os conhecesse, e falou-lhes asperamente, e lhes disse: De onde viestes? Eles responderam: Da terra de Canaã, para comprar alimentos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "José, pois, reconheceu a seus irmãos; mas eles não o reconheceram."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se lembrou José dos sonhos que havia tido deles, e disse-lhes: Sois espias; viestes ver a fraqueza desta terra."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles lhe responderam: Não, meu senhor; teus servos vieram comprar alimentos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos nós somos filhos de um homem; somos homens honestos; teus servos nunca foram espias."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes disse: Não; viestes ver a fraqueza desta terra."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles responderam: Teus servos somos doze irmãos, filhos de um homem na terra de Canaã; e eis que o menor está hoje com nosso pai, e outro desapareceu."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E José lhes disse: Isso é o que vos disse, afirmando que sois espias;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nisto sereis provados: Vive Faraó que não saireis daqui, a não ser quando vosso irmão menor vier aqui."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enviai um de vós, e traga a vosso irmão; e vós ficai presos, e vossas palavras serão provadas, se há verdade convosco: e se não, vive Faraó, que sois espias."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E juntou-os no cárcere por três dias."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao terceiro dia disse-lhes José: Fazei isto, e vivei; eu temo a Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se sois homens honestos, fique preso na casa de vosso cárcere um de vossos irmãos; e vós ide, levai o alimento para a fome de vossa casa;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém haveis de trazer-me a vosso irmão mais novo, e serão comprovadas vossas palavras, e não morrereis. E eles o fizeram assim."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E diziam um ao outro: Verdadeiramente pecamos contra nosso irmão, que vimos a angústia de sua alma quando nos rogava, e não o ouvimos; por isso veio sobre nós esta angústia."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Rúben lhes respondeu, dizendo: Não vos falei eu e disse: Não pequeis contra o jovem; e não escutastes? Eis que também o sangue dele é requerido."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles não sabiam que os entendia José, porque havia intérprete entre eles."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E apartou-se ele deles, e chorou: depois voltou a eles, e lhes falou, e tomou dentre eles a Simeão, e aprisionou-lhe à vista deles."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandou José que enchessem seus sacos de trigo, e devolvessem o dinheiro de cada um deles, pondo-o em seu saco, e lhes dessem comida para o caminho; e fez-se assim com eles."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles puseram seu trigo sobre seus asnos, e foram-se dali."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E abrindo um deles seu saco para dar de comer a seu asno no lugar de parada, viu seu dinheiro que estava na boca de seu saco."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse a seus irmãos: Meu dinheiro se me foi devolvido, e ainda ei-lo aqui em meu saco. Alarmou-se, então, o coração deles e, espantados, disseram um ao outro: Que é isto que Deus nos fez?"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vindos a Jacó seu pai em terra de Canaã, contaram-lhe tudo o que lhes havia acontecido, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele homem, senhor da terra, nos falou asperamente, e nos tratou como espias da terra:"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nós lhe dissemos: Somos homens honestos, nunca fomos espias:"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Somos doze irmãos, filhos de nosso pai; um desapareceu, e o menor está hoje com nosso pai na terra de Canaã."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aquele homem, senhor da terra, nos disse: Nisto conhecerei que sois homens honestos; deixai comigo um de vossos irmãos, e tomai para a fome de vossas casas, e ide,"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E trazei-me a vosso irmão o mais novo, para que eu saiba que não sois espias, mas sim homens honestos: assim vos darei a vosso irmão, e negociareis na terra."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que esvaziando eles seus sacos, eis que no saco de cada um estava o pacote de seu dinheiro: e vendo eles e seu pai os pacotes de seu dinheiro, tiveram temor."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então seu pai Jacó lhes disse: Vós me privastes de meus filhos; José desapareceu, nem Simeão tampouco, e a Benjamim o levareis; contra mim são todas estas coisas."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Rúben falou a seu pai, dizendo: Podes matar meus dois filhos, se eu não o devolver a ti; entrega-o em minha mão, que eu o devolverei a ti."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele disse: Não descerá meu filho convosco; que seu irmão é morto, e ele somente restou; e se lhe acontecer algum desastre no caminho por onde vades, fareis descer meus cabelos brancos com tristeza ao Xeol."
+                }
+            ]
+        }
+    ]
+}

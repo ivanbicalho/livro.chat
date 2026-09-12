@@ -1,0 +1,61 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Bildade, o suíta, respondeu, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O domínio e o temor estão com ele; ele faz paz em suas alturas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso suas tropas têm número? E sobre quem não se levanta sua luz?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como, pois, o ser humano seria justo para com Deus? E como seria puro aquele que nasce de mulher?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que até a luz não tem brilho; nem as estrelas são puras diante de seus olhos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quanto menos o ser humano, que é uma larva, e o filho de homem, que é um verme."
+                }
+            ]
+        }
+    ]
+}

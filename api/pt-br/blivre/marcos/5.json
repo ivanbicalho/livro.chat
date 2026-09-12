@@ -1,0 +1,394 @@
+{
+    "book": "marcos",
+    "name": "Marcos",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegaram ao outro lado do mar, à terra dos Gerasenos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim que [Jesus] saiu do barco, veio das sepulturas ao seu encontro um homem com um espírito imundo,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "que morava nas sepulturas, e nem mesmo com correntes conseguiam mais prendê-lo;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "pois muitas vezes fora preso com grilhões e correntes; mas as correntes eram por ele feitas em pedaços, os grilhões eram esmigalhados, e ninguém o conseguia controlar."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sempre dia e noite andava gritando pelas sepulturas e pelos montes, e ferindo-se com pedras."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando ele viu Jesus de longe, correu e prostrou-se diante dele."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E gritou em alta voz: Que tenho eu contigo Jesus, Filho do Deus Altíssimo? Imploro-te por Deus que não me atormentes."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(Pois [Jesus] havia lhe dito: “Sai deste homem, espírito imundo”.)"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então perguntou-lhe: Qual é o teu nome? E respondeu: Legião é o meu nome, porque somos muitos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E rogava-lhe muito que não os expulsasse daquela terra."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Havia ali perto do monte uma grande manada de porcos pastando."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E [aqueles demônios] rogaram-lhe, dizendo: Manda-nos para aqueles porcos, para que entremos neles."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] lhes permitiu. Então aqueles espíritos imundos saíram para entrar nos porcos; e a manada lançou-se abaixo no mar; (eram quase dois mil) e afogaram-se no mar."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que os apascentavam fugiram, e avisaram na cidade e nos campos; e [as pessoas] foram ver o que havia acontecido."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então aproximaram-se de Jesus, e viram o endemoninhado sentado, vestido, e em sã consciência o que tivera a legião; e ficaram apavorados."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que haviam visto contaram-lhes o que acontecera ao endemoninhado, e sobre os porcos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então começaram a rogar-lhe que saísse do território deles."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando [Jesus] entrava no barco, o que fora endemoninhado rogou-lhe que estivesse com ele."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus ] se recusou, porém lhe disse: Vai para a tua casa, aos teus, e anuncia-lhes quão grandes coisas o Senhor fez contigo, e [como] teve misericórdia de ti."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele foi embora, e começou a anunciar em Decápolis quão grandes coisas Jesus havia feito com ele; e todos se admiravam."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois de Jesus passar outra vez num barco para o outro lado, uma grande multidão se ajuntou a ele; e ele ficou junto ao mar."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio um dos líderes de sinagoga, por nome Jairo; e quando o viu, prostrou-se aos seus pés."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E implorava-lhe muito, dizendo: Minha filhinha está a ponto de morrer. [Rogo-te] que venhas pôr as mãos sobre ela, para que seja curada, e viva."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] foi com ele. Uma grande multidão o seguia, e o apertavam."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havia uma mulher, que tinha um fluxo de sangue havia doze anos,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "que tinha sofrido muito por meio de muitos médicos, e gastado tudo quanto possuía, e nada havia lhe dado bom resultado; ao invés disso, piorava."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando ela ouviu falar de Jesus, veio entre a multidão por detrás, e tocou a roupa dele."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois dizia: Se tão somente tocar as suas roupas, serei curada."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E imediatamente a fonte do seu sangue parou se secou; e sentiu no corpo que já havia sido curada daquele flagelo."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus logo notou em si o poder que dele havia saído. Então virou-se na multidão, e perguntou: Quem tocou as minhas roupas?"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seus discípulos lhe disseram: Eis que a multidão te aperta, e perguntas: Quem me tocou?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele olhava em redor, para ver quem havia lhe feito isso."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então a mulher temendo, e tremendo, sabendo o que lhe havia sido feito , veio, prostrou-se diante dele, e disse-lhe toda a verdade."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhe disse: Filha, a tua fé te salvou. Vai em paz, e estejas curada deste teu flagelo."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estando ele ainda falando, alguns vieram [da casa] do líder de sinagoga, e disseram: A tua filha já morreu; por que ainda estás incomodando o Mestre?"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jesus, não dando atenção a essa palavra que havia sido falada, disse ao líder de sinagoga: Não temas; crê somente."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não permitiu que ninguém o seguisse, a não ser Pedro, Tiago, e João irmão de Tiago."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles chegaram à casa do líder de sinagoga, e [Jesus] viu o alvoroço, os que choravam muito e pranteavam."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao entrar, disse-lhes: Por que fazeis alvoroço e chorais? A menina não morreu, mas está dormindo."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E riram dele. Porém ele, depois de pôr todos fora, tomou consigo o pai e a mãe da menina, e os que estavam com ele. Em seguida, entrou onde a menina estava ."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele pegou a mão da menina, e lhe disse: “Talita cumi”, (que significa: “Menina, eu te digo, levanta-te”)."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E logo a menina se levantou e andou, pois já tinha doze anos de idade. E logo ficaram grandemente espantados."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandou-lhes muito que ninguém o soubesse; e mandou que dessem a ela de comer."
+                }
+            ]
+        }
+    ]
+}

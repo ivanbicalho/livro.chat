@@ -1,0 +1,205 @@
+{
+    "book": "lamentacoes",
+    "name": "Lamentações",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembra-te, SENHOR, do que tem nos acontecido; presta atenção e olha nossa humilhação."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nossa herança passou a ser de estrangeiros, nossas casas de forasteiros."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Órfãos somos sem pai, nossas mães são como viúvas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bebemos nossa água por dinheiro; nossa lenha temos que pagar."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Perseguição sofremos sobre nossos pescoços; estamos cansados, mas não temos descanso."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nós nos rendemos aos egípcios e aos assírios para nos saciarmos de pão."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nossos pais pecaram, e não existem mais; porém nós levamos seus castigos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Servos passaram a nos dominar; ninguém há que [nos] livre de suas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com risco de vida trazemos nosso pão, por causa da espada do deserto."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nossa pele se tornou negra como um forno, por causa do ardor da fome."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abusaram das mulheres em Sião, das virgens nas cidades de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os príncipes foram enforcados por sua mãos; não respeitaram as faces dos velhos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levaram os rapazes para moer, e os moços caíram debaixo da lenha [que carregavam] ."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os anciãos deixaram de [se sentarem] junto as portas, os rapazes de suas canções."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acabou a alegria de nosso coração; nossa dança se tornou em luto."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Caiu a coroa de nossa cabeça; ai agora de nós, porque pecamos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso nosso coração ficou fraco, por isso nossos olhos escureceram;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por causa do monte de Sião, que está desolado; raposas andam nele."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, SENHOR, permanecerás para sempre; [e] teu trono de geração após geração."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que te esquecerias de nós para sempre e nos abandonarias por tanto tempo?"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Converte-nos, SENHOR, a ti, e seremos convertidos; renova o nossos dias como antes;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A não ser que tenhas nos rejeitado totalmente, e estejas enfurecido contra nós ao extremo."
+                }
+            ]
+        }
+    ]
+}

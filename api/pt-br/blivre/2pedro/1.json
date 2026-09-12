@@ -1,0 +1,196 @@
+{
+    "book": "2pedro",
+    "name": "2 Pedro",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Simão Pedro, servo e apóstolo de Jesus Cristo, aos que obtiveram conosco a igualmente preciosa fé pela justiça de nosso Deus e Salvador Jesus Cristo;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Graça e paz vos seja multiplicada pelo conhecimento de Deus, e de Jesus nosso Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como seu divino poder ele tem nos dado tudo o que [pertence] à vida e à devoção divina, por meio do conhecimento daquele que nos chamou à glória e virtude;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelas quais nos são dadas grandíssimas e preciosas promessas, para que por meio delas sejais participantes da natureza divina, tendo escapado da corrupção que há no mundo pelo mau desejo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por isso mesmo, pondo todo o empenho, acrescentai a vossa fé virtude; e à virtude, conhecimento;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao conhecimento, domínio próprio; e ao domínio próprio, paciência; e à paciência, devoção divina;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E à devoção divina, amor fraternal; e ao amor fraternal, amor."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque se em vós existirem e abundarem estas coisas, elas não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque aquele em quem não há estas coisas é cego, nada vendo de longe, tendo se esquecido da purificação de seus antigos pecados."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, irmãos, procurai ainda mais confirmar vosso chamamento e escolha [da parte de Deus] ; porque fazendo isso nunca tropeçareis."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque assim vos será abundantemente fornecida a entrada no reino eterno de nosso Senhor e Salvador Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso eu não deixarei de sempre vos relembrar destas coisas, ainda que [as] saibais, e estejais firmes na verdade presente."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu considero justo, enquanto eu estiver neste tabernáculo, de vos despertar com relembranças;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sabendo que breve está a saída do meu meu tabernáculo, conforme também nosso Senhor Jesus Cristo tem revelado a mim."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas também procurarei que depois de minha partida vós sejais capazes de ter lembrança destas coisas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque nós não vos anunciamos o poder e vinda de nosso Senhor Jesus Cristo seguindo mitos criados pela inteligência humana, mas sim como testemunhas oculares de sua grandiosidade."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque de Deus Pai ele recebeu honra e glória, tendo sido lhe enviada tal voz de magnífica glória: Este é meu amado Filho, em quem me agrado."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nós ouvimos esta voz enviada do Céu, estando nós com ele no santo monte."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E temos a muito confiável palavra dos profetas; a qual vós fazeis bem ao prestardes atenção, como a uma luz que ilumina em lugar escuro, até que o dia clareie e a estrela da manhã se levante em vossos corações."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sabendo primeiramente isto: que nenhuma profecia da Escritura é de interpretação particular."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a profecia jamais foi produzida pela vontade humana, mas homens falaram da parte de Deus conduzidos pelo Espírito Santo."
+                }
+            ]
+        }
+    ]
+}

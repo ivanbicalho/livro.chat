@@ -1,0 +1,97 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi para o regente, com instrumentos de cordas, uma harpa de oito cordas:SENHOR, não me repreendas na tua ira; e não me castigues em teu furor."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tem misericórdia de mim, SENHOR; porque eu [estou] enfraquecido; cura-me, SENHOR, porque meus ossos estão afligidos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até minha alma está muito aflita; e tu, SENHOR, até quando?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Volta, SENHOR; livra minha alma; salva-me por tua bondade."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque na morte não há lembrança de ti; no Xeol quem te louvará?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Já estou cansado do meu gemido; toda a noite eu inundo a minha cama; com minhas lágrimas molho meu leito."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus olhos estão desolados de mágoa, [e] têm se envelhecido por causa de todos os meus adversários."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sai para longe de mim, todos vós praticantes de maldade; porque o SENHOR já ouviu a voz do meu choro."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR tem ouvido a minha súplica; o SENHOR aceitará a minha oração."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os meus inimigos se envergonharão e ficarão muito perturbados; voltarão para trás, [e] repentinamente se envergonharão."
+                }
+            ]
+        }
+    ]
+}

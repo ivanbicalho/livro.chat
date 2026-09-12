@@ -1,0 +1,457 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Veio, pois, Jesus seis dias antes da páscoa a Betânia, onde estava Lázaro, o que havia morrido, a quem ressuscitara dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram-lhe, pois, ali uma ceia, e Marta servia; e Lázaro era um dos que juntamente com ele estavam sentados [à mesa] ."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomando então Maria um arrátel de óleo perfumado de nardo puro, de muito preço, ungiu os pés de Jesus, e limpou os pés dele com seus cabelos; e encheu-se a casa do cheiro do óleo perfumado."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então disse Judas de Simão Iscariotes, um de seus discípulos, o que o trairia:"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que se não vendeu este óleo perfumado por trezentos dinheiros, e se deu aos pobres?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E isto disse ele, não pelo cuidado que tivesse dos pobres; mas porque era ladrão, e tinha a bolsa, e trazia o que se lançava [nela] ."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse pois Jesus: Deixa-a; para o dia de meu sepultamento guardou isto."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque aos pobres sempre os tendes convosco; porém a mim não me tendes sempre."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muita gente dos judeus soube pois, que ele estava ali; e vieram, não somente por causa de Jesus, mas também para verem a Lázaro, a quem ressuscitara dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os chefes dos sacerdotes se aconselharam de também matarem a Lázaro,"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque muitos dos judeus iam por causa dele, e criam em Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No dia seguinte, ouvindo uma grande multidão, que viera à festa, que Jesus vinha a Jerusalém,"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomaram ramos de plantas e lhe saíram ao encontro, e clamavam: Hosana! Bendito aquele que vem no nome do Senhor, o Rei de Israel!"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus achou um jumentinho, e sentou-se sobre ele, como está escrito:"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não temas, ó filha de Sião; eis que teu Rei vem sentado sobre o filhote de uma jumenta."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém seus discípulos não entenderam isto ao princípio; mas sendo Jesus já glorificado, então se lembraram que isto dele estava escrito, e [que] isto lhe fizeram."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A multidão pois, que estava com ele, testemunhava, que a Lázaro chamara da sepultura, e o ressuscitara dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo que também a multidão lhe saiu ao encontro, porque ouvira que fizera este sinal."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram pois os fariseus entre si: Vedes que nada aproveitais? Eis que o mundo vai após ele."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havia alguns gregos dos que haviam subido para adorarem na festa."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes pois vieram a Filipe, que era de Betsaida de Galileia, e rogaram-lhe, dizendo: Senhor, queríamos ver a Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Veio Filipe, e disse-o a André; e André então e Filipe o disseram a Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jesus lhes respondeu, dizendo: Chegada é a hora em que o Filho do homem será glorificado."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade, em verdade vos digo, se o grão de trigo, ao cair na terra, não morrer, ele fica só; porém se morrer, dá muito fruto."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem ama sua vida a perderá; e quem neste mundo odeia sua vida, a guardará para a vida eterna."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se alguém me serve, siga-me; e onde eu estiver, ali estará também meu servo. E se alguém me servir, o Pai o honrará."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora minha alma está perturbada; e que direi? Pai, salva-me desta hora; mas por isso vim a esta hora."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pai, glorifica teu Nome. Veio, pois, uma voz do céu, [que dizia] : E já [o] tenho glorificado, e outra vez [o] glorificarei."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A multidão pois que ali estava, e [a] ouviu, dizia que havia sido trovão. Outros diziam: Algum anjo falou com ele."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus e disse: Esta voz não veio por causa de mim, mas sim por causa de vós."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora é o juízo deste mundo; agora será lançado fora o príncipe deste mundo."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu, quando for levantado da terra, trarei todos a mim."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(E isto dizia, indicando de que morte [ele] morreria.)"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhe a multidão: Temos ouvido da Lei que o Cristo permanece para sempre; e como tu dizes que convém que o Filho do homem seja levantado? Quem é este Filho do homem?"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes pois Jesus: Ainda por um pouco de tempo a luz está convosco; andai enquanto tendes luz, para que as trevas vos não apanhem. E quem anda em trevas não sabe para onde vai."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto tendes luz, crede na luz, para que sejais filhos da luz.Estas coisas falou Jesus, e indo-se, escondeu-se deles."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ainda que perante eles tinha feito tantos sinais, não criam nele."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que se cumprisse a palavra do profeta Isaías, que disse: Senhor, quem creu em nossa pregação? E a quem o braço do Senhor foi revelado?"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso não podiam crer, porque outra vez Isaías disse:"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os olhos lhes cegou, e o coração lhes endureceu; para não acontecer que vejam dos olhos, e entendam do coração, e se convertam, e eu os cure."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isto disse Isaías, quando viu sua glória, e falou dele."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Contudo ainda até muitos dos chefes também creram nele; mas não o confessavam por causa dos fariseus; para não serem expulsos da sinagoga."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque amavam mais a glória humana do que a glória de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E exclamou Jesus, e disse: Quem crê em mim, não crê [somente] em mim, mas [também] naquele que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quem vê a mim, vê a aquele que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou a luz que vim ao mundo, para que todo aquele que crê em mim, não permaneça em trevas."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém ouvir minhas palavras, e não crer, eu não o julgo; porque não vim para julgar o mundo, mas sim para salvar o mundo."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem me rejeitar e não receber minhas palavras, já tem quem o julgue: a palavra que eu tenho falado, essa o julgará no último dia."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu não tenho falado de mim mesmo; porém o Pai que me enviou, ele me deu mandamento do que devo dizer, e do que devo falar."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sei que seu mandamento é vida eterna. Portanto o que eu falo, falo assim como o Pai tem me dito."
+                }
+            ]
+        }
+    ]
+}

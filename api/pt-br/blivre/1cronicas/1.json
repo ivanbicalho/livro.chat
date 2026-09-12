@@ -1,0 +1,493 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Adão, Sete, Enos,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cainã, Maalalel, Jarede,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enoque, Matusalém, Lameque,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Noé, Sem, Cam, e Jafé."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Jafé foram: Gômer, Magogue, Dadai, Javã, Tubal, Meseque, e Tiras."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Gômer: Asquenaz, Rifate, e Togarma."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Javã: Elisá, Társis, Quitim, e Dodanim."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Cam: Cuxe, Misraim, Pute, e Canaã."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Cuxe: Sebá, Havilá, Sabtá, Raamá, e Sabtecá. E os filhos de Raamá foram: Sebá e Dedã."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Cuxe gerou a Ninrode: este começou a ser poderoso na terra."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Misraim gerou aos ludeus, aos ananeus, aos leabeus, aos leabeus, aos naftueus,"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aos patrusitas, e aos casluítas (destes saíram os Filisteus), e os caftoreus."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Canaã gerou a Sidom, seu primogênito; e a Hete;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aos jebuseus, aos amorreus, aos girgaseus;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aos heveus, aos arqueus, ao sineus;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aos arvadeus, aos zemareus, e aos hamateus."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Sem foram: Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter, e Meseque."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Arfaxade gerou a Selá, e Selá gerou a Héber."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Héber nasceram dois filhos: o nome do um foi Pelegue, pois em seus dias a terra foi dividida; e o nome de seu irmão foi Joctã."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Joctã gerou a Almodá, Salefe, Hazarmavé, e Jerá,"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Adorão, Uzal, Dicla,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ebal, Abimael, Sebá,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ofir, Havilá, e a Jobabe: todos filhos de Joctã."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sem, Arfaxade, Selá,"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Héber, Pelegue, Reú,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Serugue, Naor, Terá,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Abrão, o qual é Abraão."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Abraão foram: Isaque e Ismael."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estas são suas gerações: o primogênito de Ismael foi Nebaiote; [depois] Quedar, Adbeel, Mibsão,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Misma, Dumá, Massá, Hadade, Temá,"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jetur, Nafis, e Quedemá. Estes foram os filhos de Ismael."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quanto aos filhos de Quetura, concubina de Abraão, esta deu à luz Zinrã, Jocsã, Medã, Midiã, Isbaque, e a Suá. Os filhos de Jobsã: Sebá e Dedã."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Midiã: Efá, Efer, Enoque, Abida, e Elda; todos estes foram filhos de Quetura."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Abraão gerou a Isaque: e os filhos de Isaque foram Esaú e Israel."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Esaú: Elifaz, Reuel, Jeús, Jalão, e Corá."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Elifaz: Temã, Omar, Zefi, Gatã, Quenaz, Timna, e Amaleque."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Reuel: Naate, Zerá, Samá, e Mizá."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Seir: Lotã, Sobal, Zibeão, Ana, Disom, Eser, e Disã."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Lotã: Hori, e Homã: e Timna foi irmã de Lotã."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Sobal: Aliã, Manaate, Ebal, Sefi e Onã. Os filhos de Zibeão foram: Aiá, e Aná."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disom foi filho de Aná: e os filhos de Disom foram Hanrão, Esbã, Itrã e Querã."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Eser foram: Bilã, Zaavã, e Jaacã. Os filhos de Disã: Uz e Arã."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes são os reis que reinaram na terra de Edom, antes que reinasse [algum] rei sobre os filhos de Israel: Belá, filho de Beor; e o nome de sua cidade era Dinabá."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Belá morreu, e reinou em seu lugar Jobabe, filho de Zerá, de Bozra."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jobabe morreu, e reinou em seu lugar Husão, da terra dos Temanitas."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Husão morreu, e reinou em seu lugar Hadade, filho de Bedade, o qual feriu aos midianitas no campo de Moabe; e o nome de sua cidade era Avite."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Hadade morreu, e reinou em seu lugar Sanlá, de Masreca."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sanlá morreu, e reinou em seu lugar Saul de Reobote, que está junto ao rio."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Saul morreu, e reinou em seu lugar Baal-Hanã, filho de Acbor."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Baal-Hanã morreu, e reinou em seu lugar Hadade, cuja cidade tinha por nome Paí; e o nome de sua mulher era Meetabel, filha de Matrede, a filha de Mezaabe."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Hadade morreu. E os príncipes em Edom foram: o príncipe Timna, o príncipe Aliá, o príncipe Jetete,"
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O príncipe Oolibama, o príncipe Elá, o príncipe Pinom,"
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O príncipe Quenaz, o príncipe Temã, o príncipe Mibzar,"
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O príncipe Magdiel, o príncipe Irã. Estes foram os príncipe de Edom."
+                }
+            ]
+        }
+    ]
+}

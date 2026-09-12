@@ -1,0 +1,250 @@
+{
+    "book": "tiago",
+    "name": "Tiago",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos que [estão] na dispersão, saudações!"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus irmãos, tende toda alegria quando vos encontrardes em várias provações,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "sabendo que a prova da vossa fé produz perseverança."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que a perseverança tenha uma realização completa, para que sejais completos e íntegros, faltando em nada."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se algum de vós tem falta de sabedoria, peça a Deus, que concede generosamente a todos sem repreender, e lhe será dada."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém deves pedi-la em fé, duvidando em nada; pois quem duvida é semelhante à onda do mar que é levada pelo vento, e lançada."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tal pessoa não pense que receberá algo do Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem de dupla mentalidade [é] inconstante em todos os seus caminhos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o irmão que é humilde se orgulhe quando é exaltado,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e o que é rico quando é abatido, porque ele passará como a flor da erva."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o sol sai com ardor, então seca a erva, a sua flor cai, e a beleza do seu aspecto perece; assim também o rico murchará nos seus caminhos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito é o homem que suporta a provação; pois, quando for aprovado, receberá a coroa da vida, que [o Senhor] prometeu aos que o amam."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e ele mesmo tenta ninguém;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas cada um é tentado quando é atraído e seduzido pelo seu próprio mau desejo."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois do mau desejo ter concebido, dá à luz o pecado; e o pecado, quando é completado, gera a morte."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não vos enganeis, meus amados irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda boa dádiva e todo dom perfeito vem do alto, e desce do Pai das luzes, em quem não há mudança nem sombra de variação."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Conforme a sua própria vontade, ele nos gerou pela palavra da verdade, para que fôssemos os primeiros frutos dentre as suas criaturas."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Entendei [isso] , meus amados irmãos. Mas toda pessoa seja pronta para ouvir, tardia para falar, tardia para se irar;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque a ira humana não cumpre a justiça de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, rejeitai toda impureza e abundância de malícia, e recebei com mansidão a palavra implantada em [vós] , que pode salvar as vossas almas;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e sede praticantes da palavra, e não somente ouvintes, enganando a vós mesmos."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, se alguém é ouvinte da palavra e não praticante, esse é semelhante a um homem que observa num espelho o seu rosto natural;"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque observou a si mesmo e saiu, e logo se esqueceu de como era."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aquele que dá atenção à lei perfeita, a da liberdade, e [nela] persevera, não sendo ouvinte que esquece, mas sim praticante da obra, esse tal será bendito no que fizer."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se alguém pensa ser religioso, mas não controla a sua língua, então engana o seu próprio coração, e a religião desse é vã."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A religião pura e não contaminada para com Deus e Pai é esta: visitar os órfãos e as viúvas nas suas aflições, e guardar-se sem a corrupção do mundo."
+                }
+            ]
+        }
+    ]
+}

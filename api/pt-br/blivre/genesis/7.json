@@ -1,0 +1,223 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Noé: Entra tu e toda tua casa na arca porque a ti vi justo diante de mim nesta geração."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De todo animal limpo tomarás de sete em sete, macho e sua fêmea; mas dos animais que não são limpos, dois, macho e sua fêmea."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também das aves dos céus de sete em sete, macho e fêmea; para guardar em vida a descendência sobre a face de toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque passados ainda sete dias, eu farei chover sobre a terra quarenta dias e quarenta noites; e apagarei toda criatura que fiz de sobre a face da terra."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fez Noé conforme tudo o que lhe mandou o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sendo Noé de seiscentos anos, o dilúvio das águas foi sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele à arca, por causa das águas do dilúvio."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos animais limpos, e dos animais que não eram limpos, e das aves, e de todo o que anda arrastando sobre a terra,"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De dois em dois entraram a Noé na arca: macho e fêmea, como mandou Deus a Noé."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sucedeu que ao sétimo dia as águas do dilúvio foram sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No ano seiscentos da vida de Noé, no mês segundo, no dia dezessete do mês, naquele dia foram rompidas todas as fontes do grande abismo, e as comportas dos céus foram abertas;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E houve chuva sobre a terra quarenta dias e quarenta noites."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Neste mesmo dia entrou Noé, e Sem, e Cam e Jafé, filhos de Noé, a mulher de Noé, e as três mulheres de seus filhos com ele na arca;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles e todos os animais silvestres segundo suas espécies, e todos os animais mansos segundo suas espécies, e todo réptil que anda arrastando sobre a terra segundo sua espécie, e toda ave segundo sua espécie, todo pássaro, toda espécie de animal voador."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vieram a Noé à arca, de dois em dois de toda carne em que havia espírito de vida."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que vieram, macho e fêmea de toda carne vieram, como lhe havia mandado Deus: e o SENHOR lhe fechou a porta"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi o dilúvio quarenta dias sobre a terra; e as águas cresceram, e levantaram a arca, e se elevou sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E prevaleceram as águas, e cresceram em grande maneira sobre a terra; e andava a arca sobre a face das águas."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as águas prevaleceram muito em extremo sobre a terra; e todos os montes altos que havia debaixo de todos os céus, foram cobertos."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quinze côvados em altura prevaleceram as águas; e foram cobertos os montes."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E morreu toda carne que se move sobre a terra, tanto de aves como de gados, e de animais, e de todo réptil que anda arrastando sobre a terra, e todo ser humano:"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo o que tinha fôlego de espírito de vida em suas narinas, de tudo o que havia na terra, morreu."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim foi destruída toda criatura que vivia sobre a face da terra, desde o ser humano até o animal, e os répteis, e as aves do céu; e foram apagados da terra; e restou somente Noé, e os que com ele estavam na arca."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E prevaleceram as águas sobre a terra cento e cinquenta dias."
+                }
+            ]
+        }
+    ]
+}

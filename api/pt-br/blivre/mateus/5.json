@@ -1,0 +1,439 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando [Jesus] viu as multidões, subiu a um monte; e sentando-se, achegaram-se a ele os seus discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele abriu sua boca e lhes ensinou, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos são os humildes de espírito, porque deles é o Reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos são os que choram, porque eles serão consolados."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos são os mansos, porque eles herdarão a terra."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos são os que têm fome e sede de justiça, porque eles serão saciados."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos são os misericordiosos, porque eles alcançarão misericórdia."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos são os limpos de coração, porque eles verão a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos são os pacíficos, porque eles serão chamados filhos de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos são os que sofrem perseguição por causa da justiça, porque deles é o Reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos sois vós, quando vos insultarem, perseguirem, e mentirem, falando contra vós todo mal por minha causa."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jubilai e alegrai-vos, porque grande é vossa recompensa nos céus; pois assim perseguiram aos profetas que foram antes de vós."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós sois o sal da terra; mas se o sal perder seu sabor, com que se salgará? Para nada mais presta, a não ser para se lançar fora, e ser pisado pelas pessoas."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós sois a luz do mundo; não se pode esconder uma cidade fundada sobre o monte;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem se acende a lâmpada para se pôr debaixo de um cesto, mas sim na luminária, e ilumina a todos quantos estão na casa."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim brilhe vossa luz diante das pessoas, para que vejam vossas boas obras, e glorifiquem ao vosso Pai, que está nos céus."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não penseis que vim para revogar a Lei ou os Profetas; não vim para revogar, mas sim para cumprir."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota nem um til passará da Lei até que tudo se cumpra."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto qualquer um que desobedecer a um destes menores mandamentos, e assim ensinar às pessoas, será chamado o menor no Reino dos céus; porém qualquer que [os] cumprir e ensinar, esse será chamado grande no Reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu vos digo que se a vossa justiça não for maior que a dos escribas e dos fariseus, de maneira nenhuma entrareis no Reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvistes o que foi dito aos antigos: “Não cometerás homicídio”; “mas qualquer um que cometer homicídio será réu do julgamento”."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu vos digo que qualquer um que se irar contra seu irmão será réu do julgamento. E qualquer um que disser a seu irmão: “Idiota!” será réu do tribunal. E qualquer que [lhe] disser: “Louco!” será réu do fogo do inferno."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, se trouxeres tua oferta ao altar, e ali te lembrares que teu irmão tem algo contra ti,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deixa ali tua oferta diante do altar e vai primeiro reconciliar-te com teu irmão, e então vem oferecer a tua oferta."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Faze acordo depressa com teu adversário, enquanto estás com ele no caminho, para não acontecer que o adversário te entregue ao juiz, e o juiz ao oficial, e te lancem na prisão."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade te digo que não sairás dali enquanto não pagares a última moeda."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvistes o que foi dito: “Não adulterarás”."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu vos digo que qualquer um que olhar para uma mulher para a cobiçar, em seu coração já adulterou com ela."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se o teu olho direito te faz pecar, arranca-o e lança-o de ti; porque é melhor para ti que um dos teus membros se perca do que o teu corpo todo seja lançado no inferno."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se a tua mão direita te faz pecar, corta-a e lança-a de ti; porque é melhor para ti que um dos teus membros se perca do que o teu corpo todo vá ao inferno."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também foi dito: “Qualquer um que se divorciar de sua mulher, dê a ela carta de divórcio."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu vos digo que qualquer um que se divorciar de sua mulher, a menos que seja por causa de pecado sexual, faz com que ela adultere; e qualquer um que se casar com a divorciada comete adultério."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também ouvistes que foi dito aos antigos: “Não jurarás falsamente”, “mas cumprirás ao Senhor os teus juramentos”."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu vos digo que de maneira nenhuma jureis; nem pelo céu, porque é o trono de Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem pela terra, porque é o suporte de seus pés; nem por Jerusalém, porque é a cidade do grande Rei."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem por tua cabeça jurarás, pois nem sequer um cabelo podes tornar branco ou preto."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas seja vosso falar: “sim”, “sim”, “não”, “não”; porque o que disso passa procede do maligno."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvistes o que foi dito: “Olho por olho, e dente por dente”."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu vos digo que não resistais a quem for mau; em vez disso, a qualquer um que te bater à tua face direita, apresenta-lhe também a outra."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao que quiser disputar contigo, e te tomar tua túnica, deixa-lhe também a capa."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se qualquer um te obrigar a caminhar uma milha, vai com ele duas."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dá a quem te pedir; e não te desvies de quem quiser de ti tomar emprestado."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvistes o que foi dito: “Amarás teu próximo”, e “odiarás teu inimigo”."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu vos digo: amai vossos inimigos e orai pelos que vos perseguem,"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que sejais filhos de vosso Pai que está nos céus; porque ele faz seu sol sair sobre maus e bons, e chover sobre justos e injustos."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois se amardes os que vos amam, que recompensa tereis? Não fazem os publicanos também o mesmo?"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se saudardes somente os vossos irmãos, o que fazeis de mais? Não fazem os gentios também assim?"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, sede vós perfeitos, assim como vosso Pai celestial é perfeito."
+                }
+            ]
+        }
+    ]
+}

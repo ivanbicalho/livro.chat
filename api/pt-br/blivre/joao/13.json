@@ -1,0 +1,349 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E antes da festa da páscoa, sabendo Jesus que sua hora já era vinda, para que deste mundo passasse para o Pai, havendo amado aos seus, que estavam no mundo, até o fim os amou."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E terminada a ceia, o diabo já havia metido no coração de Judas de Simão Iscariotes, que o traísse."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sabendo Jesus que o Pai já tinha lhe dado todas as coisas nas mãos, e que ele era vindo de Deus, e para Deus ele iria,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantou-se da ceia, e tirou as roupas, e tomando uma toalha, envolveu- [a] em si;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois pôs água em uma bacia, e começou a lavar os pés dos discípulos, e limpá-los com a toalha com que estava envolto."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Veio, pois, a Simão Pedro; e ele lhe disse: Senhor, tu a mim lavas meus pés?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus, e disse-lhe: O que eu faço tu não o sabes agora; mas depois o entenderás."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Pedro: Nunca lavarás meus pés. Respondeu-lhe então Jesus: Se eu não te lavar, não tens parte comigo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Simão Pedro: Senhor, [lava] não só meus pés, mas também as mãos e a cabeça."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: Aquele que está lavado não necessita lavar, a não ser os pés, mas está todo limpo. E vós limpos estais, porém não todos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele bem sabia quem o trairia; por isso disse: Nem todos estais limpos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando então, tendo eles lavado os pés, e tomado suas roupas, voltou a se sentar [à mesa] ,e disse-lhes: Entendeis o que vos tenho feito?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós me chamais Mestre, e Senhor, e bem dizeis; que eu o sou;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois se eu, o Senhor, e o Mestre, tenho lavado vossos pés, também vós deveis lavar vossos pés uns aos outros."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque vos tenho dado exemplo, para que como eu vos tenho feito, façais vós também."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade, em verdade vos digo, [que] o servo não é maior que seu senhor; nem enviado maior que aquele que o enviou."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se sabeis estas coisas, sereis bem-aventurados se as fizerdes."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não digo de todos; bem sei eu aos que tenho escolhido; mas para que se cumpra a Escritura, [que diz] : O que come comigo, levantou contra mim seu calcanhar."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde agora, antes que se faça, digo-o a vós, para que, quando se fizer, creiais que eu sou."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade, em verdade vos digo, [que] se alguém receber ao [que] eu enviar, a mim me recebe; e quem a mim me receber, recebe a aquele que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Havendo Jesus dito isto, perturbou-se em espírito, e testemunhou, e disse: Em verdade, em verdade vos digo, que um de vós me trairá."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo que os discípulos se olhavam uns para os outros, duvidando de quem ele dizia."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um dos discípulos, a quem Jesus amava, estava sentado [à mesa encostado] no seio de Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A este pois fez sinal Simão Pedro, que perguntasse quem era aquele de quem ele dizia."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E declinando-se ele ao peito de Jesus, disse-lhe: Senhor, quem é?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus: Aquele a quem eu der o pedaço molhado de pão. E molhando o pedaço de pão, deu-o a Judas de Simão Iscariotes."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E após o pedaço de pão, entrou nele Satanás. Disse-lhe pois Jesus: O que fazes, faze-o depressa."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nenhum dos que estavam sentados [à mesa] entendeu para que ele lhe dissera."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois alguns pensavam que, porque Judas tinha a bolsa, Jesus havia lhe dito: Compra o que para o que nos é necessário para a festa; ou que alguma coisa desse aos pobres."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Havendo ele pois tomado o pedaço de pão, logo saiu. E já era noite."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tendo, pois, ele saído, disse Jesus: Agora o Filho do homem é glorificado, e Deus é glorificado nele."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se Deus nele é glorificado, também Deus o glorificará em si mesmo, e logo o glorificará."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filhinhos, ainda um pouco estou convosco. Vós me buscareis; e tal como eu aos Judeus: Para onde eu vou, vós não podeis vir; assim também o digo a vós agora."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um novo mandamento vos dou: que vos ameis uns aos outros; tal como eu vos amei, também ameis vós uns aos outros."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nisto todos conhecerão que sois meus discípulos: se vós tiverdes amor uns aos outros."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Simão Pedro: Senhor, para onde vais? Respondeu-lhe Jesus: Para onde eu vou tu não podes me seguir agora; porém depois me seguirás."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Pedro: Senhor, por que agora não posso te seguir? Por ti eu darei minha vida."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhe Jesus: Por mim darás tua vida? Em verdade, em verdade te digo, que o galo não cantará, até que três vezes me negues."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "book": "1tessalonicenses",
+    "name": "1 Tessalonicenses",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas irmãos, acerca dos tempos e das estações, não necessitais de que eu vos escreva;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "pois vós mesmos bem sabeis que o dia do Senhor virá como um ladrão de noite."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando disserem: “Paz e segurança”, então virá sobre eles repentina destruição, como as dores de parto da grávida, e de maneira nenhuma escaparão."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós, irmãos, não estais em trevas, para que aquele dia vos tome de surpresa como um ladrão."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos vós sois filhos da luz e filhos do dia; não somos da noite nem das trevas."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, não durmamos, como os outros; em vez disso, vigiemos e sejamos sóbrios."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois os que dormem, dormem de noite; e os que ficam bêbados embebedam-se de noite."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas nós, que somos do dia, sejamos sóbrios, e nos vistamos da couraça da fé e do amor, e do capacete da esperança da salvação."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque Deus não nos destinou para a ira, mas, sim, para obtermos a salvação, por meio do nosso Senhor Jesus Cristo,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "que morreu por nós, a fim de que, se estivermos vigiando ou dormindo, nós vivamos juntamente com ele."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto exortai-vos uns aos outros, e edificai-vos uns aos outros, como já fazeis."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Irmãos, nós vos rogamos que reconheçais os que trabalham entre vós, e que lideram sobre vós no Senhor, e vos advertem;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e os estimai muito com amor, por causa do trabalho deles. Tende paz entre vós."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Rogamo-vos também, irmãos, que advirtais os desordeiros, consoleis os de pouco ânimo, apoieis aos fracos, e tenhais paciência com todos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tende cuidado para que ninguém retribua o mal com o mal, mas sempre segui o bem, tanto uns com os outros, como com todos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alegrai-vos sempre."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Orai sem cessar."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradecei em tudo, pois essa é a vontade de Deus em Cristo Jesus para vós mesmos."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não apagueis o Espírito."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não desprezeis as profecias."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Examinai tudo, e mantende o que é bom."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não haja entre vós qualquer forma de mal."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o próprio Deus da paz vos santifique em tudo; e que todo o vosso espírito, alma e corpo sejam preservados irrepreensíveis na vinda do nosso Senhor Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fiel é aquele que vos chama, e ele também [o] fará."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Irmãos, orai por nós."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saudai a todos os irmãos com beijo santo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu vos mando pelo Senhor que esta carta seja lida a todos os irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A graça de nosso Senhor Jesus Cristo [seja] convosco."
+                }
+            ]
+        }
+    ]
+}

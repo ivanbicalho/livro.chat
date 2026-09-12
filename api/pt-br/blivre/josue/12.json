@@ -1,0 +1,223 @@
+{
+    "book": "josue",
+    "name": "Josué",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os reis da terra que os filhos de Israel feriram, e cuja terra possuíram da outra parte do Jordão ao oriente, desde o ribeiro de Arnom até o monte Hermom, e toda a planície oriental:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seom rei dos amorreus, que habitava em Hesbom, e senhoreava desde Aroer, que está à beira do ribeiro de Arnom, e desde em meio do ribeiro, e a metade de Gileade, até o ribeiro Jaboque, o termo dos filhos de Amom;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E desde a campina até o mar de Quinerete, ao oriente; e até o mar da planície, o mar Salgado, ao oriente, pelo caminho de Bete-Jesimote; e desde o sul debaixo das encostas do Pisga."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os termos de Ogue rei de Basã, que havia restado dos refains, o qual habitava em Astarote e em Edrei,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E senhoreava no monte de Hermom, e em Salcá, e em todo Basã até os termos de Gessuri e dos maacatitas, e a metade de Gileade, termo de Seom rei de Hesbom."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A estes feriram Moisés servo do SENHOR e os filhos de Israel; e Moisés servo do SENHOR deu aquela terra em possessão aos rubenitas, gaditas, e à meia tribo de Manassés."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes são os reis da terra que feriu Josué com os filhos de Israel, desta parte do Jordão ao ocidente, desde Baal-Gade na planície do Líbano até o monte de Halaque que sobe a Seir; a qual terra deu Josué em possessão às tribos de Israel,"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em montes e em vales, em planícies e em encostas, ao deserto e ao sul; os heteus, e os amorreus, e os cananeus, e os ferezeus, e os heveus, e os jebuseus."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Jericó, um: o rei de Ai, que está ao lado de Betel, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Jerusalém, outro: o rei de Hebrom, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Jarmute, outro: o rei de Laquis, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Eglom, outro: o rei de Gezer, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Debir, outro: o rei de Geder, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Hormá, outro: o rei de Arade, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Libna, outro: o rei de Adulão, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Maquedá, outro: o rei de Betel, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Tapua, outro: o rei de Héfer, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Afeque, outro: o rei de Lasarom, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Madom, outro: o rei de Hazor, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Sinrom-Merom, outro: o rei de Acsafe, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Taanaque, outro: o rei de Megido, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Quedes, outro: o rei de Jocneão do Carmelo, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Dor, da província de Dor, outro; o rei de nações em Gilgal, outro:"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei de Tirsa, outro: trinta e um reis ao todo."
+                }
+            ]
+        }
+    ]
+}

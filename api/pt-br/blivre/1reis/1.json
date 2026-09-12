@@ -1,0 +1,484 @@
+{
+    "book": "1reis",
+    "name": "1 Reis",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o rei Davi era velho, e de idade avançada, cobriam-lhe de roupas, mas não se aquecia."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe portanto seus servos: Busquem a meu senhor o rei uma moça virgem, para que esteja diante do rei, e o abrigue, e durma a seu lado, e aquecerá a meu senhor o rei."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E buscaram uma moça formosa por todo o termo de Israel, e acharam a Abisague sunamita, e trouxeram-na ao rei."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a moça era formosa, a qual aquecia ao rei, e lhe servia: mas o rei nunca a conheceu."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Adonias filho de Hagite se levantou, dizendo: Eu reinarei. E preparou carros e cavaleiros, e cinquenta homens que corressem adiante dele."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seu pai nunca o entristeceu em todos seus dias com dizer-lhe: Por que fazes assim? E também este era de bela aparência; e havia o gerado depois de Absalão."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tinha tratos com Joabe filho de Zeruia, e com Abiatar sacerdote, os quais ajudavam a Adonias."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Zadoque sacerdote, e Benaia filho de Joiada, e Natã profeta, e Simei, e Reí, e todos os grandes de Davi, não seguiam a Adonias."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E matando Adonias ovelhas e vacas e animais engordados junto à penha de Zoelete, que está próxima da fonte de Rogel, convidou a todos seus irmãos os filhos do rei, e a todos os homens de Judá, servos do rei:"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas não convidou a Natã profeta, nem a Benaia, nem aos grandes, nem a Salomão seu irmão."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou Natã a Bate-Seba mãe de Salomão, dizendo: Não ouviste que reina Adonias filho de Hagite, sem sabê-lo Davi nosso senhor?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vem pois agora, e toma meu conselho, para que guardes tua vida, e a vida de teu filho Salomão."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vai, e entra ao rei Davi, e dize-lhe: Rei senhor meu, não juraste tu à tua serva, dizendo: Salomão teu filho reinará depois de mim, e ele se sentará em meu trono? por que pois reina Adonias?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estando tu ainda falando com o rei, eu entrarei atrás de ti, e acabarei teus argumentos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Bate-Seba entrou ao rei à câmara: e o rei era muito velho; e Abisague sunamita servia ao rei."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Bate-Seba se inclinou, e fez reverência ao rei. E o rei disse: Que tens?"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ela lhe respondeu: Senhor meu, tu juraste à tua serva pelo SENHOR teu Deus, dizendo: Salomão teu filho reinará depois de mim, e ele se sentará em meu trono;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que agora Adonias reina: e tu, meu senhor rei, agora não o soubeste."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Matou bois, e animais engordados, e muitas ovelhas, e convidou a todos os filhos do rei, e a Abiatar sacerdote, e a Joabe general do exército; mas a Salomão teu servo não convidou."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Entretanto, rei senhor meu, os olhos de todo Israel estão sobre ti, para que lhes declares quem se há de sentar no trono de meu senhor o rei depois dele."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De outra sorte acontecerá, quando meu senhor o rei descansar com seus pais, que eu e meu filho Salomão seremos tidos por culpados."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estando ainda falando ela com o rei, eis que Natã profeta, que veio."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deram aviso ao rei, dizendo: Eis que Natã profeta: o qual quando entrou ao rei, prostrou-se diante do rei inclinando seu rosto à terra."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Natã: Rei senhor meu, disseste tu: Adonias reinará depois de mim, e ele se sentará em meu trono?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque hoje desceu, e matou bois, e animais engordados, e muitas ovelhas, e convidou a todos os filhos do rei, e aos capitães do exército, e também a Abiatar sacerdote; e eis que, estão comendo e bebendo diante dele, e disseram: Viva o rei Adonias!"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas nem a mim teu servo, nem a Zadoque sacerdote, nem a Benaia filho de Joiada, nem a Salomão teu servo, convidou."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É este negócio ordenado por meu senhor o rei, sem haver declarado a teu servo quem se havia de sentar no trono de meu senhor o rei depois dele?"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o rei Davi respondeu, e disse: Chamai-me a Bate-Seba. E ela entrou à presença do rei, e pôs-se diante do rei."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei jurou, dizendo: Vive o SENHOR, que redimiu minha alma de toda angústia,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que como eu te ei jurado pelo SENHOR Deus de Israel, dizendo: Teu filho Salomão reinará depois de mim, e ele se sentará em meu trono em lugar meu; que assim o farei hoje."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Bate-Seba se inclinou ao rei, seu rosto à terra, e fazendo reverência ao rei, disse: Viva meu senhor o rei Davi para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei Davi disse: Chamai-me a Zadoque sacerdote, e a Natã profeta, e a Benaia filho de Joiada. E eles entraram à presença do rei."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei lhes disse: Tomai convosco os servos de vosso senhor, e fazei subir a Salomão meu filho em minha mula, e levai-o a Giom:"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ali o ungirão Zadoque sacerdote e Natã profeta por rei sobre Israel; e tocareis trombeta, dizendo: Viva o rei Salomão!"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois ireis vós detrás dele, e virá e se sentará em meu trono, e ele reinará por mim; porque a ele ordenei para que seja príncipe sobre Israel e sobre Judá."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Benaia filho de Joiada respondeu ao rei, e disse: Amém. Assim o diga o SENHOR, Deus de meu senhor o rei."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da maneira que o SENHOR foi com meu senhor o rei, assim seja com Salomão; e ele faça maior seu trono que o trono de meu senhor o rei Davi."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E desceu Zadoque sacerdote, e Natã profeta, e Benaia filho de Joiada, e os quereteus e os peleteus, e fizeram subir a Salomão na mula do rei Davi, e levaram-no a Giom."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomando Zadoque sacerdote o chifre do azeite do tabernáculo, ungiu a Salomão: e tocaram trombeta, e disse todo o povo: Viva o rei Salomão!"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois subiu todo o povo depois dele, e cantava a gente com flautas, e faziam grandes alegrias, que parecia que a terra se fendia com o barulho deles."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ouviu-o Adonias, e todos os convidados que com ele estavam, quando já haviam acabado de comer. E ouvindo Joabe o som da trombeta, disse: Por que se alvoroça a cidade com estrondo?"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estando ainda ele falando, eis que Jônatas, filho do sacerdote Abiatar, veio, ao qual Adonias disse: Entra, porque és homem digno, e trarás boas notícias."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jônatas respondeu, e disse a Adonias: Certamente nosso senhor, o rei Davi, constituiu rei a Salomão;"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei enviou com ele o sacerdote Zadoque o profeta Natã, Benaia, filho de Joiada, e também os quereteus e os peleteus, os quais lhe fizeram subir na mula do rei;"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote Zadoque e o profeta Natã o ungiram em Giom como rei, e dali subiram alegres, e a cidade está cheia de alvoroço. Este é o barulho que ouvistes."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também Salomão se assentou no trono do reino."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ainda os servos do rei vieram a bendizer ao nosso senhor,o rei Davi, dizendo: Deus faça o nome de Salomão melhor que o teu nome, e faça o seu trono maior que o teu. E o rei se inclinou no leito."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também o rei falou assim: Bendito seja o SENHOR, Deus de Israel, que hoje deu quem se assente em meu trono, vendo-o meus olhos."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se estremeceram, e levantaram-se todos os convidados que estavam com Adonias, e foi-se cada um por seu caminho."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Adonias, temendo da presença de Salomão, levantou-se e foi-se, e agarrou as pontas do altar."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi feito saber a Salomão, dizendo: Eis que que Adonias tem medo do rei Salomão: pois agarrou as pontas do altar, dizendo: Jure-me hoje o rei Salomão que não matará à espada a seu servo."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Salomão disse: Se ele for virtuoso, nenhum de seus cabelos cairá em terra: mas se se achar mal nele, morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enviou o rei Salomão, e trouxeram-no do altar; e ele veio, e inclinou-se ao rei Salomão. E Salomão lhe disse: Vai-te à tua casa."
+                }
+            ]
+        }
+    ]
+}

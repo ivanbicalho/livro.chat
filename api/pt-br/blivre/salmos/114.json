@@ -1,0 +1,79 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 114,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Israel saiu do Egito, [quando] a casa de Jacó [saiu] de um povo estrangeiro,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Judá se tornou seu santuário, [e] Israel os seus domínios."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O mar viu, e fugiu; e o Jordão recuou."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os montes saltaram como carneiros, os morros como cordeiros."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que houve, ó mar, que fugiste? Ó Jordão, que recuaste?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ó montes, que saltastes como carneiros? Ó morros, como cordeiros?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Trema tu, ó terra, pela presença do Senhor, pela presença do Deus de Jacó,"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que tornou a rocha em lago de águas; ao pedregulho em fonte de águas."
+                }
+            ]
+        }
+    ]
+}

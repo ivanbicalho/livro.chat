@@ -1,0 +1,295 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas são as gerações dos filhos de Noé: Sem, Cam e Jafé, aos quais nasceram filhos depois do dilúvio."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Jafé: Gômer, e Magogue, e Madai, e Javã, e Tubal, e Meseque, e Tiras."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Gômer: Asquenaz, e Rifate, e Togarma."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Javã: Elisá, e Társis, Quitim, e Dodanim."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por estes foram repartidas as ilhas das nações em suas terras, cada qual segundo sua língua, conforme suas famílias em suas nações."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Cam: Cuxe, e Mizraim, e Pute, e Canaã."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Cuxe: Sebá, Havilá, e Sabtá, e Raamá, e Sabtecá. E os filhos de Raamá: Sabá e Dedã."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Cuxe gerou a Ninrode, este começou a ser poderoso na terra."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este foi vigoroso caçador diante do SENHOR; pelo qual se diz: Assim como Ninrode, vigoroso caçador diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi a cabeceira de seu reino Babel, e Ereque, e Acade, e Calné, na terra de Sinear."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De esta terra saiu Assur, e edificou a Nínive, e a Reobote-Ir, e a Calá,"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Resém entre Nínive e Calá; a qual é cidade grande."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Mizraim gerou a Ludim, e a Anamim, e a Leabim, e a Naftuim,"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Patrusim, e a Casluim de onde saíram os filisteus, e a Caftorim."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Canaã gerou a Sidom, seu primogênito e a Hete,"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aos jebuseus, e aos amorreus, e aos gergeseus,"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aos heveus, e aos arqueus, e aos sineus,"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aos arvadeus e aos zemareus, e aos hamateus: e depois se derramaram as famílias dos cananeus."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi o termo dos cananeus desde Sidom, vindo a Gerar até Gaza, até entrar em Sodoma e Gomorra, Admá, e Zeboim até Lasa."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os filhos de Cam por suas famílias, por suas línguas, em suas terras, em suas nações."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também lhe nasceram filhos a Sem, pai de todos os filhos de Héber, e irmão mais velho de Jafé."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Sem: Elão, e Assur, e Arfaxade, e Lude, e Arã."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Arã: Uz, e Hul, e Géter, e Mas."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Arfaxade gerou a Salá, e Salá gerou a Héber."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Héber nasceram dois filhos: o nome de um foi Pelegue, porque em seus dias foi repartida a terra; e o nome de seu irmão, Joctã."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Joctã gerou a Almodá, e a Salefe, e Hazarmavé, e a Jerá,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Hadorão, e a Uzal, e a Dicla,"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Obal, e a Abimael, e a Sabá,"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Ofir, e a Havilá, e a Jobabe: todos estes foram filhos de Joctã."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi sua habitação desde Messa vindo de Sefar, monte à parte do oriente."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes foram os filhos de Sem por suas famílias, por suas línguas, em suas terras, em suas nações."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas são as famílias de Noé por suas descendências, em suas nações; e destes foram divididas os povos na terra depois do dilúvio."
+                }
+            ]
+        }
+    ]
+}

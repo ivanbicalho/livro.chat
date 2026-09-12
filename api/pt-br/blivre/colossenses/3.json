@@ -1,0 +1,232 @@
+{
+    "book": "colossenses",
+    "name": "Colossenses",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, se fostes ressuscitados com Cristo, buscai as coisas de cima, onde Cristo está sentado à direita de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pensai nas coisas de cima, não nas que [estão] na terra."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois já morrestes, e a vossa vida está escondida com Cristo em Deus."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Cristo, [que é] a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, mortificai as partes carnais que há em vós que são terrenas; [são elas] : o pecado sexual, a impureza, a paixão depravada, o desejo maligno, e a ganância, que é idolatria."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por causa delas que a ira de Deus vem."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nessas coisas também vós andastes antes, quando vivíeis nelas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas agora, abandonai, vós também, todas [estas coisas] : a ira, a fúria, a malícia, a maledicência, e as palavras vergonhosas da vossa boca."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não mintais uns aos outros, pois já vos despistes do velho ser humano com os seus costumes,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e vos revestistes do novo, que se renova em conhecimento, conforme a imagem daquele que o criou."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nisso não há grego, nem judeu, nem circunciso, nem incircunciso, bárbaro, cita, escravo, [nem] livre; mas Cristo é tudo, e em todos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, como escolhidos de Deus, santos e amados, revesti-vos de sentimentos de misericórdia, bondade, humildade, mansidão, e paciência."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Suportai-vos uns aos outros, e perdoai-vos uns aos outros, se alguém tiver queixa contra outro. Como o Senhor vos perdoou, assim também [fazei] ."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acima de tudo isto, [revesti-vos] do amor, que é o vínculo da perfeição."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a paz de Cristo, para a qual também fostes chamados em um [só] corpo, governe em vossos corações, e sede gratos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A palavra de Cristo habite abundantemente em vós com toda sabedoria, ensinando-vos e advertindo-vos uns aos outros; e cantai a Deus com salmos, hinos, e cânticos espirituais, com graça no vosso coração."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tudo quanto fizerdes, por palavras ou por obras, [fazei] tudo no nome do Senhor Jesus, dando por meio dele graças ao Deus e Pai."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mulheres, sede submissas aos vossos maridos, como convém no Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Maridos, amai às esposas, e não as trateis amargamente."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filhos, obedecei em tudo aos pais, porque isso é agradável ao Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pais, não provoqueis aos vossos filhos, para que não percam o ânimo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Escravos, obedecei em tudo aos [vossos] senhores segundo a carne, não servindo apenas quando observados, como que para satisfazer às pessoas, mas sim, com sinceridade de coração, temendo ao Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo quanto fizerdes, fazei de coração, como para o Senhor, e não para as pessoas."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois sabeis que recebereis do Senhor a recompensa da herança;servi ao Senhor Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois aquele que fizer injustiça receberá conforme a injustiça que cometer; e não há acepção de pessoas."
+                }
+            ]
+        }
+    ]
+}

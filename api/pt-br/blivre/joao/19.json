@@ -1,0 +1,385 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pilatos tomou a Jesus, e [o] açoitou."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E trançando os soldados uma coroa de espinhos, puseram-na sobre sua cabeça, e o vestiram de uma roupa vermelha."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E diziam: Tenhas alegria, Rei dos Judeus! E davam-lhe bofetadas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saiu pois Pilatos outra vez fora, e disse-lhes: Eis que eu o trago para fora [até] vós, para que saibais que nenhum crime acho nele."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus foi pois trazido para fora, levando a coroa de espinhos, e a roupa vermelha-roxa. E [Pilatos] disse-lhes: Eis aqui o homem."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando então os chefes dos sacerdotes e os trabalhadores o viram, eles clamaram, dizendo: Crucifica [-o] ! Crucifica [-o] ! Disse-lhes Pilatos: Tomai-o vós, e crucificai [-o] ; porque eu nenhum crime acho nele."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam-lhe os Judeus: Nós temos Lei, e segundo nossa Lei ele deve morrer, porque se fez Filho de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando pois Pilatos ouviu esta palavra, ficou mais atemorizado."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E entrou outra vez no tribunal, e disse a Jesus: De onde és tu? Mas Jesus não lhe deu resposta."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe pois Pilatos: Não falas comigo? Não sabes que tenho poder para te crucificar, e tenho poder para te soltar?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus: Nenhum poder terias contra mim, se não te fosse dado de cima; portanto o que me entregou a ti tem maior pecado."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde então Pilatos procurava soltá-lo; mas os Judeus clamavam, dizendo: Se soltas a este, não és amigo de César; qualquer que se faz Rei, contradiz a César."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pilatos, ouvindo este dito, levou fora a Jesus, e sentou-se no tribunal, no lugar chamado Litóstrotos, [ou pavimento] ,e em hebraico Gabatá."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E era a preparação da páscoa, e quase à hora sexta, e disse aos Judeus: Eis aqui vosso Rei!"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles bradaram: Tira, tira, crucifica-o! Disse-lhes Pilatos: Crucificarei a vosso Rei?Responderam os chefes dos sacerdotes: Não temos [outro] rei, a não ser César."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o entregou a eles, para que fosse crucificado. E tomaram a Jesus, e levaram [-no] ."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levando ele sua cruz, saiu para o [lugar] chamado a Caveira, que em hebraico se chama Gólgota."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde o crucificaram, e com ele outros dois, um de cada lado, e a Jesus no meio."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pilatos também escreveu um título, e o pôs encima da cruz, e estava [nele] escrito: JESUS NAZARENO, REI DOS JUDEUS."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Leram pois muitos dos Judeus este título; porque o lugar onde Jesus estava crucificado era perto da cidade; e estava escrito em hebraico, em grego, [e] em latim."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Diziam pois os chefes dos sacerdotes dos judeus a Pilatos: Não escrevas: Rei dos Judeus, mas que disse: Sou Rei dos Judeus."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Pilatos: O que escrevi, escrevi."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Havendo pois os soldados crucificado a Jesus, tomaram suas roupas, e fizeram quatro partes, para cada soldado uma parte, e a túnica. E era a túnica sem costura, toda tecida desde cima [até baixo] ."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram pois uns aos outros: Não a partamos, mas lancemos sortes sobre ela, de quem será; para que se cumprisse a Escritura, que diz: Entre si partiram minhas roupas, e sobre minha veste lançaram sortes. Os soldados, pois, fizeram isto."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estavam junto à cruz de Jesus, sua mãe, e a irmã de sua mãe, Maria [mulher] de Cleofas, e Maria Madalena."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo Jesus a [sua] mãe, e ao discípulo a quem amava, que ali estava, disse a sua mãe: Mulher, eis aí teu filho."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois disse ao discípulo: Eis aí tua mãe. E desde aquela hora o discípulo a recebeu em sua [casa] ."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois disto, sabendo Jesus que já todas as coisas estavam feitas, para que a Escritura se cumprisse, ele disse: Tenho sede."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estava pois ali um vaso cheio de vinagre, e encheram uma esponja de vinagre, e envolvendo-a com hissopo, levaram-na a sua boca."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando pois Jesus tomou o vinagre, disse: Está consumado; e abaixando a cabeça, deu o Espírito."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os Judeus pois, para que os corpos não ficassem no sábado na cruz, pois era a preparação (porque era o grande dia do Sábado), suplicaram a Pilatos que as pernas deles fossem quebradas, e fossem tirados."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vieram pois os soldados, e na verdade quebraram as pernas do primeiro, e do outro, que fora crucificado com ele."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vindo a Jesus, [e] vendo-o já morto, não quebraram as suas pernas."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas um dos soldados lhe furou com uma lança o lado, e logo saiu sangue e água."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que viu isto, o testemunhou; e seu testemunho é verdadeiro, e sabe que é verdade o que diz, para que vós também creiais."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque estas coisas aconteceram para que se cumprisse a Escritura [que diz] : Osso dele não será quebrado."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E além disso, outra Escritura diz: Verão [aquele] a quem perfuraram."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois José de Arimateia, (que era discípulo de Jesus, porém oculto por medo dos Judeus) suplicou a Pilatos que pudesse tirar o corpo de Jesus; e Pilatos permitiu. Veio pois e tirou o corpo de Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio também Nicodemos, (aquele que antes de noite tinha vindo a Jesus) trazendo um composto de mirra e aloés, de quase cem arráteis."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomaram pois o corpo de Jesus, e o envolveram em lençóis com as especiarias, como é costume dos judeus sepultarem."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havia um jardim naquele lugar onde fora crucificado; e no jardim [havia] um sepulcro novo, em que ainda nunca alguém havia sido posto."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ali pois (por causa da preparação [da páscoa] dos Judeus, e porque aquele sepulcro estava perto) puseram a Jesus."
+                }
+            ]
+        }
+    ]
+}

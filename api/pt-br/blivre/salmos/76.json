@@ -1,0 +1,115 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 76,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo e cântico de Asafe, para o regente, com instrumentos de cordas:Deus é conhecido em Judá; grande é o seu nome em Israel."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em Salém está seu tabernáculo, e sua morada em Sião."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ali ele quebrou as flechas do arco; o escudo, a espada, e a guerra. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu és mais ilustre [e] glorioso que montes de presas."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os ousados de coração foram despojados; dormiram seu sono; e dos homens valentes, nenhum encontrou [poder] em suas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por tua repreensão, ó Deus de Jacó, carruagens e cavalos caíram no sono [da morte] ."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, terrível és tu; e quem subsistirá perante ti com tua ira?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde os céus tu anunciaste o juízo; a terra tremeu, e se aquietou,"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Deus se levantou para o julgamento, para salvar a todos os mansos da terra. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a ira humana serve para o teu louvor; com o restante da ira te cingirás."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fazei votos, e [os] pagai ao SENHOR vosso Deus; todos os que estão ao redor dele tragam presentes ao Temível."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele cortará o espírito dos governantes; ele é temível aos reis da terra."
+                }
+            ]
+        }
+    ]
+}

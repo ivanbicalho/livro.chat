@@ -1,0 +1,403 @@
+{
+    "book": "marcos",
+    "name": "Marcos",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então [Jesus] começou a lhes dizer por parábolas: Um homem plantou uma vinha, cercou-a, fundou [nela] uma prensa de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se daquela terra."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, quando chegou o tempo, mandou um servo aos lavradores, para que recebesse dos lavradores do fruto da vinha."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles, tomando-o à força, feriram-no, e mandaram-no vazio."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltou a lhes mandar outro servo; e eles feriram-no na cabeça e maltrataram-no."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltou a mandar outro, ao qual mataram, e [mandou] muitos outros, e a uns feriram, e a outros mataram."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tendo ele, pois, ainda um, o seu filho amado, mandou-lhes também por último a este, dizendo: Pelo menos respeitarão o meu filho."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aqueles lavradores disseram entre si: Este é o herdeiro; vinde, e o matemos; então a herança será nossa."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pegando dele, mataram[-no] , e lançaram[-no] fora da vinha."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que, pois, o senhor da vinha fará? Ele virá, destruirá aos lavradores, e dará a vinha a outros."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acaso ainda não lestes esta escritura: “A pedra que os edificadores rejeitaram, esta foi feita por cabeça de esquina."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo Senhor foi feito isto, e é maravilhoso em nossos olhos”?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E buscavam prendê-lo, mas temiam a multidão; porque entendiam que era contra eles que dizia aquela parábola; então o deixaram e se retiraram."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem em [alguma] palavra."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles se aproximaram e lhe disseram: Mestre, sabemos que és homem de verdade, e não te interessa [agradar] a ninguém, porque não te importas com a aparência humana, mas com verdade ensinas o caminho de Deus. É lícito pagar tributo a César, ou não? Devemos pagar, ou não devemos?"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele, entendendo a hipocrisia deles, disse-lhes: Por que estais me tentando? Trazei-me uma moeda, para que eu a veja."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E trouxeram. E perguntou-lhes: De quem é esta imagem, e a inscrição? E eles lhe disseram: De César."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus, lhes respondeu: Dai, pois, a César o que é de César, e a Deus o que é de Deus. E admiram-se dele."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vieram a ele os saduceus, que dizem não haver ressurreição, e perguntaram-lhe:"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mestre, Moisés nos escreveu que, se o irmão de alguém morresse, e deixasse mulher, mas não filho, que seu irmão se casasse com a viúva , e gerasse descendência ao seu irmão."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Houve, pois, sete irmãos, e o primeiro casou-se com a mulher, e morrendo, não deixou descendente."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Casou-se com ela também o segundo, e morreu; e nem este deixou descendente; e o terceiro da mesma maneira."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os sete não deixaram descendente. Finalmente, depois de todos, morreu também a mulher."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na ressurreição, pois, quando ressuscitarem, ela será a mulher de qual deles? Porque os sete a tiveram por mulher."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhes respondeu: Acaso não é por isso que errais, por não conhecerdes as Escrituras, nem o poder de Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, quando ressuscitarem dos mortos, nem se casarão, nem se darão em casamento; mas serão como os anjos que estão nos céus."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quanto aos mortos que ressuscitarão, não lestes no livro de Moisés, como Deus lhe falou com a sarça, dizendo: Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó?"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus não é [Deus] de mortos, mas de vivos. Portanto errais muito."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então aproximou-se dele um dos escribas, que os havia ouvido discutir. Como ele sabia que [Jesus] havia lhes respondido bem, perguntou-lhe: Qual é o primeiro mandamento de todos?"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus respondeu: O primeiro é: “Ouve Israel, o Senhor nosso Deus é o único Senhor;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "amarás, pois, ao Senhor teu Deus com todo o teu coração, com toda a tua alma, com todo o teu entendimento, e com todas as tuas forças.”"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o segundo é: “Amarás ao teu próximo como a ti mesmo”. Não há outro mandamento maior que estes."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o escriba lhe disse: Muito bem, Mestre, com verdade disseste que ele é um só, e não há outro além dele."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que amá-lo com todo o coração, com todo o entendimento, e com todas as forças; e amar ao próximo como a si mesmo, é mais de que todos os holocaustos e sacrifícios."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus viu que ele havia respondido sabiamente, e disse-lhe: Não estás longe do Reino de Deus. E ninguém mais ousou lhe perguntar."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus respondia e dizia, enquanto ensinava no templo: Como os escribas dizem que o Cristo é filho de Davi?"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O mesmo Davi disse pelo Espírito Santo: Disse o Senhor ao meu Senhor, senta-te à minha direita, até que eu ponha os teus inimigos debaixo dos teus pés."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, [se] o próprio Davi o chama de Senhor, como, pois, é so eu filho?E a grande multidão o ouvia de boa vontade."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizia em seu ensino: Cuidado com os escribas, que gostam de andar com roupas compridas, das saudações nas praças,"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "que devoram as casas das viúvas, com pretexto de longas orações. Esses receberão mais grave condenação."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando [Jesus] estava sentado de frente à arca do tesouro, observava como a multidão lançava dinheiro na arca do tesouro; e muitos ricos lançavam muito."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E uma pobre viúva veio, e lançou duas pequenas moedas, de pouco valor."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então [Jesus] chamou a si os seus discípulos, e disse-lhes: Em verdade vos digo que esta pobre viúva lançou mais que todos os que lançaram na arca do tesouro;"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque todos lançaram daquilo que lhes sobra; mas esta, da sua pobreza lançou tudo o que tinha, todo o seu sustento."
+                }
+            ]
+        }
+    ]
+}

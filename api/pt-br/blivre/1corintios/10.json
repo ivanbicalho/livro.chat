@@ -1,0 +1,304 @@
+{
+    "book": "1corintios",
+    "name": "1 Coríntios",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, irmãos, eu não quero que ignoreis que todos os nossos pais estiveram debaixo da nuvem, e todos pelo mar passaram;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos foram batizados na nuvem e no mar em Moisés;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos comeram de um mesmo alimento espiritual;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos beberam de uma mesma bebida espiritual; porque bebiam da pedra espiritual que [os] seguia; e a pedra era Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas da maioria deles Deus não se agradou; por isso foram deixados no deserto."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estas coisas nos servem de exemplos, para que não desejemos coisas ruins, como eles desejaram."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não sejais idólatras, como alguns deles [foram] ,como está escrito: O povo se sentou para comer, e para beber, e levantaram-se para se alegrarem."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não pequemos sexualmente, como alguns deles assim pecaram, e em um dia vinte e três mil caíram."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não tentemos a Cristo, como também alguns deles tentaram, e pereceram pelas serpentes."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não murmureis, como também alguns deles murmuraram, e pereceram pelo destruidor."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas estas coisas lhes aconteceram como exemplos, e estão escritas para nosso aviso, em quem os fins dos tempos têm chegado."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, aquele que pensa estar de pé, olhe para que não caia."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nenhuma tentação vos veio, que não fosse humana; porém Deus é fiel; que não vos deixará tentar mais do que o que podeis, antes com a tentação também dará a saída, para que a possais suportar."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, meus amados, fugi da idolatria."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu vos falo como que para prudentes; jugai vós [mesmos] o que eu digo."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso o copo da bênção, que nós bendizemos, não é a comunhão do sangue de Cristo? O pão que partimos, não é a comunhão do corpo de Cristo?"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque [assim como há] um [só] pão, nós muitos somos um [só] corpo; porque todos participamos de um [só] pão."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vede a Israel segundo a carne: por acaso os que comem os sacrifícios não são participantes do altar?"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o que eu digo? Que o ídolo é alguma coisa? Ou que o sacrifício ao ídolo seja alguma coisa?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu digo, que as coisas que os gentios sacrificam, são sacrificadas para os demônios, e não a Deus. E não quero que sejais participantes dos demônios."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não podeis beber o copo do Senhor e o copo dos demônios; não podeis ser participantes da mesa do Senhor e da mesa dos demônios."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso [tentamos] provocar ciúmes ao Senhor? Somos nós mais fortes do que ele?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todas as coisas me são lícitas, mas nem todas as coisas convêm; todas as coisas me são licitas, mas nem todas as coisas edificam."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ninguém busque para si próprio, antes cada um [busque o bem] do outro."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De tudo o que se vende no açougue, comei, sem vos questionar por causa da consciência."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a terra é do Senhor, e [também] sua plenitude."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém dos descrentes vos convidar, e quiserdes ir, comei de tudo o que for posto diante de vós, sem vos questionar por causa da consciência."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se alguém vos disser: “Isto é sacrifício a ídolos”, não comais, por causa daquele que [vos] advertiu, e [por causa] da consciência. Porque a terra e sua plenitude pertencem ao Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas digo da consciência do outro, não a tua. Por que, então, minha liberdade é julgada pela consciência do outro?"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se eu participo [da comida] pela graça, por que sou ofendido naquilo que dou graças?"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, ao comer, ou ao beber, ou ao fazer qualquer coisa, fazei tudo para a glória de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sede sem escândalo, nem a judeus, nem a gregos, nem à Igreja de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como eu também agrado a todos em tudo, não buscando meu próprio proveito, mas sim o de muitos, para que assim possam se salvar."
+                }
+            ]
+        }
+    ]
+}

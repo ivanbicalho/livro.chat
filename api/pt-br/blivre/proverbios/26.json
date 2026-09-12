@@ -1,0 +1,259 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como a neve no verão, como a chuva na colheita, assim também não convém a honra para o tolo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como um pássaro a vaguear, como a andorinha a voar, assim também a maldição não virá sem causa."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Açoite para o cavalo, cabresto para o asno; e vara para as costas dos tolos."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não respondas ao tolo conforme sua loucura; para que não te faças semelhante a ele."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responde ao tolo conforme sua loucura, para que ele não seja sábio aos seus próprios olhos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem manda mensagens pelas mãos do tolo é como quem corta os pés e bebe violência."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Assim] como não funcionam as pernas do aleijado, assim também é o provérbio na boca dos tolos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dar honra ao tolo é como amarrar uma pedra numa funda."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como espinho na mão do bêbado, assim é o provérbio na boca dos tolos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Como] um flecheiro que atira para todo lado, [assim] é aquele que contrata um tolo [ou] que contrata alguém que vai passando."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como um cão que volta a seu vômito, [assim] é o tolo que repete sua loucura."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Viste algum homem sábio aos seus próprios olhos? Mais esperança há para o tolo do que para ele."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O preguiçoso diz: Há uma fera no caminho; há um leão nas ruas."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Como] a porta se vira em torno de suas dobradiças, [assim] o preguiçoso [se vira] em sua cama."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O preguiçoso põe sua mão no prato, e acha cansativo demais trazê-la de volta a sua boca."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O preguiçoso se acha mais sábio aos próprios olhos do que sete que respondem com prudência."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que, enquanto está passando, [se envolve] em briga que não é sua, é [como] o que pega um cão pelas orelhas."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como o louco que lança faíscas, flechas e coisas mortíferas,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim é o homem que engana a seu próximo, e diz: Não estava eu [só] brincando?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sem lenha, o fogo se apaga; e sem fofoqueiro, a briga termina."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O carvão é para as brasas, e a lenha para o fogo; e o homem difamador para acender brigas."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As palavras do fofoqueiro são como alimentos deliciosos, que descem ao interior do ventre."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como um vaso de fundição coberto de restos de prata, [assim] são os lábios inflamados e o coração maligno."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que odeia dissimula em seus lábios, mas seu interior abriga o engano;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando ele [te] falar agradavelmente com sua voz, não acredites nele; porque há sete abominações em seu coração;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cujo ódio está encoberto pelo engano; sua maldade será descoberta na congregação."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem cava uma cova, nela cairá; e quem rola uma pedra, esta voltará sobre ele."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A língua falsa odeia aos que ela atormenta; e a boca lisonjeira opera ruína."
+                }
+            ]
+        }
+    ]
+}

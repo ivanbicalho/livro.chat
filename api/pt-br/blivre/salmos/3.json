@@ -1,0 +1,79 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, quando ele fugia da presença de seu filho Absalão:Ah SENHOR, como têm se multiplicado meus adversários! Muitos se levantam contra mim."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muitos dizem de minha alma: Não há salvação para ele em Deus.(Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém tu, SENHOR, és escudo para mim; minha glória, e o que levanta minha cabeça."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com minha voz eu clamei ao SENHOR; e ele me ouviu desde o monte de sua santidade. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu me deitei, e dormi; acordei, porque o SENHOR me sustentava."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu não temerei [ainda que sejam] dez mil pessoas que se ponham ao redor de mim."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levanta-te, SENHOR, salva-me, meu Deus; pois feriste os queixos de todos meus inimigos; [e] quebraste os dentes dos maus."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A salvação [vem] do SENHOR; sobre o teu povo seja tua bênção. (Selá)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "book": "josue",
+    "name": "Josué",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sendo Josué já velho, cheio de dias, o SENHOR lhe disse: Tu és já velho, de idade avançada, e resta ainda muita terra por possuir."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a terra que resta; todos os termos dos filisteus, e todos os gessuritas;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde Sior, que está diante do Egito, até o termo de Ecrom ao norte, considera-se dos cananeus: cinco províncias dos filisteus; os gazitas, asdoditas, asquelonitas, giteus, e ecronitas; e os heveus;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao sul toda a terra dos cananeus, e Meara que é dos sidônios, até Afeque, até o termo dos amorreus;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a terra dos gebalitas, e todo o Líbano até o oriente, desde Baal-Gade o pdo monte Hermom, até entrar em Hamate;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os que habitam nas montanhas desde o Líbano até as águas quentes, todos os sidônios; eu os desarraigarei diante dos filhos de Israel:;somente repartirás tu por sorte aquela terra aos israelitas por herança, como te mandei."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reparte, pois, tu agora esta terra em herança às nove tribos, e à meia tribo de Manassés."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a outra meia recebeu sua herança com os rubenitas e gaditas, a qual lhes deu Moisés da outra parte do Jordão ao oriente, segundo que se a deu Moisés servo do SENHOR:"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde Aroer, que está à beira do ribeiro de Arnom, e a cidade que está em meio do ribeiro, e toda a campina de Medeba, até Dibom;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas as cidades de Seom rei dos amorreus, o qual reinou em Hesbom, até os termos dos filhos de Amom;"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Gileade, e os termos dos gessuritas, e dos maacatitas, e todo o monte de Hermom, e toda a terra de Basã até Salcá:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo o reino de Ogue em Basã, o qual reinou em Astarote e Edrei, o qual havia ficados do resto dos refains; pois Moisés os feriu, e expulsou."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aos dos gessuritas e dos maacatitas não expulsaram os filhos de Israel; antes Gessur e Maacate habitaram entre os israelitas até hoje."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém à tribo de Levi não deu herança: os sacrifícios do SENHOR Deus de Israel são sua herança, como ele lhes havia dito."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deu, pois, Moisés à tribo dos filhos de Rúben conforme suas famílias:"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi o termo deles desde Aroer, que está à beira do ribeiro de Arnom, e a cidade que está em meio do ribeiro, e toda a campina, até Medeba;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Hesbom, com todas as suas vilas que estão na planície; Dibom, e Bamote-Baal, e Bete-Baal-Meom;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jaza, e Quedemote, e Mefaate,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Quiriataim, e Sibma, e Zerete-Saar no monte do vale;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Bete-Peor, e as encostas de Pisga, e Bete-Jesimote;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas as cidades da campina, e todo o reino de Seom rei dos amorreus, que reinou em Hesbom, ao qual feriu Moisés, e aos príncipes de Midiã, Evi, Requém, e Sur, e Hur, e Reba, príncipes de Seom que habitavam naquela terra."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também mataram à espada os filhos de Israel a Balaão adivinho, filho de Beor, com os demais que mataram."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram os termos dos filhos de Rúben o Jordão com seu termo. Esta foi a herança dos filhos de Rúben conforme suas famílias, estas cidades com suas vilas."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deu também Moisés à tribo de Gade, aos filhos de Gade, conforme suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o termo deles foi Jazer, e todas as cidades de Gileade, e a metade da terra dos filhos de Amom até Aroer, que está diante de Rabá."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E desde Hesbom até Ramate-Mispa, e Betonim; e desde Maanaim até o termo de Debir:"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a campina de Bete-Arã, e Bete-Ninra, e Sucote, e Zafom, resto do reino de Seom, rei em Hesbom: o Jordão e seu termo até a extremidade do mar de Quinerete da outra parte do Jordão ao oriente."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a herança dos filhos de Gade, por suas famílias, estas cidades com suas vilas."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também deu Moisés herança à meia tribo de Manassés: e foi da meia tribo dos filhos de Manassés, conforme suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O termo deles foi desde Maanaim, todo Basã, todo o reino de Ogue rei de Basã, e todas as aldeias de Jair que estão em Basã, sessenta povoações."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deram-se também a metade de Gileade, e Astarote, e Edrei, cidades do reino de Ogue em Basã, aos filhos de Maquir, filho de Manassés, à metade dos filhos de Maquir conforme suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isto é o que Moisés repartiu em herança nas planícies de Moabe, da outra parte do Jordão de Jericó, ao oriente."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas à tribo de Levi não deu Moisés herança: o SENHOR Deus de Israel é a herança deles como ele lhes havia dito."
+                }
+            ]
+        }
+    ]
+}

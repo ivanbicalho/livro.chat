@@ -1,0 +1,205 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, se aceitares minhas palavras, e depositares em ti meus mandamentos,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para fazeres teus ouvidos darem atenção à sabedoria, [e] inclinares teu coração à inteligência;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se clamares à prudência, [e] à inteligência dirigires tua voz;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se tu a buscares como a prata, e a procurares como que a tesouros escondidos,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então entenderás o temor ao SENHOR, e acharás o conhecimento de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR dá sabedoria; de sua boca [vem] o conhecimento e o entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele reserva a boa sabedoria para os corretos; [ele é] escudo para os que andam em sinceridade."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para guardar os caminhos do juízo; e conservar os passos de seus santos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então entenderás a justiça e o juízo, e a equidade; [e] todo bom caminho."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando a sabedoria entrar em teu coração, e o conhecimento for agradável à tua alma."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O bom senso te guardará, e o entendimento te preservará:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "- Para te livrar do mau caminho, e dos homens que falam perversidades;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que deixam as veredas da justiça para andarem pelos caminhos das trevas;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que se alegram em fazer o mal, e se enchem de alegria com as perversidades dos maus;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cujas veredas são distorcidas, e desviadas em seus percursos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "- Para te livrar da mulher estranha, e da pervertida, [que] lisonjeia com suas palavras;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que abandona o guia de sua juventude, e se esquece do pacto de seu Deus."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque sua casa se inclina para a morte, e seus caminhos para os mortos."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os que entrarem a ela, não voltarão mais; e não alcançarão os caminhos da vida."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "- Para andares no caminho dos bons, e te guardares nas veredas dos justos."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque os corretos habitarão a terra; e os íntegros nela permanecerão."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém os perversos serão cortados da terra, e os infiéis serão arrancados dela."
+                }
+            ]
+        }
+    ]
+}

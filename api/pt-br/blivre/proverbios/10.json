@@ -1,0 +1,295 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Provérbios de Salomão:O filho sábio alegra ao pai; mas o filho tolo é tristeza para sua mãe."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tesouros da perversidade para nada aproveitam; porém a justiça livra da morte."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR não permite a alma do justo passar fome, porém arruína o interesse dos perversos."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que trabalha com mão preguiçosa empobrece; mas a mão de quem trabalha com empenho enriquece."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que ajunta no verão é filho prudente; [mas] o que dorme na ceifa é filho causador de vergonha."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há bênçãos sobre a cabeça dos justos; mas a violência cobre a boca dos perversos."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A lembrança do justo [será] uma bênção; mas o nome dos perversos apodrecerá."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sábio de coração aceita os mandamentos; mas o louco de lábios será derrubado."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que anda em sinceridade anda seguro; mas o que perverte seus caminhos será conhecido."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que pisca os olhos maliciosamente gera dores; e o louco de lábios será derrubado."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A boca do justo é um manancial de vida; mas a boca dos perversos está coberta de violência."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O ódio desperta brigas; mas o amor cobre todas as transgressões."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nos lábios do bom entendedor se acha sabedoria, mas uma vara está às costas daquele que não tem entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os sábios guardam consigo sabedoria; mas a boca do tolo [está] perto da perturbação."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A prosperidade do rico é a sua cidade fortificada; a pobreza dos necessitados é sua perturbação."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A obra do justo é para a vida; os frutos do perverso, para o pecado."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O caminho para a vida [é d] aquele que guarda a correção; mas aquele que abandona a repreensão anda sem rumo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que esconde o ódio [tem] lábios mentirosos; e o que produz má fama é tolo."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na abundância de palavras não há falta de transgressão; mas aquele que refreia seus lábios é prudente."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A língua do justo [é como] prata escolhida; o coração dos perversos [vale] pouco."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os lábios dos justo apascentam a muitos; mas os tolos, por falta de entendimento, morrem."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É a bênção do SENHOR que enriquece; e ele não lhe acrescenta dores."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para o tolo, fazer o mal é uma diversão; mas para o homem bom entendedor, [divertida é] a sabedoria."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O temor do perverso virá sobre ele, mas o desejo dos justos será concedido."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como o vento passa, assim também o perverso não [mais] existirá; mas o justo [tem] um alicerce eterno."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como vinagre para os dentes, e como fumaça para os olhos, assim também é o preguiçoso para aqueles que o mandam."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O temor ao SENHOR faz aumentar os dias; mas os anos dos perversos serão encurtados."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A esperança dos justos [é] alegria; mas a expectativa dos perversos perecerá."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O caminho do SENHOR é fortaleza para os corretos, mas ruína para os que praticam maldade."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo nunca será removido, mas os perversos não habitarão a terra."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A boca do justo produz sabedoria, mas a língua perversa será cortada fora."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os lábios do justo sabem o que é agradável; mas a boca dos perversos [é cheia] de perversidades."
+                }
+            ]
+        }
+    ]
+}

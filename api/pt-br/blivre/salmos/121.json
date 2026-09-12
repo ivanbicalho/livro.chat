@@ -1,0 +1,79 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 121,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos degraus:Levanto meus olhos aos montes. De onde virá meu socorro?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu socorro [vem] do SENHOR, que fez os céus e a terra."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele não deixará o teu pé se abalar, nem cochilará o teu guardião."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que não cochilará nem dormirá o Guardião de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR é o teu guardião; o SENHOR é a sombra à tua direita."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sol não te ferirá durante o dia, nem a lua durante a noite."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR te guardará de todo mal; ele guardará a tua alma."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR guardará tua saída e tua entrada, desde agora e para sempre."
+                }
+            ]
+        }
+    ]
+}

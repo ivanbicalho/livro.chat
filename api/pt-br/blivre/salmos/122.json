@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 122,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos degraus, de Davi:Alegro-me com os que me dizem: Vamos à casa do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nossos pés estão [adentro] de tuas portas, ó Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jerusalém está edificada como uma cidade bem unida;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para onde as tribos sobem, as tribos do SENHOR, como testemunho de Israel, para agradecerem ao nome do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ali estão as cadeiras do julgamento; as cadeiras da casa de Davi."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Orai pela paz de Jerusalém; prosperem os que te amam."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Paz haja em teus muros, e prosperidade em tuas fortalezas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por meus irmãos e amigos, assim falarei: Paz haja em ti."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pela Casa do SENHOR nosso Deus, buscarei o bem para ti."
+                }
+            ]
+        }
+    ]
+}

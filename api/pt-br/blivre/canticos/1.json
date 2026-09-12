@@ -1,0 +1,160 @@
+{
+    "book": "canticos",
+    "name": "Cânticos",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos cânticos, que é de Salomão."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ela] : Beije-me ele com os beijos de sua boca, porque teu amor é melhor do que o vinho."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O cheiro dos teus perfumes é agradável; teu nome é [como] perfume sendo derramado, por isso as virgens te amam."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma-me contigo, e corramos; traga-me o rei aos seus quartos.[Moças] : Em ti nos alegraremos e nos encheremos de alegria; nos agradaremos mais de teu amor do que do vinho;[Ela] : Elas estão certas em te amar;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou morena, porém bela, ó filhas de Jerusalém: [morena] como as tendas de Quedar, [bela] como as cortinas de Salomão."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não fiquem me olhando por eu ser morena, pois o sol brilhou sobre mim; os filhos de minha mãe se irritaram contra mim, [e] me puseram para cuidar de vinhas; [porém] minha própria vinha, que me pertence, não cuidei."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dize-me, amado de minha alma: onde apascentas [o teu gado] ? Onde [o] recolhes ao meio- dia? Para que ficaria eu como que coberta com um véu por entre os gados de teus colegas?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ele] : Se tu, a mais bela entre as mulheres, não sabes, sai pelos rastros das ovelhas, e apascenta tuas cabras junto às tendas dos pastores."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu te comparo, querida, às éguas das carruagens de Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradáveis são tuas laterais da face entre os enfeites, teu pescoço entre os colares."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enfeites de ouro faremos para ti, com detalhes de prata."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ela] : Enquanto o rei está sentado à sua mesa, meu nardo dá a sua fragrância."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu amado é para mim [como] um saquinho de mirra que passa a noite entre meus seios;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu amado é para mim [como] um ramalhete de hena nas vinhas de Engedi."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ele] : Como tu és bela, minha querida! Como tu és bela! Teus olhos são [como] pombas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ela] : Como tu és belo, meu amado! Como [tu és] agradável! E o nosso leito se enche de folhagens."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As vigas de nossa casa são os cedros, e nossos caibros os ciprestes."
+                }
+            ]
+        }
+    ]
+}

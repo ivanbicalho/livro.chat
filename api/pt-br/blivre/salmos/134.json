@@ -1,0 +1,34 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 134,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos degraus:Bendizei, pois, ao SENHOR, todos vós servos do SENHOR, que prestais serviço à casa do SENHOR durante as noites."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantai vossas mãos ao Santuário, e bendizei ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que o SENHOR, o criador do céu e da terra, te abençoe desde Sião."
+                }
+            ]
+        }
+    ]
+}

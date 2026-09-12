@@ -1,0 +1,97 @@
+{
+    "book": "1tessalonicenses",
+    "name": "1 Tessalonicenses",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Paulo, Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus Pai, e no Senhor Jesus Cristo; haja convosco a graça e a paz."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sempre damos graças a Deus por todos vós, fazendo menção [de vós] em nossas orações."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, diante do nosso Deus e Pai, nós nos lembramos sem cessar da obra da vossa fé, do trabalho do amor, e da firmeza da esperança no nosso Senhor Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sabemos, irmãos amados por Deus, que [por ele] fostes escolhidos,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "pois o nosso evangelho não foi até vós somente com palavras, mas também com poder, com o Espírito Santo, e com plena certeza; assim como sabeis de que maneira estivemos entre vós para o vosso benefício."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vos tornastes imitadores nossos e do Senhor. [Mesmo] em meio a muita aflição, recebestes a palavra com a alegria do Espírito Santo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dessa maneira vos tornastes referência a todos os crentes na Macedônia e Acaia."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois de vós ressoou a palavra do Senhor, não somente na Macedônia e Acaia, mas a vossa fé em Deus se espalhou em todo lugar, de tal maneira que não precisamos falar coisa alguma."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eles mesmos anunciam como fomos recebidos por vós, e como vos convertestes, deixando os ídolos, para servir ao Deus vivo e verdadeiro;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e para esperar dos céus o seu Filho, a quem ele ressuscitou dos mortos: Jesus, que nos livra da ira futura."
+                }
+            ]
+        }
+    ]
+}

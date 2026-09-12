@@ -1,0 +1,259 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 45,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não podia já José se conter diante de todos os que estavam ao seu lado, e clamou: Fazei sair de minha presença a todos. E não ficou ninguém com ele, ao dar-se a conhecer José a seus irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se deu a chorar por voz em grito; e ouviram os egípcios, e ouviu também a casa de Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse José a seus irmãos: Eu sou José: vive ainda meu pai? E seus irmãos não puderam lhe responder, porque estavam perturbados diante dele."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então disse José a seus irmãos: Achegai-vos agora a mim. E eles se achegaram. E ele disse: Eu sou José vosso irmão o que vendestes para o Egito."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, pois, não vos entristeçais, nem vos pese de haver me vendido aqui; que para preservação de vida me enviou Deus diante de vós:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que já houve dois anos de fome em meio da terra, e ainda restam cinco anos em que nem haverá arada nem colheita."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Deus me enviou adiante de vós, para que vós restásseis na terra, e para vos dar vida por meio de grande salvamento."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim, pois, não me enviastes vós aqui, mas sim Deus, que me pôs por pai de Faraó, e por senhor de toda sua casa, e por governador de toda a terra do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Apressai-vos, ide a meu pai e dizei-lhe: Assim diz teu filho José: Deus me pôs por senhor de todo Egito; vem a mim, não te detenhas:"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E habitarás na terra de Gósen, e estarás perto de mim, tu e teus filhos, e os filhos de teus filhos, teus gados e tuas vacas, e tudo o que tens."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ali te alimentarei, pois ainda restam cinco anos de fome, para que não pereças de pobreza tu e tua casa, e tudo o que tens:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que, vossos olhos veem, e os olhos de meu irmão Benjamim, que meu boca vos fala."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fareis pois saber a meu pai toda minha glória no Egito, e tudo o que vistes: e apressai-vos, e trazei a meu pai aqui."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lançou-se sobre o pescoço de Benjamim seu irmão, e chorou; e também Benjamim chorou sobre seu pescoço."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E beijou a todos os seus irmãos, e chorou sobre eles: e depois seus irmãos falaram com ele."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ouviu-se a notícia na casa de Faraó, dizendo: Os irmãos de José vieram. E pareceu bem aos olhos de Faraó e de seus servos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Faraó a José: Dize a teus irmãos: Fazei isto: carregai vossos animais, e ide, voltai à terra de Canaã;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomai a vosso pai e vossas famílias, e vinde a mim, que eu vos darei o bom da terra do Egito e comereis a gordura da terra."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tu manda: Fazei isto: tomai para vós da terra do Egito carros para vossos filhos e vossas mulheres; e tomai a vosso pai, e vinde."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não se vos dê nada de vossos pertences, porque o bem da terra do Egito será vosso."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fizeram-no assim os filhos de Israel: e deu-lhes José carros conforme a ordem de Faraó, e deu alimentos para o caminho."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A cada um de todos eles deu mudas de roupas, e a Benjamim deu trezentas peças de prata, e cinco mudas de roupas."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a seu pai enviou isto: dez asnos carregados do melhor do Egito, e dez asnas carregadas de trigo, e pão e comida, para seu pai no caminho."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E despediu a seus irmãos, e foram-se. E ele lhes disse: Não brigais pelo caminho."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E subiram do Egito, e chegaram à terra de Canaã a Jacó seu pai."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deram-lhe as novas, dizendo: José vive ainda; e ele é senhor toda a terra do Egito. E seu coração se desmaiou; pois não cria neles."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles lhe contaram todas as palavras de José, que ele lhes havia falado; e vendo ele os carros que José enviava para levá-lo, o espírito de Jacó seu pai reviveu."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então disse Israel: Basta; José meu filho vive ainda: irei, e lhe verei antes que eu morra."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,529 @@
+{
+    "book": "1corintios",
+    "name": "1 Coríntios",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também irmãos, eu vos declaro o Evangelho, que já vos tenho anunciado, o qual também recebestes, no qual também estais."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo qual também sois salvos, se retiverdes a palavra naquela maneira, em que eu vos tenho anunciado; a não ser se tenhais crido em vão."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque primeiramente vos entreguei o que também recebi, que Cristo morreu por nossos pecados, segundo as Escrituras;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que foi visto por Cefas, depois pelos doze."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois foi visto de uma fez por mais de quinhentos irmãos, dos quais a maioria [ainda] vive, e também alguns já dormem."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois foi visto por Tiago; depois por todos os apóstolos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por último de todos também foi visto por mim, como que a um nascido fora do tempo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu sou o menor dos apóstolos, que não sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas pela graça de Deus sou o que sou; e sua graça [concedida] a mim não foi vã; ao invés disso trabalhei muito mais que todos eles; porém não eu, mas a graça de Deus que está comigo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, seja eu, sejam eles, assim pregamos, e assim crestes."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se é pregado que Cristo ressuscitou dos mortos, como dizem alguns dentre vós, que não há ressurreição dos mortos?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se não há ressurreição dos mortos, [então] Cristo não ressuscitou."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se Cristo não ressuscitou, então é vã nossa pregação, e vã também é vossa fé."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E assim também somos encontrados como falsas testemunhas de Deus; pois testemunhamos de Deus, que ressuscitou a Cristo, ao qual [porém] não ressuscitou, se na verdade os mortos não ressuscitam."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque se os mortos não ressuscitam, [então] Cristo também não ressuscitou."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se Cristo não ressuscitou, vossa fé é vá, [e] ainda estais em vossos pecados."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto também pereceram os que dormiram em Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se nesta vida esperamos somente em Cristo, somos os mais miseráveis de todas as pessoas."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas de fato Cristo ressuscitou dos mortos, [e] foi feito as primícias dos que dormiram."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois dado que a morte [veio] por um homem, também por um homem [veio] a ressurreição dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque assim como em Adão todos morrem, assim também em Cristo todos serão vivificados."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas cada um em sua ordem; Cristo, as primícias; depois os que são de Cristo, em sua vinda."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois será o fim, quando entregar o Reino de Deus e ao Pai, quando aniquilar todo domínio, e toda autoridade e poder."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque convém que ele reine, até que tenha posto todos os inimigos debaixo de seus pés."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O último inimigo, que será aniquilado, [é] a morte."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele sujeitou todas as coisas debaixo de seus pés. Porém quando diz que todas as coisas [lhe] estão sujeitas, está claro que se excetua aquele que todas as coisas lhe sujeitou."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando todas as coisas lhe forem sujeitas, então também o mesmo Filho se sujeitará a aquele, que todas as coisas lhe sujeitou, para que Deus seja tudo em todos."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De outra maneira, que farão os que se batizam pelos mortos, se totalmente os mortos não ressuscitam? Por que, então, se batizam pelos mortos?"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que também nós à toda hora estamos em perigo?"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A cada dia eu morro pelo orgulho que tenho por vós, em Cristo Jesus nosso Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se por motivo humano lutei contra feras em Éfeso, qual é o meu proveito? Se os mortos não ressuscitam, comamos e bebamos, que amanhã morreremos."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não erreis. As más companhias corrompem os bons costumes."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Despertai para a justiça, e não pequeis; porque alguns [ainda] não têm o conhecimento de Deus. Eu digo isto para vossa vergonha."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas alguém dirá: Como ressuscitarão os mortos? E com que corpo virão?"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louco, o que tu semeias não é vivificado, se [primeiro] não morrer."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que semeias, não semeias o corpo que irá brotar, mas o grão nu, como o de trigo, ou de qualquer outro [grão] ."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Deus lhe dá o corpo como quer, e a cada semente seu próprio corpo."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda carne não é a mesma carne; mas uma é a carne humana, e outra a carne dos animais, e outra a dos peixes, e outra a das aves."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E há corpos celestiais, e corpos terrestres; mas uma é a glória dos celestiais, e outra a dos terrestres."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Outra é a glória do Sol, e outra a glória da Lua, e outra a glória das estrelas; porque [uma] estrela difere em glória [de outra] estrela."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim também será a ressurreição dos mortos. Semeia-se [o corpo] degradável, ressuscitará capaz de nunca se degradar."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Semeia-se em desonra, ressuscitará em glória. Semeia-se em fraqueza, ressuscitará em força."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Semeia-se corpo natural, ressuscitará corpo espiritual. Há corpo animal, e há corpo espiritual."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim também está escrito: O primeiro homem, Adão, foi feito em alma vivente; o último Adão em espírito vivificante."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas não é primeiro o espiritual; mas sim o carnal, depois o espiritual."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O primeiro homem da terra [é] terrestre; o segundo homem, [que é] o Senhor, [é] do Céu."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como [é] o terrestre, também [são] os terrestres; e assim como [é] o celestial, também [são] os celestiais."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E assim como trouxemos a imagem do terrestre, assim também traremos a imagem do celestial."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém isto digo, irmãos, que a carne e o sangue não podem herdar o Reino de Deus, nem o que é degradável herda a capacidade de não se degradar."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "eis que eu vos digo um mistério: nem todos em verdade dormiremos; porém todos seremos transformados."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em um momento, em um piscar de olhos, à ultima trombeta; porque a trombeta soará, e os mortos ressuscitarão capazes de não se degradar, e nós seremos transformados."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque é necessário que este [corpo] degradável revista-se da capacidade de não se degradar, e este [corpo] mortal vista a imortalidade."
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando este [corpo] se revestir da capacidade de não se degradar, e este [corpo] mortal se vestir de imortalidade, então se cumprirá a palavra que está escrita: Na vitória, a morte é tragada."
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde está, ó morte, a tua vitória? Onde está, ó morte, o teu aguilhão?"
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O aguilhão da morte é o pecado, e a força do pecado é a Lei."
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas graças a Deus, que nos dá vitória por meio do nosso Senhor Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 58,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, meus amados irmãos, sede firmes, imóveis [e] sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor."
+                }
+            ]
+        }
+    ]
+}

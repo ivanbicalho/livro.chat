@@ -1,0 +1,61 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, para o regente:Até quando, SENHOR, te esquecerás de mim? Para sempre? Até quando tu esconderás de mim o teu rosto?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até quando refletirei em minha alma, [tendo] tristeza em meu coração o dia todo? Até quando o meu inimigo se levantará contra mim?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Olha [para mim, e] ouve-me, SENHOR meu Deus; ilumina os meus olhos, para que eu não adormeça [na] morte."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que meu inimigo não diga: Eu o venci;e meus inimigos se alegrem, se eu vier a cair."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu confio em tua bondade; em tua salvação meu coração se alegrará;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantarei ao SENHOR, porque ele tem me feito muito bem."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 22,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É preferível ter um [bom] nome do que muitas riquezas; e ser favorecido é melhor que a prata e o o ouro."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rico e o pobre se encontram; todos eles foram feitos pelo SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O prudente vê o mal, e se esconde; mas os ingênuos passam e sofrem as consequências."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A recompensa da humildade [e do] temor ao SENHOR são riquezas, honra, e vida."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Há] espinhos e ciladas no caminho do perverso; quem cuida de sua alma deve ficar longe de [tal caminho] ."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Instrui ao menino em seu caminho, e até quando envelhecer, não se desviará dele."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rico domina sobre os pobres, e quem toma emprestado é servo daquele que empresta."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que semeia perversidade colherá sofrimento; e a vara de sua ira se acabará."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem tem olhos bondosos será abençoado, porque deu de seu pão ao pobre."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Expulsa ao zombador, e a briga terminará; cessará a disputa e a vergonha."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem ama a pureza do coração [fala] graciosamente com os lábios, [e] o rei [será] seu amigo."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os olhos do SENHOR protegem o conhecimento; porém ele transtornará as palavras do enganador."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O preguiçoso diz: Há um leão lá fora! Ele me matará nas ruas!"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A boca da mulher pervertida é uma cova profunda; aquele contra quem o SENHOR se irar cairá nela."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A tolice está amarrada ao coração do menino; [mas] a vara da correção a mandará para longe dele."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que oprime ao pobre para proveito próprio e aquele que dá [suborno] ao rico certamente empobrecerão."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Inclina o teu ouvido e escuta as palavras dos sábios; dispõe teu coração ao meu conhecimento;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque é agradável que as guardes dentro de ti, e estejam prontas para os teus lábios;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para que tua confiança esteja no SENHOR, eu as ensino a ti hoje."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso não te escrevi excelentes coisas sobre o conselho e o conhecimento,"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para te ensinar a certeza das palavras da verdade, para que possas responder palavras de verdade aos que te enviarem?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não roubes ao pobre, porque ele é pobre; nem oprimas ao aflito junto à porta do julgamento."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR defenderá a causa deles em juízo, e quanto aos que os roubam, ele lhes roubará a alma."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não seja companheiro de quem se irrita facilmente, nem andes com o homem furioso,"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que não aprendas o caminho dele, e te ponhas em armadilhas para tua alma."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não estejas entre os que se comprometem em acordos com as mãos, [ou] os que ficam por fiadores de dívidas."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se não tens como pagar, por que razão tirariam tua cama debaixo de ti?"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não mudes os limites antigos que teus pais fizeram."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Viste um homem habilidoso em sua obra? Perante a face dos reis ele será posto; ele não será posto diante de pessoas sem honra."
+                }
+            ]
+        }
+    ]
+}

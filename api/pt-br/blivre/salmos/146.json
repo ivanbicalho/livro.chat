@@ -1,0 +1,97 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 146,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aleluia! Louva ao SENHOR, ó minha alma!"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvarei ao SENHOR durante [toda] a minha vida; cantarei louvores a meu Deus enquanto eu [existir] ."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não ponhas tua confiança em príncipes; em filhos de homens, em quem não há salvação."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O espírito dele [s] sai, e volta para sua terra; naquele mesmo dia seus pensamentos perecem."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado aquele que [tem] o Deus de Jacó como sua ajuda, cuja esperança está no SENHOR seu Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que fez os céus e a terra, o mar, e tudo o que neles [há] ; que guarda a fidelidade para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que faz juízo aos oprimidos, que dá pão aos famintos; o SENHOR solta aos presos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR abre [os olhos] dos cegos; o SENHOR levanta aos abatidos; o SENHOR ama aos justos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR guarda os estrangeiros; sustenta o órfão e a viúva; mas põe dificuldades ao caminho dos perversos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR reinará eternamente. Ó Sião, o teu Deus [reinará] geração após geração. Aleluia!"
+                }
+            ]
+        }
+    ]
+}

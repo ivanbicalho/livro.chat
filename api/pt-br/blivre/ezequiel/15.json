@@ -1,0 +1,79 @@
+{
+    "book": "ezequiel",
+    "name": "Ezequiel",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio a mim a palavra do SENHOR, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho do homem, em que é a madeira da videira é melhor que toda madeira? [Ou] o que é o sarmento entre as madeiras do bosque?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso tomam dele madeira para fazer alguma obra? Toma-se dele alguma estaca para pendurar nela algum vaso?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que é posto no fogo para ser consumido; suas duas pontas o fogo consome, e seu meio fica queimado. Por acaso serviria para alguma obra?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que quando estava inteiro não se fazia [dele] obra; menos ainda depois de consumido pelo fogo, tendo se queimado, servir para obra alguma."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto assim diz o Senhor DEUS: Tal como a madeira da videira entre as madeiras do bosque, a qual entreguei ao fogo para que seja consumida, assim entregarei os moradores de Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois porei meu rosto contra eles; ainda que tenham saído do fogo, o fogo os consumirá; e sabereis que eu sou o SENHOR, quando tiver posto meu rosto contra eles."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tonarei a terra em desolação, pois transgrediram gravemente,diz o Senhor DEUS."
+                }
+            ]
+        }
+    ]
+}

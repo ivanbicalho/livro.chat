@@ -1,0 +1,313 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando ele desceu do monte, muitas multidões o seguiram."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que um leproso veio e prostrou-se diante dele, dizendo: Senhor, se quiseres, podes me limpar."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] estendeu a mão e o tocou, dizendo: Quero, sê limpo. E logo ele ficou limpo de sua lepra."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus lhe disse: Tem o cuidado de dizeres a ninguém; mas vai mostrar-te ao sacerdote, e oferece a oferta que Moisés ordenou, para que lhes haja testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando [Jesus] entrou em Cafarnaum, veio a ele um centurião, rogando-lhe,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizendo: Senhor, o meu servo jaz em casa, paralítico, e gravemente atormentado."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E [Jesus] lhe disse: Eu irei, e o curarei."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o centurião respondeu: Senhor, não sou digno de que entres sob meu telhado; mas dize somente uma palavra, e o meu servo sarará."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eu também sou homem debaixo de autoridade, e tenho debaixo de meu comando soldados; e digo a este: “Vai”, e ele vai; e ao outro: “Vem”, e vem; e a meu servo: “Faze isto”, e ele faz."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Jesus ouviu [isto] , maravilhou-se, e disse aos que o seguiam: Em verdade vos digo que ninguém em Israel achei com tanta fé."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu vos digo que muitos virão do oriente e do ocidente, e se sentarão à mesa com Abraão, Isaque, e Jacó, no Reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos do reino, porém, serão lançados nas trevas de fora; ali haverá pranto e ranger de dentes."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus disse ao centurião: Vai, e assim como creste, a ti seja feito.E naquela mesma hora o servo foi sarado."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando Jesus veio à casa de Pedro, viu a sogra dele, deitada e com febre."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele tocou a mão dela, e a febre a deixou. Então ela se levantou e começou a servi-lo."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando chegou o anoitecer, trouxeram-lhe muitos endemoninhados. Ele expulsou-lhes os espíritos com a palavra, e curou todos os que estavam doentes,"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que se cumprisse o que havia sido dito pelo profeta Isaías, que disse: Ele tomou sobre si as nossas enfermidades, e levou as nossas doenças."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus, ao ver uma multidão ao redor de si, mandou que passassem para a outra margem."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então um escriba se aproximou, e disse-lhe: Mestre, eu te seguirei aonde quer que fores."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhe respondeu: As raposas têm covis, e as aves do céu ninhos; mas o Filho do homem não tem onde recostar a cabeça."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outro dos discípulos lhe disse: Senhor, permite-me ir primeiro enterrar meu pai."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jesus lhe disse: Segue-me, e deixa aos mortos enterrarem seus mortos."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele entrou no barco, e seus discípulos o seguiram."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que se levantou no mar uma tormenta tão grande que o barco era coberto pelas ondas; porém ele dormia."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se aproximaram para acordá-lo, dizendo: Senhor, salva-nos! Estamos sendo destruídos!"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes respondeu: Por que temeis, [homens] de pouca fé? Então ele se levantou e repreendeu os ventos e o mar. E houve grande calmaria."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aqueles homens se maravilharam, dizendo: Quem é este, que até os ventos e o mar lhe obedecem?"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando chegou à outra margem, à terra dos gadarenos, vieram-lhe ao encontro dois endemoninhados que tinham saído dos sepulcros. Eles eram tão ferozes que ninguém podia passar por aquele caminho."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que gritaram, dizendo: Que temos contigo, Filho de Deus? Vieste aqui nos atormentar antes do tempo?"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto isso longe deles estava uma manada de muitos porcos pastando."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os demônios rogaram-lhe, dizendo: Se nos expulsares, manda-nos entrar naquela manada de porcos."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes disse: Ide. Então eles saíram, e entraram nos porcos; e eis que toda aquela manada se lançou de um precipício ao mar, e morreram nas águas."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que cuidavam dos porcos fugiram; e ao chegarem à cidade, anunciaram todas [estas] coisas, inclusive o que [havia acontecido] aos endemoninhados."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que toda aquela cidade saiu ao encontro de Jesus; e quando o viram, rogaram-lhe que se retirasse do território deles."
+                }
+            ]
+        }
+    ]
+}

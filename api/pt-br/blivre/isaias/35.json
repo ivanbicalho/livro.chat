@@ -1,0 +1,97 @@
+{
+    "book": "isaias",
+    "name": "Isaías",
+    "chapter": 35,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O deserto e o lugar seco terão prazer disto; e o lugar desabitado se alegrará e florescerá como a rosa."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abundantemente florescerá, e também se encherá de alegria e júbilo; a glória do Líbano lhe será dada, a honra do Carmelo e de Sarom; eles verão a glória do SENHOR, a honra de nosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fortalecei as mãos fracas, e firmai os joelhos que tremem."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizei aos perturbados de coração: Fortalecei-vos! Não temais! Eis que nosso Deus virá para a vingança, aos pagamentos de Deus; ele virá e vos salvará."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os olhos dos cegos serão abertos, e os ouvidos dos surdos se abrirão."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os aleijados saltarão como cervos, e a língua dos mudos falará alegremente; porque águas arrebentarão no deserto, e ribeiros no lugar desabitado."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a terra seca se tornará em lagoas, e a terra sedenta em mananciais de águas; nas habitações em que repousavam os chacais, haverá erva com canas e juncos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ali haverá uma estrada, e um caminho que se chamará caminho da santidade; o impuro não passará por ele, mas será para os [que podem] andar pelo caminho; até mesmo os tolos [que por ele passarem] não errarão."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ali não haverá leão, nem animal selvagem subirá a ele, nem se achará nele; porém os redimidos [por ele] andarão."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os resgatados do SENHOR voltarão, e virão a Sião com júbilo, e alegria eterna haverá sobre suas cabeças; eles terão prazer e alegria, e a tristeza e o gemido [deles] fugirão."
+                }
+            ]
+        }
+    ]
+}

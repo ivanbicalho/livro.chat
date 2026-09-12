@@ -1,0 +1,250 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou a videira verdadeira, e meu Pai é o lavrador."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo ramo que em mim não dá fruto, ele o tira; e todo o que da fruto, ele o limpa, para que dê mais fruto."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós já estais limpos pela palavra que vos tenho falado."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estai em mim, e eu em vós; como o ramo de si mesmo não pode dar fruto, se não estiver na videira, assim vós também não, se não estiverdes em mim."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou a videira, vós [sois] os ramos; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se alguém não estiver em mim, é lançado fora, como o ramo, e seca-se; e os colhem , e os lançam no fogo, e ardem."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se vós estiverdes em mim, e minhas palavras estiverem em vós, tudo o que quiserdes pedireis, e será feito para vós."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nisto é glorificado meu Pai, em que deis muito fruto; e [assim] sereis meus discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como o Pai me amou, também eu vos amei; estai neste meu amor."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se guardardes meus mandamentos, estareis em meu amor. Como eu tenho guardado os mandamentos de meu Pai, e estou em seu amor."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas coisas eu tenho vos dito para que minha alegria esteja em vós, e vossa alegria seja completa."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é meu mandamento: que vos ameis uns aos outros, assim como eu vos amei."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ninguém tem maior amor que este: que alguém ponha sua vida por seus amigos."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós sois meus amigos, se fizerdes o que eu vos mando."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Já não vos chamo mais servos; porque o servo não sabe o que faz seu senhor; mas eu tenho vos chamado de amigos, porque tudo quanto ouvi de meu Pai eu tenho vos feito conhecer."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não [fostes] vós [que] me escolhestes, porém eu vos escolhi, e tenho vos posto para que vades, e deis fruto, e vosso fruto permaneça; para que tudo quanto pedirdes ao Pai em meu nome, ele vos dê."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isto vos mando, para que vos ameis uns aos outros."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se o mundo vos odeia, sabei que odiou a mim antes que a vós."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se vós fôsseis do mundo, o mundo amaria ao seu; mas porque não sois do mundo, antes eu vos escolhi do mundo, por isso o mundo vos odeia."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembrai-vos da palavra que vos tenho dito: não é o servo maior que seu senhor. Se me perseguiram, também vos perseguirão; se guardaram minha palavra, também guardarão a vossa."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas tudo isto vos farão por causa do meu nome; porque não conhecem a aquele que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu não tivesse vindo, nem lhes houvesse falado, não teriam pecado; mas agora já não têm pretexto pelo seu pecado."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem me odeia, também odeia a meu Pai."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu entre eles não tivesse feito obras, que nenhum outro fizera, não teriam pecado; mas agora as viram, e [contudo] odiaram a mim, e a meu Pai."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas [isto é] para que se cumpra a palavra que está escrita em sua Lei: Sem causa me odiaram."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando vier o Consolador, que eu do Pai vos enviarei, aquele Espírito de verdade, que sai do Pai, ele testemunhará de mim."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também vós testemunhareis, pois estivestes comigo desde o princípio."
+                }
+            ]
+        }
+    ]
+}

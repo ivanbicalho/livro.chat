@@ -1,0 +1,97 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 75,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para o regente, conforme “altachete”; salmo e cântico de Asafe:Louvamos a ti, ó Deus; louvamos, e perto [está] o teu nome; são anunciadas as tuas maravilhas."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que eu recebi, no [tempo] determinado, julgarei de forma justa."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terra e todos os seus moradores [são] dissolvidos; [porém] eu fortifiquei suas colunas. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu disse aos orgulhosos: Não sejais orgulhosos!E aos perversos: Não exalteis o vosso poder!"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não confieis em vosso poder, nem faleis com arrogância."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a exaltação não vem do oriente, nem do ocidente, nem do deserto;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas sim [de] Deus, que é o Juiz; ele abate a um, e exalta a outro."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR [tem] um copo na mão; com vinho espumado, cheio de mistura, e ele o derramará; e os perversos da terra o beberão e sugarão até seus restos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu [o] anunciarei para sempre; cantarei louvores ao Deus de Jacó."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E cortarei todas as arrogâncias dos perversos; [mas] os rostos dos justos serão exaltados."
+                }
+            ]
+        }
+    ]
+}

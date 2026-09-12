@@ -1,0 +1,322 @@
+{
+    "book": "marcos",
+    "name": "Marcos",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] entrou outra vez numa sinagoga; e estava ali um homem que tinha uma mão definhada."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E prestavam atenção nele, se o curaria no sábado, para o acusarem."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E [Jesus] disse ao homem que tinha a mão definhada: Levanta-te, e vem para o meio."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes:É lícito no sábado fazer o bem, ou o mal? Salvar uma pessoa, ou matá-la? E mantiveram-se calados."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E olhando ao redor para eles com indignação, sentindo pena da dureza dos seus corações, disse ao homem: Estende a mão. E ele estendeu; e sua mão foi restaurada ."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim que os fariseus saíram, tiveram reunião com os herodianos contra ele, para combinarem sobre como o matariam."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus retirou-se com os seus discípulos para o mar; e seguiu-o uma grande multidão da Galileia, da Judeia,"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "de Jerusalém, da Idumeia, dalém do Jordão, e das proximidades de Tiro e de Sidom; uma grande multidão, tendo ouvido quão grandes coisas fazia, vieram a ele."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse aos seus discípulos que um barquinho ficasse continuamente perto dele, por causa das multidões; para que não o apertassem."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois havia curado muitos, de maneira que todos quantos tinham algum mal lançavam-se sobre ele a fim de tocá-lo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os espíritos imundos, quando o viam, prostravam-se diante dele, e exclamavam: Tu és o Filho de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas [Jesus] os repreendia muito, para que não manifestassem quem ele era."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele subiu ao monte, e chamou para si os que quis; então vieram a ele."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E constituiu doze para que estivessem com ele, para enviá-los a pregar,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para que tivessem poder de expulsar os demônios."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eram eles: Simão, a quem pôs por nome Pedro;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tiago [filho] de Zebedeu, e João, irmão de Tiago; e pôs-lhes por nome Boanerges, que significa “filhos do trovão”;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e André, Filipe, Bartolomeu, Mateus, Tomé; Tiago [filho] de Alfeu; Tadeu; Simão o zelote;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e Judas Iscariotes, o que o traiu."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando [Jesus] foi para uma casa, outra vez se ajuntou uma multidão, de maneira que nem sequer podiam comer pão."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os seus [familiares] , ao ouvirem isso, saíram para detê-lo, porque diziam: “Ele stá fora de si”."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os escribas que haviam descido de Jerusalém diziam: Ele tem Belzebu, e é pelo chefe dos demônios que expulsa demônios."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então [Jesus] os chamou, e lhes disse por parábolas: Como pode Satanás expulsar Satanás?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se algum reino estiver dividido contra si mesmo, tal reino não pode durar;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e se alguma casa estiver dividida contra si mesma, tal casa não pode durar firme."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se Satanás se levantar contra si mesmo, e for dividido, não pode durar, mas tem fim."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ninguém pode roubar os bens do valente, quando se entra na casa dele, se antes não amarrar ao valente; depois disso roubará a sua casa."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade vos digo que todos os pecados serão perdoados aos filhos dos homens, e todas as blasfêmias com que blasfemarem;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "mas quem blasfemar contra o Espírito Santo ficará sem perdão para sempre; em vez disso, é culpado do pecado eterno."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois diziam: “Ele tem espírito imundo”."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então chegaram a sua mãe e os seus irmãos; e estando de fora, mandaram chamá-lo."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A multidão estava sentada ao redor dele. Então disseram-lhe: Eis que a tua mãe , os teus irmãos , e as tuas irmãs estão lá fora a te procurar."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele lhes respondeu: Quem é a minha mãe e os meus irmãos?"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, olhando em redor aos que estavam sentados perto dele, disse: Eis aqui minha mãe e meus irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem fizer a vontade de Deus, esse é meu irmão, irmã, e mãe."
+                }
+            ]
+        }
+    ]
+}

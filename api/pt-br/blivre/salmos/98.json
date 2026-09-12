@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 98,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo:Cantai ao SENHOR uma canção nova, porque ele fez maravilhas; sua mão direita e seu santo braço lhe fez ter a salvação."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR fez ser conhecida sua salvação; perante os olhos das nações ele mostrou sua justiça."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele se lembrou de sua bondade e de sua fidelidade para com a casa de Israel; todos os confins da terra viram a salvação de nosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Gritai de alegria ao SENHOR, toda a terra; clamai, cantai alegres, e tocai salmos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tocai ao SENHOR com harpa; com harpa, e com a voz da música;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com trombetas, e som de cornetas, clamai alegremente diante do Rei SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Faça barulho o mar com sua plenitude; o mundo com os que nele habitam."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que os rios batam palmas, que as montanhas juntamente se alegrem,"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Diante do SENHOR, porque ele vem para julgar a terra; ele julgará ao mundo com justiça, e aos povos de forma correta."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 17,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, e toma deles uma vara por cada casa dos pais, de todos os príncipes deles, doze varas conforme as casas de seus pais; e escreverás o nome de cada um sobre sua vara."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E escreverás o nome de Arão sobre a vara de Levi; porque cada cabeça de família de seus pais terá uma vara."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as porás no tabernáculo do testemunho diante do testemunho, onde eu me declararei a vós."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será, que o homem que eu escolher, sua vara florescerá: e farei cessar de sobre mim as queixas dos filhos de Israel, com que murmuram contra vós."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés falou aos filhos de Israel, e todos os príncipes deles lhe deram varas; cada príncipe pelas casas de seus pais uma vara, em todas doze varas; e a vara de Arão estava entre as varas deles."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés pôs as varas diante do SENHOR no tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que no dia seguinte veio Moisés ao tabernáculo do testemunho; e eis que a vara de Arão da casa de Levi havia brotado, e produzido flores, e lançado renovos, e produzido amêndoas."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então tirou Moisés todas as varas de diante do SENHOR a todos os filhos de Israel; e eles o viram, e tomaram cada um sua vara."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés: Volta a vara de Arão diante do testemunho, para que se guarde por sinal aos filhos rebeldes; e farás cessar suas queixas de sobre mim, para que não morram."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o fez Moisés: como lhe mandou o SENHOR, assim fez."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os filhos de Israel falaram a Moisés, dizendo: Eis que nós somos mortos, perdidos somos, todos nós somos perdidos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qualquer um que se chegar, o que se aproximar ao tabernáculo do SENHOR morrerá: Acabaremos de perecer todos?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 47,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo para o regente, dos filhos de Coré:Vós todos os povos, batei palmas; clamai a Deus com voz de alegria."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR Altíssimo [é] temível, o grande Rei sobre toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele subjugará aos povos debaixo de nós, e as nações debaixo de nossos pés."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele escolhe para nós nossa herança, a glória de Jacó, a quem ele amou. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus sobe com gritos de alegria; o SENHOR, com voz de trombeta."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai louvores a Deus, cantai; cantai louvores ao nosso Rei, cantai."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque Deus é o Rei de toda a terra; cantai louvores com entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus reina sobre as nações; Deus se senta sobre o trono de sua santidade."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os chefes dos povos se juntaram ao povo do Deus de Abraão, porque os escudos da terra pertencem a Deus, [e] ele é muito exaltado."
+                }
+            ]
+        }
+    ]
+}

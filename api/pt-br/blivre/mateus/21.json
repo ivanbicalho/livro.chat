@@ -1,0 +1,421 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 21,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando se aproximaram de Jerusalém, e chegaram a Betfagé, ao monte das Oliveiras, então Jesus mandou dois discípulos, dizendo-lhes:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ide à aldeia em vossa frente, e logo achareis uma jumenta amarrada, e um jumentinho com ela; desamarra-a, e trazei-os a mim."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém vos disser algo, direis: “O Senhor precisa deles, mas logo os devolverá”."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, isto aconteceu para que se cumprisse o que foi dito pelo profeta, que disse:"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizei à filha de Sião: “Eis que o teu rei vem a ti, manso, e sentado sobre um jumento; um jumentinho, filho de uma animal de carga”."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os discípulos foram, e fizeram como Jesus havia lhes mandado;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então trouxeram a jumenta e o jumentinho, puseram as capas sobre eles, e ele montou sobre elas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E uma grande multidão estendia suas roupas pelo caminho, e outros cortavam ramos das árvores, e os espalhavam pelo caminho."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as multidões que iam adiante dele, e as que seguiam, clamavam: Hosana ao Filho de Davi! Bendito o que vem no nome do Senhor! Hosana nas alturas!"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto ele entrava em Jerusalém, toda a cidade se alvoroçou, perguntando: Quem é este?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as multidões respondiam: Este é o Profeta Jesus, de Nazaré de Galileia."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus entrou no Templo; então expulsou todos os que estavam vendendo e comprando no Templo, e virou as mesas dos cambistas e as cadeiras dos que vendiam pombas."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes: Está escrito: “Minha casa será chamada casa de oração”; mas vós a tornais em covil de ladrões!"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E cegos e mancos vieram a ele no Templo, e ele os curou."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os chefes dos sacerdotes e os escribas viram as maravilhas que ele fazia, e as crianças gritando no Templo: “Hosana ao Filho de Davi!”, eles ficaram indignados."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perguntaram-lhe: Ouves o que estas [crianças] dizem? E Jesus lhes respondeu: Sim. Nunca lestes: “Da boca das crianças e dos bebês providenciaste o louvor?”"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele os deixou, e saiu da cidade para Betânia, e ali passou a noite."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pela manhã, enquanto voltava para a cidade, teve fome."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando ele viu uma figueira perto do caminho, veio a ela, mas nada nela achou, a não ser somente folhas. E disse-lhe: Nunca de ti nasça fruto, jamais!E imediatamente a figueira se secou."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os discípulos viram, e ficaram maravilhados, dizendo: Como a figueira se secou de imediato?"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jesus lhes respondeu: Em verdade vos digo: se tiverdes fé, e não duvidardes, vós não somente fareis isto à figueira, mas até se disserdes a este monte: “Levanta-te, e lança-te no mar”, isso se fará."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tudo o que pedirdes em oração, crendo, recebereis."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois de entrar no templo, quando ele estava ensinando, os chefes dos sacerdotes e os anciãos do povo se aproximaram dele, perguntando: Com que autoridade fazes isto? E quem te deu esta autoridade?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhes respondeu: Eu também vos farei uma pergunta. Se vós a responderdes a mim, também eu vos responderei com que autoridade faço isto."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De onde era o batismo de João? Do céu, ou dos seres humanos?E eles pensaram entre si mesmos, dizendo: Se dissermos: “Do céu”, ele nos dirá: “Por que, então, não crestes nele?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se dissermos: “Dos seres humanos”, temos medo da multidão, pois todos consideram João como profeta."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então responderam a Jesus: Não sabemos. E ele lhes disse: Nem eu vos digo com que autoridade faço isto."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas que vos parece? Um homem tinha dois filhos. Aproximando-se do primeiro, disse: “Filho, vai hoje trabalhar na minha vinha.”"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele respondeu: “Eu [vou] , senhor”, mas não foi."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, aproximando-se do segundo, disse da mesma maneira. E ele respondeu: “Não quero”; mas depois se arrependeu, e foi."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qual dos dois fez a vontade do pai? Eles lhe responderam: O segundo. Jesus lhes disse: Em verdade vos digo que os publicanos e as prostitutas estão indo adiante de vós ao Reino de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois João veio a vós mesmos no caminho de justiça, mas não crestes nele; enquanto que os publicanos e as prostitutas nele creram. Vós, porém, mesmo tendo visto [isto] , nem assim vos arrependestes, a fim de nele crer."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi outra parábola. Havia um homem, dono de uma propriedade. Ele plantou uma vinha, cercou-a, fundou nela uma prensa de uvas, e construiu uma torre. Depois a arrendou a uns lavradores, e partiu-se para um lugar distante."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando chegou o tempo dos frutos, enviou seus servos aos lavradores, para receberem os frutos que a ele pertenciam."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os lavradores tomaram os seus servos, e feriram um, mataram outro, e apedrejaram outro."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Outra vez enviou outros servos, em maior número que os primeiros, mas fizeram-lhes o mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por último lhes enviou o seu filho, dizendo: “Respeitarão ao meu filho”."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando os lavradores viram o filho, disseram entre si: “Este é o herdeiro. Venhamos matá-lo, e tomemos a sua herança”."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o agarraram, lançaram-no para fora da vinha, e o mataram."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, quando o senhor da vinha chegar, o que fará com aqueles lavradores?"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles lhe responderam: Aos maus dará uma morte má, e arrendará a vinha a outros lavradores, que lhe deem os frutos em seus tempos [de colheita] ."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhes disse: Nunca lestes nas Escrituras: “A pedra que os construtores rejeitaram, essa se tornou cabeça da esquina. Isto foi feito pelo Senhor, e é maravilhoso aos nossos olhos”?"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto eu vos digo que o reino de Deus será tirado de vós, e será dado a um povo que produza os frutos dele."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quem cair sobre esta pedra será quebrado; mas sobre quem ela cair, ela o tornará em pó."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os chefes dos sacerdotes e os fariseus ouviram estas suas parábolas, entenderam que [Jesus] estava falando deles."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E procuravam prendê-lo, mas temeram as multidões, pois elas o consideravam profeta."
+                }
+            ]
+        }
+    ]
+}

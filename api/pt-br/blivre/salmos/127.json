@@ -1,0 +1,52 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 127,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos degraus, de Salomão:Se o SENHOR não estiver edificando a casa, em vão trabalham nela seus construtores; se o SENHOR não estiver guardando a cidade, em vão o guarda vigia."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Inutilmente levantais de madrugada [e] descansais tarde, para comerdes o pão de dores; [porque] assim ele dá sono a quem ele ama."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que os filhos são um presente do SENHOR; o fruto do ventre é uma recompensa."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como flechas na mão do guerreiro, assim são os filhos da juventude."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado é o homem que enche deles seu porta-flechas; eles não serão envergonhados, quando falarem com os inimigos à porta."
+                }
+            ]
+        }
+    ]
+}

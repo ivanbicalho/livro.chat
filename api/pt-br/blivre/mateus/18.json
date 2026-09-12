@@ -1,0 +1,322 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 18,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquela hora os discípulos se aproximaram de Jesus, e perguntaram: Ora, quem é o maior no Reino dos céus?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus chamou a si uma criança, e a pôs no meio deles,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e disse: Em verdade vos digo, que se vós não converterdes, e fordes como crianças, de maneira nenhuma entrareis no Reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim, qualquer um que for humilde como esta criança, este é o maior no reino dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que receber a uma criança como esta em meu nome, recebe a mim."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas qualquer um que conduzir ao pecado a um destes pequeninos que creem em mim, melhor lhe fora que uma grande pedra de moinho lhe fosse pendurada ao pescoço, e se afundasse no fundo do mar."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai do mundo por causa das tentações do pecado! Pois é necessário que as tentações venham, mas ai da pessoa por quem a tentação vem!"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, se a tua mão ou o teu pé te faz pecar, corta-os, e lança-os de ti; melhor te é entrar aleijado ou manco na vida do que, tendo duas mãos ou dois pés, ser lançado no fogo eterno."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se o teu olho te faz pecar, arranca-o, e lança-o de ti. Melhor te é entrar com um olho na vida do que, tendo dois olhos, ser lançado no inferno de fogo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Olhai para que não desprezeis a algum destes pequeninos; porque eu vos digo que os seus anjos nos céus sempre veem a face do meu Pai, que [está] nos céus."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que vos parece? Se alguém tivesse cem ovelhas, e uma delas se desviasse, por acaso não iria ele pelos montes, deixando as noventa e nove, em busca da desviada?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se acontecesse de achá-la, em verdade vos digo que ele se alegra mais daquela, do que das noventa e nove que se não desviaram."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da mesma maneira, não é da vontade do vosso Pai, que [está] nos céus, que um sequer destes pequeninos se perca."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, se teu irmão pecar, vai repreendê-lo entre ti e ele só; se te ouvir, ganhaste o teu irmão."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se não ouvir, toma ainda contigo um ou dois, para que toda palavra se confirme pela boca de duas ou três testemunhas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se não lhes der ouvidos, comunica à igreja; e se também não der ouvidos à igreja, considera-o como gentio e publicano."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade vos digo que tudo o que vós ligardes na terra será ligado no céu; e tudo o que desligardes na terra será desligado no céu."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E digo-vos tambémem verdade que, se dois de vós concordarem na terra acerca de qualquer coisa que pedirem, isso lhes será feito por meu Pai, que [está] nos céus."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois onde dois ou três estiverem reunidos em meu nome, ali eu estou no meio deles."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pedro aproximou-se , e perguntou-lhe: Senhor, até quantas vezes meu irmão pecará contra mim, e eu lhe perdoarei? Até sete?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhe respondeu: Eu não te digo até sete, mas sim até setenta vezes sete."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso o Reino dos céus é comparável a um certo rei, que quis fazer acerto de contas com os seus servos."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E começando a fazer acerto de contas, foi-lhe apresentado um que lhe devia dez mil talentos."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como ele não tinha com que pagar, o seu senhor mandou que ele, sua mulher, filhos, e tudo quanto tinha fossem vendidos para se fazer o pagamento."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então aquele servo caiu e ficou prostrado diante dele, dizendo: “Tem paciência comigo, e tudo te pagarei”."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O senhor daquele servo compadeceu-se dele, então o soltou e lhe perdoou a dívida."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todavia, depois daquele servo sair, achou um companheiro de serviço seu, que lhe devia cem denários; então o agarrou e o sufocou, dizendo: “Paga o que [me] deves!”"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o seu colega se prostrou, e lhe suplicou, dizendo: “Tem paciência comigo, e tudo te pagarei”."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ele não quis. Em vez disso foi lançá-lo na prisão até que pagasse a dívida."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os seus companheiros de serviço viram o que se passava, entristeceram-se muito. Então vieram denunciar ao seu senhor tudo o que havia se passado."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim o seu senhor o chamou, e lhe disse: “Servo mau! Toda aquela dívida te perdoei, porque me suplicaste."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não tinhas tu a obrigação de ter tido misericórdia do sevo colega teu, assim como eu tive misericórdia de ti?”"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, enfurecido, o seu senhor o entregou aos torturadores até que pagasse tudo o que lhe devia."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim também meu Pai celestial vos fará, se não perdoardes de coração cada um ao seu irmão."
+                }
+            ]
+        }
+    ]
+}

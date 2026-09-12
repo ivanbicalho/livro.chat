@@ -1,0 +1,142 @@
+{
+    "book": "tito",
+    "name": "Tito",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, porém, fala o que convém à sã doutrina;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aos velhos, que sejam sóbrios, respeitáveis, prudentes, sãos na fé, no amor e na paciência."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Às velhas, da mesma maneira, [tenham] bons costumes, como convém a santas; não caluniadoras, não viciadas em muito vinho, mas sim instrutoras daquilo que é bom;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para ensinarem às moças a serem prudentes, a amarem a seus maridos, a amarem a seus filhos;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A serem moderadas, puras, boas donas de casa, sujeitas a seus próprios maridos, para que a palavra de Deus não seja blasfemada."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exorta semelhantemente aos rapazes, que sejam moderados."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em tudo mostra a ti mesmo como exemplo de boas obras; na doutrina, [mostra] incorrupção, dignidade, sinceridade;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Uma palavra sã [e] irrepreensível, para que [qualquer] opositor se envergonhe, nada tendo de mal para dizer contra vós."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que os servos sejam sujeitos a seus próprios senhores, sendo agradáveis em tudo, [e] não falando contra [eles] ."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não [lhes] furtando, mas sim mostrando toda a boa lealdade; para que em tudo adornem a doutrina de Deus nosso Salvador."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a graça salvadora de Deus se manifestou a todos os homens."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ensinando-nos que, ao renunciarmos à irreverência e aos maus desejos mundanos, vivamos neste tempo presente de maneira sóbria, justa e devota."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O qual deu a si mesmo por nós, para nos libertar de toda injustiça, e para purificar para si mesmo um povo particular, zeloso de boas obras."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala estas coisas, exorta, e repreende com toda autoridade. Ninguém te despreze."
+                }
+            ]
+        }
+    ]
+}

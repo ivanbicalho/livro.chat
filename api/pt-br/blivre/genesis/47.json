@@ -1,0 +1,286 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 47,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E José veio, e fez saber a Faraó, e disse: Meu pai e meus irmãos, e suas ovelhas e suas vacas, com tudo o que têm, vieram da terra de Canaã, e eis que, estão na terra de Gósen."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dentre seus irmãos tomou cinco homens, e os apresentou diante de Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Faraó disse a seus irmãos: Qual é vosso ofício? E eles responderam a Faraó: Pastores de ovelhas são teus servos, tanto nós como nossos pais."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram ademais a Faraó: Por morar nesta terra viemos; porque não há pasto para as ovelhas de teus servos, pois a fome é grave na terra de Canaã: portanto, te rogamos agora que habitem teus servos na terra de Gósen."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Faraó falou a José, dizendo: Teu pai e teus irmãos vieram a ti;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terra do Egito diante de ti está; no melhor da terra faze habitar a teu pai e a teus irmãos; habitem na terra de Gósen; e se entendes que há entre eles homens competentes, põe-os por administradores do meu gado."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E José introduziu a seu pai, e apresentou-o diante de Faraó; e Jacó abençoou a Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Faraó a Jacó: Quantos são os dias dos anos de tua vida?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó respondeu a Faraó: Os dias dos anos de minha peregrinação são cento e trinta anos; poucos e maus foram os dias dos anos de minha vida, e não chegaram aos dias dos anos da vida de meus pais nos dias de sua peregrinação."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó abençoou a Faraó, e saiu-se de diante de Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim José fez habitar a seu pai e a seus irmãos, e deu-lhes possessão na terra do Egito, no melhor da terra, na terra de Ramessés como mandou Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alimentava José a seu pai e a seus irmãos, e a toda a casa de seu pai, de pão, segundo o número de seus filhos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não havia pão toda a terra, e a fome era muito grave; pelo que desfaleceu de fome a terra do Egito e a terra de Canaã."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E recolheu José todo o dinheiro que se achou na terra do Egito e na terra de Canaã, pelos alimentos que dele compravam; e meteu José o dinheiro na casa de Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acabado o dinheiro da terra do Egito e da terra de Canaã, veio todo Egito a José dizendo: Dá-nos pão: por que morreremos diante de ti, por haver-se acabado o dinheiro?"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E José disse: Dai vossos gados, e eu vos darei por vossos gados, se se acabou o dinheiro."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles trouxeram seus gados a José; e José lhes deu alimentos por cavalos, e pelo rebanho das ovelhas, e pelo rebanho das vacas, e por asnos: e sustentou-os de pão por todos os seus gados aquele ano."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acabado aquele ano, vieram a ele o segundo ano, e lhe disseram: Não encobriremos a nosso senhor que o dinheiro certamente se acabou; também o gado é já de nosso senhor; nada restou diante de nosso senhor a não ser nossos corpos e nossa terra."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que morreremos diante de teus olhos, tanto nós como nossa terra? Compra a nós e a nossa terra por pão, e seremos nós e nossa terra servos de Faraó; e dá-nos semente para que vivamos e não morramos, e não seja assolada a terra."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então comprou José toda a terra do Egito para Faraó; pois os egípcios venderam cada um suas terras, porque se agravou a fome sobre eles: e a terra veio a ser de Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao povo o fez passar às cidades desde um fim do termo do Egito até o outro fim."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Somente a terra dos sacerdotes não comprou, porquanto os sacerdotes tinham ração de Faraó, e eles comiam sua ração que Faraó lhes dava: por isso não venderam sua terra."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E José disse ao povo: Eis que comprei hoje vós e vossa terra para Faraó: vede aqui semente, e semeareis a terra."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será que dos frutos dareis o quinto a Faraó, e as quatro partes serão vossas para semear as terras, e para vosso mantimento, e dos que estão em vossas casas, e para que comam vossos meninos."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles responderam: A vida nos deste: achemos favor aos olhos de meu senhor, e sejamos servos de Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então José o pôs por estatuto até hoje sobre a terra do Egito, assinalando para Faraó o quinto; exceto somente a terra dos sacerdotes, que não foi de Faraó."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim habitou Israel na terra do Egito, na terra de Gósen; e apossaram-se nela, y se aumentaram, e multiplicaram em grande maneira."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Jacó na terra do Egito dezessete anos: e foram os dias de Jacó, os anos de sua vida, cento quarenta e sete anos."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E achegaram-se os dias de Israel para morrer, e chamou a José seu filho, e lhe disse: Se achei agora favor em teus olhos, rogo-te que ponhas tua mão debaixo de minha coxa, e farás comigo misericórdia e verdade; rogo-te que não me enterres no Egito;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando dormir com meus pais, me levarás de Egito, e me sepultarás no sepulcro deles. E ele respondeu: Eu farei como tu dizes."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele disse: Jura-me isso. E ele lhe jurou. Então Israel se inclinou sobre a cabeceira da cama."
+                }
+            ]
+        }
+    ]
+}

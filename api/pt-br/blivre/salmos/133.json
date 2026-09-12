@@ -1,0 +1,34 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 133,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos degraus, de Davi:Vede como é bom e agradável que irmãos convivam em união!"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É como o óleo precioso sobre a cabeça, que desce pela barba, a barba de Arão; que desce pelas bordas de suas roupas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É como o orvalho de Hermom, que desce sobre os montes de Sião; porque ali o SENHOR ordenou a bênção [e] a vida para sempre."
+                }
+            ]
+        }
+    ]
+}

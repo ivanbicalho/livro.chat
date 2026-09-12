@@ -1,0 +1,124 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 79,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Asafe:Ó Deus, as nações invadiram a tua herança; contaminaram ao teu santo Templo; tornaram Jerusalém em amontoados de ruínas."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deram os cadáveres dos teus servos por comida para as aves dos céus; a carne dos teus consagrados aos animais da terra."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Derramaram o sangue deles como água ao redor de Jerusalém, e não havia quem os enterrasse."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Somos humilhados pelos nossos vizinhos; zombados e escarnecidos pelos que estão ao nosso redor."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até quando, SENHOR? Ficarás tu irado para sempre? Teus ciúmes arderão como o fogo?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Derrama o teu furor sobre as nações que não te conhecem, sobre os reinos que não clamam pelo teu nome;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque devoraram Jacó, e arruinaram suas habitações."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não nos castigue pelas perversidades do passado; apressa-te, que as tuas misericórdias venham até nós, porque estamos muito fracos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Socorre-nos, ó Deus da nossa salvação, para glorificar o teu nome; livra-nos, e perdoa os nossos pecados por causa do teu nome."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qual é a finalidade de que as nações digam: Onde está o Deus deles?Que a vingança do sangue derramado dos teus servos seja conhecida entre as nações, diante dos nossos olhos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Chegue diante de ti o gemido dos prisioneiros; conforme o teu grande poder, salva a vida dos sentenciados à morte."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E retribui a nossos vizinhos em seus corpos sete vezes tanto dos insultos que te insultaram, ó Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim nós, o teu povo, e as ovelhas de teu pasto, te louvaremos para sempre; de geração em geração cantaremos louvores a ti."
+                }
+            ]
+        }
+    ]
+}

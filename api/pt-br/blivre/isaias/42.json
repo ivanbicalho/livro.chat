@@ -1,0 +1,232 @@
+{
+    "book": "isaias",
+    "name": "Isaías",
+    "chapter": 42,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis aqui meu servo, a quem sustento; meu escolhido, [em quem] minha alma se agrada. Sobre ele eu pus o meu Espírito; ele trará justiça às nações."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele não gritará, nem levantará [seu clamor] ; ele não fará ouvir sua voz nas ruas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A cana rachada ele não quebrará, nem apagará o pavio que fumega; com a verdade ele trará justiça."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele não fraquejará, nem será esmagado, até que ponha a justiça na terra; e os litorais esperarão a sua doutrina."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim diz Deus, o SENHOR, que criou os céus, e os esticou; estendeu a terra, e a tudo quanto ela produz; que dá respiração ao povo que nela [habita] ,e espírito aos que nela andam."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu, o SENHOR, te chamei em justiça, e te tomarei pela mão. E eu te guardarei, e te darei como pacto para o povo e luz para as nações;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para abrir os olhos cegos, para tirar da prisão os presos, [tirar] do cárcere os que habitam em trevas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu, EU-SOU; este é o meu nome! Não darei a minha glória a outro, nem o meu louvor às imagens de escultura."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que as coisas anteriores já aconteceram; e as novas eu [vos] anuncio; e antes que surjam, [delas] eu vos informo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai ao SENHOR um cântico novo, um louvor a ele desde o limite da terra; vós que navegais pelo mar, e tudo quanto nele há; vós terras do litoral e seus moradores."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantem [a voz] o deserto e suas cidades, com as aldeias que Quedar habita; cantem os que habitam nas rochas, [e] gritem de alegria do cume dos montes."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deem glória ao SENHOR, e anunciem louvor a ele nas terras do litoral."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR sairá como guerreiro, como homem de guerra despertará o [seu] zelo; ele gritará, e fará grade ruído; e dominará a seus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por muito tempo fiquei calado, quieto estive, [e] me retive; [mas agora] darei gritos como a que está de parto, suspirando e juntamente ofegando."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aos montes e morros tornarei em deserto, e toda sua erva farei secar; e tornarei aos rios em ilhas, e as lagoas secarei."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E guiarei aos cegos por um caminho que nunca conheceram; eu os farei caminhar pelas veredas que não conheciam; tornarei as trevas em luz perante eles, e as coisas tortas [farei] direitas; estas coisas lhes farei, e nunca os desampararei."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Mas] serão conduzidos para trás e se envergonharão os que confiam em imagens de escultura, [e] dizem às imagens de fundição: Vós sois nossos deuses."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Surdos, ouvi; e vós cegos, olhai para que possais ver."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é cego, senão o meu servo? Ou surdo, como o meu mensageiro, a quem envio? Quem é cego como o aliançado, e cego como o servo do SENHOR?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu vês muitas coisas, porém não as guardas; mesmo abrindo os ouvidos, contudo nada ouve."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR se agradou, por causa de sua justiça, em engrandecer [sua] lei, e em fazê [-la] gloriosa."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas [este] é um povo roubado e saqueado; todos estão enlaçados em covas, e escondidos em cárceres; são postos como despojos, e ninguém há que os resgate; estão como [objetos] de roubo, e ninguém diz “Restitui [-os] ”."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem dentre vós dá ouvidos a isto? [Quem] presta atenção e ouve o que há de ser no futuro?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem entregou a Jacó como roubo, e a Israel a ladrões? Por acaso não foi o SENHOR, aquele contra quem pecamos? Pois não queriam andar em seus caminhos, e não deram ouvidos à sua lei."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso ele derramou sobre eles o furor de sua ira, e a força da guerra; e os pôs em labaredas ao redor; porém [ainda assim] não entenderam; e ele os pôs para queimar, porém [ainda assim] não puseram [nisso] o coração."
+                }
+            ]
+        }
+    ]
+}

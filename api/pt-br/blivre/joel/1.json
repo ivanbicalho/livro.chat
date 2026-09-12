@@ -1,0 +1,187 @@
+{
+    "book": "joel",
+    "name": "Joel",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Palavra do SENHOR que veio a Joel, filho de Petuel."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi isto, anciãos, e escutai, todos os moradores desta terra. Por acaso isto aconteceu em vossos dias, ou nos dias dos vossos pais?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Contai disso aos vossos filhos, e vossos filhos aos seus filhos, e seus filhos à outra geração."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que restou do gafanhoto cortador o gafanhoto comedor comeu; e o que restou do gafanhoto comedor o gafanhoto devorador comeu, e o que restou do gafanhoto devorador o gafanhoto destruidor comeu."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Despertai, vós bêbados, e chorai; gemei todos vós que bebeis vinho, por causa do suco de uva, porque foi tirado de vossa boca."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque uma nação subiu sobre minha terra, poderosa e sem número; seus dentes são dentes de leão, e têm presas de leoa."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assolou minha videira, e devastou minha figueira; desnudou-a por completo e a derrubou; seus ramos ficaram brancos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Chora tu como a virgem vestida de saco por causa do marido de sua juventude."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As ofertas de cereais e de bebidas se acabaram da casa do SENHOR; os sacerdotes, servos do SENHOR, estão de luto."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O campo foi assolado, a terra está de luto; porque o trigo foi destruído, o suco de uva se secou, o azeite está em falta."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Envergonhai-vos, trabalhadores; gemei, plantadores de vinhas, pelo trigo e pela a cevada; porque a colheita do campo pereceu."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A vide se secou, a figueira definhou, assim como a romeira, a palmeira, e a macieira; todas as árvores do campo se secaram; por isso a alegria se secou entre os filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cingi-vos e lamentai, sacerdotes; gemei, ministros do altar; vinde e deitai em sacos, trabalhadores de meu Deus; porque as ofertas de alimentos e de bebidas foram tiradas da casa de vosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Santificai um jejum; convocai uma reunião solene; congregai os anciãos e todos os moradores desta terra na casa do SENHOR vosso Deus, e clamai ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai daquele dia! Porque perto está o dia do SENHOR, e virá do Todo-Poderoso como destruição."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso não foi tirado o alimento de diante de nossos olhos, a alegria e o prazer da casa de nosso Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As sementes se apodreceram debaixo de seus torrões, os celeiros foram assolados, os depósitos foram derrubados; porque o trigo se secou."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como geme o gado! As manadas dos vacas estão confusas, porque não têm pasto! Os rebanhos das ovelhas estão desolados."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A ti, ó SENHOR, eu clamo; porque o fogo consumiu os pastos do deserto, e chama incendiou todas as árvores do campo."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até os animais do campo clamam a ti, porque os rios de águas se secaram, e o fogo consumiu os pastos do deserto."
+                }
+            ]
+        }
+    ]
+}

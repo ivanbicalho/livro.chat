@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 52,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Instrução de Davi, para o regente, quando Doegue, o edomita, veio, e contou a Saul, dizendo: Davi veio à casa de Aimeleque:Por que tu, homem poderoso, te orgulhas no mal? A bondade de Deus continua o dia todo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tua língua planeja maldades; [é] como navalha afiada, que gera falsidades."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu amas mais o mal que o bem, [e] a mentira mais do que falar justiça. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu amas todas as palavras de destruição, ó língua enganadora."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Deus te derrubará para sempre; ele te tomará, e te arrancará para fora da tenda; e te eliminará de toda a terra dos viventes. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os justos [o] verão, e temerão; e rirão dele, [dizendo] :"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis aqui o homem que não pôs sua força em Deus, mas [preferiu] confiar a abundância de suas riquezas, e fortaleceu em sua maldade."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu [serei] como a oliveira verde na casa de Deus; confio na bondade de Deus para todo o sempre."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu te louvarei para sempre, por causa do que fizeste; e terei esperança em teu nome, porque tu és bom perante teus santos."
+                }
+            ]
+        }
+    ]
+}

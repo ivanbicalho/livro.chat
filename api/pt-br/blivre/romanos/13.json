@@ -1,0 +1,133 @@
+{
+    "book": "romanos",
+    "name": "Romanos",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda pessoa esteja sujeita às autoridades superiores, porque não há autoridade que não seja da parte de Deus; e as que existem são ordenadas por Deus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, quem se opõe à autoridade resiste à ordem de Deus; e os que lhe resistem trarão a si mesmos condenação."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois os que possuem autoridade não causam temor à boa obra, mas sim, ao mal. Queres tu não ter medo de autoridade? Faz o bem, e dela receberás elogio,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque ela é serva de Deus para o teu bem. Porém, se fizeres o mal, teme; porque ela não traz a espada em vão. Pois é serva de Deus, vingadora, para castigar a quem faz o mal."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, é necessário estar sujeito não somente por causa do castigo, mas também por causa da consciência."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso também pagais impostos; porque são servidores de Deus, atendendo a essa função."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dai a cada um o que deveis; a quem imposto, imposto; a quem taxa, taxa; a quem temor, temor; a quem honra, honra."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A ninguém devais coisa alguma, a não ser o amor uns aos outros, pois quem ama o outro tem cumprido a Lei."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque estes [mandamentos] : não adulterarás, não matarás, não roubarás, não cobiçarás; e qualquer outro mandamento que há, nesta frase se resumem: “Amarás ao teu próximo como a ti mesmo”."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O amor não faz mal ao próximo. Assim, o cumprimento da Lei é o amor."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Além disso, conheceis o tempo, que já é hora de despertardes do sono, porque a salvação está agora mais perto de nós do que quando começamos a crer."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A noite está se acabando, e o dia, chegando. Deixemos, pois, as obras das trevas, e vistamo-nos das armas da luz."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Andemos de maneira decente, como de dia; não em orgias e bebedeiras; não em pecados sexuais ou depravações; não em brigas, nem em inveja."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em vez disso, revesti-vos do Senhor Jesus Cristo, e não fiqueis pensando em [realizar] os desejos da carne."
+                }
+            ]
+        }
+    ]
+}

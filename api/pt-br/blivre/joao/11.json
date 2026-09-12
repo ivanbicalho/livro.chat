@@ -1,0 +1,520 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 11,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estava doente um certo Lázaro, de Betânia, a aldeia de Maria e de sua irmã Marta."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(E era Maria a que ungiu ao Senhor com o óleo, e com seus cabelos lhe limpou os pés; [a que] cujo irmão Lázaro era o que estava doente)."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enviaram pois suas irmãs [uma mensagem] a ele, dizendo: Senhor, eis que aquele a quem [tu] amas está doente."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ouvindo Jesus, disse: Esta doença não é para morte, mas para glória de Deus; para que o Filho de Deus seja por ela glorificado."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus amava a Marta, e a sua irmã, e a Lázaro."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando, pois, ele ouviu que estava doente, ficou ainda dois dias no lugar onde estava."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então depois disto voltou a dizer aos discípulos: Vamos outra vez à Judeia."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe os discípulos: Rabi, ainda agora os Judeus procuravam te apedrejar; e tu voltas novamente para lá?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus: Não há doze horas no dia? Se alguém anda de dia, não tropeça, porque vê a luz deste mundo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se alguém anda de noite, tropeça; porque nele não há luz."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele falou estas coisas; e depois disto, disse-lhes: Lázaro, nosso amigo, dorme; mas vou para despertá-lo do sono."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram pois seus discípulos: Senhor, se [ele] dorme, será salvo."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jesus dizia [isto] de sua morte; porém eles pensavam que falava do repouso do sono."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então pois lhes disse Jesus claramente: Lázaro está morto."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E me alegro, por causa de vós, que eu não estivesse lá, para que creiais; porém vamos até ele."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse pois Tomé, chamado o Dídimo, aos colegas discípulos: Vamos nós também, para que com ele morramos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vindo pois Jesus, encontrou que já havia quatro dias que estava na sepultura."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(E Betânia era como quase quinze estádios de Jerusalém)."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E muitos dos judeus tinham vindo até Marta e Maria, para consolá-las por seu irmão."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvindo pois Marta que Jesus vinha, saiu-lhe ao encontro; mas Maria ficou sentada em casa."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse pois Marta a Jesus: Senhor, se tu estivesses aqui, meu irmão não teria morrido."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém também sei agora, que tudo quanto pedires a Deus, Deus o dará a ti."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: Teu irmão ressuscitará."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Marta lhe disse: Eu sei que ele ressuscitará, na ressurreição, no último dia."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: Eu sou a ressurreição, e a vida; quem crê em mim, ainda que esteja morto, viverá."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo aquele que vive, e crê em mim, para sempre não morrerá. Crês nisto?"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe ela: Sim, Senhor; já cri que tu és o Cristo, o Filho de Deus, que viria ao mundo."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dito isto, [ela] se foi, e chamou em segredo a Maria, sua irmã, dizendo: Aqui está o Mestre, e ele te chama."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvindo ela [isto] ,logo se levantou, e foi até ele."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(Porque Jesus ainda não havia chegado à aldeia; mas estava no lugar onde Marta lhe saíra ao encontro)."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vendo pois os judeus que com ela estavam em casa, e a consolavam, que Maria com pressa se levantara, e saíra, seguiram-na, dizendo: Ela vai para a sepultura, para chorar lá."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vindo pois Maria aonde Jesus estava, e vendo-o, caiu a seus pés, dizendo-lhe: Senhor, se tu estivesses aqui, meu irmão não teria morrido."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Jesus a viu chorar, e aos judeus, que vinham chorando com ela, comoveu-se em espírito, e ficou perturbado."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Onde o pusestes? Disseram-lhe: Senhor, vem, e vê."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus chorou."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram pois os Judeus: Vede como ele o amava!"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns deles disseram: Não podia este, que abriu os olhos ao cego, ter feito também que este não morresse?"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Comovendo-se pois Jesus outra vez em si mesmo, veio à sepultura; e era [esta] uma caverna, e estava uma pedra posta sobre ela."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse Jesus: Tirai a pedra. Marta, a irmã do morto, disse-lhe: Senhor, já cheira mal, porque já é de quatro dias."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus disse-lhe: Não te disse, que se creres, verás a glória de Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tiraram, pois, a pedra. E Jesus levantou os olhos para cima, e disse: Pai, graças te dou, porque me tens ouvido."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu bem sabia que sempre me ouves; mas por causa da multidão, que está ao redor, [assim] disse; para que creiam que tu me enviaste."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havendo dito isto, clamou com grande voz: Lázaro, sai fora."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que estava morto saiu, [com] as mãos e os pés atados, e seu rosto envolto em um lenço. Disse-lhes Jesus: Desatai-o, e deixai-o ir."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo que, muitos dos Judeus, que tinham vindo a Maria, e haviam visto o que Jesus fizera, creram nele."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas alguns deles foram aos fariseus, e lhes disseram o que Jesus havia feito."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os sacerdotes e os fariseus juntaram o supremo conselho, e disseram: Que faremos? Porque este homem faz muitos sinais."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se assim o deixamos, todos crerão nele, e virão os romanos, e nos tomarão tanto o lugar quanto a nação."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Caifás, um deles, que era sumo sacerdote daquele ano, lhes disse: Vós nada sabeis;"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem considerais que nos convém, que um homem morra pelo povo, e toda a nação não pereça."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele não disse isto de si mesmo; mas que, como era o sumo sacerdote daquele ano, profetizou que Jesus morreria pelo povo."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não somente por aquele povo, mas também para que juntasse em um aos filhos de Deus, que estavam dispersos."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então desde aquele dia se aconselhavam juntos para o matarem."
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De maneira que Jesus já não andava mais abertamente entre os judeus, mas foi-se dali para a terra junto ao deserto, a uma cidade chamada Efraim; e ali andava com seus discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estava perto a páscoa dos judeus, e muitos daquela terra subiram a Jerusalém antes da páscoa, para se purificarem."
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Buscavam pois a Jesus, e diziam uns aos outros estando no Templo: Que vos parece? Que ele não virá à festa?"
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os sacerdotes e os fariseus tinham dado ordem de que, se alguém soubesse onde ele estava, o denunciasse, para que o pudessem prender."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 28,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os perversos fogem [mesmo] quando não há quem os persiga, mas os justos são confiantes como um leão."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pela rebelião numa terra, seus governantes são muitos; mas por meio de um homem prudente e conhecedor [seu governo] permanecerá."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem pobre que oprime aos necessitados é [como] uma chuva devastadora [que causa] falta de pão."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que abandonam a lei louvam ao perverso; porém os que guardam a lei lutarão contra eles."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens maus não entendem a justiça; mas os que buscam ao SENHOR entendem tudo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor é o pobre que anda em sua honestidade do que o perverso de caminhos, ainda que seja rico."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que guarda a lei é um filho prudente, mas o companheiro de comilões envergonha a seu pai."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que aumenta seus bens por meio de juros e lucros desonestos está juntando para o que se compadece dos pobres."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que desvia seus ouvidos de ouvir a lei, até sua oração [será] abominável."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que faz as pessoas corretas errarem em direção a um mau caminho, ele mesmo cairá em sua cova; mas os que não tiverem pecado herdarão o bem."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem rico é sábio aos seus [próprios] olhos; mas o pobre prudente o examina."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os justos estão contentes, muita é a alegria; mas quando os perversos se levantam, os homens se escondem."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem encobre suas transgressões nunca prosperará, mas aquele que as confessa e [as] abandona alcançará misericórdia."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado o homem que sempre mantém seu temor; mas aquele que endurece seu coração cairá no mal."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Leão rugidor e urso faminto é o governante perverso sobre um povo pobre."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O príncipe que tem falta de entendimento aumenta as opressões; mas aquele que odeia o lucro desonesto prolongará [seus] dias."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem atormentado pelo sangue de alguma alma fugirá até a cova; ninguém o detenha."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que anda sinceramente será salvo; mas o que se desvia em [seus] caminhos cairá de uma só vez."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que lavrar sua terra terá fartura de pão; mas o que segue coisas inúteis terá fartura de pobreza."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem fiel [terá] muitas bênçãos; mas o que se apressa para enriquecer não ficará impune."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fazer acepção de pessoas não é bom; porque até por um pedaço de pão o homem pode transgredir."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem tem pressa para ter riquezas é um homem de olho mau; e ele não sabe que a miséria virá sobre ele."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que repreende ao homem obterá mais favor depois do que aquele que lisonjeia com a língua."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que furta seu pai ou sua mãe e diz: Não é pecado,É companheiro do homem destruidor."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem tem alma orgulhosa levanta brigas; mas aquele que confia no SENHOR prosperará."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que confia em seu [próprio] coração é tolo; mas o que anda em sabedoria escapará [em segurança] ."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem dá ao pobre não terá falta; mas o que esconde seus olhos [terá] muitas maldições."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os perversos ganham poder, os homens se escondem; mas quando perecem, os justos se multiplicam."
+                }
+            ]
+        }
+    ]
+}

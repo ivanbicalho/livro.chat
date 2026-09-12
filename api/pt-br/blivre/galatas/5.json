@@ -1,0 +1,241 @@
+{
+    "book": "galatas",
+    "name": "Gálatas",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para a liberdade Cristo nos libertou; portanto, estai firmes, e não volteis a vos prender com o jugo da escravidão."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que eu, Paulo, vos digo, que se vos deixardes circuncidar, Cristo vos será útil em nada."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de novo atesto que todo homem que se deixar circuncidar está obrigado a obedecer a toda a Lei."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desligados estais de Cristo, vós que [quereis] ser justos pela Lei; da graça caístes."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, por meio do Espírito, pela fé, aguardamos a esperança da justiça;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque, em Cristo Jesus, nem a circuncisão nem a incircuncisão tem valor algum; mas sim a fé, que opera por meio do amor."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estáveis correndo bem; quem vos impediu de obedecerdes à verdade?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta persuasão não parte daquele que vos chama."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um pouco de fermento leveda toda a massa."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acerca de vós, confio no Senhor de que não mudareis a vossa mentalidade; mas aquele que vos perturba, seja quem for, sofrerá o julgamento."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se eu, irmãos, ainda prego a circuncisão, por que, então, sou perseguido? Então a ofensa da cruz está anulada!"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Gostaria que aqueles que estão vos perturbando castrassem a si mesmos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois vós, irmãos, fostes chamados para a liberdade. Somente não [useis] a liberdade como oportunidade para a carne; em vez disso, servi-vos uns aos outros pelo amor."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois toda a Lei se cumpre em uma só regra, que é: Amarás ao teu próximo como a ti mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se, porém, mordeis e devorais uns aos outros, cuidado para não vos destruirdes mutuamente."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu digo: andai no Espírito, e não executeis o mau desejo da carne."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois a carne deseja contra o Espírito, e o Espírito contra a carne; pois estes se opõem mutuamente, para que não façais o que quereis."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, se sois guiados pelo Espírito, não estais debaixo da Lei."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As obras da carne são evidentes. São elas: pecado sexual, impureza, devassidão,"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "idolatria, feitiçaria, inimizades, brigas, ciúmes, iras, rivalidades egoístas, desavenças, facções,"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "invejas, bebedices, orgias, e coisas semelhantes a essas, das quais eu havia vos dito anteriormente; assim como eu também haviavos dito antes que os que praticam tais coisas não herdarão o Reino de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o fruto do Espírito é: amor, alegria, paz, paciência, benignidade, bondade, fidelidade,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "mansidão, domínio próprio. Contra essas coisas não há lei."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que são de Cristo Jesus crucificaram a carne com as paixões e os maus desejos."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se vivemos no Espírito, também no Espírito andemos."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não nos tornemos presunçosos, irritando uns aos outros, e invejando uns aos outros."
+                }
+            ]
+        }
+    ]
+}

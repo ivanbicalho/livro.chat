@@ -1,0 +1,61 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 53,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Instrução de Davi, para o regente, sobre “Maalate”:O tolo diz em seu coração: Não há Deus.Eles se corrompem, e cometem abominável perversidade, ninguém há que faça o bem."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus olhou desde os céus para os filhos dos homens, para ver se havia alguém prudente, que buscasse a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos se desviaram, juntamente se fizeram detestáveis; ninguém há que faça o bem, nem um sequer."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Será que não tem conhecimento os praticantes de maldade, que devoram a meu povo, [como se] comessem pão? Eles não clamam a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ali eles terão grande medo, [onde] não havia medo; porque Deus espalhou os ossos daquele que te cercava; tu os humilhaste, porque Deus os rejeitou."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ah, que de Sião venha a salvação de Israel! Quando Deus restaurar seu povo de seu infortúnio, Jacó jubilará, Israel se alegrará."
+                }
+            ]
+        }
+    ]
+}

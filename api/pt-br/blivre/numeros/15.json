@@ -1,0 +1,376 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra de vossas habitações, que eu vos dou,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fizerdes oferta queimada ao SENHOR, holocausto, ou sacrifício, por especial voto, ou de vossa vontade, ou para fazer em vossas solenidades cheiro suave ao SENHOR, de vacas ou de ovelhas;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o que oferecer sua oferta ao SENHOR, trará por oferta de cereais um décimo de um efa de boa farinha, amassada com a quarta parte de um him de azeite;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de veio para a libação oferecerás a quarta parte de um him, além do holocausto ou do sacrifício, por cada cordeiro."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E para cada carneiro farás oferta de cereais de dois décimos [de efa] de boa farinha, amassada com o terço de um him de azeite."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e de vinho para a libação oferecerás o terço de um him, em cheiro suave ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando oferecerdes novilho em holocausto ou sacrifício, por especial voto, ou pacífico ao SENHOR,"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Oferecerás com o novilho uma oferta de cereais de três décimos [de efa] de boa farinha, amassada com a metade de um him de azeite:"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de vinho para a libação oferecerás a metade de um him, em oferta queimada de cheiro suave ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim se fará com cada um boi, ou carneiro, ou cordeiro, o mesmo de ovelhas que de cabras."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Conforme o número assim fareis com cada um segundo o número deles."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo natural fará estas coisas assim, para apresentar oferta queimada de cheiro suave ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando habitar convosco estrangeiro, ou qualquer um que estiver entre vós nas vossas gerações, se apresentar uma oferta queimada de cheiro suave ao SENHOR, como vós fizerdes, assim fará ele."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um mesmo estatuto tereis, vós da congregação e o estrangeiro que convosco mora; estatuto que será perpétuo por vossas gerações: como vós, assim será o peregrino diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Uma mesma lei e um mesmo regulamento tereis, vós e o peregrino que convosco mora."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra à qual eu vos levo,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Será que quando começardes a comer o pão da terra, oferecereis oferta ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da primeira parte que amassardes, oferecereis um bolo como oferta; como a oferta da eira, assim o oferecereis."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Das primícias de vossas massas dareis ao SENHOR oferta por vossas gerações."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando errardes, e não fizerdes todos estes mandamentos que o SENHOR disse a Moisés,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todas as coisas que o SENHOR vos mandou pela mão de Moisés, desde o dia que o SENHOR o mandou, e daí em diante por vossas gerações,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Será que, se o pecado foi feito involuntariamente por ignorância da congregação, toda a congregação oferecerá um novilho por holocausto, em cheiro suave ao SENHOR, com sua oferta de cereais e sua libação, conforme a lei; e um bode macho por expiação."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote fará expiação por toda a congregação dos filhos de Israel; e lhes será perdoado, porque foi erro por ignorância; eles trarão sua oferta, oferta queimada ao SENHOR, e sua expiação diante do SENHOR, por causa do seu erro;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será perdoado a toda a congregação dos filhos de Israel, e ao estrangeiro que peregrina entre eles, porque foi erro por ignorância de todo o povo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se uma pessoa pecar por ignorância, oferecerá uma cabra de um ano por expiação."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote fará expiação pela pessoa que houver pecado, quando pecar por ignorância diante do SENHOR, e a reconciliará, e lhe será perdoado."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O natural entre os filhos de Israel, e o peregrino que habitar entre eles, uma mesma lei tereis para o que fizer algo por acidente."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas a pessoa que fizer algo com mão soberba, tanto o natural como o estrangeiro, ao SENHOR blasfemou; e a tal pessoa será eliminada do meio de seu povo."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porquanto teve em pouco a palavra do SENHOR, e deu por nulo seu mandamento, inteiramente será eliminada a tal pessoa: sua iniquidade será sobre ela."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estando os filhos de Israel no deserto, acharam um homem que recolhia lenha em dia de sábado."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que lhe acharam recolhendo lenha trouxeram-lhe a Moisés e a Arão, e a toda a congregação:"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E puseram-no no cárcere, porque não estava declarado que lhe haviam de fazer."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés: Invariavelmente morra aquele homem; apedreje-o com pedras toda a congregação fora do acampamento."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o tirou a congregação fora do acampamento, e apedrejaram-no com pedras, e morreu; como o SENHOR mandou a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, e dize-lhes que se façam franjas) nos arremates de suas roupas, por suas gerações; e ponham em cada franja dos arremates um cordão de azul:"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vos servirá de franja, para que quando o virdes, vos lembreis de todos os mandamentos do SENHOR, para praticá-los; e não olheis segundo vosso coração e vossos olhos, atrás dos quais prostituís:"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que vos lembreis, e façais todos meus mandamentos, e sejais santos a vosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito, para ser vosso Deus: Eu sou o SENHOR vosso Deus."
+                }
+            ]
+        }
+    ]
+}

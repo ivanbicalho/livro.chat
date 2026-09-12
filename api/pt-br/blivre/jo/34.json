@@ -1,0 +1,340 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 34,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eliú respondeu mais, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi, vós sábios, minhas palavras; e vós, inteligentes, dai-me ouvidos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o ouvido prova as palavras, assim como o paladar experimenta a comida."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Escolhamos para nós o que é correto, [e] conheçamos entre nós o que é bom."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois Jó disse: Eu sou justo, e Deus tem me tirado meu direito."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso devo eu mentir quanto ao meu direito? Minha ferida é dolorosa mesmo que eu não tenha transgressão."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que homem há como Jó, que bebe o escárnio como água?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que caminha na companhia dos que praticam maldade, e anda com homens perversos?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque disse: De nada aproveita ao homem agradar-se em Deus."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto vós, homens de bom-senso, escutai-me; longe de Deus esteja a maldade, e do Todo- Poderoso a perversidade!"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele paga ao ser humano [conforme] sua obra, e faz a cada um conforme o seu caminho."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente Deus não faz injustiça, e o Todo-Poderoso não perverte o direito."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem o pôs para administrar a terra? E quem dispôs a todo o mundo?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se ele tomasse a decisão, e recolhesse para si seu espírito e seu fôlego,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda carne juntamente expiraria, e o ser humano se tornaria em pó."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se pois há [em ti] entendimento, ouve isto: dá ouvidos ao som de minhas palavras."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso quem odeia a justiça poderá governar? E condenarás tu ao Poderoso Justo?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pode, por acaso, o rei ser chamado de vil, [e] os príncipes de perversos?"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Quanto menos] a aquele que não faz acepção de pessoas de príncipes, nem valoriza mais o rico que o pobre! Pois todos são obras de suas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em um momento morrem; e à meia noite os povos são sacudidos, e passam; e o poderoso será tomado sem ação humana."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque seus olhos estão sobre os caminhos do homem, e ele vê todos os seus passos."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não há trevas nem sombra de morte em que os que praticam maldade possam se esconder."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois ele não precisa observar tanto ao homem para que este possa entrar em juízo com Deus."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele quebranta aos fortes sem [precisar de] investigação, e põe outros em seu lugar."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Visto que ele conhece suas obras, de noite os trastorna, e ficam destroçados."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele os espanca à vista pública por serem maus."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eles se desviaram de segui-lo, e não deram atenção a nenhum de seus caminhos."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim fizeram com que viesse a ele o clamor do pobre, e ele ouvisse o clamor dos aflitos."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se ele ficar quieto, quem [o] condenará? Se ele esconder o rosto, quem o olhará? [Ele está] quer sobre um povo, quer sobre um único ser humano,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que a pessoa hipócrita não reine, [e] não haja ciladas ao povo."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que [não tão somente] se diz: Suportei [teu castigo] não farei mais o que é errado;"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ensina-me o que não vejo; se fiz alguma maldade, nunca mais a farei?"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Será a recompensa da parte dele como tu queres, para que a recuses? És tu que escolhes, e não eu; o que tu sabes, fala."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As pessoas de entendimento dirão comigo, e o homem sábio me ouvirá;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jó não fala com conhecimento, e a suas palavras falta prudência."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Queria eu que Jó fosse provado até o fim, por causa de suas respostas comparáveis a de homens malignos."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois ao seu pecado ele acrescentou rebeldia; ele bate as mãos [de forma desrespeitosa] entre nós, e multiplica suas palavras contra Deus."
+                }
+            ]
+        }
+    ]
+}

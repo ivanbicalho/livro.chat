@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 113,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aleluia! Louvai, vós servos do SENHOR, louvai o nome do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seja o nome do SENHOR bendito, desde agora para todo o sempre."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde o nascer do sol até o poente, seja louvado o nome do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR está elevado acima de todas as nações; [e] sua glória acima dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é como o SENHOR nosso Deus? Ele que habita nas alturas,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que se abaixa para ver [o que há] nos céus e na terra;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que do levanta o pobre do pó da terra, e levanta o necessitado da sujeira;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para fazê-lo sentar com os príncipes, com os príncipes de seu povo;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que faz a estéril habitar em família, como alegre mãe de filhos. Aleluia!"
+                }
+            ]
+        }
+    ]
+}

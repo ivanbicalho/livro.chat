@@ -1,0 +1,349 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No ano quinze do império de Tibério César, sendo Pôncio Pilatos o governador da Judeia, Herodes tetraca da Galileia, e seu irmão Filipe o tetrarca da Itureia e da província de Traconites, e Lisânias o tetrarca de Abilene;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "sendo Anás e Caifás os sumos sacerdotes, a palavra de Deus veio a João, filho de Zacarias, no deserto."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele percorreu toda a região ao redor do Jordão, pregando o batismo de arrependimento, para o perdão dos pecados;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "conforme o que está escrito no livro das palavras do profeta Isaías: “Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo vale se encherá, e todo monte e colina se abaixará; os tortos serão endireitados, e os caminhos ásperos se suavizarão;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e todos verão a salvação de Deus.”"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[João] dizia às multidões que vinham ser batizadas por ele: “Raça de víboras, quem vos ensinou a fugir da ira que está para chegar?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dai, pois, frutos condizentes com o arrependimento, e não comeceis a dizer em vós mesmos: ‘Temos Abraão por pai’; pois eu vos digo que até destas pedras Deus pode produzir filhos a Abraão."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também o machado já está posto à raiz das árvores; portanto, toda árvore que não dá bom fruto é cortada e lançada ao fogo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as multidões lhe perguntavam: Então o que devemos fazer?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes respondeu: Quem tiver duas túnicas, reparta com o não tem; e quem tiver comida, faça da mesma maneira."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegaram também uns publicanos, para serem batizados; e disseram-lhe: Mestre, que devemos fazer?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes disse: Não exijais mais do que vos está ordenado."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E uns soldados também lhe perguntaram: E nós, que devemos fazer? E ele lhes disse: Não maltrateis nem defraudeis a ninguém; e contentai-vos com vossos salários."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, enquanto o povo estava em expectativa, e todos pensando em seus corações se talvez João seria o Cristo,"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "João respondeu a todos: De fato, eu vos batizo com água, mas vem um que é mais poderoso do que eu, de quem eu não sou digno de desatar a tira das sandálias; ele vos batizará com o Espírito Santo e com fogo."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sua pá está na sua mão para limpar sua eira, e para juntar o trigo no seu celeiro; porém queimará a palha com fogo que nunca se apaga."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim, exortando com muitas outras coisas, [João] anunciava a boa notícia ao povo."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, quando Herodes, o tetrarca, foi repreendido por ele por causa de Herodias, mulher do seu irmão, e por todas as maldades que Herodes havia feito,"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "acrescentou a todas ainda esta: encarcerou João na prisão."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando todo o povo era batizado, Jesus [também] foi batizado, e enquanto orava, o céu se abriu,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e o Espírito Santo desceu sobre ele em forma corpórea, como pomba; e veio do céu uma voz: Tu és o meu Filho amado, em ti me agrado."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o mesmo Jesus começou quando tinha cerca de trinta anos, sendo (como se pensava) filho de José, [filho] de Eli,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Matate, [filho] de Levi, [filho] de Melqui, [filho] de Janai, [filho] de José."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Matatias, [filho] de Amós, [filho] de Naum, [filho] de Esli, [filho] de Nagai."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Maate, [filho] de Matatias, [filho] de Semei, [filho] de Joseque, [filho] de Jodá."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Joanã, [filho] de Resa, [filho] de Zorobabel, e [filho] de Salatiel, [filho] de Neri."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Melqui, [filho] de Adi, e [filho] de Cosã, [filho] de Elmodã, [filho] de Er."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Josué,[filho] de Eliézer, [filho] de Jorim, [filho] de Matate, [filho] de Levi."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Simeão, [filho] de Judá, [filho] de José, [filho] de Jonã, [filho] de Eliaquim."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Meleá, [filho] de Mená, [filho] de Matatá, [filho] de Natã, [filho] de Davi."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Filho] de Jessé, [filho] de Obede, [filho] de Boaz, [filho] de Salá, [filho] de Naassom."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Filho] de Aminadabe, [filho] de Admin, [filho] de Arni, [filho] de Esrom, [filho] de Peres, [filho] de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Jacó, [filho] de Isaque, [filho] de Abraão, [filho] de Terá, [filho] de Naor."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Serugue, [filho] de Ragaú, [filho] de Faleque, [filho] de Éber, [filho] de Salá."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Filho] de Cainã, [filho] de Arfaxade, [filho] de Sem, [filho] de Noé, [filho] de Lameque."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Filho] de Matusalém, [filho] de Enoque, [filho] de Jarede, [filho] de Maleleel, [filho] de Cainã."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[filho] de Enos, [filho] de Sete, [filho] de Adão, [e Adão] de Deus."
+                }
+            ]
+        }
+    ]
+}

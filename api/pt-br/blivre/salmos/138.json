@@ -1,0 +1,79 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 138,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:Louvarei a ti com todo o meu coração; na presença dos deuses cantarei louvores a ti."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu me prostrarei ao teu santo templo, e louvarei o teu nome por tua bondade e por tua verdade; porque engrandeceste tua palavra [e] teu nome acima de tudo."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No dia [em que] clamei, tu me respondeste; [e] me fortaleceste [com] força em minha alma."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os reis da terra louvarão a ti, SENHOR, quando ouvirem as palavras de tua boca."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E cantarão sobre os caminhos do SENHOR, pois grande [é] a glória do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque [mesmo] sendo SENHOR elevado, ele presta atenção ao humilde; porém ele reconhece o arrogante de longe."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto ando no meio da angústia, tu me vivificas; tu estendes tua mão contra a ira de meus inimigos; e tua mão direita me salva."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR fará por completo [o que ele tem] para mim; ó SENHOR, tua bondade [dura] para sempre; não abandones as obras de tuas mãos."
+                }
+            ]
+        }
+    ]
+}

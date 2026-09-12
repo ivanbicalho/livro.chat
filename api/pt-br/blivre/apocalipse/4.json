@@ -1,0 +1,106 @@
+{
+    "book": "apocalipse",
+    "name": "Apocalipse",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois destas coisas eu olhei, e eis que uma porta estava aberta no céu; e a primeira voz que eu ouvi, como uma trombeta ao falar comigo, disse: “Sobe aqui, e eu te mostrarei as coisas que devem acontecer depois destas.”"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E logo eu fui [arrebatado] em espírito; e eis que um trono estava posto no céu, e [alguém] sentado sobre o trono."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que estava sentado era de aparência semelhante à pedra jaspe e sárdio; e o arco colorido celeste estava ao redor do trono, de aparência semelhante à esmeralda."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao redor do trono [havia] vinte e quatro tronos; e vi sobre os tronos vinte e quatro anciãos vestidos de roupas brancas; e sobre as cabeças deles tinham coroas de ouro."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E do trono saíam relâmpagos, e trovões, e vozes; e sete lâmpadas de fogo ardiam diante do trono, as quais são os sete espíritos de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E diante do trono [havia] um mar de vidro, semelhante ao cristal, e no meio do trono, e ao redor do trono, quatro animais cheios de olhos, em frente e atrás."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o primeiro animal [era] semelhante a um leão, e o segundo animal semelhante a um bezerro, e o terceiro animal tinha o rosto como de homem, e o quarto animal [era] como uma águia voando."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os quatro animais tinham cada um em si seis asas ao redor, e por dentro [eram] cheios de olhos; e não tem repouso de dia nem de noite, dizendo: “Santo, Santo, Santo [é] o Senhor Deus, o Todo-Poderoso, que era, e que é, e que virá.”"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando os animais dão glória, honra, e agradecimento ao que estava sentado sobre o trono, ao que vive para todo o sempre;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Então] os vinte e quatro anciãos se prostram diante do que estava sentado sobre o trono, e adoram ao que vive para todo o sempre, e lançam suas coroas diante do trono, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "“Digno és tu, Senhor, de receberes glória, honra e poder; porque tu criaste todas as coisas, e por causa da tua vontade elas são e foram criadas!”"
+                }
+            ]
+        }
+    ]
+}

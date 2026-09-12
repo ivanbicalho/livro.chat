@@ -1,0 +1,124 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 21,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi para o regente:SENHOR, em tua força o rei se alegra; e como ele fica contente com tua salvação!"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu lhe deste o desejo de seu coração; e tu não negaste o pedido de seus lábios. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu foste até ele com bênçãos de bens; tu puseste na cabeça dele uma coroa de ouro fino."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele te pediu vida, [e] tu lhe deste; muitos dias, para todo o sempre."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Grande [é] a honra dele por tua salvação; honra e majestade tu lhe concedeste."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu o pões em bênçãos para sempre; tu fazes abundante a alegria dele com tua face."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o rei confia no SENHOR; e ele nunca se abalará com a bondade do Altíssimo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tua mão alcançará a todos o os teus inimigos; tua mão direita encontrará aos que te odeiam."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu os porás como que [num] forno de fogo no tempo [em que se encontrarem] em tua presença; o SENHOR em sua ira os devorará; e fogo os consumirá."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu destruirás o fruto deles de [sobre] a terra; e [também] a semente deles dos filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eles quiseram o mal contra ti; planejaram uma cilada, [mas] não tiveram sucesso."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu os porás em fuga; com [tuas flechas] nas cordas tu lhes apontarás no rosto."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exalta-te, SENHOR, em tua força; cantaremos e louvaremos o teu poder."
+                }
+            ]
+        }
+    ]
+}

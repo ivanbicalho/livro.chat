@@ -1,0 +1,466 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés e a Arão na terra do Egito, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este mês vos será o princípio dos meses; será este para vós o primeiro nos meses do ano."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Falai a toda a congregação de Israel, dizendo: No [dia] dez deste mês tome para si cada um um cordeiro pelas famílias dos pais, um cordeiro por família:"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se a família for pequena que não seja capaz de comer o cordeiro inteiro, então tomará a seu vizinho imediato à sua casa, e segundo o número das pessoas, cada um conforme seu comer, fareis a conta sobre o cordeiro."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O cordeiro será sem defeito, macho de um ano; vós o tomareis das ovelhas ou das cabras:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o guardareis até o dia catorze desse mês; e toda a congregação do povo de Israel o imolará ao entardecer."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomarão do sangue, e o porão nos dois postes e na verga das casas em que o comerão."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E naquela noite comerão a carne assada ao fogo, e pães sem levedura; com ervas amargas o comerão."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nenhuma coisa comereis dele crua, nem cozida em água, mas sim assada ao fogo; sua cabeça com seus pés e seus intestinos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nenhuma coisa deixareis dele até a manhã; e o que houver restado até a manhã, queimareis no fogo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E assim tereis de comê-lo: cingidos vossos lombos, vossos calçados em vossos pés, e vosso bordão em vossa mão; e o comereis apressadamente: é a Páscoa do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eu passarei naquela noite pela terra do Egito, e ferirei todo primogênito na terra do Egito, tanto nos homens como nos animais; e executarei juízos em todos os deuses do Egito. EU SOU O SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sangue vos será por sinal nas casas onde vós estejais; e verei o sangue, e passarei de vós, e não haverá em vós praga de mortandade, quando ferirei a terra do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E hoje vos será em memória, e tereis de celebrá-lo como solenidade ao SENHOR durante vossas gerações; por estatuto perpétuo o celebrareis."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sete dias comereis pães sem levedura; e assim o primeiro dia fareis que não haja levedura em vossas casas; porque qualquer um que comer levedado desde o primeiro dia até o sétimo, aquela alma será eliminada de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No primeiro dia haverá santa convocação, e também no sétimo dia tereis uma santa convocação; nenhuma obra se fará neles, exceto somente que prepareis o que cada qual houver de comer."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E guardareis a festa dos pães ázimos, porque em este mesmo dia tirei vossos exércitos da terra do Egito: portanto guardareis hoje em vossas gerações por costume perpétuo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No mês primeiro, o dia catorze do mês pela tarde, comereis os pães sem levedura, até o vinte e um do mês pela tarde."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por sete dias não se achará levedura em vossas casas, porque qualquer um que comer algo levedado, tanto o estrangeiro como o natural da terra, tal alma será eliminada da congregação de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nenhuma coisa levedada comereis; em todas as vossas habitações comereis pães sem levedura."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés convocou a todos os anciãos de Israel, e disse-lhes: Tirai, e tomai para vós cordeiros por vossas famílias, e sacrificai a páscoa."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomai um molho de hissopo, e molhai-lhe no sangue que estará em uma bacia, e untai a verga e os dois postes com o sangue que estará na bacia; e nenhum de vós saia das portas de sua casa até a manhã."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR passará ferindo os egípcios; e quando vir o sangue na verga e nos dois postes, passará o SENHOR aquela porta, e não deixará entrar o feridor em vossas casas para ferir."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E guardareis isto por estatuto para vós e para vossos filhos para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será que quando houverdes entrado na terra que o SENHOR vos dará, como tem falado, que guardareis este rito."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando vos perguntarem vossos filhos: Que rito é este vosso?"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondereis: É o sacrifício da Páscoa do SENHOR, que passou nas casas dos filhos de Israel no Egito, quando feriu os egípcios, e livrou nossas casas. Então o povo se inclinou e adorou."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Israel se foram, e fizeram exatamente assim, como o SENHOR havia mandado a Moisés e a Arão."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que à meia-noite o SENHOR feriu todo primogênito na terra do Egito, desde o primogênito de Faraó que se sentava sobre seu trono, até o primogênito do prisioneiro que estava no cárcere, e todo primogênito dos animais."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levantou-se naquela noite Faraó, ele e todos os seus servos, e todos os egípcios; e havia um grande clamor no Egito, porque não havia casa onde não houvesse morto."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fez chamar a Moisés e a Arão de noite, e disse-lhes: Saí do meio de meu povo vós, e os filhos de Israel; e ide, servi ao SENHOR, como dissestes."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomai também vossas ovelhas e vossas vacas, como dissestes, e ide; e abençoai também a mim."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os egípcios apressavam ao povo, dando pressa a expulsá-los da terra; porque diziam: Todos seremos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levou o povo sua massa antes que se levedasse, suas massas envoltas em suas mantas sobre seus ombros."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fizeram os filhos de Israel conforme o mandamento de Moisés, pedindo aos egípcios objetos de prata, e objetos de ouro, e roupas."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR deu favor ao povo diante dos egípcios, e deram-lhes; e eles despojaram os egípcios."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partiram os filhos de Israel de Ramessés a Sucote, como seiscentos mil homens a pé, sem contar os meninos."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também subiu com eles grande multidão de diversa variedade de gentes; e ovelhas, e gados muito muitos."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E cozeram tortas sem levedura da massa que haviam tirado do Egito; porque não havia levedado, porquanto expulsando-os os egípcios, não haviam podido deter-se, nem ainda preparar para si comida."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O tempo que os filhos de Israel habitaram no Egito foi quatrocentos e trinta anos."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E passados quatrocentos e trinta anos, no mesmo dia saíram todos os exércitos do SENHOR da terra do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É noite de guardar ao SENHOR, por havê-los tirado nela da terra do Egito. Esta noite devem guardar ao SENHOR todos os filhos de Israel em suas gerações."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés e a Arão: Esta é a ordenança da Páscoa: Nenhum estrangeiro comerá dela;"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas todo servo humano comprado por dinheiro, comerá dela depois que o houveres circuncidado."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O estrangeiro e o assalariado não comerão dela."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em uma casa se comerá, e não levarás daquela carne fora de casa, nem quebrareis osso seu."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda a congregação de Israel o sacrificará."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se algum estrangeiro peregrinar contigo, e quiser fazer a páscoa ao SENHOR, seja-lhe circuncidado todo homem, e então se chegará a fazê-la, e será como o natural da terra; mas nenhum incircunciso comerá dela."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mesma lei será para o natural e para o estrangeiro que peregrinar entre vós."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim o fizeram todos os filhos de Israel; como mandou o SENHOR a Moisés e a Arão, assim o fizeram."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E naquele mesmo dia o SENHOR tirou os filhos de Israel da terra do Egito, agrupados em seus esquadrões."
+                }
+            ]
+        }
+    ]
+}

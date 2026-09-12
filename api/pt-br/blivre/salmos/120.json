@@ -1,0 +1,70 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 120,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos degraus:Em minha angústia clamei ao SENHOR, e ele me respondeu."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ó SENHOR, livra minha alma dos lábios mentirosos, da língua enganadora."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que ele te dará, e o que ele fará contigo, ó língua enganadora?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Flechas afiadas de um guerreiro, com brasas de zimbro."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de mim, que peregrino em Meseque, [e] habito nas tendas de Quedar!"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma morou [tempo] demais com os que odeiam a paz."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou da paz; mas quando falo, eles [entram] em guerra."
+                }
+            ]
+        }
+    ]
+}

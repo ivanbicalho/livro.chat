@@ -1,0 +1,475 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 89,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Instrução de Etã Ezraíta:Cantarei das bondades do SENHOR para sempre; de geração em geração com minha boca anunciarei tua fidelidade."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu disse: [Tua] bondade durará para sempre; confirmaste tua fidelidade até nos céus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Tu disseste] : Eu fiz um pacto com o meu escolhido, jurei a meu servo Davi. [Eu lhe disse] :"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Confirmarei tua semente para sempre, e farei teu trono continuar de geração em geração. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que os céus louvem as tuas maravilhas, SENHOR; pois tua fidelidade [está] na congregação dos santos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque quem no céu pode se comparar ao SENHOR? E quem é semelhante ao SENHOR entre os filhos dos poderosos?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus é terrível na assembleia dos santos, e mais temível do que todos os que estão ao seu redor."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ó SENHOR Deus dos exércitos, quem é poderoso como tu, SENHOR? E tua fidelidade está ao redor de ti."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu dominas a arrogância do mar; quando suas ondas se levantam, tu as aquietas."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quebraste a Raabe como que ferida de morte; com teu braço forte espalhaste os teus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Teus são os céus, também tua é a terra; o mundo e sua plenitude, tu os fundaste."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O norte e o sul, tu os criaste; Tabor e Hermon têm muita alegria em teu nome."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu tens um braço poderoso; forte é tua mão, [e] alta está tua mão direita."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Justiça e juízo são a base de teu trono; bondade e verdade vão adiante de teu rosto."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado é o povo que entende o grito de alegria; ó SENHOR, eles andarão na luz de tua face."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em teu nome se alegrarão o dia todo, e em tua justiça serão exaltados."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu és a glória de sua força, e por tua boa vontade nosso poder é exaltado."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ao SENHOR pertence nosso escudo; e o Santo de Israel é nosso Rei."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então em visão falaste ao teu santo, e disseste: Pus o socorro sobre um valente; exaltei a um escolhido dentre o povo."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Achei a Davi, meu servo; eu o ungi com meu óleo santo."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com ele minha mão será firme; e também meu braço o fortalecerá."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O inimigo não tomará suas riquezas, nem o filho da perversidade o afligirá."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu espancarei seus adversários, e ferirei aos que o odeiam."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E minha fidelidade e minha bondade serão com ele; e em meu nome seu poder será exaltado."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porei a mão dele no mar, e sua mão direita nos rios."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele me chamará: Tu és meu Pai, meu Deus, e a rocha da minha salvação."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu também o porei como primogênito, mais alto que todos os reis da terra."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Manterei minha bondade para com ele para sempre, e meu pacto com ele será firme."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Conservarei sua semente para sempre, e o trono dele como os dias dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se seus filhos deixarem minha Lei, e não andarem em meus juízos,"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se profanarem os meus estatutos, e não guardarem os meus mandamentos,"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então punirei a transgressão deles com vara, e a perversidade deles com açoite,"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém nunca tirarei minha bondade dele, nem falharei em minha fidelidade."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não quebrarei o meu pacto, e o que saiu dos meus lábios não mudarei."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Uma vez jurei por minha Santidade, [e] nunca mentirei a Davi."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A semente dele durará para sempre, e o trono dele [será] como o sol perante mim."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como a lua, ele será confirmado para sempre; e a testemunha no céu é fiel. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém tu te rebelaste, e [o] rejeitaste; ficaste irado contra o teu Ungido."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Anulaste o pacto do teu servo; desonraste a coroa dele [lançando-a] contra a terra."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Derrubaste todos os seus muros; quebraste suas fortificações."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os que passam pelo caminho o despojaram; ele foi humilhado por seus vizinhos."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantaste a mão direita de seus adversários; alegraste a todos os inimigos dele."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também deixaste de afiar sua espada; e não o sustentaste na batalha."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeste cessar sua formosura; e derrubaste seu trono à terra."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Encurtaste os dias de sua cidade; cobriste-o de vergonha. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até quando, SENHOR? Tu te esconderás para sempre? Arderá teu furor como o fogo?"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembra-te de que curta é minha vida; por que criarias em vão todos os filhos dos homens?"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que homem vive, que não experimente a morte? Livrará ele a sua alma do poder do Xeol? (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Senhor, onde estão as tuas bondades do passado, que juraste a Davi por tua fidelidade?"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembra-te, Senhor, da humilhação de teus servos, que eu trago em meu peito, [causada] por todos e grandes povos."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com [humilhação] os teus inimigos insultam, SENHOR, com a qual insultam os passos do teu ungido."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito [seja] o SENHOR para todo o sempre. Amém, e Amém."
+                }
+            ]
+        }
+    ]
+}

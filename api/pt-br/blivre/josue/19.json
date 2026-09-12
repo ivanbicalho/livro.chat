@@ -1,0 +1,466 @@
+{
+    "book": "josue",
+    "name": "Josué",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A segunda porção saiu para Simeão, pela tribo dos filhos de Simeão conforme suas famílias; e sua herança foi entre a herança dos filhos de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tiveram em sua herdade a Berseba, Seba, e Moladá,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Hazar-Sual, Balá, e Azem,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eltolade, Betul, e Hormá,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ziclague, Bete-Marcabote, e Hazar-Susa,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bete-Lebaote, e Saruém; treze cidades com suas aldeias:"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aim, Rimom, Eter, e Asã; quatro cidades com suas aldeias:"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas as aldeias que estavam ao redor destas cidades até Baalate-Beer, que é Ramá do sul. Esta é a herança da tribo dos filhos de Simeão, segundo suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da porção dos filhos de Judá foi tirada a herança dos filhos de Simeão; porquanto a parte dos filhos de Judá era escessiva para eles: assim que os filhos de Simeão tiveram sua herança em meio da deles."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terceira porção saiu pelos filhos de Zebulom conforme suas famílias: e o termo de sua herança foi até Saride."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seu termo sobe até o mar e até Maralá, e chega até Dabesete, e dali chega ao ribeiro que está diante de Jocneão."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tornando de Saride até oriente, o oriente ao termo de Quislote-Tabor, sai a Daberate, e sobe a Jafia;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E passando dali até o lado oriental a Gate-Hefer e a Ete-Cazim, sai a Rimom rodeando a Neá;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E daqui torna este termo ao norte a Hanatom, vindo a sair ao vale de Iftá-El;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E engloba Catate, e Naalal, e Sinrom, e Idala, e Belém; doze cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a herdade dos filhos de Zebulom por suas famílias; estas cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A quarta porção saiu para Issacar, pelos filhos de Issacar conforme suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi seu termo Jezreel, e Quesulote, e Suném,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Hafaraim, e Siom, e Anaarate,"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Rabite, e Quisiom, e Ebes,"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Remete, e En-Ganim, e En-Hadá e Bete-Pazez;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chega este termo até Tabor, e Saazima, e Bete-Semes; e sai seu termo ao Jordão: dezesseis cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a herança da tribo dos filhos de Issacar conforme suas famílias; estas cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E saiu a quinta porção pela tribo dos filhos de Aser por suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seu termo foi Helcate, e Hali, e Béten, e Acsafe,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Alameleque, e Amade, e Misal; e chega até Carmelo ao ocidente, e a Sior-Libnate;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tornando do oriente a Bete-Dagom, chega a Zebulom, e ao vale de Iftá-El ao norte, a Bete-Emeque, e a Neiel, e sai a Cabul à esquerda;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E engloba a Hebrom, e Reobe, e Hamom, e Caná, até a grande Sidom;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E torna dali este termo a Hormá, e até a forte cidade de Tiro, e torna este termo a Hosa, e sai ao mar desde o território de Aczibe:"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Engloba também Umá, e Afeque, e Reobe: vinte e duas cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a herança da tribo dos filhos de Aser por suas famílias; estas cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A sexta porção saiu para os filhos de Naftali, pelos filhos de Naftali conforme suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi seu termo desde Helefe, e Alom-Zaanim, e Adami-Neguebe, e Jabneel, até Lacum; e sai ao Jordão;"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tornando dali este termo até o ocidente a Aznote-Tabor, passa dali a Hucoque, e chega até Zebulom ao sul, e ao ocidente confina com Aser, e com Judá ao Jordão até o oriente."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as cidades fortes são Zidim, Zer, e Hamate, Racate, e Quinerete,"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Adama, e Ramá, e Hazor,"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Quedes, e Edrei, e En-Hazor,"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Irom, e Migdal-Ele, e Horém, e Bete-Anate, e Bete-Semes: dezenove cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a herança da tribo dos filhos de Naftali por suas famílias; estas cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A sétima porção saiu para a tribo dos filhos de Dã por suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi o termo de sua herança, Zorá, e Estaol, e Ir-Semes,"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Saalabim, e Aijalom, e Itla,"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Elom, e Timna, e Ecrom,"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Elteque, Gibetom, e Baalate,"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jeúde, e Bene-Beraque, e Gate-Rimom,"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Me-Jarcom, e Racom, com o termo que está diante de Jope."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E faltou-lhes termo aos filhos de Dã; e subiram os filhos de Dã e combateram a Lesém, e tomando-a feriram-na a fio de espada, e a possuíram, e habitaram nela; e chamaram a Lesém, Dã, do nome de Dã seu pai."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a herança da tribo dos filhos de Dã conforme suas famílias; estas cidades com suas aldeias."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois que acabaram de repartir a terra em herança por seus termos, deram os filhos de Israel herança a Josué filho de Num em meio deles:"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Segundo a palavra do SENHOR, lhe deram a cidade que ele pediu, Timnate-Heres, no monte de Efraim; e ele reedificou a cidade, e habitou nela."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas são as propriedades que Eleazar sacerdote, e Josué filho de Num, e os principais dos pais, entregaram por sorte em possessão às tribos dos filhos de Israel em Siló diante do SENHOR, à entrada do tabernáculo do testemunho; e acabaram de repartir a terra."
+                }
+            ]
+        }
+    ]
+}

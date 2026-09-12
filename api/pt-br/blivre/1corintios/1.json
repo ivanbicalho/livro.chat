@@ -1,0 +1,286 @@
+{
+    "book": "1corintios",
+    "name": "1 Coríntios",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Paulo, chamado apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Sóstenes,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo lugar invocam o nome de nosso Senhor Jesus Cristo, [Senhor] deles, e nosso;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Graça [seja] convosco, e a paz de Deus nosso Pai, e do Senhor Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sempre agradeço ao meu Deus por causa de vós, pela graça de Deus, que é dada a vós em Cristo Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que em todas as coisas estais enriquecidos nele, em toda palavra, e em todo conhecimento;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como o testemunho de Jesus Cristo foi confirmado entre vós."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De maneira que nenhum dom vos falta, enquanto esperais a manifestação do nosso Senhor Jesus Cristo,"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "o qual também vos firmará até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fiel é Deus, por quem fostes chamados para a comunhão do seu Filho Jesus Cristo, nosso Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu vos rogo, irmãos, pelo nome do nosso Senhor Jesus Cristo, que todos faleis uma mesma coisa, e não haja divisões entre vós; antes estejais juntos com o mesmo entendimento, e com a mesma opinião."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque, meus irmãos, foi-me informado acerca de vós, pelos [da casa] de Cloé, de que há brigas entre vós."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E digo isto, que cada um de vós diz: “Eu sou de Paulo” e “Eu [sou] de Apolo” e “Eu [sou] de Cefas” e “Eu [sou] de Cristo”."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cristo está dividido? Paulo foi crucificado por vós? Ou fostes vós batizados no nome de Paulo?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradeço a Deus que batizei nenhum de vós, a não ser Crispo e Gaio;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para que ninguém diga que eu tenha batizado em meu nome."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também batizei aos da casa de Estefanas; além desses, não sei se batizei algum outro."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque Cristo não me enviou para batizar, mas sim, para evangelizar; não com sabedoria de palavras, para que a cruz de Cristo não se torne inútil."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a palavra da cruz é loucura para os que perecem; mas para os que se salvam é poder de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque está escrito: Destruirei a sabedoria dos sábios, e aniquilarei a inteligência dos inteligentes."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde está o sábio? Onde está o escriba? Onde está o questionador desta era? Por acaso Deus não tornou a sabedoria deste mundo em loucura?"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois já que, na sabedoria de Deus, o mundo não conheceu a Deus pela sabedoria, Deus se agradou de salvar os que creem por meio da loucura da pregação."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque os judeus pedem um sinal miraculoso, e os gregos buscam sabedoria."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas nós pregamos a Cristo crucificado, [que é] motivo de ofensa para os Judeus, e loucura para os gregos."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém aos que são chamados, tanto judeus como gregos, Cristo [é] poder de Deus e sabedoria de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a loucura de Deus é mais sábia que os seres humanos; e a fraqueza de Deus é mais forte que os seres humanos."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vede, pois, o vosso chamado, irmãos; pois dentre vós não [há] muitos sábios em sabedoria humana, nem muitos poderosos, nem muitos da elite."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Deus escolheu as coisas loucas deste mundo para envergonhar as sábias; e Deus escolheu as fracas deste mundo para envergonhar as fortes."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Deus escolheu as coisas desprezíveis deste mundo, e as sem valor, e as que não são, para reduzir a nada as que são;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para que ninguém orgulhe de si mesmo diante dele."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós sois dele em Cristo Jesus, o qual, por parte de Deus, tornou-se para nós sabedoria, justiça, santificação, e resgate;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para que, assim como está escrito: “Aquele que se orgulha, orgulhe-se no Senhor”."
+                }
+            ]
+        }
+    ]
+}

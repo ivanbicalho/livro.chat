@@ -1,0 +1,52 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 93,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR reina. Ele está vestido de majestade; o SENHOR está vestido de poder, [com o qual] se envolveu. O mundo está firmado, não se abalará."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Teu trono está firme desde o passado; tu [és] desde a eternidade."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "SENHOR, os rios levantam; os rios levantam seus ruídos; os rios levantam suas ondas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Porém] o SENHOR nas alturas é mais forte que os ruídos de muitas águas, [mais que] as fortes ondas do mar."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muito fiéis são teus testemunhos; a santidade embeleza tua casa, SENHOR, para sempre."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 99,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR reina, tremam as nações; [ele é] o que se senta [entre] os querubins, mova-se a terra."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR é grande em Sião; ele é mais elevado que todos os povos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvem o teu grande e temível nome, [porque] ele é santo;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como também a fortaleza do Rei, que ama o juízo; tu firmaste as coisas corretas; tu fizeste juízo e justiça em Jacó."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exaltai ao SENHOR nosso Deus, e prostrai-vos perante o suporte dos seus pés, [porque] ele é santo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Moisés e Arão estavam entre seus sacerdotes, e Samuel entre os que chamavam o seu nome; eles clamavam ao SENHOR, e ele os respondia."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na coluna da nuvem ele lhes falava; eles guardavam seus testemunhos e os estatutos que ele tinha lhes dado."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ó SENHOR nosso Deus, tu os respondia; tu lhes foste Deus perdoador, ainda que vingasse as coisas que eles praticavam."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exaltai ao SENHOR nosso Deus, e prostrai-vos perante seu santo monte; pois santo é o SENHOR nosso Deus."
+                }
+            ]
+        }
+    ]
+}

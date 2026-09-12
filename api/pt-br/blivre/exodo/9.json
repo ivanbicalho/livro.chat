@@ -1,0 +1,322 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o SENHOR disse a Moisés: Entra a Faraó, e dize-lhe: o SENHOR, o Deus dos hebreus, diz assim: Deixa ir a meu povo, para que me sirvam;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque se não o queres deixar ir, e os detiverdes ainda,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que a mão do SENHOR será sobre teus gados que estão no campo, cavalos, asnos, camelos, vacas e ovelhas, com pestilência gravíssima:"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR fará separação entre os gados de Israel e os do Egito, de modo que nada morra de todo o dos filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR assinalou tempo, dizendo: Amanhã fará o SENHOR esta coisa na terra."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o dia seguinte o SENHOR fez aquilo, e morreu todo o gado do Egito; mas do gado dos filhos de Israel não morreu um."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Faraó enviou, e eis que do gado dos filhos de Israel não havia um morto sequer. Mas o coração de Faraó se agravou, e não deixou ir ao povo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés e a Arão: Tomai punhados de cinza de um forno, e espalha-a Moisés até o céu diante de Faraó:"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E virá a ser pó sobre toda a terra do Egito, o qual originará sarna que cause feridas com ulcerações nos homens e nos animais, por toda a terra do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomaram a cinza do forno, e puseram-se diante de Faraó, e espalhou-a Moisés até o céu; e veio uma sarna que causava feridas com ulcerações tanto nos homens como nos animais."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os magos não podiam estar diante de Moisés por causa das feridas, porque houve sarna nos magos e em todos os egípcios."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR endureceu o coração de Faraó, e não os ouviu; como o SENHOR o disse a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o SENHOR disse a Moisés: Levanta-te de manhã, e põe-te diante de Faraó, e dize-lhe: o SENHOR, o Deus dos hebreus, disse assim: Deixa ir a meu povo, para que me sirva."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu enviarei esta vez todas minhas pragas a teu coração, sobre teus servos, e sobre teu povo, para que entendas que não há outro como eu em toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque agora eu estenderei minha mão para ferir a ti e a teu povo de pestilência, e serás tirado da terra."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E à verdade eu te pus para declarar em ti meu poder, e que meu Nome seja contado em toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todavia te exaltas tu contra meu povo, para não deixá-los ir?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que amanhã a estas horas eu farei chover granizo muito grave, qual nunca foi em Egito, desde o dia que se fundou até agora."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Envia, pois, a recolher teu gado, e tudo o que tens no campo; porque todo homem ou animal que se achar no campo, e não for recolhido a casa, o granizo descerá sobre ele, e morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos servos de Faraó o que temeu a palavra do SENHOR, fez fugir seus criados e seu gado a casa:"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o que não pôs em seu coração a palavra do SENHOR, deixou seus criados e seus gados no campo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés: Estende a tua mão até o céu, para que venha granizo em toda a terra do Egito sobre os homens, e sobre os animais, e sobre toda a erva do campo na terra do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés estendeu sua vara até o céu, e o SENHOR fez trovejar e cair granizo, e o fogo corria pela terra; e choveu o SENHOR granizo sobre a terra do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Houve, pois, granizo, e fogo misturado com o granizo, tão grande, qual nunca houve em toda a terra do Egito desde que foi habitada."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aquele granizo feriu em toda a terra do Egito todo o que estava no campo, tanto homens como animais; o granizo também feriu toda erva do campo, e quebrou os galhos de todas as árvores daquela terra."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Somente na terra de Gósen, onde os filhos de Israel estavam, não houve granizo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Faraó mandou chamar a Moisés e a Arão, e lhes disse: Pequei esta vez: o SENHOR é justo, e eu e meu povo ímpios."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Orai ao SENHOR: e cessem os trovões de Deus e o granizo; e eu vos deixarei ir, e não vos detereis mais."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondeu-lhe Moisés: Em saindo eu da cidade estenderei minhas mãos ao SENHOR, e os trovões cessarão, e não haverá mais granizo; para que saibas que do SENHOR é a terra."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu sei que nem tu nem teus servos temereis todavia a presença do Deus o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O linho, pois, e a cevada foram feridos; porque a cevada estava já espigada, e o linho em flor."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o trigo e o centeio não foram feridos; porque eram tardios."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E saído Moisés da presença de Faraó da cidade, estendeu suas mãos ao SENHOR, e cessaram os trovões e o granizo; e a chuva não caiu mais sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo Faraó que a chuva havia cessado e o granizo e os trovões, perseverou em pecar, e agravou seu coração, ele e seus servos."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o coração de Faraó se endureceu, e não deixou ir aos filhos de Israel; como o SENHOR o havia dito por meio de Moisés."
+                }
+            ]
+        }
+    ]
+}

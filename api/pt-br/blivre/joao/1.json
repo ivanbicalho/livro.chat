@@ -1,0 +1,466 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No princípio era a Palavra, e a Palavra estava junto de Deus, e a Palavra era Deus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta estava no princípio junto de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por esta foram feitas todas as coisas, e sem ela não se fez coisa nenhuma do que foi feito."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nela estava a vida, e a vida era a luz dos seres humanos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a luz brilha nas trevas; e as trevas não a compreenderam."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Houve um homem enviado por Deus, cujo nome era João."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este veio por testemunho, para que testemunhasse da Luz, para que todos por ele cressem."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele não era a Luz; mas [foi enviado] para que testemunhasse da Luz."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Esta] era a luz verdadeira, que ilumina a todo ser humano que vem ao mundo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No mundo estava, e por ele foi feito o mundo; e o mundo não o conheceu."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao [seu] próprio veio, e os seus não o receberam."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas a todos quantos o receberam, deu-lhes poder de serem feitos filhos de Deus: aos que creem em seu nome."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os quais não são gerados de sangue, nem de vontade da carne, nem de vontade de homem, mas sim de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aquela Palavra se fez carne, e habitou entre nós; (e vimos sua glória, como glória do unigênito do Pai) cheio de graça e de verdade."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E João dele testemunhou, e clamou, dizendo: Este era aquele, de quem eu dizia: O que vem após mim é antes de mim; porque era primeiro que eu."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de sua plenitude recebemos todos também graça por graça."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a Lei foi dada por Moisés; a graça e a verdade foi feita por Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A Deus nunca ninguém o viu; o unigênito Deus , que está no seio do Pai, ele [o] declarou."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E este é o testemunho de João, quando os judeus mandaram alguns sacerdotes e levitas de Jerusalém, que lhe perguntassem: Tu quem és?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E confessou, e não negou; e confessou: Eu não sou o Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lhe perguntaram: Que, então? És tu Elias? E ele disse: Não sou. [Eles disseram] : Tu és o Profeta? E ele respondeu: Não."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe pois: Quem és? Para darmos resposta aos que nos enviaram. Que dizes de ti mesmo?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse: Eu sou a voz do que clama no deserto: Endireitai o caminho do Senhor, como disse o profeta Isaías."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os enviados eram dos fariseus."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perguntaram-lhe, e disseram-lhe: Por que pois batizas, se tu não és o Cristo, nem Elias, nem o profeta?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "João lhes respondeu, dizendo: Eu batizo com água; mas em meio de vós, está a quem vós não conheceis,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é aquele que vem após mim, do qual eu não sou digno de desatar a tira de sua sandália."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas coisas aconteceram em Betábara, do outro lado do Jordão, onde João estava batizando."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O dia seguinte viu João a Jesus vir a ele, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é aquele do qual eu disse: Após mim vem um homem que já foi antes de mim; porque já era primeiro que eu."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu não o conhecia; mas para que fosse manifesto a Israel, por isso vim eu batizando com água."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E João testemunhou, dizendo: Eu vi o Espírito como pomba descer do céu, e repousou sobre ele."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu não o conhecia, mas aquele que me mandou a batizar com água, esse me disse: Sobre aquele que vires descer ao Espírito, e repousar sobre ele, esse é o que batiza com Espírito Santo."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu [o] vi, e testemunhado tenho, que este é o Filho de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O seguinte dia estava outra vez [ali] João, e dois de seus discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo [por ali] andar a Jesus, disse: Eis o Cordeiro de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os dois discípulos ouviram[-lhe] dizer [aquilo] , e seguiram a Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus, virando-se, e vendo-os seguir, disse-lhes: Que buscais? E eles lhe disseram: Rabi, (que traduzido, quer dizer, Mestre) onde moras?"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes ele: Vinde, e vede-o; Vieram, e viram onde morava, e na companhia dele naquele dia; e já era quase a hora décima."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Era André, o irmão de Simão Pedro, um dos dois que ouvira aquilo de João, e o haviam seguido."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este achou primeiro a seu irmão Simão, e disse-lhe: Já achamos ao Messias(que traduzido, é o Cristo)."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levou-o a Jesus. E Jesus, olhando para ele, disse: Tu és Simão, filho de Jonas; tu serás chamado Cefas. (que se traduz Pedro)."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O dia seguinte Jesus quis ir à Galileia, achou Filipe, e disse-lhe: Segue-me."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Filipe era de Betsaida, da cidade de André e de Pedro."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filipe achou Natanael, e disse-lhe: Achamos [aquele] de quem Moisés escreveu na Lei, e os Profetas: a Jesus, o filho de José, de Nazaré."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhe Natanael: Pode haver alguma coisa boa de Nazaré? Filipe lhe disse: Vem, e vê."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus viu Natanael vir, e disse dele: Eis verdadeiramente um israelita, em quem não há engano!"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Natanael lhe disse: De onde tu me conheces? Respondeu Jesus, e disse-lhe: Antes que Filipe te chamasse, estando tu debaixo da figueira, eu te vi."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Natanael respondeu, e disse-lhe: Rabi, tu és o Filho de Deus, tu és o Rei de Israel!"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus respondeu, e disse-lhe: Porque te disse: Debaixo da figueira te vi, crês? Tu verás coisas maiores que estas."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhe: Em verdade, em verdade vos digo, que daqui em diante vereis o céu aberto, e aos anjos de Deus subir e descer sobre o Filho do homem."
+                }
+            ]
+        }
+    ]
+}

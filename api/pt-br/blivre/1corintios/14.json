@@ -1,0 +1,367 @@
+{
+    "book": "1corintios",
+    "name": "1 Coríntios",
+    "chapter": 14,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Segui o amor, e desejai com zelo pelos [dons] espirituais; porém principalmente que profetizeis."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o que fala língua [estranha] , não fala aos seres humanos, mas sim a Deus; porque ninguém [o] entende, mas em espírito fala mistérios."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o que profetiza, fala aos seres humanos [para] edificação, convencimento, e consolação."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que fala língua [estranha] edifica a si mesmo; mas o que profetiza edifica à igreja."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu quero que todos vós faleis línguas, porém mais [ainda] que profetizeis; porque o que profetiza é maior que o que fala línguas, a não ser que [também] interprete, para que a igreja receba edificação."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E agora irmãos, se eu viesse até vos falando línguas, o que vos aproveitaria, se não vos falasse ou por revelação, ou por conhecimento, ou por profecia, ou por doutrina?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E até as coisas inanimadas, que produzem som, seja flauta, seja harpa, se não derem distinção de sons, como saberá o que se toca com a flauta, ou com a harpa?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque também se a trombeta der som incerto, quem se preparará para a guerra?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim [mesmo] também vós, se com a língua não derdes palavra compreensível, como se entenderá o que se diz? Porque estareis falando para o ar."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por exemplo, há tantos tipos de vozes no mundo, e nenhuma delas é muda."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, se eu não souber o propósito da voz, serei estrangeiro para o que fala, e o que fala será estrangeiro para mim."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim também vós, dado que desejais os dons espirituais, procurai [neles] abundar, para edificação da igreja."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, o que fala em língua [estranha] , ore para que possa interpretar."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque se eu orar em língua [estranha] , meu espírito ora, mas meu entendimento fica sem fruto."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então é o que? Orarei com o espírito, mas também orarei com o entendimento; cantarei com o espírito, mas também cantarei com o entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De outra maneira, se tu bendisseres com o espírito, como aquele que não tem conhecimento dirá amém por teu bendizer? Pois ele não sabe o que tu dizes."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque em verdade tu bem dás graças; mas o outro não é edificado."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Graças dou a meu Deus, que mais línguas falo que todos vós."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu quero [mais] falar na igreja cinco palavras com meu entendimento, para que eu também possa instruir aos outros, do que dez mil palavras em língua [estranha] ."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia, e adultos no entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na Lei está escrito: A este povo falarei por gente de outras línguas, e por outros lábios; e ainda assim não me ouvirão, diz o Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então as línguas [estranhas] são por sinal, não para os que creem, mas para os que não creem; e a profecia não é para os que não creem, mas para os que creem."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois se toda a igreja se reunir, e todos falarem línguas [estranhas] , e entrarem alguns sem entendimento ou descrentes, não dirão que estais loucos?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se todos profetizarem, e algum sem entendimento ou descrente entrar, por todos é convencido, [e] por todos é julgado."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E assim os segredos de seu coração ficam manifestos, e assim, lançando-se sobre [seu] rosto, adorará a Deus, reconhecendo publicamente que Deus está entre vós."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o que há, irmãos? Quando vos reunis, tem cada um de vós salmo, tem doutrina, tem língua [estranha] , tem revelação, tem interpretação, tudo se faça para edificação."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém falar em língua [estranha] , [sejam] dois, ou no máximo três, e alternando-se, e um que interprete."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se não houver intérprete, cale-se na igreja, fale porém consigo mesmo, e com Deus."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falem dois ou três profetas, e os outros julguem."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se a outro, que estiver sentada, for revelada [alguma coisa] , cale-se o primeiro."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque todos vós podeis profetizar, um após o outro, para que todos aprendam, e sejam todos fortalecidos."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os espíritos dos profetas estão sujeitos aos profetas."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque Deus não é de confusão, mas de paz, como em todas as igrejas dos santos."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vossas mulheres fiquem caladas nas igrejas; porque não lhes é permitido falar, mas [que] estejam sujeitas, como também a Lei o diz."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se quiserem aprender alguma coisa, perguntem a seus próprios maridos em casa; porque é impróprio as mulheres falarem na igreja."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso a palavra de Deus saiu de vós? Ou ela somente chegou a vós?"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se alguém pensa ser profeta, ou espiritual, reconheça que as coisas que escrevo são mandamento do Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém se alguém ignora, que ignore."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, irmãos, desejai com zelo profetizar, e não impeçais o falar línguas [estranhas] ."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fazei tudo decentemente e com ordem."
+                }
+            ]
+        }
+    ]
+}

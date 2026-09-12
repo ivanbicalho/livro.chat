@@ -1,0 +1,124 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 65,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo e cântico de Davi, para o regente:A ti, Deus, [pertence] a tranquilidade [e] o louvor em Sião; e a ti será pago o voto."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, que ouves as orações; toda carne virá a ti."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Perversidades têm me dominado, [porém] tu tiras a culpa de nossas transgressões."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado [é] aquele a quem tu escolhes, e [o] fazes aproximar, para que habite em teus cômodos; seremos fartos do bem de tua casa, [na] santidade de teu templo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu nos responderá de forma justa [por meio de] coisas temíveis. O Deus de nossa salvação [é] a confiança de todos os limites da terra, e dos lugares mais distantes do mar."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele [é] o que firma os montes com sua força, revestido de poder."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele é o que amansa o ruído dos mares, o ruído de suas ondas, e o tumulto dos povos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Até] os que habitam nos lugares mais distantes temem teus sinais; tu fazes alegres o nascer e o pôr do sol."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu visitas a terra, e a regas; tu a enriqueces; o rio de Deus [está] cheio de águas; tu preparas [a terra] , e lhes dá trigo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enche seus regos de [águas] ,fazendo-as descer em suas margens; com muita chuva a amoleces, [e] abençoas o que dela brota."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Coroas o ano com tua bondade; e teus caminhos transbordam fartura."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles são derramados [sobre] os pastos do deserto; e os morros se revestem de alegria."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os campos se revestem de rebanhos, e os vales são cobertos de trigo; e por isso se alegram e cantam."
+                }
+            ]
+        }
+    ]
+}

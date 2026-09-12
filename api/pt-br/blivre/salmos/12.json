@@ -1,0 +1,79 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, para o regente, com harpa de oito cordas:Salva, SENHOR, porque os bons estão em falta; porque são poucos os fiéis dentre os filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cada um fala falsidade ao seu próximo, [com] lábios elogiam falsamente; falam com duas intenções no coração."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que o SENHOR corte a todos os lábios que falam falsos elogios, [e toda] língua que fala grandes [mentiras] ."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois dizem: Com nossa língua prevaleceremos; nossos lábios [são] nossos; que é senhor sobre nós?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR diz: Pela opressão aos humildes, pelo gemido dos necessitados, eu agora me levantarei; porei em segurança àquele a quem ele sopra [desejando oprimir] ."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As palavras do SENHOR são palavras puras, [como] prata refinada em forno de barro, purificada sete vezes."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, SENHOR, os guardarás; desta geração os livrarás para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os maus andam cercando, enquanto os mais vis dos filhos dos homens são exaltados."
+                }
+            ]
+        }
+    ]
+}

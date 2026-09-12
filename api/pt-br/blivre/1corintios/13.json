@@ -1,0 +1,124 @@
+{
+    "book": "1corintios",
+    "name": "1 Coríntios",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ainda que eu falasse as línguas dos seres humanos e dos anjos, e não tivesse amor, seria como o metal que soa, ou como o sino que retine."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ainda que tivesse [o dom] de profecia, e soubesse todos os mistérios, e todo o conhecimento; e ainda que tivesse toda a fé, de tal maneira que movesse os montes de lugar, e não tivesse amor, nada seria."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ainda que eu distribuísse todos os meus bens para alimentar [aos pobres] , e ainda que entregasse meu corpo para ser queimado, e não tivesse amor, nada me aproveitaria."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O amor é paciente, é bondoso; o amor não é invejoso; o amor não é orgulhoso, não é arrogante."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O amor não trata mal; não busca os próprios [interesses] , não se ira, não é rancoroso."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não se alegra com a injustiça, mas se alegra com a verdade."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo aguenta, tudo crê, tudo espera, tudo suporta."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O amor nunca falha. Porém as profecias serão aniquiladas; as línguas acabarão, e o conhecimento será aniquilado."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque em parte conhecemos, e em parte profetizamos;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando vier o [que é] completo,[Ou: perfeito] então o que é em parte será aniquilado."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando eu era menino, falava como menino, sentia como menino, pensava como menino; mas quando me tornei homem, aniquilei as coisas de menino."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque agora vemos por espelho em enigma, mas então [veremos] face a face; agora conheço em parte, mas então conhecerei assim como sou conhecido."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E agora continuam a fé, a esperança, [e] o amor, estes três; porém o maior destes é o amor."
+                }
+            ]
+        }
+    ]
+}

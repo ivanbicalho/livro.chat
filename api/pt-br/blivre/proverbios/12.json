@@ -1,0 +1,259 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que ama a correção ama o conhecimento; mas aquele que odeia a repreensão é um bruto."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem de bem ganha o favor do SENHOR; mas ao homem de pensamentos perversos, ele o condenará."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem não prevalecerá pela perversidade; mas a raiz dos justos não será removida."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mulher virtuosa é a coroa de seu marido; mas a causadora de vergonha é como uma podridão em seus ossos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os pensamentos dos justos são de bom juízo; [mas] os conselhos dos perversos são enganosos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As palavras dos perversos são para espreitar [o derramamento de] sangue [de inocentes] ; mas a boca dos corretos os livrará."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os perversos serão transtornados, e não existirão [mais] ; porém a casa dos justos permanecerá."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cada um será elogiado conforme seu entendimento; mas o perverso de coração será desprezado."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor é o que estima pouco a si mesmo mas tem quem o sirva, do que aquele que elogia e si mesmo, mas nem sequer tem pão."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo dá atenção à vida de seus animais; mas [até] as misericórdias dos perversos são cruéis."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que lavra sua terra se saciará de pão; mas o que segue [coisas] inúteis tem falta de juízo."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso deseja armadilhas malignas; porém a raiz dos justos produzirá [seu fruto] ."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso é capturado pela transgressão de seus lábios, mas o justo sairá da angústia."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cada um se sacia do bem pelo fruto de sua [própria] boca; e a recompensa das mãos do homem lhe será entregue de volta."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O caminho do tolo é correto aos seus [próprios] olhos; mas aquele que ouve o [bom] conselho é sábio."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A ira do tolo é conhecida no mesmo dia, mas o prudente ignora o insulto."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que fala a verdade conta a justiça; porém a testemunha falsa [conta] o engano."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há [alguns] que falam [palavras] como que golpes de espada; porém a língua do sábios é [como] um remédio."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O lábio da verdade ficará para sempre, mas a língua da falsidade [dura] por [apenas] um momento."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Há] engano no coração dos que tramam o mal; mas os que aconselham a paz [têm] alegria."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nenhuma adversidade sobrevirá ao justos; mas os perversos se encherão de mal."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os lábios mentirosos são abomináveis ao SENHOR, mas dos que falam a verdade são seu prazer."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem prudente é discreto em conhecimento; mas o coração dos tolos proclama a loucura."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mão dos que trabalham com empenho dominará, e os preguiçosos se tornarão escravos."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A ansiedade no coração do homem o abate; [mas] uma boa palavra o alegra."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo age cuidadosamente para com seu próximo, mas o caminho dos perversos os faz errar."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O preguiçoso não assa aquilo que caçou, mas a riqueza de quem trabalha com empenho [lhe é] preciosa."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na vereda da justiça está a vida; e [no] caminho de seu percurso não há morte."
+                }
+            ]
+        }
+    ]
+}

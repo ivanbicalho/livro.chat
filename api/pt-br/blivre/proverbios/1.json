@@ -1,0 +1,304 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Provérbios de Salomão, filho de Davi, rei de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para conhecer a sabedoria e a instrução; para entender as palavras da prudência;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para obter a instrução do entendimento; justiça, juízo e equidades;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para dar inteligência aos simples, conhecimento e bom senso aos jovens."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sábio ouvirá, e crescerá em conhecimento; o bom entendedor obterá sábios conselhos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para entender provérbios e [sua] interpretação; as palavras dos sábios, e seus enigmas."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O temor ao SENHOR [é] o principio do conhecimento; os tolos desprezam a sabedoria e a instrução."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, ouve a instrução de teu pai; e não abandones a doutrina de tua mãe."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque [serão] um ornamento gracioso para tua cabeça; e colares para teu pescoço."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, se os pecadores tentarem te convencer, não te deixes influenciar."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se disserem: Vem conosco, vamos espiar [derramamento] de sangue; preparemos uma emboscada ao inocente sem razão."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vamos tragá-los vivos, como o Xeol; e inteiros, como os que descem à cova."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acharemos toda espécie de coisas valiosas, encheremos nossas casas de despojos."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lança tua sorte entre nós, compartilharemos todos de uma [só] bolsa."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, não sigas teu caminho com eles; desvia teu pé [para longe] de onde eles passarem;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque os pés deles correm para o mal, e se apressam para derramar sangue."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente [é] inútil se estender a rede diante da vista de todas as aves;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém estes estão esperando [o derramamento] de seu [próprio] sangue; e preparam emboscada para suas [próprias] almas."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim [são] os caminhos de todo aquele que tem ganância pelo lucro desonesto; ela tomará a alma daqueles que a tem."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A sabedoria grita pelas ruas; nas praças ela levanta sua voz."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ela clama nas encruzilhadas, onde [passam] muita gente; às entradas das portas, nas cidades ela diz suas mensagens:"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até quando, ó tolos, amareis a tolice? E vós zombadores, desejareis a zombaria? E [vós] loucos, odiareis o conhecimento?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Convertei-vos à minha repreensão; eis que vos derramarei meu espírito, [e] vos farei saber minhas palavras."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Mas] porque eu clamei, e recusastes; estendi minha mão, e não houve quem desse atenção,"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E rejeitastes todo o meu conselho, e não quisestes minha repreensão,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também eu rirei em vosso sofrimento, [e] zombarei, quando vier vosso medo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando vier vosso temor como tempestade, e a causa de vosso sofrimento como ventania, quando vier sobre vós a opressão e a angústia,"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então clamarão a mim; porém eu não responderei; de madrugada me buscarão, porém não me acharão."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque odiaram o conhecimento; e escolheram não temer ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não concordaram com meu conselho, [e] desprezaram toda a minha repreensão."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso comerão do fruto do seu [próprio] caminho, e se fartarão de seus [próprios] conselhos."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o desvio dos tolos os matará, e a confiança dos loucos os destruirá."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém aquele que me ouvir habitará em segurança, e estará tranquilo do temor do mal."
+                }
+            ]
+        }
+    ]
+}

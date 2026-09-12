@@ -1,0 +1,115 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que as nações se rebelam, e os povos planejam em vão?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os reis da terra se levantam, e os governantes tomam conselhos reunidos contra o SENHOR, e contra seu Ungido, [dizendo] :"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Rompamos as correntes deles, e lancemos fora de nós as cordas deles."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que está sentado nos céus rirá; o Senhor zombará deles."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele lhes falará em sua ira; em seu furor ele os assombrará, [dizendo] :"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu ungi a meu Rei sobre Sião, o monte de minha santidade."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu declararei o decreto do SENHOR: Ele me disse: Tu és meu Filho; eu hoje te gerei."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pede-me, e eu te darei as nações [por] herança, e [por] tua propriedade os confins da terra."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com cetro de ferro tu as quebrarás; como vaso de oleiro tu as despedaçarás;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto agora, reis, sede prudentes; vós, juízes da terra, deixai serdes instruídos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Servi ao SENHOR com temor; e alegrai-vos com tremor."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Beijai ao Filho, para que ele não se ire, e pereçais [no] caminho; porque em breve a ira dele se acenderá. Bem-aventurados [são] todos os que nele confiam."
+                }
+            ]
+        }
+    ]
+}

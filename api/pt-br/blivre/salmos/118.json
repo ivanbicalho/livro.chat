@@ -1,0 +1,268 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 118,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradecei ao SENHOR, porque ele é bom; pois sua bondade [dura] para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Diga agora Israel, que sua bondade [dura] para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Diga agora casa de Arão, que sua bondade [dura] para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Digam agora os que temem ao SENHOR, que sua bondade [dura] para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na angústia clamei ao SENHOR; [e] o SENHOR me respondeu, e [me pôs] num lugar amplo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR está comigo, não temerei; o que poderá me fazer o homem?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR está comigo entre os que ajudam; por isso verei [o fim] daqueles que me odeiam."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor é buscar refúgio no SENHOR do que confiar no homem."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor é buscar refúgio no SENHOR do que confiar em príncipes."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todas as nações me cercaram; [mas foi] no nome do SENHOR que eu as despedacei."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cercaram-me, cercaram-me mesmo; [mas foi] no nome do SENHOR que eu as despedacei."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cercaram-me como abelhas, mas se apagaram como fogo de espinhos; [porque] foi no nome do SENHOR que eu as despedacei."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com força me empurraste para que eu caísse; mas o SENHOR me ajudou."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR é minha força e [minha] canção, porque ele tem sido minha salvação."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nas tendas dos justos há voz de alegria e salvação; a mão direita do SENHOR faz proezas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mão direita do SENHOR se levanta; a mão direita do SENHOR faz proezas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu não morrerei, mas viverei; e contarei as obras do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É verdade que o SENHOR me castigou, porém ele não me entregou à morte."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abri para mim as portas da justiça; entrarei por elas [e] louvarei ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a porta do SENHOR, pela qual os justos entrarão."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu te louvarei porque tu me respondeste e me salvaste."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A pedra que os construtores rejeitaram se tornou cabeça de esquina."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo SENHOR isto foi feito, [e] é maravilhoso aos nossos olhos."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é o dia em que o SENHOR agiu; alegremos e enchamos de alegria nele."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ah, SENHOR, salva-nos! Ah, SENHOR, faze [-nos] prosperar!"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito aquele que vem no nome do SENHOR; nós vos bendizemos desde a casa do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR é o [verdadeiro] Deus, que nos deu luz; atai os [sacrifícios] da festa, para [levá-los] aos chifres do altar."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu és meu Deus, por isso eu te louvarei. Eu te exaltarei, meu Deus."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradecei ao SENHOR, porque ele é bom; pois sua bondade [dura] para sempre."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "book": "1pedro",
+    "name": "1 Pedro",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abandonai, portanto, toda malícia, toda enganação, fingimentos, invejas, e todas as falas maldosas,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e desejai ansiosamente, como bebês recém-nascidos, o leite da Palavra, não falsificado, para que por meio dele estejais crescendo para a salvação;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "se, de fato, já experimentastes que o Senhor é bom."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aproximai-vos dele, [que é] uma pedra viva, rejeitada pelos seres humanos, mas escolhida e preciosa para Deus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também vós, como pedras vivas, sois edificados como casa espiritual [e] sacerdócio santo, para oferecerdes sacrifícios espirituais, agradáveis a Deus por meio de Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois também está contido na Escritura: Eis que eu ponho em Sião uma pedra principal de esquina, escolhida [e] preciosa. Quem nela crer de maneira nenhuma será envergonhado."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim, para vós, que credes, ela é preciosa. Mas para os incrédulos: A pedra que os construtores rejeitaram, essa se tornou a principal de esquina,"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "assim como pedra de tropeço, e pedra que causa queda. Eles tropeçam na palavra por serem rebeldes. Para isso eles foram destinados."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós sois a geração escolhida, o sacerdócio real, a nação santa, o povo adquirido; a fim de que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Antes, vós não éreis povo, mas agora sois povo de Deus. [Antes] , não havíeis recebido misericórdia, mas agora recebestes misericórdia."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Amados, como a peregrinos e estrangeiros, eu vos peço que vos abstenhais dos desejos carnais, que batalham contra a alma,"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e que tenhais um bom comportamento vosso entre os pagãos; para que, naquilo que de vós, como de malfeitores, falam mal, no dia da visitação glorifiquem a Deus por causa das [vossas] boas obras que virem."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sujeitai-vos a toda autoridade humana, por causa do Senhor; seja ao rei, como superior;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "seja aos governantes, como enviados por ele, com o objetivo de castigar os malfeitores, e de conceder honra aos que fazem o bem."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois esta é a vontade de Deus, que, ao fazerdes o bem, caleis a ignorância dos homens tolos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Comportai-vos] como pessoas livres, mas não useis a liberdade como pretexto para a malícia. Em vez disso, [sede] como servos de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Honrai a todos: amai aos irmãos, temei a Deus, honrai ao rei."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Servos, sujeitai-vos com todo temor aos [vossos] senhores, não somente aos bons e brandos, mas também aos que maltratam."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois coisa agradável é se alguém, por causa da consciência a respeito de Deus, experimente dores, sofrendo injustamente."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Afinal, que mérito há em suportar serdes espancados por cometerdes pecado? Contudo, se, quando fazeis o bem, sois afligidos e suportais, isso é a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois para isto fostes chamados, porque também Cristo sofreu por vós, deixando-vos exemplo, para que sigais os seus passos."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele não cometeu pecado, nem engano foi achado em sua boca."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o insultavam, ele não insultava de volta. Quando sofria, ele não ameaçava; em vez disso, entregava-se ao que julga de maneira justa."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele levou nossos pecados em seu próprio corpo sobre o madeiro; para que nós, estando mortos para os pecados, vivamos para a justiça. Pela ferida dele fostes sarados."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque vós éreis como ovelhas desviadas do caminho; mas agora vós estais convertidos ao Pastor e Supervisor de vossas almas."
+                }
+            ]
+        }
+    ]
+}

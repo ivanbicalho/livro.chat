@@ -1,0 +1,286 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim Davi e os príncipes do exército apartaram para o ministério a os filhos de Asafe, e de Hemã, e de Jedutum, os quais profetizassem com harpas, saltérios, e címbalos: e o número deles foi, de homens idôneos para a obra de seu ministério"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Asafe: Zacur, José, Netanias, e Asarela, filhos de Asafe, sob a direção de Asafe, o qual profetizava à ordem do rei."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Jedutum: os filhos de Jedutum, Gedalias, Zeri, Jesaías, Hasabias, e Matitias, e Simei: seis, sob a mão de seu pai Jedutum, o qual profetizava com harpa, para celebrar e louvar a o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Hemã: os filhos de Hemã, Buquias, Matanias, Uziel, Sebuel, Jeremote, Hananias, Hanani, Eliata, Gidalti, Romanti-Ezer, Josbecasa, Maloti, Hotir, e Maaziote."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos estes foram filhos de Hemã, vidente do rei em palavras de Deus, para exaltar o poder seu: e deu Deus a Hemã catorze filhos e três filhas."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos estes estavam sob a direção de seu pai na música, na casa do SENHOR, com címbalos, saltérios e harpas, para o ministério do templo de Deus, por disposição do rei acerca de Asafe, de Jedutum, e de Hemã."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o número deles com seus irmãos instruídos em música do SENHOR, todos os aptos, foi duzentos oitenta e oito."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lançaram sortes para os turnos do serviço, entrando o pequeno com o grande, o mesmo o mestre que o discípulo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a primeira sorte saiu por Asafe, a José: a segunda a Gedalias, quem com seus irmãos e filhos foram doze;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terceira a Zacur, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A quarta a Izri, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A quinta a Netanias, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A sexta a Buquias, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A sétima a Jesarela, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A oitava a Jesaías, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A nona a Matanias, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima a Simei, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima primeira a Azareel, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima segunda a Hasabias, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima terceira a Subael, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima quarta a Matitias, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima quinta a Jeremote, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima sexta a Hananias, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima sétima a Josbecasa, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima oitava a Hanani, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A décima nona a Maloti, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A vigésima a Eliata, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A vigésima primeira a Hotir, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A vigésima segunda a Gidalti, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A vigésima terceira a Maaziote, com seus filhos e seus irmãos, doze;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A vigésima quarta a Romanti-Ezer, com seus filhos e seus irmãos, doze."
+                }
+            ]
+        }
+    ]
+}

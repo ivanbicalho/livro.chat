@@ -1,0 +1,250 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 17,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seis dias depois, Jesus tomou consigo Pedro, Tiago, e seu irmão João, e os levou a sós a um monte alto."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então transfigurou-se diante deles; seu rosto brilhou como o sol, e suas roupas se tornaram brancas como a luz."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que lhes apareceram Moisés e Elias, falando com ele."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro, então, disse a Jesus: Senhor, bom é para nós estarmos aqui. Se queres, farei aqui três tendas: uma para ti, uma para Moisés, e uma para Elias."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto ele ainda estava falando, eis que uma nuvem brilhante os cobriu. E eis que uma voz da nuvem disse: Este é o meu Filho amado, em quem me agrado; a ele ouvi."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os discípulos ouviram, caíram sobre seus rostos, e tiveram muito medo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus se aproximou deles, tocou-os, e disse: Levantai-vos, e não tenhais medo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando eles levantaram seus olhos, não viram a ninguém, a não ser a Jesus somente."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enquanto desciam do monte, Jesus lhes disse a seguinte ordem: Não conteis a visão a ninguém, até que o Filho do homem seja ressuscitado dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os discípulos lhe perguntaram: Por que, então, os escribas dizem que Elias tem que vir primeiro?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus lhes] respondeu: Em verdade Elias virá primeiro, e restaurará todas as coisas."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Digo-vos, porém, que Elias já veio, mas não o reconheceram. Em vez disso fizeram dele tudo o que quiseram. Assim também o Filho do homem sofrerá por meio deles."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os discípulos entenderam que ele lhes falara a respeito de João Batista."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando chegaram à multidão, veio a ele um homem, que se ajoelhou diante dele, e disse:"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Senhor, tem misericórdia do meu filho, que é epilético, e sofre muito mal; porque cai muitas vezes no fogo, e muitas vezes na água."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu o trouxe aos teus discípulos, mas não o puderam curar."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus respondeu: Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos suportarei? Trazei-o a mim aqui."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus o repreendeu. Então o demônio saiu dele, e o menino sarou desde aquela hora."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois os discípulos se aproximaram de Jesus em particular, e perguntaram: Por que nós não o pudemos expulsar?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E [Jesus] lhes respondeu: Por causa da vossa pouca fé; pois em verdade vos digo, que se tivésseis fé como um grão de mostarda, diríeis a este monte: “Passa-te daqui para lá”, E ele passaria. E nada vos seria impossível."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enquanto eles reuniam-se na Galileia, Jesus lhes disse: O Filho do homem será entregue em mãos de homens."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o matarão, e ele será ressuscitado ao terceiro dia.E eles se entristeceram muito."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando entraram em Cafarnaum, os cobradores da taxa de duas dracmas vieram a Pedro, e perguntaram: Vosso mestre não paga as duas dracmas?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele respondeu: Sim. Quando ele entrou em casa, Jesus o antecipou, dizendo: Que te parece, Simão? De quem os reis da terra cobram tributos ou taxas? Dos seus filhos, ou dos outros?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro respondeu: Dos outros. Jesus lhe disse: Logo, os filhos são livres de pagar."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas para não os ofendermos, vai ao mar, e lança o anzol. Toma o primeiro peixe que subir, e quando lhe abrir a boca, acharás uma moeda de quatro dracmas. Toma-a, e dá a eles por mim e por ti."
+                }
+            ]
+        }
+    ]
+}

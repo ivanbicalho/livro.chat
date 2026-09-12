@@ -1,0 +1,430 @@
+{
+    "book": "levitico",
+    "name": "Levítico",
+    "chapter": 11,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés e a Arão, dizendo-lhes:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Falai aos filhos de Israel, dizendo: Estes são os animais que comereis de todos os animais que estão sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De entre os animais, todo o de casco, e que tem as unhas fendidas, e que rumina, este comereis."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes, porém, não comereis dos que ruminam e dos que têm casco: o camelo, porque rumina mas não tem casco fendido, haveis de tê-lo por impuro;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também o coelho, porque rumina, mas não tem unha fendida, o tereis por impuro;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim a lebre, porque rumina, mas não tem unha fendida, a tereis por impura;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também o porco, porque tem unhas, e é de unhas fendidas, mas não rumina, o tereis por impuro."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da carne deles não comereis, nem tocareis seu corpo morto: os tereis por impuros."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isto comereis de todas as coisas que estão nas águas: todas as coisas que têm barbatanas e escamas nas águas do mar, e nos rios, aquelas comereis;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas todas as coisas que não têm barbatanas nem escamas no mar e nos rios, tanto de todo réptil de água como de toda coisa vivente que está nas águas, as tereis em abominação."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vos serão, pois, em abominação: de sua carne não comereis, e abominareis seus corpos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo o que não tiver barbatanas e escamas nas águas, o tereis em abominação."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E das aves, estas tereis em abominação; não se comerão, serão abominação: a água, o quebra-ossos, o esmerilhão,"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O milhafre, e o falcão a segundo sua espécie;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo corvo segundo sua espécie;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O avestruz, e a coruja, e a gaivota, e o gavião segundo sua espécie;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o mocho, e o corvo-marinho, e o íbis,"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a galinha-d'água, e o cisne, e o pelicano,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a cegonha, e a garça, segundo sua espécie, e a poupa, e o morcego."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo inseto de asas que andar sobre quatro pés, tereis em abominação."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém isto comereis de todo inseto de asas que anda sobre quatro patas, que tiver pernas além de suas patas para saltar com elas sobre a terra;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes comereis deles: o gafanhoto migrador segundo sua espécie, e a esperança segundo sua espécie, e o grilo segundo sua espécie, e o gafanhoto comum segundo sua espécie."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo réptil de asas que tenha quatro pés, tereis em abominação."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por estas coisas sereis impuros: qualquer um que tocar a seus corpos mortos, será impuro até à tarde:"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que levar de seus corpos mortos, lavará suas roupas, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo animal de casco, mas que não tem unha fendida, nem rumina, tereis por impuro: qualquer um que os tocar será impuro."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de todos os animais que andam a quatro patas, tereis por impuro qualquer um que ande sobre suas garras: qualquer um que tocar seus corpos mortos, será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que levar seus corpos mortos, lavará suas roupas, e será impuro até à tarde: haveis de tê-los por impuros."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes tereis por impuros dos répteis que vão arrastando sobre a terra: a doninha, e o rato, e o lagarto segundo sua espécie,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a lagartixa, e o lagarto pintado, e a lagartixa de parede, e a salamandra, e o camaleão."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes tereis por impuros de todos os répteis: qualquer um que os tocar, quando estiverem mortos, será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tudo aquilo sobre que cair algum deles depois de mortos, será impuro; tanto vaso de madeira, como roupa, ou pele, ou saco, qualquer instrumento com que se faz obra, será posto em água, e será impuro até à tarde, e assim será limpo."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E toda vasilha de barro dentro da qual cair algum deles, tudo o que estiver nela será impuro, e quebrareis a vasilha:"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda comida que se come, sobre a qual vier a água de tais vasilhas, será imunda: e toda bebida que se beber, será em todas essas vasilhas impura:"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tudo aquilo sobre que cair algo do corpo morto deles, será impuro: o forno ou aquecedores se derrubarão; são impuros, e por impuros os tereis."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Contudo, a fonte e a cisterna onde se recolhem águas, serão limpas: mas o que houver tocado em seus corpos mortos será impuro."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se cair de seus corpos mortos sobre alguma semente que se haja de semear, será limpa."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se se houver posto água na semente, e cair de seus corpos mortos sobre ela, a tereis por impura."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se algum animal que tiverdes para comer se morrer, o que tocar seu corpo morto será impuro até à tarde:"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que comer de seu corpo morto, lavará suas roupas, e será impuro até à tarde: também o que tirar seu corpo morto, lavará suas roupas, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo réptil que vai arrastando sobre a terra, é abominação; não se comerá."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo o que anda sobre o peito, e tudo o que anda sobre quatro ou mais patas, de todo réptil que anda arrastando sobre a terra, não o comereis, porque é abominação."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não torneis abomináveis vossas pessoas com nenhum réptil que anda arrastando, nem vos contamineis com eles, nem sejais impuros por eles."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois que eu sou o SENHOR vosso Deus, vós portanto vos santificareis, e sereis santos, porque eu sou santo: assim que não torneis abomináveis vossas pessoas com nenhum réptil que andar arrastando sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu sou o SENHOR, que vos faço subir da terra do Egito para vos ser por Deus: sereis pois santos, porque eu sou santo."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a lei dos animais e das aves, e de todo ser vivente que se move nas águas, e de todo animal que anda arrastando sobre a terra;"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para fazer diferença entre impuro e limpo, e entre os animais que se podem comer e os animais que não se podem comer."
+                }
+            ]
+        }
+    ]
+}

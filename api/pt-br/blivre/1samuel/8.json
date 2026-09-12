@@ -1,0 +1,205 @@
+{
+    "book": "1samuel",
+    "name": "1 Samuel",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que havendo Samuel envelhecido, pôs seus filhos por juízes sobre Israel."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o nome de seu filho primogênito foi Joel, e o nome do segundo, Abias: foram juízes em Berseba."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas não andaram os filhos pelos caminhos de seu pai, antes se inclinaram atrás a ganância, recebendo suborno e pervertendo o direito."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então todos os anciãos de Israel se juntaram, e vieram a Samuel em Ramá,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disseram-lhe: Eis que tu envelheceste, e teus filhos não vão por teus caminhos: portanto, constitui-nos agora um rei que nos julgue, como todas as nações."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E descontentou a Samuel esta palavra que disseram: Dá-nos rei que nos julgue. E Samuel orou ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse o SENHOR a Samuel: Ouve a voz do povo em tudo o que te disserem: porque não rejeitaram a ti, mas sim a mim me rejeitaram, para que eu não reine sobre eles."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Conforme todas as obras que fizeram desde o dia que os tirei do Egito até hoje, que me deixaram e serviram a deuses alheios, assim fazem também contigo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, pois, ouve sua voz: mas protesta contra eles declarando-lhes o direito do rei que há de reinar sobre eles."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Samuel todas as palavras do SENHOR ao povo que lhe havia pedido rei."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse, pois: Este será o direito do rei que houver de reinar sobre vós: tomará vossos filhos, e os porá em seus carros, e em seus cavaleiros, para que corram diante de seu carro:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se escolherá capitães de mil, e capitães de cinquenta: os porá também a que arem seus campos, e ceifem suas plantações, e a que façam suas armas de guerra, e os equipamentos de seus carros:"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomará também vossas filhas para que sejam perfumistas, cozinheiras, e padeiras."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também tomará vossas terras, vossas vinhas, e vossos bons olivais, e os dará a seus servos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele tomará o dízimo de vossas sementes e vossas vinhas, para dar a seus eunucos e a seus servos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele tomará vossos servos, e vossas servas, e vossos bons rapazes, e vossos asnos, e com eles fará suas obras."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomará o dízimo também do vosso rebanho, e sereis seus servos."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E clamareis aquele dia por causa de vosso rei que vos havereis escolhido, mas o SENHOR não vos ouvirá naquele dia."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém o povo não quis ouvir a voz de Samuel; antes disseram: Não, mas sim que haverá rei sobre nós:"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nós seremos também como todas as nações, e nosso rei nos governará, e sairá diante de nós, e fará nossas guerras."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ouviu Samuel todas as palavras do povo, e referiu-as aos ouvidos do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Samuel: Ouve sua voz, e põe rei sobre eles. Então disse Samuel aos homens de Israel: Ide-vos cada um à sua cidade."
+                }
+            ]
+        }
+    ]
+}

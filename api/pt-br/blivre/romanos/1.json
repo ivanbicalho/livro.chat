@@ -1,0 +1,295 @@
+{
+    "book": "romanos",
+    "name": "Romanos",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Paulo, servo de Cristo Jesus, chamado [para ser] apóstolo, separado para o evangelho de Deus,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "que antes havia prometido por meio dos seus profetas nas santas Escrituras,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "acerca do seu Filho (que, quanto à carne, nasceu da descendência de Davi,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e declarado Filho de Deus em poder, segundo o Espírito de santidade, pela ressurreição dos mortos): Jesus Cristo, nosso Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por ele recebemos graça e apostolado, para a obediência da fé entre todas as nações, por causa do seu nome."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Entre elas sois também vós, chamados [para serdes] de Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A todos que estais em Roma, amados de Deus, e chamados de santos: convosco haja graça e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em primeiro lugar, agradeço ao meu Deus por meio de Jesus Cristo, por todos vós, porque a vossa fé é anunciada no mundo todo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois Deus, a quem sirvo em meu espírito no evangelho do seu Filho, é minha testemunha de como sem cessar faço menção de vós,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "rogando sempre em minhas orações, que agora, de alguma maneira, finalmente, tenha eu a oportunidade de, pela vontade de Deus, vir vos visitar."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eu desejo ver-vos, para compartilhar convosco algum dom espiritual, para que sejais fortalecidos;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "isto é, para eu ser consolado juntamente convosco pela fé mútua, tanto a vossa, como a minha."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, irmãos, não quero que ignoreis que muitas vezes pretendi vir à vossa presença (mas fui impedido até agora), a fim de que eu também tivesse algum fruto entre vós, como também entre os demais gentios."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou devedor, tanto a gregos como a bárbaros, tanto a sábios como a não sábios."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, quanto a mim, pronto estou para anunciar o evangelho também a vós, que estais em Roma."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque não me envergonho do Evangelho, pois é o poder de Deus para a salvação de todo aquele que crê, primeiramente do judeu, e também do grego."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois no Evangelho se revela a justiça de Deus de fé em fé; como está escrito: O justo viverá pela fé."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a ira de Deus se manifesta do céu contra toda irreverência e injustiça das pessoas que bloqueiam a verdade pela injustiça;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "pois o que se pode conhecer de Deus é evidente a eles, porque Deus lhes manifestou."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois as suas características invisíveis, inclusive o seu eterno poder e divindade, desde a criação do mundo são entendidas e claramente vistas por meio das coisas criadas, para que não tenham desculpa;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque, ainda que tenham conhecido Deus, não o glorificaram como Deus, nem foram gratos; em vez disso, perderam o bom senso em seus pensamentos, e seus tolos corações ficaram em trevas."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Chamando a si mesmos de sábios, tornaram-se tolos,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e trocaram a glória de Deus indestrutível por semelhança de imagem do ser humano destrutível, e de aves, de quadrúpedes, e de répteis."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, Deus os entregou à imundície, nos desejos dos seus corações, para desonrarem os seus corpos entre si."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Trocaram a verdade de Deus pela mentira, e adoraram e serviram à criatura mais do que ao Criador, que é bendito eternamente, Amém!"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, Deus os entregou a paixões infames. Pois até suas mulheres trocaram o hábito [sexual] natural pelo que era contra a natureza;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e também, de semelhante maneira, os machos abandonaram o hábito [sexual] natural com a mulher, e acenderam sua sensualidade uns com os outros, homens com homens, praticando indecência, e recebendo em si mesmos a devida retribuição pelo seu erro."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E como recusaram reconhecer a Deus, [o mesmo] Deus os entregou a uma mente corrompida, para fazerem coisas impróprias."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Assim, estão] cheios de toda injustiça, malícia, ganância, maldade; estão repletos de inveja, homicídio, brigas, engano, malignidade;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "são murmuradores, difamadores, e odeiam a Deus; são insolentes, soberbos, presunçosos, inventores de males, e desobedientes aos pais;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "não têm entendimento, quebram acordos, são insensíveis, e recusam-se a mostrar misericórdia."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Apesar de conhecerem o juízo de Deus (de que os que fazem tais coisas merecem a morte), não somente as fazem, como também aprovam os que as praticam."
+                }
+            ]
+        }
+    ]
+}

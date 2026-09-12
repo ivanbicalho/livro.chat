@@ -1,0 +1,241 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 20,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou Deus todas estas palavras, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou o SENHOR teu Deus, que te tirei da terra do Egito, de casa de servos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não terás deuses alheios diante de mim."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não te farás imagem, nem nenhuma semelhança de coisa que esteja acima no céu, nem abaixo na terra, nem nas águas debaixo da terra:"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não te inclinarás a elas, nem as honrarás; porque eu sou o SENHOR teu Deus, forte, zeloso, que visito a maldade dos pais sobre os filhos, sobre os terceiros e sobre os quartos, aos que me aborrecem,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que faço misericórdia em milhares aos que me amam, e guardam meus mandamentos."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não tomarás o nome do SENHOR teu Deus em vão; porque não dará por inocente o SENHOR ao que tomar seu nome em vão."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu te lembrarás do dia do repouso, para santificá-lo:"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seis dias trabalharás, e farás toda tua obra;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o sétimo dia será repouso para o SENHOR teu Deus: não faças nele obra alguma, tu, nem teu filho, nem tua filha, nem teu servo, nem tua criada, nem teu animal, nem teu estrangeiro que está dentro de tuas portas:"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque em seis dias fez o SENHOR os céus e a terra, o mar e todas as coisas que neles há, e repousou no sétimo dia: portanto o SENHOR abençoou o dia do repouso e o santificou."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Honra a teu pai e a tua mãe, para que teus dias se alarguem na terra que o SENHOR teu Deus te dá."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não cometerás homicídio."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não cometerás adultério."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não furtarás."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não falarás contra teu próximo falso testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não cobiçarás a casa de teu próximo, não cobiçarás a mulher de teu próximo, nem seu servo, nem sua criada, nem seu boi, nem seu asno, nem coisa alguma de teu próximo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo o povo considerava as vozes, e as chamas, e o som da trombeta, e o monte que fumegava: e vendo-o o povo, tremeram, e puseram-se de longe."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disseram a Moisés: Fala tu conosco, que nós ouviremos; mas não fale Deus conosco, para que não morramos."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés respondeu ao povo: Não temais; que para provar-vos veio Deus, e para que seu temor esteja em vossa presença para que não pequeis."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o povo se pôs de longe, e Moisés se chegou à escuridão na qual estava Deus."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés: Assim dirás aos filhos de Israel: Vós vistes que falei desde o céu convosco."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não façais comigo deuses de prata, nem deuses de ouro vos fareis."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da terra farás altar para mim, e sacrificarás sobre ele teus holocaustos e tuas ofertas pacíficas, tuas ovelhas e tuas vacas: em qualquer lugar onde eu fizer que esteja a memória de meu nome, virei a ti, e te abençoarei."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se me fizeres altar de pedras, não as faças lavradas; porque se levantares teu buril sobre ele, tu o profanarás."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não subirás por degraus a meu altar, para que tua nudez não seja junto a ele descoberta."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 107,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradecei ao SENHOR, porque ele é bom; porque sua bondade [dura] para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Digam [isso] os resgatados pelo SENHOR, os quais ele resgatou das mão do adversário."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que ele ajuntou de todas as terras, do oriente e do ocidente, do norte e do sul."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que andaram sem rumo no deserto, por caminhos solitários; os que não acharam cidade para morarem."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Famintos e sedentos, suas almas neles desfaleciam."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles clamaram ao SENHOR em suas angústias, e ele os livrou de suas aflições."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os levou ao caminho correto, para irem a uma cidade de moradia."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradeçam ao SENHOR por sua bondade, e suas maravilhas perante os filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele fartou a alma sedenta, e encheu de bem a alma faminta;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que estavam sentados em trevas e sombra de morte, presos com aflição e ferro,"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque se rebelaram contra os mandamentos de Deus, e rejeitaram o conselho do Altíssimo."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso ele abateu seus corações com trabalhos cansativos; eles tropeçaram, e não houve quem os socorresse."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eles clamaram ao SENHOR em suas angústias, e ele os livrou de suas aflições."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele os tirou das trevas e da sombra da morte, e quebrou suas correntes de prisão."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradeçam ao SENHOR pela sua bondade, e suas maravilhas perante os filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele quebrou as portas de bronze, e despedaçou os ferrolhos de ferro."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os tolos foram afligidos por causa de seu caminho de transgressões e por suas perversidades."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A alma deles perdeu o interesse por todo tipo de comida, e chegaram até às portas da morte."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eles clamaram ao SENHOR em suas angústias, e ele os livrou de suas aflições."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele enviou sua palavra, e os sarou; e ele os livrou de suas covas."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradeçam ao SENHOR por sua bondade, e suas maravilhas perante os filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sacrifiquem sacrifícios de gratidão; e anunciai as obras dele com alegria."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que descem ao mar em navios, trabalhando em muitas águas,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esses veem as obras do SENHOR, e suas maravilhas nas profundezas."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Porque] quando ele fala, ele faz levantar tormentas de vento, que levanta suas ondas."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Elas sobem aos céus, [e] descem aos abismos; a alma deles se derrete de angústia."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles cambaleiam e vacilam como bêbados, e toda a sabedoria deles se acaba."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então eles clamaram ao SENHOR em suas angústias, e ele os tirou de suas aflições."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele fez cessar as tormentas, e as ondas se calaram."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se alegraram, porque houve calmaria; e ele os levou ao porto que queriam [chegar] ."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradeçam ao SENHOR por sua bondade, e suas maravilhas perante os filhos dos homens;"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E exaltem a ele na assembleia do povo, e o glorifiquem na reunião dos anciãos."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele torna os rios em deserto, e as saídas de águas em terra seca."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terra frutífera em salgada, pela maldade dos que nela habitam."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele torna o deserto em lagoa, e a terra seca em nascentes de águas."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E faz aos famintos habitarem ali; e eles edificam uma cidade para morarem;"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E semeiam campos, e plantam vinhas, que produzem fruto valioso."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele os abençoa, e se multiplicam muito, e o gado dele não diminui."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas [quando] eles se diminuem e se abatem, por causa da opressão, mal e aflição;"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele derrama desprezo sobre os governantes, e os faz andar sem rumo pelos desertos, sem [terem] caminho."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ao necessitado, ele levanta da opressão a um alto retiro, e faz famílias como a rebanhos."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os corretos, ao verem, ficam alegres, e todo perverso se calará."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é sábio, que preste atenção a estas coisas, e reflita nas bondades do SENHOR."
+                }
+            ]
+        }
+    ]
+}

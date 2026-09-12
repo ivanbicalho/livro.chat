@@ -1,0 +1,403 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo Israel foi contado por genealogias, e eis que foram escritos no livro dos Reis de Israel e de Judá, que foram transportados para a Babilônia por causa de sua transgressão."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os primeiros habitantes que vieram a suas propriedades em suas cidades, foram os israelitas, os sacerdotes, os levitas, e os servos do templo."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém em Jerusalém habitaram [alguns] dos filhos de Judá, dos filhos de Benjamim, dos filhos de Efraim e de Manassés;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Utai, filho de Amiúde, filho de Onri, filho de Inri, filho de Bani, dos filhos de Perez filho de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dos silonitas: Asaías o primogênito, e seus filhos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dos filhos de Zerá, Jeuel e seus irmãos, seiscentos e noventa."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dos filhos de Benjamim: Salu, filho de Mesulão, filho de Hodavias, filho de Hassenua;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Ibneias, filho de Jeroão; e Elá filho de Uzi, filho de Micri; e Mesulão filho de Sefatias, filho de Reuel, filho de Ibneias."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seus irmãos, segundo suas genealogias, foram novecentos e cinquenta e seis; todos estes homens foram cabeças das famílias de seus pais."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dos sacerdotes: Jedaías, Jeoiaribe, Jaquim;"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Azarias filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, príncipe da casa de Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Adaías filho de Jeroão, filho de Pasur, filho de Malquias; e Masai filho de Adiel, filho de Jazera, filho de Mesulão, filho de Mesilemite, filho de Imer;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como também seus irmãos, cabeças das famílias de seus pais, mil setecentos e sessenta, homens valentes e hábeis para a obra do serviço da casa de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dos Levitas: Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, dos filhos de Merari;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Baquebacar, Heres, Galal, e Matanias filho de Mica, filho de Zicri, filho de Asafe;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Obadias filho de Semaías, filho de Galal, filho de Jedutum; e Berequias filho de Asa, filho de Elcana, que habitou nas aldeias de Netofate."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os porteiros foram: Salum, Acube, Talmom, Aimã, e seus irmãos cujo líder era Salum,"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(O qual até agora fica junto à porta do rei ao oriente). Estes foram os porteiros do acampamento dos filhos de Levi."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Salum, filho de Coré, filho de Ebiasafe, filho de Corá, e seus irmãos da família de seu pai, os coraítas, foram encarregados da obra do serviço, guardando os umbrais do tabernáculo; assim como seus pais foram capitães do acampamento do SENHOR, que guardavam a entrada."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Fineias, filho de Eleazar, havia sido antes comandante sobre eles, e o SENHOR era com ele."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Zacarias, filho de Meselemias, era porteiro da porta da tenda do ajuntamento."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos estes, escolhidos para porteiros dos umbrais, foram duzentos e doze; e estes foram registrados em suas genealogias, segundo suas aldeias; e Davi e o vidente Samuel os constituíram em seu ofício."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim eles e seus filhos estiveram junto às portas da casa do SENHOR, a casa do Tabernáculo, como guardas."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os porteiros estavam aos quatro ventos: ao oriente, ao ocidente, ao norte, e ao sul."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seus irmãos que estavam em suas aldeias vinham de tempos em tempos para durante sete dias [servirem] com eles."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois havia naquele ofício chefes dos porteiros, que eram levitas; e eles eram encarregados das câmaras e dos tesouros da casa de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E passavam a noite ao redor da casa de Deus, porque eram responsáveis pela guarda, e por abri-la a cada manhã."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alguns destes eram encarregados dos utensílios do serviço, pois os colocavam contados, e contados os tiravam."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outros deles eram encarregados da mobília, e de todos os utensílios do santuário, como também da farinha, do vinho, do azeite, do incenso, e das especiarias."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns dos filhos dos sacerdotes faziam o perfume das especiarias."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Matitias, um dos Levitas, primogênito de Salum o coraíta, era encarregados das coisas que se faziam em assadeiras."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns de seus irmãos, dos filhos dos coatitas, eram encarregados dos pães da proposição, para os prepararem para todos os sábados."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E destes também havia os cantores, cabeças das famílias dos levitas, os quais estavam isentos [de outros serviços] em suas câmaras, porque de dia e de noite estavam encarregados naquela obra."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes foram os cabeças das famílias dos levitas, cabeças em suas genealogias, os quais habitaram em Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em Gibeão habitaram: Jeiel, pai de Gibeão (e o nome de sua mulher era Maaca);"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seu filho primogênito Abdom, depois Zur, Quis, Baal, Ner, Nadabe,"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Gedor, Aiô, Zacarias, e Miclote."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Miclote gerou a Simeia. E também estes habitaram em Jerusalém junto de seus irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Ner gerou a Quis, Quis gerou a Saul, e Saul gerou a Jônatas, a Malquisua, a Abinadabe, e a Esbaal."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E filho de Jônatas foi Meribe-Baal; e Meribe-Baal gerou a Mica."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Mica foram: Pitom, Meleque, Tareia,"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[E] Acaz, [que] gerou a Jará, Jará gerou a Alemete, a Azmavete, e a Zinri; e Zinri gerou a Moza;"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moza gerou a Bineá, cujo filho foi Refaías, cujo filho foi Eleasá, cujo filho foi Azel."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Azel teve seis filhos, cujos nomes foram: Azricão, Bocru, Ismael, Searias, Obadias, e Hanã; estes foram os filhos de Azel."
+                }
+            ]
+        }
+    ]
+}

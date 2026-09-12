@@ -1,0 +1,160 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 42,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jó respondeu ao SENHOR, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sei que tudo podes, e nenhum de teus pensamentos pode ser impedido."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Tu dizes] : Quem é esse que obscurece o conselho sem conhecimento? Por isso eu falei do que não entendia; coisas que eram maravilhosas demais para mim, e eu não as conhecia."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Escuta-me, por favor, e eu falarei; eu te perguntarei, e tu me ensina."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com os ouvidos eu ouvira falar de ti; mas agora meus olhos te veem."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso [me] abomino, e me arrependo no pó e na cinza."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sucedeu que, depois que o SENHOR acabou de falar essas palavras a Jó, o SENHOR disse a Elifaz, o temanita: Minha ira se acendeu contra ti e contra os teus dois amigos; porque não falastes de mim o que era correto, como o meu servo Jó."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso tomai sete bezerros e sete carneiros, ide ao meu servo Jó, e oferecei holocaustos em vosso favor, então meu servo Jó orará por vós; pois certamente atenderei a ele para eu não vos tratar conforme a vossa insensatez; pois não falastes de mim o que era correto, como o meu servo Jó."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então foram Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamita, e fizeram como o SENHOR havia lhes dito; e o SENHOR atendeu a Jó."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR livrou Jó de seu infortúnio, enquanto ele orava pelos seus amigos; e o SENHOR acrescentou a Jó o dobro de tudo quanto ele[ antes] possuía."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então vieram e ele todos os seus irmãos, e todas as suas irmãs, e todos os que o conheciam antes; e comeram com ele pão em sua casa, e condoeram-se dele, e o consolaram acerca de toda a calamidade que o SENHOR tinha trazido sobre ele; e cada um deles lhe deu uma peça de dinheiro, e uma argola de ouro."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E [assim] o SENHOR abençoou o último estado de Jó mais que o seu primeiro; porque teve catorze mil ovelhas, seis mil camelos, mil juntas de bois, e mil asnas."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também teve sete filhos e três filhas."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chamou o nome da uma Jemima, e o nome da segunda Quézia, e o nome da terceira Quéren-Hapuque."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em toda a terra não se acharam mulheres tão belas como as filhas de Jó; e seu pai lhes deu herança entre seus irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois disto Jó viveu cento e quarenta anos; e viu seus filhos, e os filhos de seus filhos, até quatro gerações."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jó morreu, velho, e farto de dias."
+                }
+            ]
+        }
+    ]
+}

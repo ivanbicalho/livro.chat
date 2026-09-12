@@ -1,0 +1,133 @@
+{
+    "book": "2corintios",
+    "name": "2 Coríntios",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a terceira vez [que] venho até vós; pela boca de duas ou três testemunhas toda palavra será firmada."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu já tinha dito antes, e disse quando estive presente pela segunda vez, e agora ausente o escrevo aos que pecaram anteriormente, e a todos os demais, que se vier outra vez, não [lhes] serei tolerante;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois buscais prova de que Cristo fala em mim, o qual em vós não é fraco, mas que é poderoso entre vós."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ainda que tenha sido crucificado por fraqueza, contudo ele vive pelo poder de Deus. Porque também nós somos fracos nele, porém com ele viveremos pelo poder de Deus em vós."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Examinai-vos a vós mesmos, se estais na fé; provai-vos a vós mesmos. Ou não conheceis a vós mesmos, que Jesus Cristo está em vós? A menos que vós estejais reprovados."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas espero que vós entendereis que nós não somos reprovados."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu desejo [pedindo] a Deus que nenhum mal façais; não para que sejamos achados aprovados, mas para que vós façais o bem, e nós sejamos como reprovados."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque nada podemos fazer contra a verdade, mas sim pela verdade."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois nós nos alegramos quando estamos fracos, e vós estais fortes; e isto também desejamos: o vosso aperfeiçoamento."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso eu escrevo estas coisas ausente; para que, quando estiver presente não use de rigor, segundo o poder que o Senhor tem me dado, para edificação, e não para destruição."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quanto às demais coisas, irmãos, alegrai-vos, sede íntegros, consolai-vos, tenhais um mesmo entendimento, vivei em paz; e o Deus de amor e paz será convosco."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saudai-vos uns aos outros com beijo santo."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os santos vos saúdam."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós. Amém."
+                }
+            ]
+        }
+    ]
+}

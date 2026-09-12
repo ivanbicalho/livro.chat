@@ -1,0 +1,124 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 85,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo para o regente, dos filhos de Coré:Foste favorável, ó SENHOR, à tua terra; restauraste Jacó de seu infortúnio."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Perdoaste a perversidade de teu povo; encobriste todos os seus pecados. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Removeste toda a tua indignação; do ardor de tua ira te desviaste."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Restaura-nos, ó Deus de nossa salvação; e cessa tua ira de sobre nós."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acaso estarás irado contra nós para sempre? Estenderás a tua ira de geração em geração?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não voltará a dar-nos vida, para que o teu povo se alegre em ti?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mostra-nos tua bondade, SENHOR, e dá para nós tua salvação."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Escutarei o que o Deus, o SENHOR, falar, pois ele falará de paz ao seu povo, e aos seus santos, contanto que não voltem à loucura."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente sua salvação está perto daqueles que o temem, para que a glória habite em nossa terra."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A bondade e a verdade se encontrarão; a justiça e a paz se beijarão."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A verdade brotará da terra, e a justiça olhará desde os céus."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR também dará o bem; e a nossa terra dará o seu fruto."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A justiça irá adiante dele, e ele nos porá no caminho de seus passos."
+                }
+            ]
+        }
+    ]
+}

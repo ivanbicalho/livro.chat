@@ -1,0 +1,376 @@
+{
+    "book": "marcos",
+    "name": "Marcos",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] começou outra vez a ensinar junto ao mar, e uma grande multidão se ajuntou a ele, de maneira que ele entrou num barco e ficou sentado no mar; e toda a multidão estava em terra junto ao mar."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ensinava-lhes muitas coisas por parábolas; e dizia-lhes em seu ensinamento:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi: eis que o semeador saiu a semear;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, enquanto semeava, uma [parte das sementes] caiu junto ao caminho, e os pássaros vieram, e a comeram."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outra caiu em pedregulhos, onde não havia muita terra; e logo nasceu, porque não tinha terra profunda."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, quando saiu o sol, queimou-se; e porque não tinha raiz, secou-se."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outra caiu entre espinhos; e os espinhos cresceram e a sufocaram, e não deu fruto."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas outra caiu em boa terra, e deu fruto, que subiu, e cresceu; e um deu trinta, outro sessenta, e outro cem."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse : Quem tem ouvidos para ouvir, ouça."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando [Jesus] esteve só, os que estavam junto dele, com os doze, perguntaram-lhe acerca das parábolas."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondeu-lhes: A vós é concedido o mistério do Reino de Deus; mas aos que são de fora, todas estas coisas se fazem por meio de parábolas;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para que vendo, vejam, e não percebam; e ouvindo, ouçam, e não entendam; para não haver de se converterem, e sejam perdoados ."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes: Não sabeis o significado desta parábola? Como, pois, entendereis todas as parábolas?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O semeador semeia a palavra."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes são os de junto ao caminho: nos quais a palavra é semeada; mas depois de a ouvirem, Satanás logo vem, e tira a palavra que foi semeada neles ."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, semelhantemente, estes são os que se semeiam em pedregulhos: os que havendo ouvido a palavra, logo a recebem com alegria."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas não têm raiz em si mesmos; em vez disso, são temporários. Depois, quando se levanta a tribulação ou a perseguição por causa da palavra, logo tropeçam na fé."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outros são os que se semeiam entre espinhos: os que ouvem a palavra;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "mas as preocupações do mundo, a sedução das riquezas, e as cobiças por outras coisas, entram, sufocam a palavra, e ela fica sem gerar fruto."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes são os que foram semeados em boa terra: os que ouvem a palavra, recebem-na, e dão fruto, um trinta, e outro sessenta, e outro cem."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes disse: Por acaso a lâmpada vem a ser posta debaixo de uma caixa ou sob da cama? Não deve ela ser posta na luminária?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois não há nada encoberto que não haja de ser revelado; e nada se faz [para ficar] encoberto, mas sim, para ser vir à luz."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se alguém tem ouvidos para ouvir, ouça."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes: Prestai atenção ao que ouvis: com a medida que medirdes a vós mesmos se medirá, e será acrescentado a vós mesmos."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois ao que tem, lhe será dado; e ao que não tem, até o que tem lhe será tirado."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizia: Assim é o Reino de Deus, como se um homem lançasse semente na terra;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e dormisse, e se levantasse, de noite e de dia, e a semente brotasse, e crescesse, sem que ele saiba como."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terra de si mesma frutifica, primeiro a erva, depois a espiga, depois o grão cheio na espiga."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando o fruto se mostra pronto, logo mete a foice, pois a colheita chegou."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizia: A que assemelharemos o Reino de Deus? Ou com que parábola o compararemos?"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com um grão da mostarda que, quando semeado na terra, é a menor de todas as sementes na terra."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, depois de semeado, cresce, e se torna a maior de todas as hortaliças, e cria grandes ramos, de maneira que os pássaros do céu podem fazer ninhos sob a sua sombra."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E com muitas parábolas como essas [Jesus ] lhes falava a palavra, conforme o que podiam ouvir."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não lhes falava sem parábola; mas aos seus discípulos explicava tudo em particular."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquele dia, chegando o entardecer, disse-lhes: Passemos para o outro lado."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então despediram a multidão, e o levaram consigo assim como estava no barco; mas havia também outros barcos com ele."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levantou-se uma grande tempestade de vento; as ondas atingiam por cima do barco, de maneira que já se enchia."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] estava na popa dormindo sobre uma almofada. Então despertaram-no, e disseram-lhe: Mestre, não te importas que pereçamos?"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele se levantou, repreendeu o vento, e disse ao mar: Cala-te, aquieta-te! E o vento se aquietou, e fez-se grande bonança."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perguntou-lhes: Por que sois tão covardes? Como não tendes fé?"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ficaram muito atemorizados, e diziam uns aos outros: Quem é este, que até o vento e o mar lhe obedecem?"
+                }
+            ]
+        }
+    ]
+}

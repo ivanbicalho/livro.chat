@@ -1,0 +1,367 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Issacar foram quatro: Tolá, Pua, Jasube, e Sinrom."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Tolá foram: Uzi, Refaías, Jeriel, Jamai, Ibsão e Samuel, cabeças das famílias de seus pais. De Tolá foram contados por suas genealogias no tempo de Davi vinte e dois mil seiscentos homens guerreiros."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O filho de Uzi foi Izraías; e os filhos de Izraías foram: Micael, Obadias, Joel, e Issias; todos estes cinco foram líderes."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havia com eles em suas genealogias, segundo as famílias de seus pais, trinta e seis mil homens de guerra, porque tiveram muitas mulheres e filhos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seus irmãos em todas as famílias de Issacar, todos contados por suas genealogias, foram oitenta e sete mil guerreiros valentes."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os [filhos] de Benjamim foram três: Belá, Bequer, e Jediael."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Belá foram: Esbom, Uzi, Uziel, Jerimote, e Iri; cinco cabeças de famílias paternas, guerreiros valentes, dos quais foram contados por suas genealogias vinte e dois mil e trinta e quatro."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Bequer: Zemira, Joás, Eliézer, Elioenai, Onri, Jerimote, Abias, Anatote e Alemete; todos estes foram filhos de Bequer."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram contados por suas genealogias, segundo suas descendências, e os cabeças de suas famílias, vinte mil e duzentos guerreiros valentes."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o filho de Jediael foi Bilã; e os filhos de Bilã foram: Jeús, Benjamim, Eúde, Quenaaná, Zetã, Társis, e Aisaar."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos estes filhos de Jediael foram cabeças de famílias, guerreiros valentes, dezessete mil e duzentos que saíam com o exército para a guerra."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Supim e Hupim foram filhos de Ir; e Husim foi filho de Aer."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Naftali foram: Jaziel, Guni, Jezer, e Salum, filhos de Bila."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Manassés foram: Asriel, o qual foi nascido de sua concubina, a síria, a qual também lhe deu à luz Maquir, pai de Gileade."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Maquir tomou por mulher a irmã de Hupim e Supim, cuja irmã teve por nome Maaca. O nome do segundo foi Zelofeade. E Zelofeade teve [somente] filhas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Maaca mulher de Maquir lhe gerou um filho, e chamou seu nome Perez; e o nome de seu irmão foi Seres, cujos filhos foram Ulão e Requém."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o filho de Ulão foi Bedã. Estes foram os filhos de Gileade, filho de Maquir, filho de Manassés."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sua irmã Hamolequete deu à luz Isode, Abiezer, e Maalá."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Semida foram Aiã, Siquém, Liqui, e Anião."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Efraim: Sutela, seu filho Berede, seu filho Taate, seu filho Eleada, seu filho Taate,"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seu filho Zabade, seu filho Sutela, seu filho, Ézer, e Eleade. Mas os homens de Gate, naturais daquela terra, os mataram, porque desceram para tomar seus gados."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso seu pai Efraim esteve de luto por muitos dias, e seus irmãos vieram consolá-lo."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois ele se deitou com sua mulher, ela concebeu, e deu à luz um filho, ao qual chamou por nome Berias, pois o desastre havia ocorrido em sua casa."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sua filha foi Seerá, a qual edificou a Bete-Horom, a baixa e a alta, como também a Uzém-Seerá."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seu filho foi Refa, seu filho Resefe, seu filho Telá, seu filho Taã,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seu filho Laadã, seu filho Amiúde, seu filho Elisama,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seu filho Num, e seu filho Josué."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a propriedade e habitação deles foi Betel com suas aldeias, e ao oriente Naarã, e ao ocidente Gezer e suas aldeias, como também Siquém com suas aldeias, até Aia e suas aldeias;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E da parte dos filhos de Manassés, Bete-Seã com suas aldeias, Taanaque com suas aldeias, Megido com suas aldeias, e Dor com suas aldeias. Nestes [lugares] habitaram os filhos de José, filho de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Aser foram: Imná, Isvá, Isvi, Berias, e sua irmã Sera."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Berias foram: Héber, e Malquiel, o qual foi pai de Bizarvite."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Héber gerou a Jaflete, Semer, Hotão, e sua irmã Suá."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Jaflete foram: Pasaque, Bimal, e Asvate. Estes foram os filhos de Jaflete."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Semer foram: Aí, Roga, Jeubá, e Arã."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de seu irmão Helém foram: Zofa, Imná, Seles, e Amal."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Zofa foram: Suá, Harnefer, Sual, Beri, Inra,"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bezer, Hode, Samá, Silsa, Iltrã e Beera."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Jéter foram: Jefoné, Pispa, e Ara."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Ula foram; Ara, Haniel, e Rizia."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos estes foram filhos de Aser, cabeças de famílias paternas, escolhidos guerreiros valentes, chefes de príncipes; e foram contados em suas genealogias no exército para a guerra, em número de vinte e seis mil homens."
+                }
+            ]
+        }
+    ]
+}

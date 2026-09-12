@@ -1,0 +1,466 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estas são as gerações de Arão e de Moisés, desde que o SENHOR falou a Moisés no monte Sinai."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes são os nomes dos filhos de Arão: Nadabe o primogênito, e Abiú, Eleazar, e Itamar."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os nomes dos filhos de Arão, sacerdotes ungidos; cujas mãos ele encheu para administrar o sacerdócio."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Nadabe e Abiú morreram diante do SENHOR, quando ofereceram fogo estranho diante do SENHOR, no deserto de Sinai: e não tiveram filhos: e Eleazar e Itamar exerceram o sacerdócio diante de Arão seu pai."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Faze chegar à tribo de Levi, e faze-a estar diante do sacerdote Arão, para que lhe ministrem;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E desempenhem seu cargo, e o cargo de toda a congregação diante do tabernáculo do testemunho, para servir no ministério do tabernáculo;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E guardem todos os móveis do tabernáculo do testemunho, e o encarregado a eles dos filhos de Israel, e ministrem no serviço do tabernáculo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E darás os levitas a Arão e a seus filhos: são inteiramente dados a eles dentre os filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E constituirás a Arão e a seus filhos, para que exerçam seu sacerdócio: e o estranho que se chegar, morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que eu tomei os levitas dentre os filhos de Israel em lugar de todos os primogênitos que abrem a madre entre os filhos de Israel; serão, pois, meus os levitas:"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque meu é todo primogênito; desde o dia que eu matei todos os primogênitos na terra do Egito, eu santifiquei a mim todos os primogênitos em Israel, tanto de homens como de animais; meus serão; Eu sou o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés no deserto de Sinai, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Conta os filhos de Levi pelas casas de seus pais, por suas famílias: contarás todos os homens de um mês acima."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés os contou conforme a palavra do SENHOR, como lhe foi mandado."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Levi foram estes por seus nomes: Gérson, e Coate, e Merari."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os nomes dos filhos de Gérson, por suas famílias, estes: Libni, e Simei."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Coate, por suas famílias: Anrão, e Izar, e Hebrom, e Uziel."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Merari, por suas famílias: Mali, e Musi. Estas, as famílias de Levi, pelas casas de seus pais."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Gérson, a família de Libni e a de Simei: estas são as famílias de Gérson."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles conforme a conta de todos os homens de um mês acima, os contados deles, sete mil e quinhentos."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As famílias de Gérson assentarão suas tendas à retaguarda do tabernáculo, ao ocidente;"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o chefe da casa do pai dos gersonitas, Eliasafe filho de Lael."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A cargo dos filhos de Gérson, no tabernáculo do testemunho, estará o tabernáculo, e a tenda, e sua cobertura, e a cortina da porta do tabernáculo do testemunho,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as cortinas do átrio, e a cortina da porta do átrio, que está junto ao tabernáculo e junto ao altar ao redor; também suas cordas para todo seu serviço."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de Coate, a família dos anramitas, e a família dos izaritas, e a família dos hebronitas, e a família dos uzielitas: estas são as famílias coatitas."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pela conta de todos os homens de um mês acima, eram oito mil e seiscentos, que tinham a guarda do santuário."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As famílias dos filhos de Coate acamparão ao lado do tabernáculo, ao sul;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o chefe da casa do pai das famílias de Coate, Elisafã filho de Uziel."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a cargo deles estará a arca, e a mesa, e o candelabro, e os altares, e os utensílios do santuário com que ministram, e o véu, com todo seu serviço."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o principal dos chefes dos levitas será Eleazar, filho de Arão o sacerdote, supervisor dos que têm a guarda do santuário."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Merari, a família dos malitas e a família dos musitas: estas são as famílias de Merari."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os contados deles conforme a conta de todos os homens de um mês acima, foram seis mil e duzentos."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o chefe da casa do pai das famílias de Merari, Zuriel filho de Abiail: acamparão ao lado do tabernáculo, ao norte."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a cargo dos filhos de Merari estará a custódia das tábuas do tabernáculo, e suas barras, e suas colunas, e suas bases, e todos os seus utensílios, com todo seu serviço:"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as colunas em derredor do átrio, e suas bases, e suas estacas, e suas cordas."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que acamparão diante do tabernáculo ao oriente, diante do tabernáculo do testemunho ao levante, serão Moisés, e Arão e seus filhos, tendo a guarda do santuário em lugar dos filhos de Israel: e o estranho que se aproximar, morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os contados dos levitas, que Moisés e Arão conforme a palavra do SENHOR contaram por suas famílias, todos os homens de um mês acima, foram vinte e dois mil."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés: Conta todos os primogênitos homens dos filhos de Israel de um mês acima, e toma a conta dos nomes deles."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomarás os levitas para mim, eu o SENHOR, em lugar de todos os primogênitos dos filhos de Israel: e os animais dos levitas em lugar de todos os primogênitos dos animais dos filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E contou Moisés, como o SENHOR lhe mandou, todos os primogênitos dos filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos os primogênitos homens, conforme a conta dos nomes, de um mês acima, os contados deles foram vinte e dois mil duzentos setenta e três."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma os levitas em lugar de todos os primogênitos dos filhos de Israel, e os animais dos levitas em lugar de seus animais; e os levitas serão meus: Eu sou o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pelos resgates dos duzentos e setenta e três, que excedem aos levitas os primogênitos dos filhos de Israel;"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomarás cinco siclos por cabeça; conforme o siclo do santuário tomarás: o siclo tem vinte óbolos:"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E darás a Arão e a seus filhos o dinheiro pelos resgates dos que deles sobram."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomou, pois, Moisés o dinheiro do resgate dos que resultaram a mais dos resgatados pelos levitas:"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E recebeu dos primogênitos dos filhos de Israel em dinheiro, mil trezentos sessenta e cinco siclos, conforme o siclo do santuário."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés deu o dinheiro dos resgates a Arão e a seus filhos, conforme o dito do SENHOR, segundo que o SENHOR havia mandado a Moisés."
+                }
+            ]
+        }
+    ]
+}

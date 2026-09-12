@@ -1,0 +1,232 @@
+{
+    "book": "romanos",
+    "name": "Romanos",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não sabeis vós, irmãos (pois estou falando com os que entendem a Lei), que a Lei domina o ser humano por todo o tempo que vive?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois a mulher casada está, pela Lei, ligada ao marido enquanto o ele viver; porém, depois do marido morrer, ela está livre da Lei do marido."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou seja, enquanto o marido viver, ela será chamada de adúltera, se for de outro homem; mas depois de morto o marido, ela está livre da Lei, de maneira que não será adúltera se for de outro homem."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim, meus irmãos, também vós estais mortos para a Lei por meio do corpo de Cristo, para que sejais de outro, daquele que foi ressuscitado dos mortos, a fim de frutificarmos para Deus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, quando estávamos na carne, as paixões dos pecados, que eram pela Lei, operavam nos membros do nosso corpo, a fim de frutificarem para a morte."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas agora estamos livres da Lei, estando mortos para aquilo em que estávamos presos, para que sirvamos em novidade de espírito, e não na velhice da norma escrita."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que diremos, pois? É a Lei pecado? De maneira nenhuma! Todavia, eu não teria conhecido o pecado, se não fosse pela Lei; porque não conheceria a cobiça, se a Lei não dissesse: Não cobiçarás."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o pecado, aproveitando-se do mandamento, operou em mim toda variedade de cobiça. Pois sem a Lei o pecado [estaria] morto."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Antes eu vivia sem a Lei; mas quando veio o mandamento, o pecado reviveu, e eu morri;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e descobri que o mandamento, que era para a vida, resultou-me para a morte."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o pecado, aproveitando o mandamento, me enganou, e por ele me matou."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, a Lei é santa, e o mandamento é santo, justo, e bom."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o que é bom se tornou para mim morte? De maneira nenhuma! Mas foi o pecado, para que se mostrasse como pecado, que operou a morte em mim por meio do bem, a fim de que, por meio do mandamento, o pecado se tornasse excessivamente pecaminoso."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois sabemos que a Lei é espiritual; mas eu sou carnal, vendido como servo do pecado."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque não entendo o que faço, pois o que quero, isso não faço; mas o que eu odeio, isso faço."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se faço o que não quero, consinto que a Lei é boa;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De maneira que agora não sou mais eu que faço aquilo, mas sim, o pecado que habita em mim."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque sei que em mim, isto é, em minha carne, não habita bem algum; porque o querer está em mim; porém o fazer o bem, não."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o bem que quero, não faço; mas o mal que não quero, isso faço."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, se faço o que não quero, não sou eu que faço, mas sim, o pecado que habita em mim."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acho, então, esta lei: que quando quero fazer o bem, o mal está comigo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, quanto ao ser interior, tenho prazer na Lei de Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "mas em meus membros vejo outra lei, que batalha contra a lei do meu entendimento, e me prende sob a lei do pecado, que está nos meus membros."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Miserável homem [que sou] ! Quem me livrará deste corpo de morte?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Graças a Deus por Jesus Cristo, nosso Senhor. Assim, eu mesmo com o entendimento sirvo à Lei de Deus, mas, com a carne, à lei do pecado."
+                }
+            ]
+        }
+    ]
+}

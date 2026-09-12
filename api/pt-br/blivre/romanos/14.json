@@ -1,0 +1,214 @@
+{
+    "book": "romanos",
+    "name": "Romanos",
+    "chapter": 14,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Recebei a quem for fraco na fé, mas não para [envolvê-lo] em temas controversos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um crê que pode comer de tudo, e outro, que é fraco, come [somente] vegetais."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que come não despreze o que não come, e o que não come não julgue o que come, porque Deus o aceitou."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem és tu para julgares o servo alheio? É ao seu próprio senhor que ele fica firme ou cai. E ele ficará firme, porque o Senhor é poderoso para o firmar."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um faz diferença entre um dia e outro; porém outro considera iguais todos os dias. Cada um mantenha certeza em sua própria mente."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que faz diferença entre dias, para o Senhor a faz. O que come, come para o Senhor, porque dá graças a Deus; e o que não come, deixa de comer para o Senhor, e dá graças a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois nenhum de nós vive para si mesmo; e nenhum morre para si mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque, se vivemos, para o Senhor vivemos; e se morremos, para o Senhor morremos. Portanto, quer vivamos, quer morramos, do Senhor somos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois para isto Cristo morreu, e voltou a viver, para ser Senhor tanto dos mortos como dos vivos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, porém, por que julgas o teu irmão? Ou tu também, por que desprezas o teu irmão? Pois todos nós seremos apresentados diante do tribunal de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque está escrito: [“Tão certo como] eu vivo, diz o Senhor, que todo joelho se dobrará diante de mim, e toda língua confessará a Deus”;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "de maneira que cada um de nós dará conta de si mesmo a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, não julguemos mais uns aos outros; em vez disso, tomai a decisão de nunca pôr alguma pedra de obstáculo ou de tropeço diante do seu irmão."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sei, e tenho certeza no Senhor Jesus, que nada é impuro por si mesmo; a não ser para quem o considera impuro: aquilo para ele se torna impuro."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, se por causa do que comes o teu irmão se entristece, tu já não estás andando segundo o amor. Não destruas por tua comida aquele por quem Cristo morreu."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não seja insultado o vosso bem,"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque o reino de Deus não é comida nem bebida, mas sim justiça, paz, e alegria no Espírito Santo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois quem nisso serve a Cristo é agradável a Deus e aprovado pelas pessoas."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sigamos, pois, as coisas que [resultam em] paz e edificação de uns aos outros."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não destruas a obra de Deus por causa da comida. É verdade que todas as coisas são limpas, porém mau é ao ser humano comer causando ofensa."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não é bom comer carne, nem beber vinho, nem [qualquer coisa] que faça o teu irmão tropeçar."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A convicção que tu tens, tenha-a para ti mesmo diante de Deus. Feliz é quem não se culpa naquilo que aprova."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aquele que tem dúvida, se comer, é culpado, porque não foi pela fé; e tudo que não é pela fé é pecado."
+                }
+            ]
+        }
+    ]
+}

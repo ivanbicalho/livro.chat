@@ -1,0 +1,565 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] convocou seus doze discípulos, e lhes deu poder e autoridade sobre todos os demônios, e para curarem enfermidades."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os enviou para pregar o reino de Deus e para curar os enfermos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes: “Não tomeis nada convosco para o caminho: nem vara, nem bolsa, nem pão, nem dinheiro, nem tenhais duas túnicas cada um."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em qualquer casa que entrardes, ficai ali, e dali saí."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a todo os que não vos receberem, quando sairdes daquela cidade, sacudi até o pó dos vossos pés, em testemunho contra eles”."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então eles partiram, e percorreram todas as aldeias, anunciando o Evangelho, e curando em todos os lugares."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o tetrarca Herodes ouvia falar todas as coisas que ele fazia; e estava perplexo, porque alguns diziam que João tinha ressuscitado dos mortos;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e outros, que Elias havia aparecido; e outros, que algum profeta dos antigos havia ressuscitado."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Herodes disse: “A João mandei degolar; quem, pois, é este, de quem tais coisas ouço?” E procurava vê-lo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando os apóstolos, voltaram, contaram [a Jesus] todas as coisas que tinham feito. Então ele os tomou consigo, e retirou-se à parte a um lugar deserto de uma cidade chamada Betsaida."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando as multidões souberam, seguiram-no. Ele as recebeu, e lhes falava do Reino de Deus, e curava aos que precisavam de cura."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o dia já começava a declinar. Então os doze se aproximaram dele, e lhe disseram: “Despede a multidão, para irem aos lugares e aldeias ao redor, se agasalhem, e achem o que comer; porque aqui estamos em lugar deserto”."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ele lhes disse: “Dai-lhes vós de comer”. E eles disseram: “Não temos mais que cinco pães e dois peixes; a não ser se formos nós mesmos comprar de comer para todo este povo”."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque havia ali quase cinco mil homens. Então disse aos seus discípulos: “Fazei-os se sentarem em grupos de cinquenta em cinquenta”."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E assim procederam, fazendo todos se sentarem."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele tomou os cinco pães e os dois peixes e, olhando para o céu, abençoou-os e partiu-os, e os deu a seus discípulos, para [os] porem diante da multidão."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos comeram, e saciaram-se; e levantaram doze cestos de pedaços que sobraram."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando ele estava orando só, e seus discípulos estavam com ele, que ele lhes perguntou: “Quem as multidões dizem que eu sou?”"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles responderam: “[Uns] , João Batista; outros, Elias; e outros, que algum dos profetas antigos ressuscitou”."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes: “E vós, quem dizeis que eu sou?” E Pedro respondeu: “O Cristo de Deus”."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele os alertou, e mandou-lhes que não dissessem a ninguém,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "dizendo: “É necessário que o Filho do homem sofra muitas coisas; que seja rejeitado pelos anciãos, pelos chefes dos sacerdotes, e pelos escribas; que seja morto, e que seja ressuscitado ao terceiro dia”."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizia a todos: “Se alguém quer vir após mim, negue-se a si mesmo, tome cada dia sua cruz, e siga- me."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois quem quiser salvar sua vida a perderá; porém quem, por minha causa, perder a sua vida, esse a salvará."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque, que aproveita para alguém ganhar o mundo todo, e perder ou prejudicar a si mesmo?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois quem se envergonhar de mim e das minhas palavras, dele o Filho do homem se envergonhará, quando vier na sua glória, e na do Pai, e dos santos anjos."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em verdade vos digo que, dentre os que aqui estão, há alguns que não experimentarão a morte, até que vejam o Reino de Deus”."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quase oito dias depois dessas palavras, ele tomou consigo a Pedro, João, e a Jacó, e subiu ao monte para orar."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele, enquanto estava orando, a aparência do seu rosto se transfigurou, e sua roupa [ficou] branca e brilhante."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que estavam falando com ele dois homens, que eram Moisés e Elias,"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "os quais apareceram com glória, e falavam de sua partida, que estava para se cumprir em Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro e os que estavam com ele estavam cheios de sono; e quando despertaram, viram a glória dele, e aqueles dois homens que estavam com ele."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando eles estavam saíndo da presença dele, Pedro disse a Jesus: “Mestre, é bom estarmos nós aqui. Façamos três tendas, uma para ti, uma para Moisés, e uma para Elias”, não sabendo o que dizia."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enquanto ele dizia isso, veio uma nuvem que os cobriu com a sua sombra; e, quando entraram na nuvem, temeram."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio uma voz da nuvem, que dizia: “Este é o meu Filho amado; a ele ouvi”."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, depois de terminada aquela voz, Jesus se encontrava só; e eles se calaram, e por aqueles dias não contaram a ninguém nada do que tinham visto."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu no dia seguinte que, descendo eles do monte, uma grande multidão lhe saiu ao encontro."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que um homem da multidão clamou: “Mestre, rogo-te que vejas a meu filho, que é o único que tenho,"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e eis que um espírito o toma, e de repente grita, e o convulsiona até espumar, e somente sai dele quando o maltrata severamente."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E roguei aos teus discípulos que o exupulsassem, mas não conseguiram”."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus respondeu: “Ó geração incrédula e perversa! Até quando estarei ainda convosco, e vos suportarei? Traze aqui teu filho”."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando ainda vinha chegando, o demônio o derrubou, e o convulsionou. Porém Jesus repreendeu o espírito imundo, curou ao menino, e o devolveu ao seu pai."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos ficaram perplexos com a grandeza de Deus. E enquanto todos se maravilhavam de tudo o que Jesus fazia, disse aos seus discípulos:"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "“Ponde vós em vossos ouvidos estas palavras: que o Filho do homem será entregue nas mãos dos homens”."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles não entendiam essa palavra, e era-lhes encoberta, para que não a compreendessem; e temiam perguntar-lhe sobre essa palavra."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levantou-se entre eles uma discussão sobre qual deles seria o maior."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jesus, conhecendo o pensamento de seus corações, pegou uma criança, e a pôs junto a si."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então disse-lhes: “Quem receber esta criança em meu nome, a mim me recebe; e quem receber a mim, recebe o que me enviou; porque aquele que entre todos vós for o menor, esse será grande”."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "João respondeu: “Mestre, vimos um que em teu nome expulsava os demônios, e nós o proibimos, porque não segue conosco”."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhe disse: “Não o proibais, porque quem não é contra nós, é por nós”."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando completaram-se os dias em que ele viria a ser recebido no alto, ele se determinou a ir para Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandou mensageiros adiante de si; e eles se foram, e entraram numa aldeia de samaritanos, para lhe fazerem os preparativos."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas não o receberam, porque seu rosto demonstrava que ele ia para Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando seus discípulos, Tiago e João, viram [isso] , disseram: “Senhor, queres que digamos que desça fogo do céu e os consuma, como Elias também fez?”"
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele se virou, repreendeu-os."
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram para outra aldeia."
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, enquanto eles iam pelo caminho, alguém lhe disse: “Senhor, eu te seguirei para onde quer que fores”."
+                }
+            ]
+        },
+        {
+            "verse": 58,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhe disse: “As raposas têm tocas, e as aves do céu, ninhos; mas o Filho do homem não tem onde deitar a cabeça”."
+                }
+            ]
+        },
+        {
+            "verse": 59,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse a outro: “Segue-me”. Porém ele disse: “Senhor, deixa-me que primeiro eu vá, e eu enterre meu pai”."
+                }
+            ]
+        },
+        {
+            "verse": 60,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jesus lhe disse: “Deixa os mortos enterrarem os seus próprios mortos; tu, porém, vai, e anuncia o reino de Deus”."
+                }
+            ]
+        },
+        {
+            "verse": 61,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outro também disse: “Senhor, eu te seguirei; mas deixa-me primeiro despedir dos que estão em minha casa”."
+                }
+            ]
+        },
+        {
+            "verse": 62,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhe disse: “Ninguém que colocar a sua mão no arado e olhar para trás é apto para o reino de Deus”."
+                }
+            ]
+        }
+    ]
+}

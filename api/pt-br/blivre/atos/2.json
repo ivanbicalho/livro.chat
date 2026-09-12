@@ -1,0 +1,430 @@
+{
+    "book": "atos",
+    "name": "Atos",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao se cumprir o dia de Pentecostes, estavam todos concordando no mesmo lugar."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de repente houve um ruído do céu, como de um vento forte [e] violento, e encheu toda a casa onde eles estavam sentados."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram vistas por eles línguas repartidas como que de fogo, e se pôs sobre cada um deles."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles foram todos cheios do Espírito Santo, e começaram a falar em outras línguas, conforme o Espírito lhes dava a discursarem."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havia judeus que estavam morando em Jerusalém, homens devotos, de toda nação abaixo do céu."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acontecendo esta voz, ajuntou-se a multidão; e ela estava confusa, porque cada um os ouvia falar em sua própria língua."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos estavam admirados, e se maravilhavam, dizendo uns aos outros: Ora, estes que estão falando, não são todos eles galileus?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E como nós ouvimos cada um [deles] em nossa própria língua, na qual nascemos?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Partos, Medos, Elamitas, os habitantes da Mesopotâmia, da Judeia, Capadócia, Ponto, Ásia,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Frígia, Panfília, Egito e regiões da Líbia perto de Cirene, e romanos estrangeiros, tanto judeus como prosélitos,"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cretenses e Árabes, os ouvimos em nossas próprias línguas eles falarem das grandezas de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos estavam admirados e confusos, dizendo uns aos outros: O que isso quer dizer?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outros, ridicularizando, diziam: Eles estão cheios de vinho doce."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Pedro, pondo-se de pé com os onze, levantou sua voz, e lhes falou: Homens judeus, e todos os que habitais em Jerusalém, seja isto conhecido, e ouvi minhas palavras:"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque estes não estão bêbados, como vós pensais, sendo [ainda] a terceira hora do dia."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas isto é o que foi dito por meio do profeta Joel:"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será nos últimos dias, diz Deus, que: Eu derramarei do meu Espírito sobre toda carne, e vossos filhos e filhas profetizarão, e vossos rapazes terão visões, e vossos velhos sonharão sonhos;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também sobre meus servos e sobre minhas servas, naqueles dias eu derramarei do meu Espírito, e profetizarão."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E darei milagres acima no céu, e sinais abaixo na terra; sangue, fogo, e vapor de fumaça;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e notório dia do Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será que todo aquele que chamar ao nome do Senhor será salvo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Homens israelitas, ouvi estas palavras: Jesus o nazareno, homem aprovado por Deus entre vós, com maravilhas, milagres e sinais, que Deus fez por meio dele no meio de vós, assim como vós mesmos também sabeis;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este, sendo entregue pelo determinado conselho e conhecimento prévio de Deus, sendo tomando, pelas mãos de injustos [o] crucificastes e matastes;"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao qual Deus ressuscitou, tendo soltado as dores da morte; porque não era possível ele ser retido por ela;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque Davi diz sobre ele: Eu sempre via ao Senhor diante de mim, porque ele está à minha direita, para que eu não seja abalado."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso meu coração está contente, e minha língua se alegra, e até mesmo minha carne repousará em esperança."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tu não abandonarás minha alma no Xeol, nem permitirás que o teu santo veja a degradação."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu tens me feito conhecer os caminhos da vida; tu me encherás de alegria com tua face."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Homens irmãos, é lícito eu vos dizer abertamente sobre o patriarca Davi, que morreu, e foi sepultado, e a sepultura dele está conosco até o dia de hoje."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, sendo ele profeta, e sabendo que Deus tinha lhe prometido com juramento que faria [a um] da sua descendência se sentar no seu trono;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vendo [-o] com antecedência, falou da ressurreição do Cristo, que a sua alma não foi abandonada no Xeol, nem a sua carne viu a degradação."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A este Jesus Deus ressuscitou; do qual todos nós somos testemunhas."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, tendo sido exaltado à direita de Deus, e recebido do Pai a promessa do Espírito Santo, derramou isto que agora estais vendo e ouvindo."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque Davi não subiu aos céus; mas sim, ele diz: Disse o Senhor a meu Senhor: Senta-te à minha direita,"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até que eu ponha teus inimigos por escabelo de teus pés."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saiba então com certeza toda a casa de Israel, que Deus o fez Senhor e Cristo a este Jesus, que vós crucificastes."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles, ao ouvirem [estas coisas] , foram afligidos como que perfurados de coração, e disseram a Pedro, e aos outros apóstolos: Que faremos, homens irmãos?"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pedro lhes disse: Arrependei-vos, e batize-se cada um de vós no nome de Jesus Cristo, para perdão dos pecados; e vós recebereis o dom do Espírito Santo."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a promessa é para vós, e para vossos filhos, e para todos que [ainda] estão longe, a tantos quantos Deus, nosso Senhor, chamar."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E com muitas outras palavras ele dava testemunho, e exortava, dizendo: Salvai-vos desta geração perversa!"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os que receberam a palavra dele de boa vontade foram batizados; e foram adicionados naquele dia quase três mil almas."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles perseveravam na doutrina dos apóstolos, na comunhão, no partir do pão, e nas orações."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E houve temor em toda alma; e muitos milagres e sinais foram feitos pelos apóstolos."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos os que criam estavam juntos, e tinham todas as coisas em comum."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles vendiam [suas] propriedades e bens, e as repartiam com todos, conforme a necessidade que cada um tinha."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perseverando a cada dia em concordância no Templo, e partindo o pão de casa em casa, comiam juntos com alegria e sinceridade de coração."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvando a Deus, e tendo graça, [sendo do agrado] de todo o povo. E a cada dia o Senhor acrescentava à igreja aqueles que estavam sendo salvos."
+                }
+            ]
+        }
+    ]
+}

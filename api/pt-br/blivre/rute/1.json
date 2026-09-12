@@ -1,0 +1,205 @@
+{
+    "book": "rute",
+    "name": "Rute",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu nos dias que governavam os juízes, que houve fome na terra. E um homem de Belém de Judá, foi a peregrinar nos campos de Moabe, ele e sua mulher, e dois filhos seus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O nome daquele homem era Elimeleque, e o de sua mulher Noemi; e os nomes de seus dois filhos eram Malom e Quiliom, efrateus de Belém de Judá. Chegaram, pois, aos campos de Moabe, e assentaram ali."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E morreu Elimeleque, marido de Noemi, e restou ela com seus dois filhos;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os quais tomaram para si mulheres de Moabe, o nome da uma Orfa, e o nome da outra Rute; e habitaram ali uns dez anos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E morreram também os dois, Malom e Quiliom, restando assim a mulher desamparada de seus dois filhos e de seu marido."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se levantou com suas noras, e voltou-se dos campos de Moabe: porque ouviu no campo de Moabe que o SENHOR havia visitado a seu povo para dar-lhes pão."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saiu, pois, do lugar de onde havia estado, e com ela suas duas noras, e começaram em caminhar para voltar-se à terra de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Noemi disse a suas duas noras: Andai, voltai-vos cada uma à casa de sua mãe: o SENHOR faça convosco misericórdia, como a fizestes com os mortos e comigo."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dê-vos o SENHOR que acheis descanso, cada uma em casa de seu marido: beijou-as logo, e elas choraram a voz em grito."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disseram-lhe: Certamente nós voltaremos contigo a teu povo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Noemi respondeu: Voltai, filhas minhas; para que ireis comigo? Tenho eu mais filhos no ventre, que possam ser vossos maridos?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voltai, filhas minhas, e ide; que eu já sou velha para ser para me casar com homem. E ainda que dissesse: Tenho esperança; e esta noite me casasse com um homem, e ainda desse à luz filhos;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Teríeis vós de esperá-los até que fossem grandes? Ficaríeis vós sem se casar por causa deles? Não, filhas minhas; que maior amargura tenho eu que vós, pois a mão do SENHOR saiu contra mim."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas elas levantando outra vez sua voz, choraram: e Orfa beijou à sua sogra, mas Rute se ficou com ela."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Noemi disse: Eis que tua cunhada se voltou a seu povo e a seus deuses; volta-te atrás dela."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Rute respondeu: Não me rogues que te deixe, e que me aparte de ti: porque de onde quer que tu fores, irei eu; e de onde quer que viveres, viverei. Teu povo será meu povo, e teu Deus meu Deus."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde tu morreres, morrerei eu, e ali serei sepultada: assim me faça o SENHOR, e assim me dê, que somente a morte fará separação entre mim e ti."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo Noemi que estava tão decidida a ir com ela, deixou de falar-lhe."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Andaram, pois, elas duas até que chegaram a Belém: e aconteceu que entrando em Belém, toda a cidade se comoveu por razão delas, e diziam: Não é esta Noemi?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ela lhes respondia: Não me chameis Noemi, mas sim me chamai Mara: porque em grande amargura me pôs o Todo-Poderoso."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu me fui cheia, mas vazia me fez voltar o SENHOR. Por que me chamareis Noemi, já que o SENHOR deu testemunho contra mim, e o Todo-Poderoso me afligiu?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim voltou Noemi e Rute moabita sua nora com ela; voltou dos campos de Moabe, e chegaram a Belém no princípio da colheita das cevadas."
+                }
+            ]
+        }
+    ]
+}

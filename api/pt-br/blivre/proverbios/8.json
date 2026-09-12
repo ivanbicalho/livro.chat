@@ -1,0 +1,331 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso a sabedoria não clama, e a inteligência não solta sua voz?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nos lugares mais altos, junto ao caminho, nas encruzilhadas das veredas, ela se põe."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao lado das portas, à entrada da cidade; na entrada dos portões, ela grita:"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Varões, eu vos clamo; [dirijo] minha voz aos filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós que sois ingênuos, entendei a prudência; e vós que sois loucos, entendei [de] coração."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi, porque falarei coisas nobres; e abro meus lábios para a justiça."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque minha boca declarará a verdade; e meus lábios abominam a maldade."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todas as coisas que digo com minha boca são justas; não há nelas coisa alguma [que seja] distorcida ou perversa."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todas elas são corretas para aquele que as entende; e justas para os que encontram conhecimento."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aceitai minha correção, e não prata; e o conhecimento mais que o ouro fino escolhido."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a sabedoria é melhor do que rubis; e todas as coisas desejáveis nem sequer podem ser comparadas a ela."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu, a Sabedoria, moro com a Prudência; e tenho o conhecimento do conselho."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O temor ao SENHOR é odiar o mal: a soberba e a arrogância, o mal caminho e a boca perversa, eu [os] odeio."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mim pertence o conselho e a verdadeira sabedoria; eu [tenho] prudência e poder."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por meio de mim os reis governam, e os príncipes decretam justiça."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por meio de mim os governantes dominam; e autoridades, todos os juízes justos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu amo os que me amam; e os que me buscam intensamente me acharão."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bens e honra estão comigo; [assim como] a riqueza duradoura e a justiça."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu fruto é melhor que o ouro, melhor que o ouro refinado; e meus produtos melhores que a prata escolhida."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu faço andar pelo caminho da justiça, no meio das veredas do juízo;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para eu dar herança aos que me amam, e encher seus tesouros."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR me adquiriu no princípio de seu caminho; desde antes de suas obras antigas."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde a eternidade eu fui ungida; desde o princípio; desde antes do surgimento da terra."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando ainda não havia abismos, eu fui gerada; quando ainda não havia fontes providas de muitas águas."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Antes que os montes fossem firmados; antes dos morros, eu fui gerada."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando ele ainda não tinha feito a terra, nem os campos; nem o princípio da poeira do mundo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando preparava os céus, ali eu estava; quando ele desenhava ao redor da face do abismo."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando firmava as nuvens de cima, quando fortificava as fontes do abismo."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando colocava ao mar o seu limite, para que as águas não ultrapassassem seu mandado; quando estabelecia os fundamentos da terra."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então eu estava com ele como um pupilo; e eu era seu agrado a cada dia, alegrando perante ele em todo tempo."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alegrando na habitação de sua terra; e [concedendo] meus agrados aos filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto agora, filhos, ouvi-me; porque bem-aventurados serão [os que] guardarem meus caminhos."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi a correção, e sede sábios; e não a rejeiteis."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado [é] o homem que me ouve; que vigia em minhas portas diariamente, que guarda as ombreiras de minhas entradas."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque aquele que me encontrar, encontrará a vida; e obterá o favor do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aquele que pecar contra mim fará violência à sua [própria] alma; todos os que me odeiam amam a morte."
+                }
+            ]
+        }
+    ]
+}

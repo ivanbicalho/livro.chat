@@ -1,0 +1,214 @@
+{
+    "book": "1corintios",
+    "name": "1 Coríntios",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu, irmãos, não pude vos falar como a espirituais, mas como a carnais, como a meninos em Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com leite eu vos criei, e não com alimento sólido, porque não podíeis; nem mesmo agora ainda podeis;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque ainda sois carnais. Pois, havendo entre vós inveja, brigas, e divisões, por acaso não sois carnais, e andais fazendo conforme o costume humano?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque dizendo um: “Eu sou de Paulo”, e outro: “Eu [sou] de Apolo”, por acaso não sois carnais?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, quem é Paulo, e quem é Apolo, senão servidores, pelos quais crestes, conforme o Senhor deu a cada um?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu plantei; Apolo regou; mas foi Deus quem deu o crescimento."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De maneira que nem o que planta é algo, nem o que rega; mas sim Deus, que dá o crescimento."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que planta e o que rega são um; mas cada um receberá a sua recompensa segundo o seu trabalho."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque somos cooperadores de Deus; vós sois a plantação de Deus, o edifício de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Segundo a graça de Deus que me foi dada, eu, como sábio construtor, pus o fundamento; e outro edifica sobre ele; mas cada um veja como edifica sobre ele."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois ninguém pode pôr fundamento diferente do que já está posto, o qual é Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém sobre este fundamento edificar ouro, prata, pedras preciosas, madeira, feno, palha,"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "a obra de cada um se manifestará; porque o dia a esclarecerá; pois pelo fogo se descobre; e qual é a obra de cada um, o fogo fará a prova."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se a obra de alguém que construiu sobre ele permanecer, receberá recompensa."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se a obra de alguém se queimar, ele sofrerá perda; porém o tal se salvará, todavia, como que [passado] pelo fogo."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não sabeis vós, que sois o templo de Deus? E que o Espírito de Deus habita em vós?"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se alguém destruir o templo de Deus, Deus ao tal destruirá; porque o templo de Deus é santo, o qual sois vós."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ninguém se engane; se alguém entre vós nestes tempos pensa ser sábio, que se faça de louco, para que seja sábio."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois a sabedoria deste mundo é loucura para Deus; porque está escrito: Ele toma aos sábios pela sua própria astúcia."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outra vez: O Senhor conhece os pensamentos dos sábios, que são vãos."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto ninguém se orgulhe em seres humanos; porque tudo é vosso,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente, seja o futuro; tudo é vosso."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós sois de Cristo; e Cristo, de Deus."
+                }
+            ]
+        }
+    ]
+}

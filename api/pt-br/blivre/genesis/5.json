@@ -1,0 +1,295 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é o livro das gerações de Adão. No dia em que criou Deus ao ser humano, à semelhança de Deus o fez;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Macho e fêmea os criou; e os abençoou, e chamou o nome deles Adão, no dia em que foram criados."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Adão cento e trinta anos, e gerou um filho à sua semelhança, conforme sua imagem, e chamou seu nome Sete."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram os dias de Adão, depois que gerou a Sete, oitocentos anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias que viveu Adão novecentos e trinta anos, e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Sete cento e cinco anos, e gerou a Enos."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Sete, depois que gerou a Enos, oitocentos e sete anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias de Sete novecentos e doze anos; e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Enos noventa anos, e gerou a Cainã."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Enos depois que gerou a Cainã, oitocentos e quinze anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias de Enos novecentos e cinco anos; e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Cainã setenta anos, e gerou a Maalalel."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Cainã, depois que gerou a Maalalel, oitocentos e quarenta anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias de Cainã novecentos e dez anos; e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Maalalel sessenta e cinco anos, e gerou a Jarede."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Maalalel, depois que gerou a Jarede, oitocentos e trinta anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias de Maalalel oitocentos noventa e cinco anos; e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Jarede cento e sessenta e dois anos, e gerou a Enoque."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Jarede, depois que gerou a Enoque, oitocentos anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias de Jarede novecentos e sessenta e dois anos; e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Enoque sessenta e cinco anos, e gerou a Matusalém."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E caminhou Enoque com Deus, depois que gerou a Matusalém, trezentos anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias de Enoque trezentos sessenta e cinco anos."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Caminhou, pois, Enoque com Deus, e desapareceu, porque Deus o levou."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Matusalém cento e oitenta e sete anos, e gerou a Lameque."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Matusalém, depois que gerou a Lameque, setecentos e oitenta e dois anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Foram, pois, todos os dias de Matusalém, novecentos e sessenta e nove anos; e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Lameque cento e oitenta e dois anos, e gerou um filho:"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chamou seu nome Noé, dizendo: Este nos aliviará de nossas obras, e do trabalho de nossas mãos, por causa da terra que o SENHOR amaldiçoou."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Lameque, depois que gerou a Noé, quinhentos noventa e cinco anos: e gerou filhos e filhas."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias de Lameque setecentos e setenta e sete anos; e morreu."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sendo Noé de quinhentos anos, gerou a Sem, Cam, e a Jafé."
+                }
+            ]
+        }
+    ]
+}

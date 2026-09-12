@@ -1,0 +1,682 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando Jesus terminou todas estas palavras, disse aos seus discípulos:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós bem sabeis que daqui a dois dias é a Páscoa, e o Filho do homem será entregue para ser crucificado."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os chefes dos sacerdotes e os anciãos do povo se reuniram na casa do sumo sacerdote, que se chamava Caifás."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E conversaram a fim de, usando mentira, prenderem Jesus, e [o] matarem."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém diziam: Não na festa, para que não haja tumulto entre o povo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto Jesus estava em Betânia, na casa de Simão o leproso,"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "veio a ele uma mulher com um vaso de alabastro, de óleo perfumado de grande valor, e derramou sobre a cabeça dele, enquanto estava sentado à mesa."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando os discípulos viram, ficaram indignados, dizendo: Para que este desperdício?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Poisisso podia ter sido vendido por muito, e o dinheiro dado aos pobres."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jesus, sabendo [disso] ,disse-lhes: Por que perturbais a esta mulher? Ora, ela me fez uma boa obra!"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois vós sempre tendes os pobres convosco, porém nem sempre me tereis."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois ela, ao derramar este óleo perfumado sobre o meu corpo, ela o fez para [preparar] o meu sepultamento."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade vos digo que, onde quer que este Evangelho em todo o mundo for pregado, também se dirá o que ela fez, para que seja lembrada."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então um dos doze, chamado Judas Iscariotes, foi aos chefes dos sacerdotes,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e disse: O que quereis me dar, para que eu o entregue a vós? E eles lhe determinaram trinta [moedas] de prata."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E desde então ele buscava oportunidade para o entregar."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no primeiro [dia da festa] dos pães sem fermento, os discípulos vieram a Jesus perguntar: Onde queres que te preparemos para comer a Páscoa?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele respondeu: Ide à cidade a um tal, e dizei-lhe: “O Mestre diz: ‘Meu tempo está perto. Contigo celebrarei a Páscoa com os meus discípulos’”."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os discípulos fizeram como Jesus havia lhes mandado, e prepararam a Páscoa."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vindo o anoitecer, ele se assentou à mesa com os doze discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enquanto comiam, disse: Em verdade vos digo que um de vós me trairá."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles ficaram muito tristes, e cada um começou a lhe perguntar: Por acaso sou eu, Senhor?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele respondeu: O que mete comigo a mão no prato, esse me trairá."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De fato, o Filho do homem vai assim como dele está escrito; mas ai daquele homem por quem o Filho do homem é traído! Bom seria a tal homem se não houvesse nascido."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Judas, o que o traía, perguntou: Por acaso sou eu, Rabi? [Jesus] lhe disse: Tu o disseste."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enquanto comiam, Jesus tomou o pão, abençoou-o, e o partiu. Então o deu aos discípulos, e disse: Tomai, comei; isto é o meu corpo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em seguida tomou um cálice, deu graças, e o deu a eles, dizendo: Bebei dele todos,"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque este é o meu sangue, o [sangue] do testamento, o qual é derramado por muitos, para o perdão de pecados."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu vos digo que desde agora não beberei deste fruto da vide, até aquele dia, quando convosco o beber, novo, no reino do meu Pai."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois de cantarem um hino, saíram para o monte das Oliveiras."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus lhes disse: Todos vós falhareis comigo esta noite; porque está escrito: “Ferirei o pastor, e as ovelhas do rebanho serão dispersas”."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, depois que eu for ressuscitado, irei adiante de vós para a Galileia."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro, porém, respondeu-lhe: Ainda que todos falhem contigo, eu nunca falharei."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhe disse: Em verdade te digo que, nesta mesma noite, antes do galo cantar, tu me negarás três vezes."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro lhe respondeu: Ainda que eu tenha de morrer contigo, em nenhuma maneira te negarei. E todos os discípulos disseram o mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus veio com eles a um lugar chamado Getsêmani, e disse aos discípulos: Ficai sentados aqui, enquanto eu vou ali orar."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto trazia consigo Pedro e os dois filhos de Zebedeu, ele começou a se entristecer e a se angustiar muito."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então lhes disse: Minha alma está completamente triste até a morte. Ficai aqui, e vigiai comigo."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E indo um pouco mais adiante, prostrou-se sobre o seu rosto, orando, e dizendo: Meu Pai, se é possível, passe de mim este cálice; porém, não [seja] como eu quero, mas sim como tu [queres] ."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então voltou aos seus discípulos, e os encontrou dormindo; e disse a Pedro: Então, nem sequer uma hora pudestes vigiar comigo?"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vigiai e orai, para que não entreis em tentação. De fato, o espírito [está] pronto, mas a carne [é] fraca."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele foi orar pela segunda vez, dizendo: Meu Pai, se este [cálice] não pode passar de mim sem que eu o beba, faça-se a tua vontade."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando voltou outra vez, achou-os dormindo, pois os seus olhos estavam pesados."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os deixou, e foi orar pela terceira vez, dizendo novamente as mesmas palavras."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois veio aos discípulos, e disse-lhes: Agora dormi e descansai. Eis que chegou a hora em que o Filho do homem é entregue em mãos de pecadores."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantai-vos, vamos! Eis que chegou o que me trai."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto ele ainda estava falando, eis que veio Judas, um dos doze, e com ele uma grande multidão, com espadas e bastões, da parte dos chefes dos sacerdotes e dos anciãos do povo."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O seu traidor havia lhes dado sinal, dizendo: Aquele a quem eu beijar, é esse. Prendei-o."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo ele se aproximou de Jesus, e disse: Felicitações, Rabi! e o beijou."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus, porém, lhe perguntou: Amigo, para que vieste? Então chegaram, agarraram Jesus, e o prenderam."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que um dos que [estavam] com Jesus estendeu a mão, puxou de sua espada, e feriu o servo do sumo sacerdote, cortando-lhe uma orelha."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus, então, lhe disse: Põe de volta tua espada ao seu lugar, pois todos os que pegarem espada, pela espada perecerão."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou, por acaso, pensas tu que eu não posso orar ao meu Pai, e ele me daria agora mais de doze legiões de anjos?"
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como, pois, se cumpririam as Escrituras [que dizem] que assim tem que ser feito?"
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquela hora Jesus disse às multidões: Como a um ladrão saístes com espadas e bastões para me prender? Todo dia eu me sentava, ensinando no templo, e não me prendestes."
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém tudo isto aconteceu para que as Escrituras dos profetas se cumpram.Então todos os discípulos o abandonaram, e fugiram."
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que prenderam Jesus o trouxeram [à casa] de Caifás, o sumo sacerdote, onde os escribas e os anciãos estavam reunidos."
+                }
+            ]
+        },
+        {
+            "verse": 58,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pedro o seguia de longe, até o pátio do sumo sacerdote; e entrou, e se assentou com os servos, para ver o fim."
+                }
+            ]
+        },
+        {
+            "verse": 59,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os chefes dos sacerdotes e todo o supremo conselho buscavam falso testemunho contra Jesus, para poderem matá-lo,"
+                }
+            ]
+        },
+        {
+            "verse": 60,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "mas não encontravam, ainda que muitas falsas testemunhas se apresentavam."
+                }
+            ]
+        },
+        {
+            "verse": 61,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, por fim, vieram duas [falsas testemunhas] , que disseram: Este disse: “Posso derrubar o Templo de Deus e reconstruí-lo em três dias”."
+                }
+            ]
+        },
+        {
+            "verse": 62,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o sumo sacerdote se levantou, e lhe perguntou: Não respondes nada ao que eles testemunham contra ti?"
+                }
+            ]
+        },
+        {
+            "verse": 63,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jesus ficava calado. Então o sumo sacerdote lhe disse: Ordeno-te pelo Deus vivo que nos digas se tu és o Cristo, o Filho de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 64,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhe disse: Tu o disseste. Porém eu vos digo que, desde agora, vereis o Filho do homem, sentado à direita do Poderoso, e vindo sobre as nuvens do céu."
+                }
+            ]
+        },
+        {
+            "verse": 65,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o sumo sacerdote rasgou suas roupas, e disse: Ele blasfemou! Para que necessitamos mais de testemunhas? Eis que agora ouvistes a blasfêmia."
+                }
+            ]
+        },
+        {
+            "verse": 66,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que vos parece?E eles responderam: Culpado de morte ele é."
+                }
+            ]
+        },
+        {
+            "verse": 67,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então lhe cuspiram no rosto, e lhe deram socos."
+                }
+            ]
+        },
+        {
+            "verse": 68,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Outros lhe deram bofetadas, e diziam: Profetiza-nos, ó Cristo, quem é o que te feriu?"
+                }
+            ]
+        },
+        {
+            "verse": 69,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro estava sentado fora no pátio. Uma serva aproximou-se dele, e disse: Também tu estavas com Jesus, o galileu."
+                }
+            ]
+        },
+        {
+            "verse": 70,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ele o negou diante de todos, dizendo: Não sei o que dizes."
+                }
+            ]
+        },
+        {
+            "verse": 71,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando ele saiu em direção à entrada, outra o viu, e disse aos que ali [estavam] : Também este estava com Jesus, o nazareno."
+                }
+            ]
+        },
+        {
+            "verse": 72,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele o negou outra vez com um juramento: Não conheço [esse] homem."
+                }
+            ]
+        },
+        {
+            "verse": 73,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pouco depois, os que ali estavam se aproximaram, e disseram a Pedro: Verdadeiramente também tu és um deles, pois a tua fala te denuncia."
+                }
+            ]
+        },
+        {
+            "verse": 74,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele começou a amaldiçoar e a jurar: Não conheço [esse] homem!E imediatamente o galo cantou."
+                }
+            ]
+        },
+        {
+            "verse": 75,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pedro se lembrou da palavra que Jesus dissera: Antes do galo cantar, tu me negarás três vezes. Assim ele saiu, e chorou amargamente."
+                }
+            ]
+        }
+    ]
+}

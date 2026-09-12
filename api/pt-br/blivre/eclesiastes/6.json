@@ -1,0 +1,115 @@
+{
+    "book": "eclesiastes",
+    "name": "Eclesiastes",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há um mal que vi abaixo do sol, e é muito frequente entre os homens:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um homem a quem Deus deu riquezas, bens, e honra; e nada lhe falta de tudo quanto a sua alma deseja; porém Deus não lhe dá poder para dessas coisas comer; em vez disso, um estranho as come; isso é futilidade e um mal causador de sofrimento."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se o homem gerar cem [filhos] , e viver muitos anos, e os dias de seus anos forem muitos, porém se sua alma não se saciar daquilo que é bom, nem tiver sepultamento, digo que ter sido abortado [teria sido] melhor para ele."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois veio em futilidade, e se vai em trevas; e nas trevas seu nome é encoberto."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Alguém] que nunca tivesse visto o sol, nem [o] conhecido, teria mais descanso do que ele."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ainda que vivesse mil anos duas vezes, e não experimentasse o que é bom, por acaso não vão todos para o mesmo lugar?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo o trabalho do homem é para sua boca; porém sua alma nunca se satisfaz."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois que vantagem tem o sábio sobre o tolo? E que [mais] tem o pobre que sabe como se comportar diante dos vivos?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor é a vista dos olhos do que o vaguear da cobiça; também isto é fútil [como] perseguir o vento."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seja o que for, seu nome já foi chamado; e [já] se sabe o que o homem é; e que não pode disputar contra aquele que é mais poderoso do que ele."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois quanto mais palavras há, maior é a futilidade; e que proveito há [nelas] para o homem?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois quem sabe o que é bom nesta vida para o homem, durante os dias de sua vida de futilidade, os quais ele gasta como sombra? Pois quem contará ao homem o que haverá depois dele abaixo do sol?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "book": "levitico",
+    "name": "Levítico",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não fareis para vós ídolos, nem escultura, nem levantareis para vós estátua, nem poreis em vossa terra pedra pintada para inclinar-vos a ela: porque eu sou o SENHOR vosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guardai meus sábados, e tende em reverência meu santuário: Eu sou o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se andardes em meus decretos, e guardardes meus mandamentos, e os puserdes por obra;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu darei vossa chuva em seu tempo, e a terra produzirá, e a árvore do campo dará seu fruto;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a debulha vos alcançará à vindima, e a vindima alcançará à sementeira, e comereis vosso pão em fartura e habitareis seguros em vossa terra:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu darei paz na terra, e dormireis, e não haverá quem vos espante; e farei tirar os animais ferozes de vossa terra, e a espada não passará por vossa terra;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perseguireis aos vossos inimigos, e cairão à espada diante de vós;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E cinco de vós perseguirão a cem, e cem de vós perseguirão a dez mil, e vossos inimigos cairão à espada diante de vós."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu me voltarei a vós, e vos farei crescer, e vos multiplicarei, e afirmarei meu pacto convosco:"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E comereis o antigo de muito tempo, e tirareis fora o antigo por causa do novo:"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porei minha morada em meio de vós, e minha alma não vos abominará:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E andarei entre vós, e eu serei vosso Deus, e vós sereis meu povo."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito, para que não fôsseis seus servos; e rompi as barras de vosso jugo, e vos fiz andar com o rosto alto."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém se não me ouvirdes, nem fizerdes todos estes meus mandamentos,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se abominardes meus decretos, e vossa alma menosprezar meus regulamentos, não executando todos meus mandamentos, e invalidando meu pacto;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu também farei convosco isto: enviarei sobre vós terror, enfermidade e febre, que consumam os olhos e atormentem a alma: e semeareis em vão vossa semente, porque vossos inimigos a comerão:"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porei minha ira sobre vós, e sereis feridos diante de vossos inimigos; e os que vos aborrecem vos dominarão, e fugireis sem que haja quem vos persiga."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se ainda com estas coisas não me ouvirdes, eu voltarei a castigar-vos sete vezes mais por vossos pecados."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quebrarei a soberba de vossa força, e voltarei vosso céu como ferro, e vossa terra como bronze:"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vossa força se consumirá em vão; que vossa terra não dará seu produto, e as árvores da terra não darão seu fruto."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se andardes comigo em oposição, e não me quiserdes ouvir, eu acrescentarei sobre vós sete vezes mais pragas segundo vossos pecados."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enviarei também contra vós animais feras que vos arrebatem os filhos, e destruam vossos animais, e vos reduzam a poucos, e vossos caminhos sejam desertos."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se com estas coisas não fordes corrigidos, mas que andardes comigo em oposição,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu também procederei convosco, em oposição e vos ferirei ainda sete vezes por vossos pecados:"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E trarei sobre vós espada vingadora, em castigo do pacto; e vos recolhereis a vossas cidades; mas eu enviarei pestilência entre vós, e sereis entregues em mão do inimigo."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando eu vos quebrantar o sustento de pão, cozerão dez mulheres vosso pão em um forno, e vos devolverão vosso pão por peso; e comereis, e não vos fartareis."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se com isto não me ouvirdes, mas procederdes comigo em oposição,"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu procederei convosco em contra e com ira, e vos castigarei ainda sete vezes por vossos pecados."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E comereis as carnes de vossos filhos, e comereis as carnes de vossas filhas:"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E destruirei vossos altos, e exterminarei vossas imagens, e porei vossos corpos mortos sobre os corpos mortos de vossos ídolos, e meu alma vos abominará:"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porei vossas cidades em deserto, e assolarei vossos santuários, e não cheirarei a fragrância de vosso suave incenso."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu assolarei também a terra, e se pasmarão dela vossos inimigos que nela moram:"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a vós vos espalharei pelas nações, e desembainharei espada atrás de vós: e vossa terra estará assolada, e desertas vossas cidades."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então a terra folgará seus sábados todos os dias que estiver assolada, e vós na terra de vossos inimigos: a terra descansará então e desfrutará seus sábados."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo o tempo que estará assolada, folgará o que não folgou em vossos sábados enquanto habitáveis nela."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aos que restarem de vós porei em seus corações tal covardia, na terra de seus inimigos, que o som de uma folha movida os perseguirá, e fugirão como de espada, e cairão sem que ninguém os persiga:"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tropeçarão uns nos outros, como se fugissem diante de espada, ainda que ninguém os persiga; e não podereis resistir diante de vossos inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perecereis entre as nações, e a terra de vossos inimigos vos consumirá."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que restarem de vós perecerão nas terras de vossos inimigos por sua iniquidade; e pela iniquidade de seus pais perecerão com eles:"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E confessarão sua iniquidade, e a iniquidade de seus pais, por sua transgressão com que transgrediram contra mim: e também porque andaram comigo em oposição,"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu também houver andado contrário a eles, e os houver metido na terra de seus inimigos: e então se humilhará seu coração incircunciso, e reconhecerão seu pecado;"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu me lembrarei de meu pacto com Jacó, e também de meu pacto com Isaque, e também de meu pacto com Abraão me lembrarei; e farei memória da terra."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que a terra estará desamparada deles, e folgará seus sábados, estando deserta por causa deles; mas entretanto se submeterão ao castigo de suas iniquidades: porquanto menosprezaram meus regulamentos, e teve a alma deles ódio de meus estatutos."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ainda com tudo isto, estando eles em terra de seus inimigos, eu não os rejeitarei, nem os abominarei para consumi-los, invalidando meu pacto com eles: porque eu o SENHOR sou seu Deus:"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Antes me lembrarei deles pelo pacto antigo, quando os tirei da terra do Egito aos olhos das nações, para ser seu Deus: Eu sou o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os decretos, regulamentos e leis que estabeleceu o SENHOR entre si e os filhos de Israel no monte Sinai por meio de Moisés."
+                }
+            ]
+        }
+    ]
+}

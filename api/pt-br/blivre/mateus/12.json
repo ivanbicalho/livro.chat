@@ -1,0 +1,457 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquele tempo Jesus estava indo pelas plantações de cereais no sábado. Seus discípulos tinham fome, e começaram a arrancar espigas e a comer."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os fariseus viram, disseram-lhe: Eis que os teus discípulos fazem o que não é lícito fazer no sábado."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele, porém, lhes disse: Não lestes o que Davi fez quando teve fome, ele e os que com ele estavam,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como ele entrou na casa de Deus, e comeram os pães da proposição, que a ele não era lícito comer, nem também aos que com ele estavam, a não ser somente aos sacerdotes?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou não lestes na Lei que, nos sábados, os sacerdotes no Templo profanam o sábado, sem se tornarem culpados?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu, porém, vos digo que o maior que o Templo está aqui."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se vós soubésseis o que significa: ‘Quero misericórdia, e não sacrifício’, não condenaríeis os inocentes."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o Filho do homem é Senhor do sábado."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partindo dali, [Jesus] entrou na sinagoga deles."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que havia ali um homem que tinha uma mão definhada; e eles, a fim de o acusarem, perguntaram-lhe: É lícito curar nos sábados?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes respondeu: Qual de vós será a pessoa que, caso tenha uma ovelha, e se a tal cair em uma cova no sábado, não usará de sua força para a levantar?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, quanto mais vale um ser humano que uma ovelha! Assim, pois, é lícito fazer o bem nos sábados."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então disse para aquele homem: Estende a tua mão. Ele a estendeu, e foi-lhe restaurada, sã como a outra."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os fariseus saíram e se reuniram para planejar contra ele, como o matariam."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jesus, sabendo disso, retirou-se dali. Muitos o seguiram, e ele curou a todos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes ordenava que não o tornassem conhecido;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que se cumprisse o que foi dito pelo profeta Isaías:"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis aqui meu servo a quem escolhi, meu amado em quem minha alma se agrada; sobre ele porei o meu Espírito, e ele anunciará justiça às nações."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele não fará brigas, nem gritará; ninguém ouvirá pelas ruas a sua voz."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A cana rachada ele não quebrará, o pavio que fumega ele não apagará, até que conduza a justiça à vitória."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em seu nome as nações terão esperança."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então lhe trouxeram um endemoninhado cego e mudo; e ele o curou de tal maneira que o mudo passou a falar e a ver."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas as multidões se admiravam e diziam: Não é este o Filho de Davi?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando os fariseus ouviam isso, diziam: Ele não expulsa os demônios, a não ser por Belzebu, o chefe dos demônios."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém [Jesus] , entendendo os pensamentos deles, disse-lhes: Todo reino dividido contra si mesmo é destruído; e toda cidade ou casa dividida contra si mesma não permanecerá."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, se Satanás expulsa a Satanás, contra si mesmo está dividido; como, pois, permanecerá o seu reino?"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se eu expulso os demônios por Belzebu, então por quem vossos filhos os expulsam? Portanto, eles mesmos serão vossos juízes."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se eu pelo Espírito de Deus expulso os demônios, logo o Reino de Deus já chegou sobre vos."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou como pode alguém entrar na casa do valente, e saquear seus bens, sem primeiro amarrar ao valente? Depois disso saqueará sua casa."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem não é comigo é contra mim; e quem não ajunta comigo, espalha."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso eu vos digo: todo pecado e blasfêmia serão perdoados aos seres humanos; mas a blasfêmia contra o Espírito não será perdoada."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que falar palavra contra o Filho do homem lhe será perdoado; mas qualquer um que falar contra o Espírito Santo, não lhe será perdoado, nem na era presente, nem na futura."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou fazei a árvore boa, e seu fruto bom; ou fazei a árvore má, e seu fruto mau; pois pelo fruto se conhece a árvore."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ninhada de víboras, como podeis vós falar boas coisas, sendo maus? Pois a boca fala do que o coração tem em abundância."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A pessoa boa tira coisas boas do bom tesouro, e a pessoa má tira coisas más do tesouro mau."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu, porém, vos digo que de toda palavra imprudente que as pessoas falarem, dela prestarão contas no dia do juízo."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque por tuas palavras serás justificado, e por tuas palavras serás condenado."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então responderam-lhe uns dos escribas e dos fariseus, dizendo: Mestre, queremos ver de ti algum sinal."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ele lhes deu a seguinte resposta: Uma geração má e adúltera pede sinal; mas não lhe será dado, exceto o sinal do profeta Jonas."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque assim como Jonas esteve três dias e três noites no ventre da baleia, assim também o Filho do homem estará três dias e três noites no coração da terra."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os de Nínive se levantarão no Juízo com esta geração, e a condenarão; porque se arrependeram com a pregação de Jonas. E eis aqui quem é maior que Jonas."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A rainha do sul se levantará no Juízo com esta geração, e a condenará; porque veio dos confins da terra para ouvir a sabedoria de Salomão. E eis aqui quem é maior que Salomão."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o espírito imundo sai de alguém, anda por lugares secos buscando repouso, e não o acha."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então diz: ‘Voltarei para a minha casa, de onde saí.’ E quando chega, a encontra desocupada, varrida, e arrumada."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então vai, e toma consigo outros sete espíritos piores que ele; eles entram, e moram ali; e a última [condição] de tal pessoa se torna pior que a primeira. Assim também acontecerá com esta geração má."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto ele ainda estava falando às multidões, eis que sua mãe e seus irmãos estavam fora, querendo falar com ele."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguém lhe disse: Eis que tua mãe e teus irmãos estão fora, querendo falar contigo."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele disse em resposta ao que o avisou: Quem é minha mãe? E quem são meus irmãos?"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então estendeu sua mão para os seus discípulos, e disse: Eis aqui minha mãe e meus irmãos;"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois qualquer um que fizer a vontade do meu Pai, que está nos céus, esse é meu irmão, e irmã, e mãe."
+                }
+            ]
+        }
+    ]
+}

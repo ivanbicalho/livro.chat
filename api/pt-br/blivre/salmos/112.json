@@ -1,0 +1,97 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 112,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aleluia! Bem-aventurado é o homem que teme ao SENHOR, e que tem muito prazer em seus mandamentos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sua descendência será poderosa na terra; a geração dos corretos será bendita."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em sua casa [haverá] bens e riquezas, e sua justiça permanece para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A luz brilha nas trevas para os corretos, [para quem é] piedoso, misericordioso e justo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem bom é misericordioso, e empresta; ele administra suas coisas com prudência."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente ele nunca se abalará; o justo será lembrado para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele não temerá o mau rumor; o seu coração está firme, confiante no SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seu firme coração não temerá, até que ele veja [o fim] de seus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele distribui, e dá aos necessitados; sua justiça permanece para sempre; seu poder será exaltado em glória."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso verá, e ficará incomodado; rangerá seus dentes, e se consumirá. O desejo dos perversos perecerá."
+                }
+            ]
+        }
+    ]
+}

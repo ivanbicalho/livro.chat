@@ -1,0 +1,475 @@
+{
+    "book": "deuteronomio",
+    "name": "Deuteronômio",
+    "chapter": 32,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Escutai, céus, e falarei; E ouça a terra os ditos de minha boca."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Gotejará como a chuva minha doutrina; Destilará como o orvalho meu discurso; Como o chuvisco sobre a grama, E como as gotas sobre a erva:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque invocarei o nome do SENHOR; Engrandecei ao nosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ele é] a Rocha, sua obra é perfeita, pois todos os seus caminhos são justos. Deus fiel, e sem imoralidade; justo e correto ele é."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Corromperam-se contra ele; não são seus filhos, a falha é deles. São uma geração perversa e distorcida."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É assim que pagais ao SENHOR, ó povo tolo e insensato? Não é ele teu pai que te adquiriu, te fez, e te estabeleceu?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembra-te dos tempos antigos; Considerai os anos de geração e geração: Pergunta a teu pai, que ele te declarará; A teus anciãos, e eles te dirão."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o Altíssimo fez herdar às nações, Quando fez dividir os filhos dos homens, Estabeleceu os termos dos povos Segundo o número dos filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a parte do SENHOR é seu povo; Jacó a medida de sua herança."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Achou-o em terra de deserto, E em deserto horrível e ermo; Cercou-o, instruiu-o, Guardou-o como a menina de seu olho."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como a água desperta sua ninhada, paira sobre seus passarinhos, estende suas asas, os toma, os leva sobre suas penas;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "o SENHOR sozinho o guiou, e nenhum deus estrangeiro esteve com ele."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele o fez cavalgar sobre os lugares altos da terra; alimentou-o com os frutos do campo, e o fez sugar mel da rocha e azeite da dura pederneira;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "manteiga de vacas e leite de ovelhas, com gordura de cordeiros, e carneiros de Basã; também machos de bode, com o melhor do trigo; e bebeste o sangue das uvas, o vinho puro."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E engordou Jesurum, e deu coices: engordaste-te, engrossaste-te, cobriste-te: e deixou ao Deus que lhe fez, e menosprezou a Rocha de sua salvação."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Provocaram-lhe ciúmes com os deuses alheios; irritaram-lhe com abominações."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sacrificaram aos demônios, não a Deus; a deuses que não conheciam, a novos deuses vindos de perto, Que não haviam temido vossos pais."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abandonaste a Rocha que te gerou; e te esqueceste do Deus que te criou."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR o viu, e acendeu-se em ira, pelo menosprezo de seus filhos e de suas filhas."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: esconderei deles meu rosto, verei qual será seu fim; pois são geração de perversidades, filhos sem fidelidade."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles me provocaram ciúmes com o que não é Deus; com suas vaidades provocaram-me à ira; eu também provocarei os ciúmes com aqueles que não são povo, e com uma nação insensata eu os provocarei à ira."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque um fogo se acendeu em meu furor, e arderá até as profundezas do Xeol; e consumirá a terra e seus frutos, e abrasará os fundamentos dos montes."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu trarei males sobre eles; gastarei neles minhas flechas."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Consumidos serão de fome, e comidos de febre ardente E de amarga pestilência; Dente de animais enviarei também sobre eles, Com veneno de serpente da terra."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De fora desolará a espada, E dentro das câmaras o espanto: Tanto ao rapaz como à virgem, Ao que mama como o homem grisalho."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse: Eu os dispersaria do mundo, Faria cessar dentre os homens a memória deles,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se não temesse a ira do inimigo, Não seja que se envaideçam seus adversários, Não seja que digam: Nossa mão alta fez tudo isto, não o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque são gente de perdidos conselhos, E não há neles entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bom seria se fossem sábios, que compreendessem isto, E entendessem seu fim!"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como poderia perseguir um a mil, E dois fariam fugir a dez mil, Se sua Rocha não os houvesse vendido, E o SENHOR não os houvesse entregue?"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que a rocha deles não é como nossa Rocha: E nossos inimigos sejam disso juízes."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque da vide de Sodoma é a vide deles, E dos sarmentos de Gomorra: As uvas deles são uvas venenosas, cachos muito amargos têm."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Veneno de serpentes é seu vinho, e peçonha cruel de áspides."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não tenho eu isto guardado, Selado em meus tesouros?"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha é a vingança e o pagamento, Ao tempo que seu pé vacilará; Porque o dia de sua aflição está próximo, E o que lhes está preparado se apressa."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR julgará a seu povo, E por causa de seus servos se arrependerá, Quando vir que a força pereceu, E que não há prisioneiro nem livre."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dirá: Onde estão seus deuses, A rocha em que se refugiavam;"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que comiam a gordura de seus sacrifícios, Bebiam o veio de suas libações? Levante-se, que vos ajudem E vos defendam."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vede agora que Eu, Eu Sou, e não há deus além de mim; eu trago a morte, e eu faço viver; eu firo, e eu curo; e não há quem possa escapar da minha mão."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando eu erguer aos céus minha mão, e disser: “Tão certo como eu vivo para sempre”,"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu afiar minha espada reluzente, e minha mão agarrar o juízo, devolverei a vingança sobre os meus adversários, e retribuirei aos que me odeiam."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Embriagarei de sangue minhas flechas, e minha espada devorará carne, no sangue dos mortos e dos cativos, das cabeças dos líderes inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jubilai, ó nações, com o povo dele, porque ele vingará o sangue dos seus servos, e devolverá a vingança sobre os seus inimigos, e expiará sua terra, pelo seu povo."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés veio, e recitou todas as palavras deste cântico aos ouvidos do povo, ele, e Josué filho de Num."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acabou Moisés de recitar todas estas palavras a todo Israel;"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes: Ponde vosso coração a todas as palavras que eu vos declaro hoje, para que as mandeis a vossos filhos, e cuidem de praticar todas as palavras desta lei."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque não vos é coisa vã, mas é vossa vida: e por elas fareis prolongar os dias sobre a terra, para possuir a qual passais o Jordão."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés aquele mesmo dia, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sobe a este monte de Abarim, ao monte Nebo, que está na terra de Moabe, que está em frente de Jericó, e olha a terra de Canaã, que eu dou por herança aos filhos de Israel;"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E morre no monte ao qual sobes, e sê reunido a teus povos; ao modo que morreu Arão teu irmão no monte de Hor, e foi reunido a seus povos:"
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porquanto transgredistes contra mim em meio dos filhos de Israel nas águas da briga de Cades, no deserto de Zim; porque não me santificastes em meio dos filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Verás, portanto, diante de ti a terra; mas não entrarás ali, à terra que dou aos filhos de Israel."
+                }
+            ]
+        }
+    ]
+}

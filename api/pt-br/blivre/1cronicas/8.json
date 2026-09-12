@@ -1,0 +1,367 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benjamim gerou a Belá seu primogênito, Asbel o segundo, Aará o terceiro,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Noá o quarto, e Rafa o quinto."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Belá foram: Adar, Gera, Abiúde,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abisua, Naamã, Aoá,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Gera, Sefufá, e Hurão."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes foram os filhos de Eúde, os quais foram os cabeças das famílias dos moradores em Geba, que foram levados cativos a Manaate:"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naamã, Aías, e Gera; este os levou cativos, e gerou a Uzá e a Aiúde."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Saaraim gerou filhos na terra de Moabe, depois que deixou a suas mulheres Husim e Baara."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De sua mulher Hodes ele gerou a Jobabe, Zíbia, Messa, Malcã,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jeús, Saquias, e Mirma. Estes foram seus filhos, cabeças de famílias."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de Husim ele gerou a Abitube, e a Elpaal."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Elpaal foram: Héber, Misã, Semede (o qual edificou a Ono e a Lode com suas aldeias),"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como Berias, e Sema, que foram cabeças das famílias dos moradores de Aijalom, os quais afugentaram aos moradores de Gate."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Aiô, Sasaque, Jeremote,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Zebadias, Arade, Eder;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Micael, Ispa, e Joá, foram filhos de Berias."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Zebadias, Mesulão, Hizqui, Héber,"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ismerai, Izlias, e Jobabe, foram filhos de Elpaal."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jaquim, Zicri, Zabdi,"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Elioenai, Ziletai, Eliel,"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Adaías, Beraías, e Sinrate, foram filhos de Simei."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Ispã, Héber, Eliel,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abdom, Zicri, Hanã,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Hananias, Elão, Antotias,"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ifdeias, e Penuel, foram filhos de Sasaque."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Sanserai, Searias, Atalias;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jaaresias, Elias, e Zicri, foram filhos de Jeroão."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes foram cabeças de famílias, chefes segundo suas gerações; estes habitaram em Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em Gibeão habitou o pai de Gibeão; e o nome de sua mulher era Maaca;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seu filho primogênito foi Abdom; depois Zur, Quis, Baal, Nadabe,"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Gedor, Aiô, Zequer,"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Miclote, que gerou a Simeia. Estes também habitaram perto de irmãos em Jerusalém, vizinhos a eles."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Ner gerou a Quis; Quis gerou a Saul, e Saul gerou a Jônatas, Malquisua, Abinadabe, e a Esbaal."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O filho de Jônatas foi Meribe-Baal, e Meribe-Baal gerou a Mica."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Mica foram: Pitom, Meleque, Tareia e Acaz."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Acaz gerou a Jeoada; e Jeoada gerou a Alemete, a Azmavete, e a Zinri; e Zinri gerou a Moza."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moza gerou a Bineá, cujo filho foi Rafa, cujo filho foi Eleasá, cujo filho foi Azel."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Azel teve seis filhos, cujos nomes foram: Azricão, Bocru, Ismael, Searias, Obadias, e Hanã; todos estes foram filhos de Azel."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Eseque, seu irmão, foram: Ulão seu primogênito, Jeús o segundo, e Elifelete o terceiro."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Ulão foram guerreiros valentes, hábeis flecheiros; e tiveram muitos filhos e netos, cento e cinquenta. Todos estes foram dos filhos de Benjamim."
+                }
+            ]
+        }
+    ]
+}

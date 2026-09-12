@@ -1,0 +1,394 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 16,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Trouxeram, pois, a arca de Deus, e a puseram no meio da tenda que Davi havia lhe armado; e apresentaram holocaustos e sacrifícios de gratidão diante de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Davi, quando terminou de apresentar os holocaustos e os sacrifícios de gratidão, abençoou ao povo em nome do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E repartiu a todos em Israel, tanto homens como mulheres, a cada um um bolo de pão, uma boa porção de carne, e um bolo de passas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pôs diante do arca do SENHOR a [alguns] dos levitas como servidores, para que celebrassem, agradecessem, e louvassem ao SENHOR Deus de Israel:"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Asafe era o cabeça, e Zacarias era o segundo depois; Jeiel, Semiramote, Jeiel, Matitias, Eliabe, Benaia, Obede-Edom, e Jeiel, estavam com seus instrumentos de saltérios e harpas, mas Asafe fazia som com címbalos;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém os sacerdotes Benaia e Jaaziel estavam continuamente com trombetas diante do arca do pacto de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então naquele mesmo dia Davi pela primeira vez mandou celebrarem ao SENHOR por meio de Asafe e de seus irmãos:"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai ao SENHOR, invocai o seu nome, notificai entre os povos os seus feitos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai a ele, cantai-lhe salmos; falai de todas as suas maravilhas."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Gloriai-vos em seu santo nome; alegre-se o coração dos que buscam ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Procurai ao SENHOR e à sua força; buscai a sua face continuamente."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembrai-vos de suas maravilhas que ele fez, de seus prodígios, e dos juízos de sua boca,"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós, descendentes de seu servo Israel, vós filhos de Jacó, seus escolhidos."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele é o SENHOR, o nosso Deus; seus juízos estão em toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembrai-vos perpetuamente de seu pacto, [e] da palavra que ele mandou até mil gerações;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Do pacto que estabeleceu com Abraão, e do seu juramento a Isaque;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O qual confirmou a Jacó por estatuto, a Israel por pacto eterno,"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizendo: A ti darei a terra de Canaã, a porção de vossa herança;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando vós éreis poucos em número, poucos, e estrangeiros nela;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que andavam de nação em nação, de um reino a outro povo."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A ninguém ele permitiu que os oprimisse; por causa deles repreendeu a reis,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Dizendo] : Não toqueis em meus ungidos, nem façais mal a meus profetas."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai ao SENHOR, toda a terra, anunciai de dia em dia sua salvação."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai entre as nações sua glória, e entre todos os povos suas maravilhas."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR é grande, e muito digno de ser louvado; ele é mais temível que todos os deuses."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois todos os deuses dos povos nada são; porém o SENHOR fez os céus."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Majestade e esplendor há diante de ele; força e alegria em sua morada."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reconhecei ao SENHOR, ó famílias das nações, reconhecei ao SENHOR a glória e o poder."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dai ao SENHOR a glória de seu nome; trazei ofertas, e vinde diante dele; adorai ao SENHOR na glória de sua santidade."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assombrai-vos diante dele, vós, toda a terra; o mundo [por ele] foi estabelecido, para que não se movesse."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alegrem-se os céus, e goze-se a terra, e digam nas nações: Reina o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ressoe o mar, e a plenitude dela: Alegre-se o campo, e todo o que contém."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então cantarão as árvores dos bosques diante do SENHOR, Porque vem a julgar a terra."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Celebrai a o SENHOR, porque é bom; Porque sua misericórdia é eterna."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizei: Salva-nos, ó Deus, saúde nossa: Junta-nos, e livra-nos das nações, Para que confessemos tua santo nome, e nos gloriemos em teus louvores."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito seja o SENHOR Deus de Israel, De eternidade a eternidade."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deixou ali, diante do arca do pacto do SENHOR, a Asafe e a seus irmãos, para que ministrassem de contínuo diante da arca, cada coisa em seu dia:"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Obede-Edom e a seus irmãos, sessenta e oito; e a Obede-Edom filho de Jedutum, e a Hosa, por porteiros:"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim a Zadoque o sacerdote, e a seus irmãos os sacerdotes, diante do tabernáculo do SENHOR no alto que estava em Gibeão,"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que sacrificassem continuamente, a manhã e tarde, holocaustos a o SENHOR no altar do holocausto, conforme a todo o que está escrito na lei do SENHOR, que ele prescreveu a Israel;"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E com eles a Hemã e a Jedutum, e os outros escolhidos declarados por seus nomes, para glorificar a o SENHOR, porque é eterna sua misericórdia;"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com eles a Hemã e a Jedutum com trombetas e címbalos para tanger, e com outros instrumentos de música de Deus; e a os filhos de Jedutum, por porteiros."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo o povo se foi cada um a sua casa; e Davi se voltou para abençoar sua casa."
+                }
+            ]
+        }
+    ]
+}

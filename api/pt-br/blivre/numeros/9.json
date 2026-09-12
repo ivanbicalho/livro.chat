@@ -1,0 +1,214 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés no deserto de Sinai, no segundo ano de sua saída da terra do Egito, no mês primeiro, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Israel farão a páscoa a seu tempo."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No décimo quarto dia deste mês, entre as duas tardes, a fareis a seu tempo: conforme todos os seus ritos, e conforme todas suas leis a fareis."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou Moisés aos filhos de Israel, para que fizessem a páscoa."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fizeram a páscoa no mês primeiro, aos catorze dias do mês, entre as duas tardes, no deserto de Sinai: conforme todas as coisas que mandou o SENHOR a Moisés, assim fizeram os filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E houve alguns que estavam impuros por causa de morto, e não puderam fazer a páscoa aquele dia; e chegaram diante de Moisés e diante de Arão aquele dia;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disseram-lhe aqueles homens: Nós somos impuros por causa de morto; por que seremos impedidos de oferecer oferta ao SENHOR a seu tempo entre os filhos de Israel?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés lhes respondeu: Esperai, e ouvirei que mandará o SENHOR acerca de vós."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, dizendo: Qualquer um de vós ou de vossas gerações, que for impuro por causa de morto ou estiver de viajem longe, fará páscoa ao SENHOR:"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No mês segundo, aos catorze dias do mês, entre as duas tardes, a farão: com pães ázimos e ervas amargas a comerão;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não deixarão dele para a manhã, nem quebrarão osso nele: conforme todos os ritos da páscoa a farão."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o que estiver limpo, e não estiver de viajem, se deixar de fazer a páscoa, a tal pessoa será eliminada de seus povos: porquanto não ofereceu a seu tempo a oferta do SENHOR, o tal homem levará seu pecado."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se morar convosco peregrino, e fizer a páscoa ao SENHOR, conforme o rito da páscoa e conforme suas leis assim a fará: um mesmo rito tereis, tanto o peregrino como o natural da terra."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no dia que o tabernáculo foi levantado, a nuvem cobriu o tabernáculo sobre a tenda do testemunho; e à tarde havia sobre o tabernáculo como uma aparência de fogo, até a manhã."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim era continuamente: a nuvem o cobria, e de noite a aparência de fogo."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E segundo que se erguia a nuvem do tabernáculo, os filhos de Israel se partiam: e no lugar onde a nuvem parava, ali alojavam os filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "À ordem do SENHOR os filhos de Israel se partiam: e à ordem do SENHOR assentavam o acampamento: todos os dias que a nuvem estava sobre o tabernáculo, eles estavam parados."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando a nuvem se detinha sobre o tabernáculo muitos dias, então os filhos de Israel guardavam a ordenança do SENHOR e não partiam."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando sucedia que a nuvem estava sobre o tabernáculo poucos dias, ao dito do SENHOR alojavam, e ao dito do SENHOR partiam."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando era que a nuvem se detinha desde a tarde até a manhã, quando à manhã a nuvem se levantava, eles partiam: ou se havia estado no dia, e à noite a nuvem se levantava, então partiam."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou se dois dias, ou um mês, ou ano, enquanto a nuvem se detinha sobre o tabernáculo ficando sobre ele, os filhos de Israel se estavam acampados e não moviam: mas quando ela se erguia, eles moviam."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao dito do SENHOR assentavam, e ao dito do SENHOR partiam, guardando a ordenança do SENHOR, como o havia o SENHOR dito por meio de Moisés."
+                }
+            ]
+        }
+    ]
+}

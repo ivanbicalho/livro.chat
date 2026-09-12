@@ -1,0 +1,115 @@
+{
+    "book": "deuteronomio",
+    "name": "Deuteronômio",
+    "chapter": 34,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés subiu dos campos de Moabe ao monte Nebo, ao cume de Pisga, que está em frente de Jericó; e o SENHOR mostrou-lhe toda a terra de Gileade até Dã,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a todo Naftali, e a terra de Efraim e de Manassés, toda a terra de Judá até o mar mais distante;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a parte sul, e a campina, o vale de Jericó, cidade das palmeiras, até Zoar."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhe o SENHOR: Esta é a terra de que jurei a Abraão, a Isaque, e a Jacó, dizendo: À tua descendência a darei. Eu a fiz ver com teus olhos, mas não passarás ali."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E morreu ali Moisés, servo do SENHOR, na terra de Moabe, conforme o dito do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enterrou-o no vale, em terra de Moabe, em frente de Bete-Peor; e ninguém sabe seu sepulcro até hoje."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E era Moisés de idade de cento e vinte anos quando morreu: seus olhos nunca se escureceram, nem perdeu o seu vigor."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E choraram os filhos de Israel a Moisés nos campos de Moabe trinta dias: E assim se cumpriram os dias do choro do luto de Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Josué filho de Num foi cheio de espírito de sabedoria, porque Moisés havia posto suas mãos sobre ele: e os filhos de Israel lhe obedeceram, e fizeram como o SENHOR mandou a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nunca mais se levantou profeta em Israel como Moisés, a quem haja conhecido o SENHOR face a face;"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em todos os sinais e prodígios que lhe enviou o SENHOR a fazer em terra do Egito a Faraó, e a todos os seus servos, e a toda sua terra;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em toda aquela mão poderosa, e em todo o grande espanto que Moisés causou à vista de todo Israel."
+                }
+            ]
+        }
+    ]
+}

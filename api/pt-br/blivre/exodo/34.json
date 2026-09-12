@@ -1,0 +1,322 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 34,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés: Entalha para ti duas tábuas de pedra como as primeiras, e escreverei sobre essas tábuas as palavras que estavam nas tábuas primeiras que quebraste."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Prepara-te, pois, para amanhã, e sobe pela manhã ao monte de Sinai, e fica diante de mim ali sobre o cume do monte."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não suba homem contigo, nem apareça alguém em todo o monte; nem ovelhas nem bois apascentem diante do monte."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés entalhou duas tábuas de pedra como as primeiras; e levantou-se pela manhã, e subiu ao monte de Sinai, como lhe mandou o SENHOR, e levou em sua mão as duas tábuas de pedra."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR desceu na nuvem, e esteve ali com ele, proclamando o nome do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E passando o SENHOR por diante dele, proclamou: SENHOR, SENHOR, forte, misericordioso, e piedoso; tardio para a ira, e grande em benignidade e verdade;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que guarda a misericórdia em milhares, que perdoa a iniquidade, a rebelião, e o pecado, e que de nenhum modo justificará ao malvado; que visita a iniquidade dos pais sobre os filhos e sobre os filhos dos filhos, sobre os de terceira, e quarta gerações."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Moisés, apressando-se, baixou a cabeça até o chão e encurvou-se;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Se agora, Senhor, achei favor em teus olhos, vá agora o Senhor em meio de nós; porque este é povo de dura cerviz; e perdoa nossa iniquidade e nosso pecado, e possui-nos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele disse: Eis que, eu faço concerto diante de todo o teu povo: farei maravilhas que não foram feitas em toda a terra, nem em nação alguma; e verá todo o povo em meio do qual estás tu, a obra do SENHOR; porque será coisa terrível a que eu farei contigo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guarda o que eu te mando hoje; eis que eu expulso de diante de tua presença aos amorreus, e aos cananeus, e aos heteus, e aos perizeus, e aos heveus, e aos jebuseus."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guarda-te que não faças aliança com os moradores da terra de onde hás de entrar, para que não sejam por tropeço em meio de ti:"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas derrubareis seus altares, e quebrareis suas estátuas, e cortareis seus bosques:"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque não te hás de inclinar a deus alheio; que o SENHOR, cujo nome é zeloso, Deus zeloso é."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto não farás aliança com os moradores daquela terra; pois senão fornicarão após seus deuses, e sacrificarão a seus deuses, e te chamarão, e comerás de seus sacrifícios;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou, se tomarem de suas filhas para teus filhos, e fornicarem suas filhas após seus deuses, farão também fornicar a teus filhos atrás dos deuses delas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não farás deuses de fundição para ti."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A festa dos pães ázimos guardarás: sete dias comerás sem levedar, segundo te mandei, no tempo do mês de Abibe; porque no mês de Abibe saíste do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo o que abre madre, meu é; e de teu gado todo primeiro de vaca ou de ovelha que for macho."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém resgatarás com cordeiro o primeiro do asno; e se não o resgatares, lhe cortarás a cabeça. Resgatarás todo primogênito de teus filhos, e não serão vistos vazios diante de mim."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seis dias trabalharás, mas no sétimo dia cessarás: cessarás ainda na arada e na colheita."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E te farás a festa das semanas aos princípios da colheita do trigo: e a festa da colheita à volta do ano."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Três vezes no ano será visto todo homem teu diante do Soberano SENHOR, Deus de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu lançarei as nações de tua presença, e alargarei teu termo: e ninguém cobiçará tua terra, quando tu subires para ser visto diante do SENHOR teu Deus três vezes no ano."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não oferecerás com levedado o sangue de meu sacrifício; nem ficará da noite para a manhã o sacrifício da festa da páscoa."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A primícia dos primeiros frutos de tua terra meterás na casa do SENHOR teu Deus. Não cozerás o cabrito no leite de sua mãe."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés: Escreve tu estas palavras; porque conforme estas palavras fiz a aliança contigo e com Israel."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele esteve ali com o SENHOR quarenta dias e quarenta noites: não comeu pão, nem bebeu água; e escreveu em tábuas as palavras da aliança, os dez dizeres."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, descendo Moisés do monte Sinai com as duas tábuas do testemunho em sua mão, enquanto descia do monte, não sabia ele que a pele de seu rosto resplandecia, depois que havia com ele falado."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E olhou Arão e todos os filhos de Israel a Moisés, e eis que a pele de seu rosto era resplandescente; e tiveram medo de chegar-se a ele."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chamou-os Moisés; e Arão e todos os príncipes da congregação voltaram-se a ele, e Moisés lhes falou."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois se chegaram todos os filhos de Israel, aos quais mandou todas as coisas que o SENHOR lhe havia dito no monte de Sinai."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando acabou Moisés de falar com eles, pôs um véu sobre seu rosto."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando vinha Moisés diante do SENHOR para falar com ele, tirava-se o véu até que saía; e saindo, falava com os filhos de Israel o que lhe era mandado;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viam os filhos de Israel o rosto de Moisés, que a pele de seu rosto era resplandescente; e voltava Moisés a pôr o véu sobre seu rosto, até que entrava a falar com ele."
+                }
+            ]
+        }
+    ]
+}

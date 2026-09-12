@@ -1,0 +1,133 @@
+{
+    "book": "1pedro",
+    "name": "1 Pedro",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, aos anciãos da igreja que estão entre vós, eu, que sou ancião como eles, e testemunha dos sofrimentos de Cristo, e participante da glória que se revelará, seriamente peço:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pastoreai o rebanho de Deus que está entre vós, não por obrigação, mas sim voluntariamente, segundo a vontade de Deus; não por ganância, mas sim com sincera prontidão;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "nem como que dominando os que estão aos vossos cuidados, mas sim como exemplos ao rebanho."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando o Pastor Principal aparecer, vós recebereis a indestrutível coroa da glória."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Semelhantemente vós, jovens, sede sujeitos aos anciãos; e todos vós revesti-vos de humildade uns aos outros; pois: Deus resiste aos soberbos, mas dá graça aos humildes."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no tempo adequado,"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sede sóbrios! Vigiai! O vosso adversário, o diabo, anda ao redor, rugindo como um leão, buscando a quem possa devorar."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Resisti a ele, firmes na fé; sabendo que as mesmas aflições acontecem com os vossos irmãos no mundo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o Deus de toda graça, que vos chamou para a sua eterna glória em Cristo, depois de sofrerdes um pouco, ele vos aperfeiçoará, confirmará, fortificará, e estabelecerá fundamento."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A ele seja o poder para todo o sempre. Amém!"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por Silvano, vosso fiel irmão, como o considero, eu vos escrevi brevemente, exortando e dando testemunho de que esta é a verdadeira graça de Deus. Nela estai."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saúda-vos a [igreja] escolhida convosco, que está na Babilônia, e também o meu filho Marcos."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saudai-vos uns aos outros com beijo de amor. A paz seja com todos vós que estais em Cristo"
+                }
+            ]
+        }
+    ]
+}

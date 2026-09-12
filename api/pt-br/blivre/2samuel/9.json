@@ -1,0 +1,124 @@
+{
+    "book": "2samuel",
+    "name": "2 Samuel",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Davi: Restou algum da casa de Saul, a quem faça eu misericórdia por causa de Jônatas?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havia um servo da casa de Saul, que se chamava Ziba, ao qual quando chamaram que viesse a Davi, o rei lhe disse: És tu Ziba? E ele respondeu: Teu servo."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei disse: Não restou ninguém da casa de Saul, a quem faça eu misericórdia de Deus? E Ziba respondeu ao rei: Ainda restou um filho de Jônatas, aleijado dos pés."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o rei lhe disse: E esse onde está? E Ziba respondeu ao rei: Eis que, está em casa de Maquir filho de Amiel, em Lo-Debar."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enviou o rei Davi, e tomou-o de casa de Maquir filho de Amiel, de Lo-Debar."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vindo Mefibosete, filho de Jônatas filho de Saul, a Davi, prostrou-se sobre seu rosto, e fez reverência. E disse Davi: Mefibosete. E ele respondeu: Eis aqui teu servo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhe Davi: Não tenhas temor, porque eu à verdade farei contigo misericórdia por causa de Jônatas teu pai, e te devolverei todas as terras de Saul teu pai; e tu comerás sempre pão à minha mesa."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele inclinando-se, disse: Quem é teu servo, para que olhes a um cão morto como eu?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o rei chamou a Ziba, servo de Saul, e disse-lhe: Tudo o que foi de Saul e de toda sua casa, eu o dei ao filho de teu senhor."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu pois lhe lavrarás as terras, tu com teus filhos, e teus servos, e colherás os frutos, para que o filho de teu senhor tenha com que se manter; mas Mefibosete, o filho de teu senhor comerá sempre pão à minha mesa. E Ziba tinha quinze filhos e vinte servos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondeu Ziba ao rei: Conforme tudo o que mandou meu senhor o rei a seu servo, assim teu servo o fará. Mefibosete, disse o rei, comerá à minha mesa, como um dos filhos do rei."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tinha Mefibosete um filho pequeno, que se chamava Mica. E toda a família da casa de Ziba eram servos de Mefibosete."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E morava Mefibosete em Jerusalém, porque comia sempre à mesa do rei; e era coxo de ambos os pés."
+                }
+            ]
+        }
+    ]
+}

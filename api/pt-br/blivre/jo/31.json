@@ -1,0 +1,367 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 31,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu fiz um pacto com meus olhos; como, pois, eu olharia com cobiça para a virgem?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois qual é a porção [dada] por Deus acima, e a herança [dada] pelo Todo-Poderoso das alturas?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso a calamidade não é para o perverso, e o desastre para os que praticam injustiça?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso ele não vê meus caminhos, e conta todos os meus passos?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu andei com falsidade, e se meu pé se apressou para o engano,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pese-me ele em balanças justas, e Deus saberá minha integridade."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se meus passos se desviaram do caminho, e meu coração seguiu meus olhos, e se algo se apegou às minhas mãos,"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que eu semeie, e outro coma; e meus produtos sejam arrancados."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se foi meu coração se deixou seduzir por [alguma] mulher, ou se estive espreitei à porta de meu próximo,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que minha mulher moa para outro, e outros se encurvem sobre ela."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tal seria um crime vergonhoso, e delito [a ser sentenciado por] juízes."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois seria um fogo que consumiria até à perdição, e destruiria toda a minha renda."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se desprezei o direito de meu servo ou de minha serva quando eles reclamaram comigo,"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que faria eu quando Deus se levantasse? E quando ele investigasse [a causa] ,o que eu lhe responderia?"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que me fez no ventre [materno também] não fez a ele? E não nos preparou de um mesmo [modo] na madre?"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu neguei aos pobres o que eles desejavam, ou fiz desfalecer os olhos da viúva;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se comi meu alimento sozinho, e o órfão não comeu dele"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(Porque desde a minha juventude cresceu comigo como [se eu fosse seu pai] ,e desde o ventre de minha mãe guiei [a viúva] );"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu vi alguém morrer por falta de roupa, e o necessitado sem algo que o cobrisse,"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se sua cintura não me bendisse, quando ele se esquentava com as peles de meus cordeiros;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se levantei minha mão contra o órfão, quando vi que seria favorecido na corte judicial,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que minha escápula caia do meu ombro, e meu braço se quebre de sua articulação."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o castigo de Deus era um assombro para mim, e eu não teria poder contra sua majestade."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu pus no ouro minha esperança, ou disse ao ouro fino: Tu és minha confiança;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu me alegrei de que minha riqueza era muita, e de que minha mão havia obtido muito;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se olhei para o sol quando brilhava, e à lua quando estava bela,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E meu coração se deixou enganar em segredo, e minha boca beijou minha mão,"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isto também seria um delito [a ser sentenciado por] juiz; porque teria negado ao Deus de cima."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu me alegrei da desgraça daquele que me odiava, e me agradei quando o mal o encontrou,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sendo que nem deixei minha boca pecar, desejando sua morte com maldição,"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se a gente da minha casa nunca tivesse dito: Quem não se satisfez da carne dada por ele?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O estrangeiro não passava a noite na rua; eu abria minhas portas ao viajante."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se encobri minhas transgressões como as pessoas [fazem] , escondendo meu delito em meu seio;"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu tinha medo da grande multidão, e o desprezo das famílias me atemorizou; então me calei, e não saí da porta:"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem me dera se alguém me ouvisse! Eis que minha vontade é que o Todo-Poderoso me responda, e meu adversário escrevesse um relato da acusação."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente eu o carregaria sobre meu ombro, e o poria em mim como uma coroa."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu lhe diria o número de meus passos, e como um príncipe eu me chegaria a ele."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se minha terra clamar contra mim, e seus sulcos juntamente chorarem;"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se comi seus frutos sem [pagar] dinheiro, ou fiz expirar a alma de seus donos;"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em lugar de trigo que [me] produza cardos, e ervas daninhas no lugar da cevada. [Aqui] terminam as palavras de Jó."
+                }
+            ]
+        }
+    ]
+}

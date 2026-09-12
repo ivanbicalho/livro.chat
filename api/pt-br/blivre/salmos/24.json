@@ -1,0 +1,97 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 24,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:Ao SENHOR [pertence] a terra, e sua plenitude; o mundo, e os que nele habitam."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele a fundou sobre os mares; e sobre os rios ele a firmou."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem subirá ao monte do SENHOR? E quem ficará de pé no lugar de sua santidade?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que é limpo de mãos, e puro de coração, que não entrega sua alma para as coisas vãs, nem jura enganosamente."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este receberá a bênção do SENHOR, e a justiça do Deus de sua salvação."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a geração dos que o buscam, dos que procuram a tua face: [a geração de] Jacó. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantai, portas, vossas cabeças; e levantai-vos vós, entradas eternas; para que entre o Rei da Glória."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é o Rei da Glória? O SENHOR forte e poderoso, o SENHOR poderoso na guerra."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantai, portas, vossas cabeças; e levantai-vos vós, entradas eternas; para que entre o Rei da Glória."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é este Rei da Glória? O SENHOR dos exércitos; ele é o Rei da Glória! (Selá)"
+                }
+            ]
+        }
+    ]
+}

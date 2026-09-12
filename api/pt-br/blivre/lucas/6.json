@@ -1,0 +1,448 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, no sábado, [Jesus] passou pelas plantações, e seus discípulos iam arrancando espigas, e comiam, debulhando-as com as mãos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns dos fariseus disseram: Por que fazeis o que não é lícito nos sábados?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhes respondeu: Nunca lestes isto, o que Davi fez quando teve fome, ele e os que com ele estavam?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como entrou na casa de Deus, tomou, e comeu os pães da apresentação, e deu aos que estavam com ele, [pães] que não é lícito comer, a não ser só os sacerdotes?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizia-lhes: O Filho do homem é Senhor do sábado."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu em outro sábado que entrou na sinagoga, e estava ensinado; e ali estava um homem que tinha a mão direita definhada."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os escribas e fariseus o observavam, se o curaria no sábado; para acharem de que o acusar."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ele bem sabia dos seus pensamentos; e disse ao homem que tinha a mão definhada: Levanta-te, e põe-te em pé no meio. E ele se levantou e se pôs de pé."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus lhes disse: Eu vos pergunto: É lícito no sábado fazer bem, ou fazer mal? Salvar uma pessoa, ou matá-la?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele, olhando para todos em redor, disse-lhe: Estende a tua mão. E ele o fez; e a mão foi lhe restituída."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então encheram-se de ira; e conversaram uns com os outros [sobre] o que fariam a Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que naqueles dias ele foi ao monte para orar; e passou a noite orando a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando já era dia, chamou a si os seus discípulos, e escolheu doze deles, a quem também chamou de apóstolos:"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Simão, a quem também chamou de Pedro, e seu irmão André; Tiago, e João; Filipe, e Bartolomeu."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mateus, Tomé; Tiago [filho] de Alfeu, e Simão chamado “o Zelote”."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Judas de Tiago, e Judas Iscariotes, o que foi o traidor."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele desceu com eles, parou num lugar plano, e também [com ele] uma grande quantidade dos seus discípulos, e grande multidão do povo de toda a Judeia, de Jerusalém, da costa marítima de Tiro, e de Sidom,"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "que tinham vindo para o ouvir, e para serem curados das suas enfermidades, como também os atormentados por espíritos imundos foram curados."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E toda a multidão procurava tocá-lo; porque dele saía poder, e curava a todos."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele levantou os olhos aos seus discípulos, e disse: Benditos sois vós, os pobres, porque o Reino de Deus é vosso."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos sois vós que agora tendes fome, porque sereis saciados. Benditos sois vós que agora chorais, porque rireis."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benditos sereis quando as pessoas vos odiarem, quando vos separarem, vos insultarem, e rejeitarem o vosso nome como mau, por causa do Filho do homem."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Contentai-vos nesse dia, e saltai de alegria, porque eis que grande é a vossa recompensa nos céus; pois assim os pais deles faziam aos profetas."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ai de vós, ricos, porque já tendes a vossa consolação."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de vós que agora estais saciados, porque tereis fome. Ai de vós que agora rides, porque lamentareis, e chorareis."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de vós quando todas as pessoas falarem bem de vós; porque assim os pais deles faziam aos falsos profetas."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas a vós, que estais ouvindo, digo: amai os vossos inimigos; fazei bem aos que vos odeiam;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "bendizei aos que vos maldizem, e orai pelos que vos maltratam."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao que te ferir numa face, oferece-lhe também a outra; e ao que te tirar a capa, não recuses a túnica."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dá a quem te pedir; e ao que te tomar o [que é] teu, não o peças de volta."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E como vós quereis que as pessoas vos façam, fazei-lhes vós também da mesma maneira."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se amardes aos que vos amam, que mérito tereis? Pois também os pecadores amam os que os amam."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois se fizerdes bem aos que vos fazem bem, que mérito tereis? Também os pecadores fazem o mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se emprestardes àqueles de quem esperais receber de volta, que mérito tereis? Também os pecadores emprestam aos pecadores, para receberam de volta o tanto equivalente."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em vez disso, amai aos vossos inimigos, fazei o bem, e emprestai, sem nada esperar disso; e grande será a vossa recompensa, e sereis filhos do Altíssimo; porque é benigno [até] para com os ingratos e maus."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sede misericordiosos, como também o vosso Pai é misericordioso."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; liberai, e vos liberarão."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dai, e será vos dado; medida boa, comprimida, sacudida e transbordante vos darão no vosso colo; pois com a mesma medida que medirdes vos medirão de volta."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes também uma parábola: Acaso pode o cego guiar [outro] cego? Não cairão ambos no buraco?"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O discípulo não está acima do mestre; mas todo aquele que estiver completamente capacitado será como o seu mestre."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por que tu prestas atenção no cisco que está no olho do teu irmão, e não enxergas a trave que está no teu próprio olho?"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou como podes dizer a teu irmão: “Irmão, deixa-me tirar o cisco que está no teu olho”, se tu mesmo não prestas atenção na trave que está no teu olho? Hipócrita, tira primeiro a trave de teu olho, e então verás bem para tirar o cisco que está no olho do teu irmão."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois não há boa árvore que dê mau fruto, nem árvore má que dê bom fruto."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque cada árvore se conhece pelo seu próprio fruto; pois não se colhem figos dos espinheiros, nem se tiram uvas dos cardos."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A boa pessoa tira o bem do bom tesouro do coração, e a pessoa má tira o mal do mau tesouro; pois a sua boca fala daquilo que o coração tem em abundância."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por que me chamais: “Senhor!”, “Senhor!”, e não fazeis o que eu digo?"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo aquele que vem a mim, ouve as minhas palavras, e as pratica, eu vos mostrarei a quem é semelhante:"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Semelhante é ao homem que construiu uma casa, cavou, abriu bem fundo, e pôs o fundamento sobre a rocha; e quando veio a enchente, a corrente bateu com ímpeto naquela casa, e não a pôde abalar, porque tinha sido bem construída."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aquele que ouve e não pratica é semelhante ao homem que construiu uma casa sobre a terra, sem fundamento, na qual a corrente bateu com ímpeto, e logo caiu; e foi grande a queda daquela casa."
+                }
+            ]
+        }
+    ]
+}

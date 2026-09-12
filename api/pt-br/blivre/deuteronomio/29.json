@@ -1,0 +1,268 @@
+{
+    "book": "deuteronomio",
+    "name": "Deuteronômio",
+    "chapter": 29,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas são as palavras do pacto que o SENHOR mandou que Moisés fizesse com os filhos de Israel na terra de Moabe, além do pacto que estabeleceu com eles em Horebe."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Moisés, pois, chamou a todo Israel, e disse-lhes: Vós vistes tudo o que o SENHOR fez diante vossos olhos na terra do Egito a Faraó e a todos os seus servos, e a toda sua terra:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As provas grandes que viram teus olhos, o sinais, e as grandes maravilhas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR não vos deu coração para entender, nem olhos para ver, nem ouvidos para ouvir, até o dia de hoje."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu vos trouxe quarenta anos pelo deserto: vossas roupas não se hão envelhecido sobre vós, nem teu sapato se envelheceu sobre teu pé."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não comestes pão, nem bebestes vinho nem bebida forte: para que soubestes que eu sou o SENHOR vosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegastes a este lugar, e saiu Seom rei de Hesbom, e Ogue rei de Basã, diante de nós para lutar, e os ferimos;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomamos sua terra, e a demos por herança a Rúben e a Gade, e à meia tribo de Manassés."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guardareis, pois, as palavras deste pacto, e as poreis por obra, para que prospereis em tudo o que fizerdes."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós todos estais hoje diante do SENHOR vosso Deus; vossos príncipes de vossas tribos, vossos anciãos, e vossos oficiais, todos os homens de Israel,"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vossas crianças, vossas mulheres, e teus estrangeiros que habitam em meio de teu campo, desde o que corta tua lenha até o que tira tuas águas:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que entres no pacto do SENHOR teu Deus, e em seu juramento, que o SENHOR teu Deus estabelece hoje contigo:"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para te confirmar hoje por seu povo, e que ele seja a ti por Deus, da maneira que ele te disse, e como ele jurou a teus pais Abraão, Isaque, e Jacó."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não somente convosco estabeleço eu este pacto e este juramento,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, sim, com os que estão aqui presentes hoje conosco diante do SENHOR nosso Deus, e com os que não estão aqui hoje conosco."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque vós sabeis como habitamos na terra do Egito, e como passamos por meio das nações que passastes;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vistes suas abominações e seus ídolos, madeira e pedra, prata e ouro, que têm consigo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que não haja entre vós homem, ou mulher, ou família, ou tribo, cujo coração se volte hoje de com o SENHOR nosso Deus, por andar a servir aos deuses daquelas nações; que não haja em vós raiz que lance veneno e amargura;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seja que, quando o tal ouvir as palavras desta maldição, ele se abençoe em seu coração, dizendo: Terei paz, ainda que ande segundo o pensamento de meu coração, para acrescentar a embriaguez à sede:"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR se recusará a lhe perdoar; antes fumegará logo o furor do SENHOR e seu zelo sobre o tal homem, e se assentará sobre ele toda maldição escrita neste livro, e o SENHOR apagará seu nome de debaixo do céu:"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR o separará de todas as tribos de Israel para o mal, conforme todas as maldições do pacto escrito neste livro da lei."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dirá a geração vindoura, vossos filhos que virão depois de vós, e o estrangeiro que virá de distantes terras, quando virem as pragas desta terra, e suas enfermidades de que o SENHOR a fez enfermar,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(Enxofre e sal, abrasada toda sua terra: não será semeada, nem produzirá, nem crescerá nela erva nenhuma, como na destruição de Sodoma e de Gomorra, de Admá e de Zeboim, que o SENHOR destruiu em seu furor e em sua ira:)"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dirão, pois, todas as nações: Por que fez o SENHOR isto a esta terra? Que ira é esta de tão grande furor?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E responderão. Porquanto deixaram o pacto do SENHOR o Deus de seus pais, que ele estabeleceu com eles quando os tirou da terra do Egito,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram e serviram a deuses alheios, e inclinaram-se a eles, deuses que não conheciam, e que nenhuma coisa lhes haviam dado:"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acendeu-se portanto, o furor do SENHOR contra esta terra, para trazer sobre ela todas as maldições escritas nesta livro;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR os desarraigou de sua terra com ira, e com indignação, e com furor grande, e os expulsou a outra terra, como hoje."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As coisas secretas pertencem ao SENHOR nosso Deus: mas as reveladas são para nós e para nossos filhos para sempre, para que cumpramos todas as palavras desta lei."
+                }
+            ]
+        }
+    ]
+}

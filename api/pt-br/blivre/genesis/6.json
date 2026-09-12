@@ -1,0 +1,205 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando começaram os homens a multiplicar-se sobre a face da terra, e lhes nasceram filhas,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vendo os filhos de Deus que as filhas dos homens eram belas, tomaram para si mulheres, escolhendo entre todas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse o SENHOR: Não brigará meu espírito com o ser humano para sempre, porque certamente ele é carne: mas serão seus dias cento e vinte anos."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Havia gigantes na terra naqueles dias, e também depois que entraram os filhos de Deus às filhas dos homens, e lhes geraram filhos: estes foram os valentes que desde a antiguidade foram homens de renome."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR viu que a maldade dos seres humanos era muita na terra, e que todo desígnio dos pensamentos dos seus corações era só mau continuamente."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR se arrependeu de haver feito o ser humano na terra, e pesou-lhe em seu coração."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse o SENHOR: Apagarei os seres humanos que criei de sobre a face da terra, desde o ser humano até o animal, e até o réptil e as aves do céu; porque me arrependo de havê-los feito."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Noé achou favor aos olhos do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas são as gerações de Noé: Noé, homem justo, foi íntegro em suas gerações; Noé andava com Deus."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E gerou Noé três filhos: a Sem, a Cam, e a Jafé."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém a terra se corrompeu diante de Deus, e a terra encheu-se de violência."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Deus olhou a terra, e eis que estava corrompida; porque toda carne havia corrompido seu caminho sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Deus a Noé: O fim de toda carne veio diante de mim; porque a terra está cheia de violência por causa deles; e eis que eu os destruirei com a terra."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Faze-te uma arca de madeira de gôfer: farás aposentos na arca e a selarás com betume por dentro e por fora."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E desta maneira a farás: de trezentos côvados o comprimento da arca, de cinquenta côvados sua largura, e de trinta côvados sua altura."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Uma janela farás à arca, e a acabarás a um côvado de elevação pela parte de cima: e porás a porta da arca a seu lado; e lhe farás piso abaixo, segundo e terceiro."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu, eis que eu trago um dilúvio de águas sobre a terra, para destruir toda carne em que haja espírito de vida debaixo do céu; tudo o que há na terra morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas estabelecerei meu pacto contigo, e entrarás na arca tu, e teus filhos e tua mulher, e as mulheres de teus filhos contigo."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de tudo o que vive, de toda carne, dois de cada espécie porás na arca, para que tenham vida contigo; macho e fêmea serão."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Das aves segundo sua espécie, e dos animais segundo sua espécie, de todo réptil da terra segundo sua espécie, dois de cada espécie entrarão contigo para que tenham vida."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E toma contigo de toda comida que se come, e traga-a a ti; servirá de alimento para ti e para eles."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o fez assim Noé; fez conforme tudo o que Deus lhe mandou."
+                }
+            ]
+        }
+    ]
+}

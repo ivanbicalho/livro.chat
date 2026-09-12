@@ -1,0 +1,601 @@
+{
+    "book": "lamentacoes",
+    "name": "Lamentações",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou o homem que viu a aflição pela vara de seu furor."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guiou-me e levou-me a trevas, e não à luz."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com certeza se virou contra mim, revirou sua mão o dia todo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fez envelhecer minha carne e minha pele, quebrou meus ossos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Edificou contra mim, e cercou [-me] de fel e de trabalho."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fez-me habitar em lugares escuros, como os que já morrera há muito tempo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cercou-me por todos lados, e não posso sair; tornou pesados os meus grilhões."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até quando clamo e dou vozes, fechou [os ouvidos] à minha oração."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cercou meus caminhos com pedras lavradas, retorceu as minhas veredas."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Foi para mim como um urso que espia, como um leão escondido."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desviou meus caminhos, e fez-me em pedaços; deixou-me desolado."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Armou seu arco, e me pôs como alvo para a flecha."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fez entrar em meus rins as flechas de sua aljava."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Servi de escárnio a todo o meu povo, de canção ridícula deles o dia todo."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fartou-me de amarguras, embebedou-me de absinto."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quebrou os meus dentes com cascalho, cobriu-me de cinzas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E afastou minha alma da paz, fez-me esquecer da boa vida."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então eu disse: Pereceram minha força e minha esperança no SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembra-te da minha aflição e do meu sofrimento, do absinto e do fel."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma se lembra e se abate em mim."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disto me recordarei na minha mente, por isso terei esperança:"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É pelas bondades do SENHOR que não somos consumidos, porque suas misericórdias não têm fim."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Elas são novas a cada manhã; grande é a tua fidelidade."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR é minha porção, diz a minha alma; portanto nele esperarei."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bom é o SENHOR para os que nele esperam, para a alma que o busca."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É bom esperar e tranquilo aguardar a salvação do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É bom ao homem levar o jugo em sua juventude."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sente-se só, e fique quieto; pois ele o pôs sobre si."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ponha sua boca no pó; talvez haja esperança."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dê a face ao que o ferir; farte-se de insultos."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o Senhor não rejeitará para sempre:"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mesmo que cause aflição, ele também se compadecerá segundo a grandeza de suas misericórdias."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois não é sua vontade afligir nem entristecer os filhos dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esmagar debaixo de seus pés a todos os prisioneiros da terra,"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Perverter o direito do homem diante da presença do Altíssimo,"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Prejudicar ao homem em sua causa: o Senhor não aprova ) [tais coisas] ."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é que pode fazer suceder [algo] que diz, se o Senhor não tiver mandado?"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso da boca do Altíssimo não sai tanto a maldição como a bênção?"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que o homem vivente se queixa da punição de seus próprios pecados?"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Examinemos nossos caminhos, investiguemos, e nos voltemos ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantemos nossos corações e as mãos a Deus nos céus,"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Dizendo:] Nós transgredimos e fomos rebeldes; tu não perdoaste."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cobriste-te de ira, e nos perseguiste; mataste sem teres compaixão."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cobriste-te de nuvens, para que [nossa] oração não passasse."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu nos tornaste como escória e rejeito no meio dos povos."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os nossos inimigos abriram sua boca contra nós."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Medo e cova vieram sobre nós, devastação e destruição."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Rios de águas correm de meus olhos, por causa da destruição da filha de meu povo."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus olhos destilam, e não cessam; não haverá descanso,"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até que o SENHOR preste atenção, e veja desde os céus."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus olhos afligem minha alma, por causa de todas as filhas de minha cidade."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sem motivo meus inimigos me caçam como a um passarinho."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tentaram tirar minha vida na masmorra, e lançaram pedras sobre mim."
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As águas inundaram sobre minha cabeça; eu disse: É o meu fim."
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Invoquei o teu nome, SENHOR, desde a cova profunda."
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouviste minha voz: não escondas o teu ouvido ao meu suspiro, ao meu clamor."
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu te achegaste no dia em que te invoquei; disseste: Não temas."
+                }
+            ]
+        },
+        {
+            "verse": 58,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Defendeste, Senhor, as causas de minha alma; redimiste minha vida."
+                }
+            ]
+        },
+        {
+            "verse": 59,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Viste, SENHOR, a maldade que me fizeram; julga minha causa."
+                }
+            ]
+        },
+        {
+            "verse": 60,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Viste toda a vingança deles, todos os seus pensamentos contra mim."
+                }
+            ]
+        },
+        {
+            "verse": 61,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvido os seus insultos, ó SENHOR, todos os seus pensamentos contra mim;"
+                }
+            ]
+        },
+        {
+            "verse": 62,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As coisas ditas pelos que se levantam contra mim, e seu planos contra mim o dia todo."
+                }
+            ]
+        },
+        {
+            "verse": 63,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Olha para tudo quanto eles fazem; com canções zombam de mim."
+                }
+            ]
+        },
+        {
+            "verse": 64,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Retribui-lhes, SENHOR, conforme a obra de suas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 65,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dá-lhes angústia de coração, tua maldição a eles."
+                }
+            ]
+        },
+        {
+            "verse": 66,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Persegue-os com ira, e destrua-os de debaixo dos céus do SENHOR."
+                }
+            ]
+        }
+    ]
+}
