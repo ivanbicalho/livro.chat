@@ -7,7 +7,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E o SENHOR disse a Noé: Entra tu e toda tua casa na arca porque a ti vi justo diante de mim nesta geração."
+                    "text": "E o SENHOR disse a Noé:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Entra tu e toda tua casa na arca porque a ti vi justo diante de mim nesta geração."
                 }
             ]
         },
@@ -15,7 +19,7 @@
             "verse": 2,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "De todo animal limpo tomarás de sete em sete, macho e sua fêmea; mas dos animais que não são limpos, dois, macho e sua fêmea."
                 }
             ]
@@ -24,7 +28,7 @@
             "verse": 3,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Também das aves dos céus de sete em sete, macho e fêmea; para guardar em vida a descendência sobre a face de toda a terra."
                 }
             ]
@@ -33,7 +37,7 @@
             "verse": 4,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Porque passados ainda sete dias, eu farei chover sobre a terra quarenta dias e quarenta noites; e apagarei toda criatura que fiz de sobre a face da terra."
                 }
             ]

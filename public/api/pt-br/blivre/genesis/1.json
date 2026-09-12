@@ -25,7 +25,15 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Haja luz; e houve luz."
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Haja luz;"
+                },
+                {
+                    "speaker": "narrator",
+                    "text": "e houve luz."
                 }
             ]
         },
@@ -52,7 +60,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Haja expansão em meio das águas, e separe as águas das águas."
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Haja expansão em meio das águas, e separe as águas das águas."
                 }
             ]
         },
@@ -79,7 +91,15 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Juntem-se as águas que estão debaixo dos céus em um lugar, e descubra-se a porção seca; e foi assim."
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Juntem-se as águas que estão debaixo dos céus em um lugar, e descubra-se a porção seca;"
+                },
+                {
+                    "speaker": "narrator",
+                    "text": "e foi assim."
                 }
             ]
         },
@@ -97,7 +117,15 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Produza a terra erva verde, erva que dê semente; árvore de fruto que dê fruto segundo a sua espécie, que sua semente esteja nela, sobre a terra: e foi assim."
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Produza a terra erva verde, erva que dê semente; árvore de fruto que dê fruto segundo a sua espécie, que sua semente esteja nela, sobre a terra:"
+                },
+                {
+                    "speaker": "narrator",
+                    "text": "e foi assim."
                 }
             ]
         },
@@ -124,7 +152,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Haja luminares na expansão dos céus para separar o dia e a noite: e sejam por sinais, e para as estações, e para dias e anos;"
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Haja luminares na expansão dos céus para separar o dia e a noite: e sejam por sinais, e para as estações, e para dias e anos;"
                 }
             ]
         },
@@ -132,8 +164,12 @@
             "verse": 15,
             "segments": [
                 {
+                    "speaker": "god",
+                    "text": "E sejam por luminares na expansão dos céus para iluminar sobre a terra:"
+                },
+                {
                     "speaker": "narrator",
-                    "text": "E sejam por luminares na expansão dos céus para iluminar sobre a terra: e foi."
+                    "text": "e foi."
                 }
             ]
         },
@@ -178,7 +214,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Produzam as águas répteis de alma vivente, e aves que voem sobre a terra, na expansão aberta dos céus."
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Produzam as águas répteis de alma vivente, e aves que voem sobre a terra, na expansão aberta dos céus."
                 }
             ]
         },
@@ -196,7 +236,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E Deus os abençoou dizendo: Frutificai e multiplicai, e enchei as águas nos mares, e as aves se multipliquem na terra."
+                    "text": "E Deus os abençoou dizendo:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Frutificai e multiplicai, e enchei as águas nos mares, e as aves se multipliquem na terra."
                 }
             ]
         },
@@ -214,7 +258,15 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Produza a terra seres viventes segundo a sua espécie, animais e serpentes e animais da terra segundo sua espécie: e foi assim."
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Produza a terra seres viventes segundo a sua espécie, animais e serpentes e animais da terra segundo sua espécie:"
+                },
+                {
+                    "speaker": "narrator",
+                    "text": "e foi assim."
                 }
             ]
         },
@@ -232,7 +284,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Façamos ao ser humano à nossa imagem, conforme nossa semelhança; e domine os peixes do mar, e as aves dos céus, e os animais, e toda a terra, e todo animal que anda arrastando sobre a terra."
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Façamos ao ser humano à nossa imagem, conforme nossa semelhança; e domine os peixes do mar, e as aves dos céus, e os animais, e toda a terra, e todo animal que anda arrastando sobre a terra."
                 }
             ]
         },
@@ -250,7 +306,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E Deus os abençoou; e disse-lhes Deus: Frutificai e multiplicai, e enchei a terra, e subjugai-a, e dominai os peixes do mar, as aves dos céus, e todos os animais que se movem sobre a terra."
+                    "text": "E Deus os abençoou; e disse-lhes Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Frutificai e multiplicai, e enchei a terra, e subjugai-a, e dominai os peixes do mar, as aves dos céus, e todos os animais que se movem sobre a terra."
                 }
             ]
         },
@@ -259,7 +319,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Eis que vos dei toda erva que dá semente, que está sobre a face de toda a terra; e toda árvore em que há fruto de árvore que dá semente, vos será para comer."
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Eis que vos dei toda erva que dá semente, que está sobre a face de toda a terra; e toda árvore em que há fruto de árvore que dá semente, vos será para comer."
                 }
             ]
         },
@@ -267,8 +331,12 @@
             "verse": 30,
             "segments": [
                 {
+                    "speaker": "god",
+                    "text": "E a todo animal da terra, e a todas as aves dos céus, e a tudo o que se move sobre a terra, em que há vida, toda erva verde lhes será para comer:"
+                },
+                {
                     "speaker": "narrator",
-                    "text": "E a todo animal da terra, e a todas as aves dos céus, e a tudo o que se move sobre a terra, em que há vida, toda erva verde lhes será para comer: e foi assim."
+                    "text": "e foi assim."
                 }
             ]
         },

@@ -141,7 +141,7 @@
             "verse": 16,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Sai da arca tu, a tua mulher, os teus filhos, e as mulheres dos teus filhos contigo."
                 }
             ]
@@ -150,7 +150,7 @@
             "verse": 17,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Todos os animais que estão contigo de toda carne, de aves e de animais e de todo réptil que anda arrastando sobre a terra, tirarás contigo; e vão pela terra, e frutifiquem, e multipliquem-se sobre a terra."
                 }
             ]
@@ -187,7 +187,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E percebeu o SENHOR cheiro suave; e o SENHOR disse em seu coração: Não voltarei mais a amaldiçoar a terra por causa do ser humano; porque o intento do coração do ser humano é mau desde sua juventude: nem voltarei mais a destruir todo vivente, como fiz."
+                    "text": "E percebeu o SENHOR cheiro suave; e o SENHOR disse em seu coração:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Não voltarei mais a amaldiçoar a terra por causa do ser humano; porque o intento do coração do ser humano é mau desde sua juventude: nem voltarei mais a destruir todo vivente, como fiz."
                 }
             ]
         },
@@ -195,7 +199,7 @@
             "verse": 22,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Enquanto a terra durar, a sementeira e a colheita, o frio e calor, verão e inverno, dia e noite, não cessarão."
                 }
             ]

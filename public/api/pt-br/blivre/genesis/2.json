@@ -142,7 +142,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E mandou o SENHOR Deus ao homem, dizendo: De toda árvore do jardim comerás;"
+                    "text": "E mandou o SENHOR Deus ao homem, dizendo:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "De toda árvore do jardim comerás;"
                 }
             ]
         },
@@ -150,7 +154,7 @@
             "verse": 17,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Mas da árvore do conhecimento do bem e do mal não comerás dela; porque no dia que dela comeres, morrerás."
                 }
             ]
@@ -160,7 +164,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse o SENHOR Deus: Não é bom que o homem esteja só; farei para ele ajuda idônea para ele."
+                    "text": "E disse o SENHOR Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Não é bom que o homem esteja só; farei para ele ajuda idônea para ele."
                 }
             ]
         },
@@ -205,7 +213,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Adão: Esta é agora osso de meus ossos, e carne de minha carne: esta será chamada Mulher, porque do homem foi tomada."
+                    "text": "E disse Adão:"
+                },
+                {
+                    "speaker": "adam",
+                    "text": "Esta é agora osso de meus ossos, e carne de minha carne: esta será chamada Mulher, porque do homem foi tomada."
                 }
             ]
         },
