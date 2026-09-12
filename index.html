@@ -1,39 +1,37 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bíblia Chat</title>
-    <link rel="stylesheet" href="index.css">
-    <script src="https://cdn.jsdelivr.net/npm/navigo@8.11.1/lib/navigo.min.js"></script>
-    <script defer src="index.js"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.3/dist/cdn.min.js"></script>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Livro.Chat</title>
 </head>
 
 <body>
-    <div id="app" x-data>
-        <header class="app-header">
-            <h1 class="book-name" x-text="$store.chat.name || 'Bíblia'"></h1>
-            <span class="chapter-badge" x-show="$store.chat.chapter" x-text="'Capítulo ' + $store.chat.chapter"></span>
-        </header>
+  <div id="app" x-data>
+    <header class="app-header">
+      <h1 class="book-name" x-text="$store.chat.name || 'Bíblia'"></h1>
+      <span class="chapter-badge" x-show="$store.chat.chapter" x-text="'Capítulo ' + $store.chat.chapter"></span>
+    </header>
 
-        <main class="chat" x-ref="chatBody">
-            <p class="status" x-show="$store.chat.loading">Carregando...</p>
-            <p class="status status-error" x-show="$store.chat.error" x-text="$store.chat.error"></p>
+    <main class="chat" x-ref="chatBody">
+      <p class="status" x-show="$store.chat.loading">Carregando...</p>
+      <p class="status status-error" x-show="$store.chat.error" x-text="$store.chat.error"></p>
 
-            <template x-for="msg in $store.chat.messages" :key="msg.id">
-                <div class="message" :class="msg.side">
-                    <img class="avatar" :src="msg.icon" :alt="msg.name" x-show="msg.icon">
-                    <div class="bubble" :class="{ narrator: !msg.name }">
-                        <span class="sender" x-show="msg.name" x-text="msg.name"></span>
-                        <p class="text" x-text="msg.text"></p>
-                        <span class="verse">v. <span x-text="msg.verse"></span></span>
-                    </div>
-                </div>
-            </template>
-        </main>
-    </div>
+      <template x-for="msg in $store.chat.messages" :key="msg.id">
+        <div class="message" :class="msg.side">
+          <img class="avatar" :src="msg.icon" :alt="msg.name" x-show="msg.icon">
+          <div class="bubble" :class="{ narrator: !msg.name }">
+            <span class="sender" x-show="msg.name" x-text="msg.name"></span>
+            <p class="text" x-text="msg.text"></p>
+            <span class="verse">v. <span x-text="msg.verse"></span></span>
+          </div>
+        </div>
+      </template>
+    </main>
+  </div>
+  <script type="module" src="/src/main.ts"></script>
 </body>
 
 </html>
