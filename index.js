@@ -2,7 +2,7 @@ const BOOKS = {};
 const CHARACTERS = {};
 
 // fetched once on app startup
-const initPromise = fetch('api/init.json')
+const initPromise = fetch('api/pt-br/blivre/init.json')
     .then((res) => res.json())
     .then((data) => {
         (data.books || []).forEach((book) => { BOOKS[book.api] = book; });
@@ -24,7 +24,7 @@ function buildMessages(verses) {
                 text: segment.text,
                 name: character.name,
                 icon: character.icon ? `img/${character.icon}` : '',
-                side: segment.speaker === 'bible' ? 'left' : 'right',
+                side: segment.speaker === 'narrator' ? 'left' : 'right',
             });
         });
     });
@@ -37,7 +37,7 @@ async function loadChapter(book, chapter) {
     store.error = null;
     try {
         await initPromise;
-        const res = await fetch(`api/${book}/${chapter}.json`);
+        const res = await fetch(`api/pt-br/blivre/${book}/${chapter}.json`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data = await res.json();
         store.name = data.name;
@@ -65,10 +65,10 @@ document.addEventListener('alpine:init', () => {
     const router = new Navigo('/', { hash: true });
     router
         .on('/:book/:chapter', ({ data }) => loadChapter(data.book, data.chapter))
-        .notFound(() => router.navigate('/gen/1'))
+        .notFound(() => router.navigate('/genesis/1'))
         .resolve();
 
     if (!window.location.hash || window.location.hash === '#/') {
-        router.navigate('/gen/1');
+        router.navigate('/genesis/1');
     }
 });
