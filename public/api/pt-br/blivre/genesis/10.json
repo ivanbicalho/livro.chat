@@ -79,7 +79,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "Este foi vigoroso caçador diante do SENHOR; pelo qual se diz: Assim como Ninrode, vigoroso caçador diante do SENHOR."
+                    "text": "Este foi vigoroso caçador diante do SENHOR; pelo qual se diz:"
+                },
+                {
+                    "speaker": "people",
+                    "text": "Assim como Ninrode, vigoroso caçador diante do SENHOR."
                 }
             ]
         },

@@ -7,7 +7,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E Deus abençoou Noé e seus filhos, e disse-lhes: Frutificai, e multiplicai, e enchei a terra:"
+                    "text": "E Deus abençoou Noé e seus filhos, e disse-lhes:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Frutificai, e multiplicai, e enchei a terra:"
                 }
             ]
         },
@@ -15,7 +19,7 @@
             "verse": 2,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E vosso temor e vosso pavor será sobre todo animal da terra, e sobre toda ave dos céus, em tudo o que se mover na terra, e em todos os peixes do mar: em vossa mão são entregues."
                 }
             ]
@@ -24,7 +28,7 @@
             "verse": 3,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Tudo o que se move e vive vos será para mantimento: assim como os legumes e ervas, vos dei disso tudo."
                 }
             ]
@@ -33,7 +37,7 @@
             "verse": 4,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Porém a carne com sua vida, que é seu sangue, não comereis."
                 }
             ]
@@ -42,7 +46,7 @@
             "verse": 5,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Porque certamente exigirei o sangue de vossas vidas; da mão de todo animal o exigirei, e da mão do ser humano; da mão do homem seu irmão exigirei a vida do ser humano."
                 }
             ]
@@ -51,7 +55,7 @@
             "verse": 6,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "O que derramar sangue humano, pelo ser humano seu sangue será derramado; porque à imagem de Deus o ser humano foi feito."
                 }
             ]
@@ -60,7 +64,7 @@
             "verse": 7,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Mas vós frutificai, e multiplicai-vos; procriai abundantemente na terra, e multiplicai-vos nela."
                 }
             ]
@@ -78,7 +82,7 @@
             "verse": 9,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Eis que eu mesmo estabeleço meu pacto convosco, e com vossa descendência depois de vós;"
                 }
             ]
@@ -87,7 +91,7 @@
             "verse": 10,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E com toda alma vivente que está convosco, de aves, de animais, e de toda fera da terra que está convosco; desde todos os que saíram da arca até todo animal da terra."
                 }
             ]
@@ -96,7 +100,7 @@
             "verse": 11,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Estabelecerei meu pacto convosco, e não será mais exterminada toda carne com águas de dilúvio; nem haverá mais dilúvio para destruir a terra."
                 }
             ]
@@ -106,7 +110,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus: Este será o sinal do pacto que estabeleço entre mim e vós e toda alma vivente que está convosco, por tempos perpétuos:"
+                    "text": "E disse Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Este será o sinal do pacto que estabeleço entre mim e vós e toda alma vivente que está convosco, por tempos perpétuos:"
                 }
             ]
         },
@@ -114,7 +122,7 @@
             "verse": 13,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Meu arco porei nas nuvens, o qual será por sinal de aliança entre mim e a terra."
                 }
             ]
@@ -123,7 +131,7 @@
             "verse": 14,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E será que quando fizer vir nuvens sobre a terra, se deixará ver então meu arco nas nuvens."
                 }
             ]
@@ -132,7 +140,7 @@
             "verse": 15,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E me lembrarei do meu pacto, que há entre mim e vós e toda alma vivente de toda carne; e não serão mais as águas por dilúvio para destruir toda carne."
                 }
             ]
@@ -141,7 +149,7 @@
             "verse": 16,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E estará o arco nas nuvens, e o verei para me lembrar do pacto perpétuo entre Deus e toda alma vivente, com toda carne que há sobre a terra."
                 }
             ]
@@ -151,7 +159,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "Disse, pois, Deus a Noé: Este será o sinal do pacto que estabeleci entre mim e toda carne que está sobre a terra."
+                    "text": "Disse, pois, Deus a Noé:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Este será o sinal do pacto que estabeleci entre mim e toda carne que está sobre a terra."
                 }
             ]
         },
@@ -223,7 +235,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse: Maldito seja Canaã; Servo de servos será a seus irmãos."
+                    "text": "E disse:"
+                },
+                {
+                    "speaker": "noah",
+                    "text": "Maldito seja Canaã; Servo de servos será a seus irmãos."
                 }
             ]
         },
@@ -232,7 +248,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "Disse mais: Bendito o SENHOR o Deus de Sem, E seja-lhe Canaã servo."
+                    "text": "Disse mais:"
+                },
+                {
+                    "speaker": "noah",
+                    "text": "Bendito o SENHOR o Deus de Sem, E seja-lhe Canaã servo."
                 }
             ]
         },
@@ -240,7 +260,7 @@
             "verse": 27,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "noah",
                     "text": "Engrandeça Deus a Jafé, E habite nas tendas de Sem, E seja-lhe Canaã servo."
                 }
             ]

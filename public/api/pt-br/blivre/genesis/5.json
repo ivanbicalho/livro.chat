@@ -259,7 +259,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E chamou seu nome Noé, dizendo: Este nos aliviará de nossas obras, e do trabalho de nossas mãos, por causa da terra que o SENHOR amaldiçoou."
+                    "text": "E chamou seu nome Noé, dizendo:"
+                },
+                {
+                    "speaker": "lamech",
+                    "text": "Este nos aliviará de nossas obras, e do trabalho de nossas mãos, por causa da terra que o SENHOR amaldiçoou."
                 }
             ]
         },

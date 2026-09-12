@@ -6,7 +6,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
 RAW_FILE = BASE_DIR / "bliv-n4_vpl.txt"
-PT_BR_DIR = BASE_DIR.parent / "public" / "api" / "pt-br"
+PT_BR_DIR = BASE_DIR.parent.parent / "public" / "api" / "pt-br"
 API_DIR = PT_BR_DIR / "blivre"
 
 LINE_PATTERN = re.compile(r"^(\S+)\s+(\d+):(\d+)\s+(.*)$")

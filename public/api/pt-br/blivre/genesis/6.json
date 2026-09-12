@@ -25,7 +25,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse o SENHOR: Não brigará meu espírito com o ser humano para sempre, porque certamente ele é carne: mas serão seus dias cento e vinte anos."
+                    "text": "E disse o SENHOR:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Não brigará meu espírito com o ser humano para sempre, porque certamente ele é carne: mas serão seus dias cento e vinte anos."
                 }
             ]
         },
@@ -61,7 +65,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse o SENHOR: Apagarei os seres humanos que criei de sobre a face da terra, desde o ser humano até o animal, e até o réptil e as aves do céu; porque me arrependo de havê-los feito."
+                    "text": "E disse o SENHOR:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Apagarei os seres humanos que criei de sobre a face da terra, desde o ser humano até o animal, e até o réptil e as aves do céu; porque me arrependo de havê-los feito."
                 }
             ]
         },
@@ -115,7 +123,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse Deus a Noé: O fim de toda carne veio diante de mim; porque a terra está cheia de violência por causa deles; e eis que eu os destruirei com a terra."
+                    "text": "E disse Deus a Noé:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "O fim de toda carne veio diante de mim; porque a terra está cheia de violência por causa deles; e eis que eu os destruirei com a terra."
                 }
             ]
         },
@@ -123,7 +135,7 @@
             "verse": 14,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Faze-te uma arca de madeira de gôfer: farás aposentos na arca e a selarás com betume por dentro e por fora."
                 }
             ]
@@ -132,7 +144,7 @@
             "verse": 15,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E desta maneira a farás: de trezentos côvados o comprimento da arca, de cinquenta côvados sua largura, e de trinta côvados sua altura."
                 }
             ]
@@ -141,7 +153,7 @@
             "verse": 16,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Uma janela farás à arca, e a acabarás a um côvado de elevação pela parte de cima: e porás a porta da arca a seu lado; e lhe farás piso abaixo, segundo e terceiro."
                 }
             ]
@@ -150,7 +162,7 @@
             "verse": 17,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E eu, eis que eu trago um dilúvio de águas sobre a terra, para destruir toda carne em que haja espírito de vida debaixo do céu; tudo o que há na terra morrerá."
                 }
             ]
@@ -159,7 +171,7 @@
             "verse": 18,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Mas estabelecerei meu pacto contigo, e entrarás na arca tu, e teus filhos e tua mulher, e as mulheres de teus filhos contigo."
                 }
             ]
@@ -168,7 +180,7 @@
             "verse": 19,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E de tudo o que vive, de toda carne, dois de cada espécie porás na arca, para que tenham vida contigo; macho e fêmea serão."
                 }
             ]
@@ -177,7 +189,7 @@
             "verse": 20,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Das aves segundo sua espécie, e dos animais segundo sua espécie, de todo réptil da terra segundo sua espécie, dois de cada espécie entrarão contigo para que tenham vida."
                 }
             ]
@@ -186,7 +198,7 @@
             "verse": 21,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "E toma contigo de toda comida que se come, e traga-a a ti; servirá de alimento para ti e para eles."
                 }
             ]

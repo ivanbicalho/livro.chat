@@ -7,7 +7,7 @@ import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
-const PT_BR_ROOT = join(__dirname, "..", "public", "api", "pt-br");
+const PT_BR_ROOT = join(__dirname, "..", "..", "public", "api", "pt-br");
 const API_ROOT = join(PT_BR_ROOT, "blivre");
 const MANIFEST_PATH = join(API_ROOT, "manifest.json");
 

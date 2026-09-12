@@ -7,7 +7,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "Porém a serpente era astuta, mais que todos os animais do campo que o SENHOR Deus havia feito. E ela disse à mulher: Deus vos disse: Não comais de toda árvore do jardim?"
+                    "text": "Porém a serpente era astuta, mais que todos os animais do campo que o SENHOR Deus havia feito. E ela disse à mulher:"
+                },
+                {
+                    "speaker": "serpent",
+                    "text": "Deus vos disse: Não comais de toda árvore do jardim?"
                 }
             ]
         },
@@ -16,7 +20,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E a mulher respondeu à serpente: Do fruto das árvores do jardim podemos comer;"
+                    "text": "E a mulher respondeu à serpente:"
+                },
+                {
+                    "speaker": "eve",
+                    "text": "Do fruto das árvores do jardim podemos comer;"
                 }
             ]
         },
@@ -24,8 +32,12 @@
             "verse": 3,
             "segments": [
                 {
-                    "speaker": "narrator",
-                    "text": "mas do fruto da árvore que está no meio do jardim, Deus disse: Não comereis dele, nem o tocareis, para que não morrais."
+                    "speaker": "eve",
+                    "text": "mas do fruto da árvore que está no meio do jardim, Deus disse:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Não comereis dele, nem o tocareis, para que não morrais."
                 }
             ]
         },
@@ -34,7 +46,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "Então a serpente disse à mulher: Não morrereis;"
+                    "text": "Então a serpente disse à mulher:"
+                },
+                {
+                    "speaker": "serpent",
+                    "text": "Não morrereis;"
                 }
             ]
         },
@@ -42,7 +58,7 @@
             "verse": 5,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "serpent",
                     "text": "Mas Deus sabe que no dia que comerdes dele, vossos olhos serão abertos, e sereis como deuses, sabendo o bem e o mal."
                 }
             ]
@@ -79,7 +95,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E o SENHOR Deus chamou ao homem, e lhe disse: “Onde estás?"
+                    "text": "E o SENHOR Deus chamou ao homem, e lhe disse:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Onde estás?"
                 }
             ]
         },
@@ -88,7 +108,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E ele respondeu: “Ouvi tua voz no jardim, e tive medo, porque estava nu; e me escondi”."
+                    "text": "E ele respondeu:"
+                },
+                {
+                    "speaker": "adam",
+                    "text": "Ouvi tua voz no jardim, e tive medo, porque estava nu; e me escondi."
                 }
             ]
         },
@@ -97,7 +121,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse-lhe: “Quem te ensinou que estavas nu? Comeste da árvore de que te mandei que não comesses?”"
+                    "text": "E disse-lhe:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Quem te ensinou que estavas nu? Comeste da árvore de que te mandei que não comesses?"
                 }
             ]
         },
@@ -106,7 +134,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E o homem respondeu: “A mulher que me deste por companheira me deu da árvore, e eu comi”."
+                    "text": "E o homem respondeu:"
+                },
+                {
+                    "speaker": "adam",
+                    "text": "A mulher que me deste por companheira me deu da árvore, e eu comi."
                 }
             ]
         },
@@ -115,7 +147,19 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "Então o SENHOR Deus disse à mulher: “Por que fizeste isto?” E a mulher disse: “A serpente me enganou, e comi”."
+                    "text": "Então o SENHOR Deus disse à mulher:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Por que fizeste isto?"
+                },
+                {
+                    "speaker": "narrator",
+                    "text": "E a mulher disse:"
+                },
+                {
+                    "speaker": "eve",
+                    "text": "A serpente me enganou, e comi."
                 }
             ]
         },
@@ -124,7 +168,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E o SENHOR Deus disse à serpente: “Porque fizeste isto, maldita serás entre todos os animais selvagens e entre todos os animais do campo; sobre teu ventre andarás, e pó comerás todos os dias da tua vida."
+                    "text": "E o SENHOR Deus disse à serpente:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Porque fizeste isto, maldita serás entre todos os animais selvagens e entre todos os animais do campo; sobre teu ventre andarás, e pó comerás todos os dias da tua vida."
                 }
             ]
         },
@@ -132,8 +180,8 @@
             "verse": 15,
             "segments": [
                 {
-                    "speaker": "narrator",
-                    "text": "E porei inimizade entre ti e a mulher, e entre tua descendência e a descendência dela; esta te ferirá a cabeça, e tu lhe ferirás o calcanhar”."
+                    "speaker": "god",
+                    "text": "E porei inimizade entre ti e a mulher, e entre tua descendência e a descendência dela; esta te ferirá a cabeça, e tu lhe ferirás o calcanhar."
                 }
             ]
         },
@@ -142,7 +190,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E para a mulher disse: “Multiplicarei grandemente as tuas dores e teus sofrimentos de parto; com dor darás à luz filhos; e o teu desejo será para o teu marido, e ele te dominará”."
+                    "text": "E para a mulher disse:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Multiplicarei grandemente as tuas dores e teus sofrimentos de parto; com dor darás à luz filhos; e o teu desejo será para o teu marido, e ele te dominará."
                 }
             ]
         },
@@ -151,7 +203,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E ao homem disse: “Porque deste ouvidos à voz de tua mulher, e comeste da árvore de que te mandei dizendo, ‘Não comerás dela’, maldita será a terra por causa de ti; com dor comerás dela todos os dias da tua vida;"
+                    "text": "E ao homem disse:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Porque deste ouvidos à voz de tua mulher, e comeste da árvore de que te mandei dizendo, ‘Não comerás dela’, maldita será a terra por causa de ti; com dor comerás dela todos os dias da tua vida;"
                 }
             ]
         },
@@ -159,7 +215,7 @@
             "verse": 18,
             "segments": [
                 {
-                    "speaker": "narrator",
+                    "speaker": "god",
                     "text": "Espinhos e cardos te produzirá, e comerás erva do campo."
                 }
             ]
@@ -168,8 +224,8 @@
             "verse": 19,
             "segments": [
                 {
-                    "speaker": "narrator",
-                    "text": "No suor do teu rosto comerás o pão até que voltes à terra, porque dela foste tomado; porque pó és, e ao pó voltarás”."
+                    "speaker": "god",
+                    "text": "No suor do teu rosto comerás o pão até que voltes à terra, porque dela foste tomado; porque pó és, e ao pó voltarás."
                 }
             ]
         },
@@ -196,7 +252,11 @@
             "segments": [
                 {
                     "speaker": "narrator",
-                    "text": "E disse o SENHOR Deus: Eis que o homem é como um de Nos sabendo o bem e o mal; agora, pois, para que não estenda sua mão, e tome também da árvore da vida, e coma, e viva para sempre:"
+                    "text": "E disse o SENHOR Deus:"
+                },
+                {
+                    "speaker": "god",
+                    "text": "Eis que o homem é como um de Nos sabendo o bem e o mal; agora, pois, para que não estenda sua mão, e tome também da árvore da vida, e coma, e viva para sempre:"
                 }
             ]
         },
