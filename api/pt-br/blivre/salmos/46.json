@@ -1,0 +1,106 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 46,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico sobre “Alamote”; para o regente, dos filhos de Coré:Deus [é] nosso refúgio e força; socorro oportuno nas angústias."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso não temeremos, ainda que a terra se mova, e ainda que as montanhas passem ao interior dos mares;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ainda que] suas águas rujam [e] se perturbem, [e] as montanhas tremam por sua braveza. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Há] um rio cujos ribeiros alegram a cidade de Deus, o santuário das habitações do Altíssimo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus [está] no meio dela; ela não será abalada; Deus a ajudará ao romper da manhã."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As nações gritarão, os reinos se abalarão; [quando] ele levantou a sua voz, a terra se dissolveu."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR dos exércitos [está] conosco; o Deus de Jacó [é] nosso alto refúgio. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vinde, observai os feitos do SENHOR, que faz assolações na terra;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que termina as guerras até o fim da terra; ele quebra o arco e corta a lança; ele queima os carros com fogo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ficai quietos, e sabei que eu sou Deus; eu serei exaltado entre as nações; serei exaltado sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR dos exércitos [está] conosco; o Deus de Jacó [é] nosso alto refúgio. (Selá)"
+                }
+            ]
+        }
+    ]
+}

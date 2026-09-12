@@ -1,0 +1,52 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 70,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Memorial de Davi, para o regente:Livra-me Deus; apressa-te para me socorrer, SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Envergonhem-se, e sejam confundidos os que procuram [matar] a minha alma; voltem-se para trás, e sejam humilhados os que gostam de me fazer o mal."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Virem-se para trás por causa de sua vergonha os que dizem: “Há, há!”"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alegrem-se e fiquem contentes em ti todos aqueles que te buscam; aqueles que amam tua salvação digam continuamente: Engrandecido seja Deus!"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu, porém, estou miserável e necessitado; ó Deus, apressa-te a mim; tu [és] meu socorro e meu libertador; não demores, SENHOR."
+                }
+            ]
+        }
+    ]
+}

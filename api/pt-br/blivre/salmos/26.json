@@ -1,0 +1,115 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:Faze-me justiça, SENHOR, pois eu ando em minha sinceridade; e eu confio no SENHOR, não me abalarei."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Prova-me, SENHOR, e testa-me; examina meus sentimentos e meu coração."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tua bondade está diante dos meus olhos; e eu ando em tua verdade."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não me sento com homens vãos, nem converso com desonestos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu odeio a reunião dos malfeitores; e não me sento com os perversos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lavo minhas mãos em inocência, e ando ao redor do teu altar, SENHOR;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que eu declare com voz de louvores, e para contar todas as tuas maravilhas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "SENHOR, eu amo a morada de tua Casa, e o lugar onde habita a tua glória."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não juntes minha alma com os pecadores, nem minha vida com homens sanguinários;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nas mãos deles há más intenções; e sua mão direita é cheia de suborno."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu ando em minha sinceridade; livra-me e tem piedade de mim."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu pé está em um caminho plano; louvarei ao SENHOR nas congregações."
+                }
+            ]
+        }
+    ]
+}

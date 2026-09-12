@@ -1,0 +1,412 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 105,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agradecei ao SENHOR, chamai o seu nome; anunciai suas obras entre os povos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai a ele, tocai músicas para ele; falai de todas as suas maravilhas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tende orgulho de seu santo nome; alegre-se o coração dos que buscam ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Buscai ao SENHOR e à sua força; buscai a presença dele continuamente."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembrai-vos de suas maravilhas, que ele fez; de seus milagres, e dos juízos de sua boca."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós, [que sois da] semente de seu servo Abraão; vós, filhos de Jacó, seus escolhidos."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele é o SENHOR, nosso Deus; seus juízos [estão] em toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele se lembra para sempre de seu pacto, da palavra que ele mandou até mil gerações;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O qual ele firmou com Abraão, e de seu juramento a Isaque."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O qual também confirmou a Jacó como estatuto, a Israel como pacto eterno."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizendo: A ti darei a terra de Canaã, a porção de vossa herança."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sendo eles poucos em número; [eram] poucos, e estrangeiros nela."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E andaram de nação em nação, de um reino a outro povo."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele não permitiu a ninguém que os oprimisse; e por causa deles repreendeu a reis,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Dizendo] : Não toqueis nos meus ungidos, e não façais mal a meus profetas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chamou a fome sobre a terra; ele interrompeu toda fonte de alimento;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enviou um homem adiante deles: José, [que] foi vendido como escravo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Amarraram seus pés em correntes; ele foi preso com ferros;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até o tempo que sua mensagem chegou, a palavra do SENHOR provou o valor que ele tinha."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei mandou que ele fosse solto; o governante de povos o libertou."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele o pôs como senhor de sua casa, e por chefe de todos os seus bens,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para dar ordens a suas autoridades, e instruir a seus anciãos."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Israel entrou no Egito; Jacó peregrinou na terra de Cam."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fez seu povo crescer muito, e o fez mais poderoso que seus adversários."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mudou o coração [dos outros] ,para que odiassem ao seu povo, para que tratassem mal a seus servos."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Então] enviou seu servo Moisés, e a Arão, a quem tinha escolhido;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Que] fizeram entre eles os sinais anunciados, e coisas sobrenaturais na terra de Cam."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele mandou trevas, e fez escurecer; e não foram rebeldes a sua palavra."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele transformou suas águas em sangue, e matou a seus peixes."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terra deles produziu rãs em abundância, [até] nos quartos de seus reis."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele falou, e vieram vários bichos [e] piolhos em todos os seus limites."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tornou suas chuvas em saraiva; [pôs] fogo ardente em sua terra."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E feriu suas vinhas e seus figueirais; e quebrou as árvores de seus territórios."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele falou, e vieram gafanhotos, e incontáveis pulgões;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E comeram toda a erva de sua terra; e devoraram o fruto de seus campos."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também feriu a todos os primogênitos em sua terra; os primeiros de todas as suas forças."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os tirou [dali] com prata e ouro; e dentre suas tribos não houve quem tropeçasse."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Até] o Egito se alegrou com a saída deles, porque seu temor tinha caído sobre eles."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele estendeu uma nuvem como cobertor, e um fogo para iluminar a noite."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles pediram, e fez vir codornizes; e os fartou com pão do céu."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele abriu uma rocha, e dela saíram águas; [e] correram [como] um rio pelos lugares secos;"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque se lembrou de sua santa palavra, e de seu servo Abraão."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele tirou [dali] a seu povo com alegria; e seus eleitos com celebração."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lhes deu as terras das nações; e do trabalho das nações tomaram posse;"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que guardassem seus estatutos, e obedecessem a leis dele. Aleluia!"
+                }
+            ]
+        }
+    ]
+}

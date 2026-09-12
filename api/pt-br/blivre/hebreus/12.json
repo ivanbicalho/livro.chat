@@ -1,0 +1,268 @@
+{
+    "book": "hebreus",
+    "name": "Hebreus",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto nós também, posto que estamos rodeados por uma tão grande nuvem de testemunhas, deixemos toda sobrecarga, e o pecado que facilmente nos envolve, e corramos com perseverança a corrida que nos está proposta,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "olhando para Jesus, Autor e aperfeiçoador da fé. Ele, pela alegria que lhe estava proposta, suportou a cruz, desprezando a humilhação, e assentou-se à direita do trono de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Considerai, pois, aquele que suportou tal hostilidade dos pecadores contra si mesmo, para que não fiqueis exaustos, nem vossas almas se debilitem."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto lutais contra o pecado, ainda não resististes ao ponto de ter o próprio sangue derramado,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "mas já vos esquecestes do encorajamento que ele fala convosco como a filhos: Meu filho, não desprezes a disciplina do Senhor, nem te canses de ser reprendido por ele;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "pois o Senhor disciplina a quem ama, e açoita a todo filho a quem recebe."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É para a disciplina que suportais. Deus vos trata como filhos; pois que filho há a quem o pai não discipline?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se estais sem disciplina, da qual todos são feitos participantes, então sois ilegítimos, e não filhos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Além disso, tivemos os pais de nossa carne como disciplinadores, e nós os respeitávamos. Por acaso não nos sujeitaremos muito mais ao Pai dos espíritos, a fim de vivermos?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eles, por um pouco de tempo, [nos] disciplinavam como bem lhes parecia. Ele, porém, [disciplina] para o [nosso] proveito, a fim de que sejamos participantes da sua santidade."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De fato, no presente, nenhuma disciplina parece ser motivo de alegria, mas sim, de sofrimento; mas depois produz um fruto pacífico de justiça aos que foram exercitados por ela."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, levantai as mãos cansadas e os joelhos enfraquecidos,"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e “fazei caminhos retos para os vossos pés”, para que o que está manco não se desvie, em vez disso, seja sarado."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Buscai a paz com todos, e a santificação, sem a qual ninguém verá o Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vigiai com empenho para que ninguém perca de receber da graça de Deus; para não acontecer que alguma raiz de amargura brote, seja incômoda, e muitos sejam contaminados por ela."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ninguém seja pecador sexual, ou profano como Esaú, que por uma refeição vendeu o seu direito de primogenitura."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois vós sabeis que depois, quando ele quis herdar a benção, foi rejeitado, porque não achou lugar para arrependimento, ainda que com lágrimas o tenha buscado."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque não chegastes a algo palpável, aceso com fogo, e à escuridão, às trevas, e à tempestade;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "ao som da trombeta, e à voz das palavras, que os que a ouviam, rogaram que não mais se lhes falasse palavra alguma;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(pois não podiam suportar o que [lhes] era ordenado: Se até um animal tocar o monte, seja apedrejado."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a visão era tão terrível, que Moisés disse: Estou assombrado e tremendo)."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós chegastes ao monte Sião, à cidade do Deus vivo, a Jerusalém celestial, e aos muitos milhares de anjos,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "à universal congregação e igreja dos primogênitos inscritos nos Céus, e a Deus, o Juiz de todos, e aos espíritos dos justos já aperfeiçoados;"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e a Jesus, o Mediador de um Novo Testamento, e ao sangue da aspersão, que fala melhor coisa que [o de] Abel."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tende o cuidado de não rejeitardes ao que fala. Pois, se não escaparam aqueles que rejeitaram ao que [os] advertia divinamente na terra, muito menos nós, se nos desviarmos daquele que [nos adverte] dos Céus."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sua voz fez a terra tremer naquela ocasião, mas agora ele prometeu, dizendo: Ainda uma vez farei tremer não somente a terra, mas também o Céu."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta [expressão] , “Ainda uma vez”, mostra a remoção das coisas abaladas, como coisas criadas, para que as inabaláveis permaneçam."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, já que recebemos um Reino inabalável, mantenhamos a graça, e por ela sirvamos a Deus de maneira que o agrade, com devoção e temor,"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "pois o nosso Deus é um fogo consumidor."
+                }
+            ]
+        }
+    ]
+}

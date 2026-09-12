@@ -1,0 +1,106 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 63,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, quando ele estava no deserto de Judá:Deus, tu [és] meu Deus. Eu te busco ao amanhecer; minha alma tem sede de ti, minha carne muito te deseja, em terra seca, cansativa, sem águas."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que eu te veja em teu santuário, para ver tua força e tua glória."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tua bondade [é] melhor que a vida; meus lábios te louvarão."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim te bendirei em minha vida; por teu nome levantarei minhas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma será saciada, como que de gorduras e muita comida; e minha boca te louvará com lábios alegres,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando eu me lembrar de ti em minha cama; nas vigílias da noite meus pensamentos estarão em ti."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu tens sido meu socorro; e à sombra de tuas asas cantarei de alegria."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma está apegada a ti; tua mão direita me sustenta."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém aqueles que procuram assolar a minha alma irão para as profundezas da terra."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles serão derrubados pela força da espada; serão repartidos entre raposas."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o Rei se alegrará em Deus; todo o que por ele jurar se alegrará, porque a boca dos mentirosos será tapada."
+                }
+            ]
+        }
+    ]
+}

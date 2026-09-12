@@ -1,0 +1,205 @@
+{
+    "book": "deuteronomio",
+    "name": "Deuteronômio",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquele tempo o SENHOR me disse: Lavra para ti duas tábuas de pedra como as primeiras, e sobe a mim ao monte, e faze para ti uma arca de madeira:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E escreverei naquelas tábuas palavras que estavam nas tábuas primeiras que quebraste; e as porás na arca."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fiz uma arca de madeira de acácia, e lavrei duas tábuas de pedra como as primeiras, e subi ao monte com as duas tábuas em minha mão."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E escreveu nas tábuas conforme a primeira escritura, os dez mandamentos que o SENHOR vos havia falado no monte do meio do fogo, no dia da assembleia; e as deu a mim o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltei e desci do monte, e pus as tábuas na arca que havia feito; e ali estão, como o SENHOR me mandou."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(Depois partiram os filhos de Israel de Beerote-Bene-Jacacã a Moserá: ali morreu Arão, e ali foi sepultado; e em lugar seu teve o sacerdócio seu filho Eleazar."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De ali partiram a Gudgodá, e de Gudgodá a Jotbatá, terra de ribeiros de águas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquele tempo separou o SENHOR a tribo de Levi, para que levasse a arca do pacto do SENHOR, para que estivesse diante do SENHOR para servir-lhe, e para abençoar em seu nome, até hoje."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo qual Levi não teve parte nem herança com seus irmãos: o SENHOR é sua herança, como o SENHOR teu Deus lhe disse.)"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu estive no monte como os primeiros dias, quarenta dias e quarenta noites; e o SENHOR me ouviu também esta vez, e não quis o SENHOR destruir-te."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-me o SENHOR: Levanta-te, anda, para que partas diante do povo, para que entrem e possuam a terra que jurei a seus pais lhes havia de dar."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, pois, Israel, que pede o SENHOR teu Deus de ti, a não ser que temas ao SENHOR teu Deus, que andes em todos os seus caminhos, e que o ames, e sirvas ao SENHOR teu Deus contudo teu coração, e com toda tua alma;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que guardes os mandamentos do SENHOR e seus estatutos, que eu te prescrevo hoje, para que tenhas bem?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que, do SENHOR teu Deus são os céus, e os céus dos céus: a terra, e todas as coisas que há nela."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Somente de teus pais se agradou o SENHOR para amá-los, e escolheu sua descendência depois deles, a vós, dentre todos os povos, como neste dia."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Circuncidai pois o prepúcio de vosso coração, e não endureçais mais vossa cerviz."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR vosso Deus é Deus de deuses, e Senhor de senhores, Deus grande, poderoso, e terrível, que não faz acepção de pessoas, nem toma suborno;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que faz justiça ao órfão e à viúva; que ama também ao estrangeiro dando-lhe pão e roupa."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Amareis pois ao estrangeiro: porque estrangeiros fostes vós em terra do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao SENHOR teu Deus temerás, a ele servirás, a ele te achegarás, e por seu nome jurarás."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele é teu louvor, e ele é teu Deus, que fez contigo estas grandes e terríveis coisas que teus olhos viram."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com setenta almas desceram teus pais ao Egito; e agora o SENHOR te fez como as estrelas do céu em multidão."
+                }
+            ]
+        }
+    ]
+}

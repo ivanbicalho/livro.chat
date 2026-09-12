@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 20,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, para o regente:Que o SENHOR te responda no dia da angústia; o nome do Deus de Jacó te ponha em lugar seguro."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que ele envie a ti ajuda desde [seu] santuário; e desde Sião ele te sustenha."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que ele se lembre de todas as tuas ofertas, e aceite os teus holocaustos. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que ele de a ti conforme o teu coração, e faça cumprir todo o teu propósito."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nós alegraremos muito por tua salvação, e no nome do nosso Deus levantaremos bandeiras; que o SENHOR cumpra todos os teus pedidos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora eu sei que o SENHOR salva a seu ungido; desde os céus de sua santidade ele lhe responderá, com o poder salvador de sua mão direita."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alguns confiam em carruagens, e outros em cavalos; mas nós nos lembraremos do nome do SENHOR nosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles se encurvam, e caem; mas nós nos levantamos, e ficamos em pé."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salva [-nos] ,SENHOR! Que o Rei nos ouça no dia de nosso clamor."
+                }
+            ]
+        }
+    ]
+}

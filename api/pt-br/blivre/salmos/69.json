@@ -1,0 +1,331 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 69,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, para o regente, conforme “os lírios”:Salva-me, ó Deus, porque as águas têm entrado [e encoberto] a minha alma."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Afundei-me em um profundo lamaçal, onde não se pode ficar em pé; entrei nas profundezas das águas, e a corrente está me levando."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Já estou cansado de clamar, minha garganta enrouqueceu; meus olhos desfaleceram, enquanto espero pelo meu Deus."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que me odeiam sem motivo são mais numerosos que os cabelos de minha cabeça; são poderosos os que procuram me arruinar, os que por falsidades se fazem meus inimigos; tive que pagar de volta aquilo que não furtei."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, Deus, sabes como sou tolo; e meus pecados não estão escondidos perante ti."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não sejam envergonhados por minha causa aqueles que te esperam, ó Senhor DEUS dos exércitos; não sejam humilhados por minha causa os que te buscam, ó Deus de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque por causa de ti aguentei ser insultado; a humilhação cobriu o meu rosto."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tornei-me estranho aos meus irmãos; e desconhecido aos filhos de minha mãe;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o zelo por tua casa me devorou; e os insultos dos que te insultam caíram sobre mim;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma chorou e jejuou; porém [mais] insultos vieram sobre mim."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vesti-me de saco, mas fui ridicularizado por eles num ditado."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que se sentam à porta falam [mal] de mim; e os bebedores de álcool cantam [piadas] contra mim."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu oro a ti, SENHOR, [no] tempo aceitável. Pela grandeza de tua bondade, responde-me, ó Deus, pela fidelidade de tua salvação."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Livra-me do lamaçal, e não me deixes afundar; seja eu resgatado dos que me odeiam, e das profundezas das águas."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não permitas que as correntes de águas me cubram, e que a profundeza não me devore, nem o poço feche sua boca sobre mim."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responde-me, SENHOR; pois boa é tua bondade; olha para mim conforme tua piedade."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não escondas teu rosto de teu servo; porque estou angustiado; ouve-me depressa."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vem para perto de minha alma, [e] a liberta; resgata-me por causa de meus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu conheces como me insultam, me envergonham e me humilham; diante de ti estão todos os meus adversários."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Insultos têm quebrado meu coração, e estou fraquíssimo; e esperei compaixão, porém [houve] nenhuma; [também esperei] por pessoas que me consolassem, mas não os achei."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deram-me fel como alimento; e em minha sede me deram vinagre para beber."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Torne-se a mesa diante deles como que um laço; e aquilo que [lhes] dá segurança [lhes] seja uma armadilha."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sejam escurecidos os olhos deles, para que não possam ver; e que seus quadris vacilem continuamente."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Derrama tua indignação sobre eles; e que sejam tomados pelo ardor de tua ira."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A habitação deles seja desolada; e que não haja morador nas tendas deles;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque perseguem [aquele] a quem tu feriste, e contam histórias da dor daqueles a quem tu machucaste."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Conta como maldade a maldade deles; e não sejam eles agraciados por tua justiça."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sejam riscados dos livro da vida; e não estejam eles escritos junto com os justos."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu [estou] miserável e em dores; ó Deus, que tua salvação me proteja."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvarei o nome de Deus com cântico; e o engrandecerei com agradecimentos."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isto agradará ao SENHOR mais do que [o sacrifício] de um boi [ou] de um bezerro com chifres e unhas."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os mansos verão, e se alegrarão; vós que buscais a Deus, vosso coração viverá."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR ouve aos necessitados, e não despreza os prisioneiros que lhe pertencem."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvem a ele os céus, a terra, os mares, e tudo que neles se move;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque Deus salvará a Sião, e construirá as cidades de Judá; e habitarão ali, e a terão como posse."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a semente de seus servos a herdará; e os que amam o nome dele habitarão nela."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O filho sábio [ouve] a correção do pai; mas o zombador não escuta a repreensão."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cada um comerá do bem pelo fruto de sua boca, mas a alma dos infiéis [deseja] a violência."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem toma cuidado com sua boca preserva sua alma; mas aquele que abre muito seus lábios será arruinado."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A alma do preguiçoso deseja, mas nada [consegue] ; porém a alma dos trabalham com empenho prosperará."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo odeia a palavra mentirosa, mas o perverso age de forma repugnante e vergonhosa."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A justiça guarda aquele que tem um caminho íntegro; mas a perversidade transtornará ao pecador."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há [alguns] que fingem ser ricos, mesmo nada tendo; e [outros] que fingem ser pobres, mesmo tendo muitos bens."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O resgate da vida de cada um são suas riquezas; mas o pobre não ouve ameaças."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A luz dos justos se alegra, mas a lâmpada dos perversos se apagará."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A arrogância só produz brigas; mas com os que aceitam conselhos [está] a sabedoria."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A riqueza [ganha] sem esforço será perdida; mas aquele que a obtém pelas próprias mãos terá cada vez mais."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A esperança que demora enfraquece o coração, mas o desejo cumprido é [como] uma árvore de vida."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem despreza a [boa] palavra perecerá; mas aquele que teme ao mandamento será recompensado."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A doutrina do sábio é manancial de vida, para se desviar das ciladas da morte."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O bom entendimento alcança o favor, mas o caminho dos infiéis é áspero."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo prudente age com conhecimento, mas o tolo espalha sua loucura."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O mensageiro perverso cai no mal, mas o representante fiel é [como] um remédio."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Haverá] pobreza e vergonha ao que rejeita a correção; mas aquele que atende à repreensão será honrado."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O desejo realizado agrada a alma, mas os tolos abominam se afastar do mal."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem anda com os sábios se torna sábio; mas aquele que acompanha os tolos sofrerá."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O mal perseguirá os pecadores, mas os justos serão recompensados com o bem."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem de bem deixará herança aos filhos de seus filhos; mas a riqueza do pecador está reservada para o justo."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A lavoura dos pobres [gera] muita comida; mas há [alguns] que se destroem por falta de juízo."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que retém sua vara odeia a seu filho; porém aquele que o ama, desde cedo o castiga."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo come até sua alma estar saciada; mas o ventre dos perversos passará por necessidade."
+                }
+            ]
+        }
+    ]
+}

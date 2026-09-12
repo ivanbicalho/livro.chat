@@ -1,0 +1,259 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que meus olhos têm visto tudo [isto] ; meus ouvidos o ouviram, e entenderam."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como vós o sabeis, eu também o sei; não sou inferior a vós."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu falarei com o Todo-Poderoso, e quero me defender para com Deus."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois na verdade vós sois inventores de mentiras; todos vós sois médicos inúteis."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bom seria se vos calásseis por completo, pois seria sabedoria de vossa parte."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi agora meu argumento, e prestai atenção aos argumentos de meus lábios."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso falareis perversidade por Deus, e por ele falareis engano?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fareis acepção de sua pessoa? Brigareis em defesa de Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seria bom [para vós] se ele vos investigasse? Enganareis a ele como se engana a algum homem?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente ele vos repreenderá, se em oculto fizerdes acepção de pessoas."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso a majestade dele não vos espantará? E o temor dele não cairá sobre sobre vós?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vossos conceitos são provérbios de cinzas; vossas defesas são como defesas de lama."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Calai-vos diante de mim, e eu falarei; e venha sobre mim o que vier."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que tiraria eu minha carne com meus dentes, e poria minha alma em minha mão?"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que, ainda que ele me mate, nele esperarei; porém defenderei meus caminhos diante dele."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele mesmo será minha salvação; pois o hipócrita não virá perante ele."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi com atenção minhas palavras, e com vossos ouvidos minha declaração."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que já tenho preparado minha causa; sei que serei considerado justo."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é o que brigará comigo? Pois então eu me calaria e morreria."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Somente duas coisas não faças comigo; então eu não me esconderei de teu rosto:"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Afasta tua mão de sobre mim, e teu terror não me espante."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Chama, e eu responderei; ou eu falarei, e tu me responde."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quantas culpas e pecados eu tenho? Faze-me saber minha transgressão e meu pecado."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que escondes teu rosto, e me consideras teu inimigo?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso quebrarás a folha arrebatada [pelo vento] ? E perseguirás a palha seca?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que escreves contra mim amarguras, e me fazes herdar as transgressões de minha juventude?"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também pões meus pés no tronco, e observas todos os meus caminhos. Tu pões limites às solas dos meus pés."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu me consumo como a podridão, como uma roupa que a traça rói."
+                }
+            ]
+        }
+    ]
+}

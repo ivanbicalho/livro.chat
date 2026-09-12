@@ -1,0 +1,70 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 67,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo e cântico, para o regente, com instrumento de cordas:Que Deus tenha misericórdia de nós, e nos abençoe; que ele brilhe seu rosto sobre nós. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que o teu caminho seja conhecido na terra, [e] todos as nações [conheçam] tua salvação."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvem os povos a ti, ó Deus, louvem a ti todos os povos."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que as nações se alegrem e cantem de alegria, pois tu julgarás aos povos com equidade, e guiarás as nações na terra. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvem os povos a ti, ó Deus, louvem a ti todos os povos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que a terra dê seu fruto, [e] que Deus, nosso Deus, nos abençoe."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus nos abençoará, e todos os limites da terra o temerão."
+                }
+            ]
+        }
+    ]
+}

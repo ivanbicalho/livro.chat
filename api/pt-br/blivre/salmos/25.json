@@ -1,0 +1,205 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:A ti, SENHOR, levanto minha alma."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu Deus, eu confio em ti; não me deixes envergonhado, nem que meus inimigos se alegrem por me [vencerem] ."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente todos os que esperam em ti, nenhum será envergonhado; envergonhados serão os que traem sem motivo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu me fazes conhecer os teus caminhos; ensina-me teus lugares onde se deve andar."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guia-me em tua verdade, e ensina-me; porque tu és o Deus de minha salvação; eu espero por ti o dia todo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembra-te, SENHOR, de tuas misericórdias e de tuas bondades; porque elas são desde a eternidade."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não te lembres dos pecados de minha juventude e das minhas transgressões; [mas sim] , conforme tua misericórdia, lembra-te de mim por tua bondade, SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR é bom e correto; por isso ele ensinará o caminho aos pecadores."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele guiará os humildes ao [bom] juízo; e ensinará aos humildes seu caminho."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os caminhos do SENHOR são bondade e verdade, para aqueles que guardam seu pacto e seus testemunhos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo teu nome, SENHOR, perdoa a minha maldade, porque ela é grande."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qual é o homem que teme ao SENHOR? Ele lhe ensinará o caminho [que] deve escolher."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sua alma habitará no bem; e sua semente [isto é, sua descendência] possuirá a terra em herança."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O segredo do SENHOR é para os que o temem; e ele lhes faz conhecer seu pacto."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus olhos [estão] continuamente [voltados] para o SENHOR, porque ele tirará meus pés da rede de caça."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Olha para mim, e mim, e tem piedade de mim, porque eu estou solitário e miserável."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As aflições de meu coração têm se multiplicado; tira-me de minhas angústias."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Presta atenção para minha miséria e meu cansativo trabalho; e tira todos os meus pecados."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Presta atenção a meus inimigos, porque eles estão se multiplicando; eles me odeiam com ódio violento."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guarda minha alma, e livra-me; não me deixes envergonhado, porque eu confio em ti."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Integridade e justiça me guardem, porque eu espero em ti."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ó Deus, resgata Israel de todas as suas angústias."
+                }
+            ]
+        }
+    ]
+}

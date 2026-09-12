@@ -1,0 +1,214 @@
+{
+    "book": "romanos",
+    "name": "Romanos",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que diremos, pois? Continuaremos no pecado, para que a graça aumente?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De maneira nenhuma! Nós, que morremos para o pecado, como ainda viveremos nele?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou não sabeis que todos os que somos batizados em Cristo Jesus, somos batizados em sua morte?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, estamos sepultados com ele pelo batismo na morte; para que, assim como Cristo ressuscitou dos mortos para a glória do Pai, assim também nós andemos em novidade de vida."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, se fomos unidos [a ele] na semelhança de sua morte, também o seremos na da [sua] ressurreição."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sabemos isto: que o nosso velho ser foi crucificado com [ele] , para que o corpo do pecado seja extinto, a fim de que não mais sirvamos ao pecado;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "pois o que está morto já está absolvido do pecado."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, se já morremos com Cristo, cremos que também com ele viveremos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque sabemos que, depois que Cristo foi ressuscitado dos mortos, já não morre mais; a morte já não mais o domina."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, ao morrer, ele morreu para o pecado de uma vez por todas; mas, ao viver, vive para Deus."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim também vós, considerai que estais mortos para o pecado, mas vivendo para Deus, em Cristo Jesus, nosso Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, não reine o pecado em vosso corpo mortal, para obedecer a ele em seus maus desejos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem apresenteis os membros do vosso corpo ao pecado como instrumentos de injustiça; em vez disso, apresentai-vos a Deus, como vivos dentre os mortos, e vossos membros como instrumentos de justiça para Deus."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o pecado não vos dominará, porque não estais sob a Lei, mas sim, sob a graça."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então, quê? Pecaremos, já que não estamos sob a Lei, mas sob a graça? De maneira nenhuma!"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não sabeis vós, que a quem vos apresentardes por servos para obedecer, sois servos daquele a quem obedeceis? Ou do pecado para a morte, ou da obediência para a justiça."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, graças a Deus que vós éreis servos do pecado, mas [agora] , de coração obedeceis à forma de doutrina a que vós fostes entregues;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e, sendo libertos do pecado, vos tornastes servos da justiça."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estou falando na lógica humana, pela fraqueza de vossa carne. Pois, assim como apresentastes os membros do vosso corpo como servos da impureza e da maldade para a maldade, assim também apresentai agora os vossos membros como servos da justiça para a santificação."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque quando éreis servos do pecado, estáveis livres da justiça."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Afinal, que fruto obtivestes das coisas de que agora vos envergonhais? Pois o fim delas é a morte."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas agora, libertos do pecado, e feitos servos de Deus, tendes o vosso fruto para a santificação, e por fim a vida eterna;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor."
+                }
+            ]
+        }
+    ]
+}

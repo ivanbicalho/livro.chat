@@ -1,0 +1,205 @@
+{
+    "book": "eclesiastes",
+    "name": "Eclesiastes",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para todas as coisas há um tempo determinado, e todo propósito abaixo do céu [tem seu] tempo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tempo de nascer e tempo de morrer; tempo de plantar e tempo de arrancar o que foi plantado."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tempo de matar e tempo de curar; tempo de derrubar e tempo de construir."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tempo de chorar e tempo de rir; tempo de lamentar, e tempo de saltar."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tempo de espalhar pedras e tempo de juntar pedras; tempo de abraçar e tempo de evitar abraçar."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tempo de buscar e tempo de perder; tempo de guardar e tempo de jogar fora."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tempo de rasgar e tempo de costurar; tempo de ficar calado e tempo de falar."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tempo de amar e tempo de odiar; tempo de guerra e tempo de paz."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que proveito tem o trabalhador naquilo em que ele trabalha?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tenho visto a ocupação que Deus deu aos filhos dos homens, para com ela os manter ocupados."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo ele fez belo ao seu tempo; também pôs a sensação de eternidade no coração deles, sem que o homem consiga entender a obra que Deus fez, desde o princípio até o fim."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tenho percebido que não há coisa melhor para eles do que se alegrarem e fazerem o bem em suas vidas;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também que todo homem coma, beba e fique contente com todo o seu trabalho; [isto] é um presente de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sei que tudo quanto Deus faz durará para sempre; a isso nada será acrescentado e nada será diminuído; e Deus faz [assim] para que haja temor perante sua presença."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que tem sido agora, já foi antes; e o que vier a ser [também] já foi; Deus busca [de volta] o que foi passado."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vi mais abaixo do sol: que no lugar do juízo havia ali perversidade; e que no lugar da justiça havia ali perversidade."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu disse em meu coração: Deus julgará ao justo e ao perverso, porque ali há tempo para todo propósito e para toda obra."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu disse em meu coração quanto aos filhos dos homens, que Deus lhes provaria, para lhes mostrar que eles são como animais."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o que acontece aos filhos dos homens, isso mesmo também acontece aos animais; o mesmo acontece a eles [todos] ; assim como um morre, assim também morre o outro; e todos tem uma mesma respiração; e a vantagem dos homens sobre os animais é nenhuma, pois todos são fúteis."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos vão a um [mesmo] lugar; todos vieram do pó [da terra] , e todos voltarão ao pó."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem tem certeza de que o fôlego de vida dos homens sobe para cima, e que o fôlego de vida dos animais desce para debaixo da terra?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso tenho visto que não há coisa melhor do que o homem se alegrar de suas obras, porque essa é a parte que lhe pertence; pois quem pode levá-lo a ver o que será depois de sua [morte] ?"
+                }
+            ]
+        }
+    ]
+}

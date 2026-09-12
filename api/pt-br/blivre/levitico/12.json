@@ -1,0 +1,79 @@
+{
+    "book": "levitico",
+    "name": "Levítico",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, dizendo: A mulher quando conceber e der à luz macho, será impura sete dias; conforme os dias que está separada por sua menstruação, será impura."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao oitavo dia circuncidará a carne de seu prepúcio."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ela permanecerá trinta e três dias no sangue de sua purificação: nenhuma coisa santa tocará, nem virá ao santuário, até que sejam cumpridos os dias de sua purificação."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se der à luz fêmea será impura duas semanas, conforme sua separação, e sessenta e seis dias estará purificando-se de seu sangue."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando os dias de sua purificação forem cumpridos, por filho ou por filha, trará um cordeiro de ano para holocausto, e um pombinho ou uma rolinha para expiação, à porta do tabernáculo do testemunho, ao sacerdote:"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele oferecerá diante do SENHOR, e fará expiação por ela, e será limpa do fluxo de seu sangue. Esta é a lei da que der à luz macho ou fêmea."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se não alcançar sua mão o suficiente para um cordeiro, tomará então duas rolinhas ou dois pombinhos, um para holocausto, e outro para expiação: e o sacerdote fará expiação por ela, e será limpa."
+                }
+            ]
+        }
+    ]
+}

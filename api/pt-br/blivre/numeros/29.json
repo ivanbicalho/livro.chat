@@ -1,0 +1,367 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 29,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no sétimo mês, ao primeiro do mês tereis santa convocação: nenhuma obra servil fareis; vos será dia de soar as trombetas."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E oferecereis holocausto por cheiro suave ao SENHOR, um bezerro das vacas, um carneiro, sete cordeiros de ano sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a oferta de cereais deles, de boa farinha amassada com azeite, três décimos [de efa] com cada bezerro, dois décimos com cada carneiro,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e com cada um dos sete cordeiros, uma décimo;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um bode macho por expiação, para reconciliar-vos:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Além do holocausto do mês, e sua oferta de cereais, e o holocausto contínuo e sua oferta de cereais, e suas libações, conforme sua lei, por oferta queimada ao SENHOR em cheiro suave."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no dez deste mês sétimo tereis santa convocação, e afligireis vossas almas: nenhuma obra fareis:"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E oferecereis em holocausto ao SENHOR por cheiro suave, um bezerro das vacas, um carneiro, sete cordeiros de ano; sem defeito os tomareis:"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suas ofertas de cereais, boa farinha amassada com azeite, três décimos [de efa] com cada bezerro, dois décimos com cada carneiro,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e com cada um dos sete cordeiros, um décimo;"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "um bode macho por expiação; além da oferta das expiações pelo pecado, e do holocausto contínuo, e de suas ofertas de cereais, e de suas libações."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também aos quinze dias do mês sétimo tereis santa convocação; nenhuma obra servil fareis, e celebrareis solenidade ao SENHOR por sete dias;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E oferecereis em holocausto, em oferta queimada ao SENHOR em cheiro suave, treze bezerros das vacas, dois carneiros, catorze cordeiros de um ano; devem ser sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as ofertas de cereais deles, de boa farinha amassada com azeite, três décimos [de efa] com cada um dos treze bezerros, dois décimos com cada um dos dois carneiros,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e com cada um dos catorze cordeiros, um décimo;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e um bode macho por expiação; além do holocausto contínuo, sua oferta de cereais e sua libação."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no segundo dia, doze bezerros das vacas, dois carneiros, catorze cordeiros de ano sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suas ofertas de cereais e suas libações com os bezerros, com os carneiros, e com os cordeiros, segundo o número deles, conforme a lei;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um bode macho por expiação: além do holocausto contínuo, e sua oferta de cereais e sua libação."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no dia terceiro, onze bezerros, dois carneiros, catorze cordeiros de ano sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suas ofertas de cereais e suas libações com os bezerros, com os carneiros, e com os cordeiros, segundo o número deles, conforme a lei;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um bode macho por expiação: além do holocausto contínuo, e sua oferta de alimentos e sua libação."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no quarto dia, dez bezerros, dois carneiros, catorze cordeiros de ano sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Suas ofertas de cereais e suas libações com os bezerros, com os carneiros, e com os cordeiros, segundo o número deles, conforme a lei;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um bode macho por expiação: além do holocausto contínuo, sua oferta de cereais e sua libação."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no quinto dia, nove bezerros, dois carneiros, catorze cordeiros de ano sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suas ofertas de cereais e suas libações com os bezerros, com os carneiros, e com os cordeiros, segundo o número deles, conforme a lei;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um bode macho por expiação: além do holocausto contínuo, sua oferta de cereais e sua libação."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no sexto dia, oito bezerros, dois carneiros, catorze cordeiros de ano sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suas ofertas de cereais e suas libações com os bezerros, com os carneiros, e com os cordeiros, segundo o número deles, conforme a lei;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um bode macho por expiação: além do holocausto contínuo, sua oferta de cereais e suas libações."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no sétimo dia, sete bezerros, dois carneiros, catorze cordeiros de ano sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suas ofertas de cereais e suas libações com os bezerros, com os carneiros, e com os cordeiros, segundo o número deles, conforme a lei;"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um bode macho por expiação: além do holocausto contínuo, com sua oferta de cereais e sua libação."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No oitavo dia tereis solenidade; nenhuma obra servil fareis;"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E oferecereis em holocausto, em oferta de queima de cheiro suave ao SENHOR, um novilho, um carneiro, sete cordeiros de um ano, sem defeito;"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Suas ofertas de cereais e suas libações com o novilho, com o carneiro, e com os cordeiros, segundo o número deles, conforme a lei;"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um bode macho por expiação: além do holocausto contínuo, com sua oferta de cereais e sua libação."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas coisas oferecereis ao SENHOR em vossas solenidades, além de vossos votos, e de vossas ofertas livres, para vossos holocaustos, e para vossas ofertas de cereais, e para vossas libações e para vossas ofertas pacíficas."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés disse aos filhos de Israel, conforme tudo o que o SENHOR lhe havia mandado."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,484 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois disto andava Jesus na Galileia; e já não queria andar na Judeia, porque os judeus procuravam matá-lo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E já estava perto a festa dos tabernáculos dos judeus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe pois seus irmãos: Parti daqui, e vai-te para a Judeia, para que também teus discípulos vejam as tuas obras que fazes."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois ninguém que procura ser conhecido faz coisa alguma em oculto. Se fazes estas coisas, manifesta-te ao mundo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque nem mesmo os seus irmãos criam nele."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus lhes disse: Meu tempo ainda não é chegado; mas vosso tempo sempre está pronto."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O mundo não pode vos odiar, mas a mim me odeia, porque dele testemunho que suas obras são más."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Subi vós para esta festa; eu não subo ainda a esta festa, porque ainda meu tempo não é cumprido."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havendo-lhes dito isto, ficou na Galileia."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas havendo seus irmãos já subido, então subiu ele também à festa, não abertamente, mas como em oculto."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Buscavam-no pois os judeus na festa, e diziam: Onde ele está?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havia grande murmuração dele nas multidões. Alguns diziam: Ele é Bom;e outros diziam: Não; ele, porém, engana a multidão."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todavia ninguém falava dele abertamente, com medo dos judeus."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém no meio da festa subiu Jesus ao Templo, e ensinava."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E maravilhavam-se os Judeus, dizendo: Como este sabe as Escrituras, não as havendo aprendido?"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhes Jesus, e disse: Minha doutrina não é minha, mas sim daquele que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se alguém quiser fazer sua vontade, da doutrina conhecerá, se é de Deus, ou [se] eu falo de mim mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem fala de si mesmo busca sua própria honra; mas quem busca a honra daquele que o enviou, esse é verdadeiro, e não há nele injustiça."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não vos deu Moisés a Lei? Mas ninguém de vós cumpre a Lei. Por que procurais me matar?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu a multidão, e disse: Tens demônio; quem procura te matar?"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus, e disse-lhes: Uma obra fiz, e todos vos maravilhais."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso Moisés vos deu a circuncisão (não porque seja de Moisés, mas dois pais) e no sábado circuncidais ao homem."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se o homem recebe a circuncisão no sábado, para que a Lei de Moisés não seja quebrada, irritai-vos comigo, porque no sábado curei por completo um homem?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não julgueis segundo a aparência, mas julgai juízo justo."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Diziam, pois, alguns dos de Jerusalém: Não é este ao que procuram matar?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que ele fala livremente, e nada lhe dizem; por acaso é verdade que os chefes sabem que este realmente é o Cristo?"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas este bem sabemos de onde é: Porém quando vier o Cristo, ninguém saberá de onde é."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exclamava pois Jesus no Templo, ensinando, e dizendo: E a mim me conheceis, e sabeis de onde sou; e eu não vim de mim mesmo; mas aquele que me enviou é verdadeiro, ao qual vós não conheceis."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu o conheço, porque dele sou, e ele me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Procuravam pois prendê-lo, mas ninguém pôs a mão nele, porque sua hora ainda não era vinda."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E muitos da multidão creram nele, e diziam: Quando o Cristo vier, fará ainda mais sinais do que os que este tem feito?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouviram os fariseus que a multidão murmurava estas coisas sobre ele; e os fariseus e os chefes dos Sacerdotes mandaram oficiais para prendê-lo."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes pois Jesus: Ainda um pouco de tempo estou convosco, e [então] me irei para aquele que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós me buscareis, mas não [me] achareis; e onde eu estou vós não podeis vir."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram, pois, os judeus uns aos outros: Para onde este se irá, que não o acharemos? Por acaso ele irá aos dispersos entre os gregos, e a ensinar aos gregos?"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que palavra é esta que disse: Vós me buscareis, mas não [me] achareis; e onde eu estou vós não podeis vir?"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no último e grande dia da festa se pôs Jesus em pé, e exclamou, dizendo: Se alguém tem sede, venha a mim, e beba."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem crê em mim, como diz a Escritura, rios de água viva correrão do interior de seu corpo."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(E ele disse isto do Espírito que receberiam aqueles que nele cressem; pois o Espírito Santo ainda não era [vindo] ,porque Jesus ainda não havia sido glorificado)."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então muitos da multidão, ouvindo esta palavra, diziam: Verdadeiramente este é o Profeta."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Outros diziam: Este é o Cristo; e outros diziam: Por acaso vem o Cristo da Galileia?"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não diz a Escritura que o Cristo virá da semente de Davi, e da aldeia de Belém, de onde era Davi?"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso havia divisão de opiniões na multidão por causa dele."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns deles queriam prendê-lo, mas ninguém pôs a mão nele."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vieram pois os oficiais dos sacerdotes e fariseus; e eles lhes disseram: Por que não o trouxestes?"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os oficiais responderam: Ninguém jamais falou assim como este homem."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam-lhes, pois, os fariseus: Estais vós também enganados?"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso algum dos chefes ou dos fariseus creu nele?"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas esta multidão, que não sabe a Lei, maldita é."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes Nicodemos, o que viera a ele de noite, que era um deles:"
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso nossa Lei julga ao homem sem primeiro o ouvir, e entender o que faz?"
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam eles, e disseram: És tu também da Galileia? Pesquisa, e vê que nenhum profeta se levantou da Galileia."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "«E cada um foi para sua casa."
+                }
+            ]
+        }
+    ]
+}

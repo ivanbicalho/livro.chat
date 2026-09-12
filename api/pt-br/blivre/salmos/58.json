@@ -1,0 +1,106 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 58,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo “Mictão” de Davi, para o regente, conforme “Altachete”:Congregação, por acaso falais verdadeiramente o que é justo? Vós, Filhos dos homens, julgais corretamente?"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na verdade vós praticais perversidades em [vosso] coração; sobre a terra pesais a violência de vossas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os perversos se desviam desde o ventre da mãe; afastam-se desde o ventre os mentirosos."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O veneno deles [é] semelhante ao veneno de serpente; são como a cobra surda, que tapa seus ouvidos,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para não ouvirem a voz dos encantadores, do encantador sábio em encantamentos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus, quebra os dentes deles em suas bocas; arranca os queixos dos filhos dos leões, SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que eles escorram como águas, que vão embora; quando ele armar sua flecha, sejam eles cortados em pedaços."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como a lesma, que se desmancha, que [assim] saiam embora; como o aborto de mulher, [assim também] nunca vejam o sol."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Antes que vossas panelas sintam os espinhos, tanto vivos, como aquecidos, ele os arrebatará furiosamente."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo se alegrará ao ver a vingança; [e] lavará seus pés no sangue do perverso."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o homem dirá: Certamente há recompensa para o justo; certamente há Deus, que julga na terra."
+                }
+            ]
+        }
+    ]
+}

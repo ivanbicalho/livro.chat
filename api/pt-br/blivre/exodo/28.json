@@ -1,0 +1,394 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 28,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tu aproxima a ti a Arão teu irmão, e a seus filhos consigo, dentre os filhos de Israel, para que sejam meus sacerdotes; a Arão, Nadabe e Abiú, Eleazar e Itamar, filhos de Arão."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farás vestimentas sagradas a Arão teu irmão, para honra e formosura."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tu falarás a todos os sábios de coração, aos quais eu enchi de espírito de sabedoria; a fim de que façam as roupas de Arão, para consagrar-lhe a que me sirva de sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As vestimentas que farão são estes: o peitoral, e o éfode, e o manto, e a túnica bordada, a mitra, e o cinturão. Façam, pois, as sagradas vestimentas a Arão teu irmão, e a seus filhos, para que sejam meus sacerdotes."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomarão ouro, e azul, e púrpura, e carmesim, e linho torcido."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farão o éfode de ouro e azul, e púrpura, e carmesim, e linho torcido de obra de bordador."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Terá duas ombreiras que se juntem a seus dois lados, e se juntará."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o artifício de seu cinto que está sobre ele, será de sua mesma obra, do mesmo; de ouro, azul, e púrpura, e carmesim, e linho torcido."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomarás duas pedras de ônix, e gravarás nelas os nomes dos filhos de Israel:"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os seis de seus nomes em uma pedra, e os outros seis nomes na outra pedra, conforme o nascimento deles."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De obra de escultor em pedra a modo de gravuras de selo, farás gravar aquelas duas pedras com os nomes dos filhos de Israel; farás para eles ao redor engastes de ouro."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porás aquelas duas pedras sobre os ombros do éfode, para pedras de memória aos filhos de Israel; e Arão levará os nomes deles diante do SENHOR em seus dois ombros por memória."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás, pois, engastes de ouro,"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E duas correntinhas de ouro fino; as quais farás de feitura de trança; e fixarás as correntes de feitura de trança nos engastes."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também o peitoral do juízo de primorosa obra, lhe farás conforme a obra do éfode, de ouro, e azul, e púrpura, e carmesim, e linho torcido."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Será quadrado e duplo, de um palmo de comprimento e um palmo de largura:"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o encherás de pedrarias com quatro ordens de pedras: uma ordem de uma pedra sárdio, um topázio, e um carbúnculo; será a primeira ordem;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A segunda ordem, uma esmeralda, uma safira, e um diamante;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terceira ordem, um rubi, uma ágata, e uma ametista;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a quarta ordem, um berilo, um ônix, e um jaspe: estarão engastadas em ouro em seus encaixes."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E serão aquelas pedra segundo os nomes dos filhos de Israel, doze segundo seus nomes; como gravuras de selo cada uma com seu nome, virão a ser segundo as doze tribos."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também no peitoral correntes de feitura de tranças de ouro fino."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farás no peitoral dois anéis de ouro, os quais dois anéis porás às duas pontas do peitoral."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porás as duas tranças de ouro nos dois anéis às duas pontas do peitoral:"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as duas extremidades das duas tranças sobre os dois engastes, e as porás aos lados do éfode na parte dianteira."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também dois anéis de ouro, os quais porás às duas pontas do peitoral, em sua orla que está ao lado do éfode da parte de dentro."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também dois anéis de ouro, os quais porás aos dois lados do éfode abaixo na parte dianteira, diante de sua juntura sobre o cinto do éfode."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E juntarão o peitoral com seus anéis aos anéis do éfode com um cordão de azul, para que esteja sobre o cinto do éfode, e não se separe o peitoral do éfode."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levará Arão os nomes dos filhos de Israel no peitoral do juízo sobre seu coração, quando entrar no santuário, para memória diante do SENHOR continuamente."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porás no peitoral do juízo Urim e Tumim, para que estejam sobre o coração de Arão quando entrar diante do SENHOR: e levará sempre Arão o juízo dos filhos de Israel sobre seu coração diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás o manto do éfode todo de material azul:"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em meio dele por acima haverá uma abertura, a qual terá uma borda ao redor de obra de tecelão, como a abertura de um colarinho, para que não se rompa."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E abaixo em suas orlas farás romãs de material azul, e púrpura, e carmesim, por suas bordas ao redor; e entre elas sinos de ouro ao redor."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um sino de ouro e uma granada, sino de ouro e granada, pelas orlas do manto ao redor."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estará sobre Arão quando ministrar; e se ouvirá seu som quando ele entrar no santuário diante do SENHOR e quando sair, porque não morra."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também uma prancha de ouro fino, e gravarás nela gravura de selo, SANTIDADE AO SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a porás com um cordão de azul, e estará sobre a mitra; pela frente anterior da mitra estará."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estará sobre a testa de Arão: e levará Arão o pecado das coisas santas, que os filhos de Israel houverem consagrado em todas as suas santas ofertas; e sobre sua testa estará continuamente para que tenham favor diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E bordarás uma túnica de linho, e farás uma mitra de linho; farás também um cinto de obra de bordador."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E para os filhos de Arão farás túnicas; também lhes farás cintos, e lhes formarás tiaras para honra e adorno."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E com eles vestirás a Arão teu irmão, e a seus filhos com ele: e os ungirás, e os consagrarás, e santificarás, para que sejam meus sacerdotes."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lhes farás calções de linho para cobrir a carne vergonhosa; serão desde os lombos até as coxas:"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estarão sobre Arão e sobre seus filhos quando entrarem no tabernáculo de testemunho, ou quando se achegarem ao altar para servir no santuário, para que não levem pecado, e morram. Estatuto perpétuo para ele, e para sua semente depois dele."
+                }
+            ]
+        }
+    ]
+}

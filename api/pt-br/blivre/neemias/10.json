@@ -1,0 +1,358 @@
+{
+    "book": "neemias",
+    "name": "Neemias",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que selaram foram: Neemias o governador, filho de Hacalias, e Zedequias,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seraías, Azarias, Jeremias,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pasur, Amarias, Malquias,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Hatus, Sebanias, Maluque,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Harim, Meremote, Obadias,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Daniel, Ginetom, Baruque,"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mesulão, Abias, Miamim,"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Maazias, Bilgai, Semaías: estes eram o sacerdotes."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os Levitas: Jesua filho de Azanias, Binui dos filhos de Henadade, Cadmiel;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seus irmãos Sebanias, Hodias, Quelita, Pelaías, Hanã;"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mica, Reobe, Hasabias,"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Zacur, Serebias, Sebanias,"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Hodias, Bani, e Beninu."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os líderes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bani, Azgade, Bebai,"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Adonias, Bigvai, Adim,"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ater, Ezequias, Azur,"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Hodias, Hasum, Besai,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Harife, Anatote, Nebai,"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Magpias, Mesulão, Hezir,"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mesezabel, Zadoque, Jadua,"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelatias, Hanã, Anaías,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Oseias, Hananias, Hassube,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Haoés, Pílea, Sobeque,"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reum, Hasabna, Maaseias,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aías, Hanã, Anã,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Maluque, Harim, e Baaná."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o resto do povo, os sacerdotes, os levitas, os porteiros, os cantores, os servos do templo, e todos os que se haviam se separado dos povos das terras para a lei de Deus, suas mulheres, seus filhos e suas filhas, e todo o que tinha compreensão [e] entendimento,"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Firmemente se juntaram a seus irmãos, os mais nobres dentre eles, e se comprometeram em um juramento sujeito a maldição, que andariam na lei de Deus, que foi dada por meio de Moisés, servo de Deus, e que guardariam e cumpririam todos os mandamentos do SENHOR nosso Senhor, e seus juízos e seus estatutos;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que não daríamos nossas filhas aos povos da região, nem tomaríamos suas filhas para nossos filhos."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que, se os povos da região trouxessem para vender mercadorias e comida no dia de sábado, nada tomaríamos deles no sábado, nem em dia santo; e deixaríamos livre o sétimo ano, inclusive toda e qualquer cobrança."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também pusemos preceitos sobre nós, impondo-nos a cada ano [dar] a terça parte de um siclo, para a obra da casa de nosso Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para os pães da proposição, para a oferta contínua de alimentos, e para o holocausto contínuo, dos sábados, das novas luas, e das festas solenes, e para as coisas sagradas, e para os sacrifícios pelo pecado para reconciliar a Israel, e [para] toda a obra da casa de nosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também lançamos as sortes entre os sacerdotes, os levitas, e o povo, acerca da oferta da lenha, que havia de se trazer à casa de nosso Deus, segundo as casas de nossos pais, em tempos determinados, a cada ano, para queimar sobre o altar do SENHOR nosso Deus, como está escrito na lei."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que a cada ano traríamos as primícias de nossa terra, e todos os primeiros frutos de toda árvore, para a casa de SENHOR;"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também os primogênitos de nossos filhos e de nossas animais, como está escrito na lei; e que traríamos os primogênitos de nossas vacas e de nossas ovelhas à casa de nosso Deus, aos sacerdotes que ministram na casa de nosso Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que traríamos as primícias de nossas massas, e nossas ofertas alçadas, e do fruto de toda árvore, do suco de uva e do azeite, aos sacerdotes, às câmaras da casa de nosso Deus, e os dízimos de nossa terra aos levitas; e que os levitas receberiam os dízimos em todas as cidades onde trabalhamos."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que um sacerdote, filho de Arão, estaria com os levitas, quando os levitas recebessem os dízimos; e que os levitas trariam o dízimo dos dízimos à casa de nosso Deus, às câmaras da casa do tesouro."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque para aquelas câmaras os filhos de Israel, e os filhos de Levi, devem trazer a oferta de grão, de suco de uva, e de azeite; e ali estarão os vasos do santuário, como também os sacerdotes que ministram, os porteiros, e os cantores; e assim não abandonaríamos a casa de nosso Deus."
+                }
+            ]
+        }
+    ]
+}

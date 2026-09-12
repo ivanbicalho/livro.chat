@@ -1,0 +1,26 @@
+{
+    "books": [
+        {
+            "book": "genesis",
+            "name": "Gênesis",
+            "chapters": 50,
+            "verseCount": [
+                31,
+                25,
+                24
+            ]
+        }
+    ],
+    "characters": [
+        {
+            "id": "narrator",
+            "name": "",
+            "icon": "narrator.png"
+        },
+        {
+            "id": "god",
+            "name": "Deus",
+            "icon": "default.png"
+        }
+    ]
+}

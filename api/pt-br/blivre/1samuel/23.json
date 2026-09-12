@@ -1,0 +1,268 @@
+{
+    "book": "1samuel",
+    "name": "1 Samuel",
+    "chapter": 23,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deram aviso a Davi, dizendo: Eis que os filisteus combatem a Queila, e roubam as eiras."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Davi consultou ao SENHOR, dizendo: Irei a ferir a estes filisteus? E o SENHOR respondeu a Davi: Vai, fere aos filisteus, e livra a Queila."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os que estavam com Davi lhe disseram: Eis que nós aqui em Judá estamos com medo; quanto mais se formos a Queila contra o exército dos filisteus?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Davi voltou a consultar ao SENHOR. E o SENHOR lhe respondeu, e disse: Levanta-te, desce a Queila, que eu entregarei em tuas mãos aos filisteus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Partiu-se, pois Davi com seus homens a Queila, e lutou contra os filisteus, e tomou seus gados, e feriu-os com grande estrago: e livrou Davi aos de Queila."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, fugindo Abiatar filho de Aimeleque a Davi a Queila, veio também com ele o éfode."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi dito a Saul que Davi havia vindo a Queila. Então disse Saul: Deus o trouxe a minhas mãos; porque ele está escondido, havendo-se posto em cidade com portas e fechaduras."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E convocou Saul todo aquele povo à batalha, para descer a Queila, e pôr cerco a Davi e aos seus."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas entendendo Davi que Saul planejava o mal contra ele, disse a Abiatar sacerdote: Traze o éfode."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Davi: o SENHOR Deus de Israel, teu servo tem entendido que Saul trata de vir contra Queila, a destruir a cidade por causa minha."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os vizinhos de Queila me entregarão em suas mãos? Descerá Saul, como teu servo tem ouvido? O SENHOR Deus de Israel, rogo-te que o declares a teu servo. E o SENHOR disse: Sim, descerá."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse logo Davi: Os vizinhos de Queila entregarão a mim e a meus homens em mãos de Saul? E o SENHOR respondeu: Eles te entregarão."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Davi então se levantou com seus homens, que eram como seiscentos, e sairam de Queila, e foram-se de uma parte à outra. E veio a nova a Saul de como Davi se havia escapado de Queila; e deixou de sair."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Davi se estava no deserto em penhas, e habitava em um monte no deserto de Zife; e Saul o buscava todos os dias, mas Deus não o entregou em suas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vendo, pois, Davi que Saul havia saído em busca de sua alma, estava-se ele no bosque no deserto de Zife."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se levantou Jônatas filho de Saul, e veio a Davi no bosque, e confortou sua mão em Deus."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhe: Não temas, porque a mão de meu pai Saul não te achará, e tu reinarás sobre Israel, e eu serei segundo depois de ti; e ainda Saul meu pai assim o sabe."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E entre ambos fizeram aliança diante do SENHOR: e Davi se ficou no bosque, e Jônatas se voltou à sua casa."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E subiram os de Zife a dizer a Saul em Gibeá: Não está Davi escondido em nossa terra nas penhas do bosque, no morro de Haquilá que está à direita do deserto?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, rei, desce agora logo, segundo todo aquele desejo de tua alma, e nós o entregaremos na mão do rei."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Saul disse: Benditos sejais vós do SENHOR, que haveis tido compaixão de mim:"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ide, pois, agora, preparai ainda, considerai e vede seu lugar por onde ele passa, e quem o tenha visto ali; porque se me disse que ele é em grande maneira astuto."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Considerai, pois, e vede todos os esconderijos de onde se oculta, e voltai a mim com a certeza, e eu irei convosco: que se ele estiver na terra, eu lhe buscarei entre todos os milhares de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles se levantaram, e se foram a Zife diante de Saul. Mas Davi e sua gente estavam no deserto de Maom, na planície que está à direita do deserto."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partiu-se Saul com sua gente a buscá-lo; mas foi dado aviso a Davi, e desceu à penha, e ficou no deserto de Maom. O qual quando Saul ouviu, seguiu a Davi ao deserto de Maom."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Saul ia pelo um lado do monte, e Davi com os seus pelo outro lado do monte: e apressava-se Davi para ir adiante de Saul; mas Saul e os seus haviam cercado a Davi e à sua gente para tomá-los."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então veio um mensageiro a Saul, dizendo: Vem logo, porque os filisteus fizeram uma invasão na terra."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voltou-se, portanto, Saul de perseguir a Davi, e partiu contra os filisteus. Por esta causa puseram a aquele lugar por nome Selá-Hamalecote."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Davi subiu dali, e habitou nos lugares fortes em En-Gedi."
+                }
+            ]
+        }
+    ]
+}

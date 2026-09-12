@@ -1,0 +1,340 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 17,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse aos discípulos: É impossível que não venham tentações para o pecado, mas ai [daquele] por quem [essas tentações] vierem!"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor lhe seria que lhe atasse ao pescoço uma grande pedra de moinho, e fosse lançado no mar, do que conduzir ao pecado um destes pequenos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Olhai por vós. E se teu irmão pecar contra ti, repreende-o; e se ele se arrepender, perdoa-lhe."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se pecar contra ti sete vezes ao dia, e se sete vezes ao dia voltar a ti, dizendo: Estou arrependido. Perdoa-lhe."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os apóstolos disseram ao Senhor: Acrescenta-nos fé."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o Senhor disse: Se tivésseis fé como um grão de mostarda, diríeis a esta árvore de amoras: Arranca-te daqui pelas tuas raízes, e planta-te no mar, ela vos obedeceria."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qual de vós terá um servo, lavrando ou apascentando [gado] que, voltando do campo, logo lhe diga: Chega, e senta [à mesa] ."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não lhe diga antes: Prepara-me o jantar, e apronta-te, e serve-me, até que eu tenha comido e bebido; e depois, que tu comas e bebas."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso [o senhor] agradece a tal servo, porque fez o que lhe foi mandado?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim também vós, quando fizerdes tudo o que vos for mandado, dizei: Somos servos inúteis, porque fizemos [somente] o que devíamos fazer."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, indo ele para Jerusalém, passou por meio da Samaria e da Galileia."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E entrando em uma certa aldeia, saíram-lhe ao encontro dez homens leprosos, os quais pararam de longe."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levantaram a voz, dizendo: Jesus, Mestre, tem misericórdia de nós!"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele, vendo-os, disse-lhes: Ide, e mostrai-vos aos sacerdotes.E aconteceu que, enquanto eles iam, ficaram limpos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo um deles que estava são, voltou, glorificando a Deus a alta voz."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E caiu com o rosto a seus pés, agradecendo-lhe; e este era samaritano."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondendo Jesus, disse: Não foram os dez limpos? E onde estão os nove?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não houve quem voltasse para dar glória a Deus, a não ser este estrangeiro?"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhe: Levanta-te, e vai; tua fé te salvou."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perguntado pelos fariseus [sobre] quando o Reino de Deus viria, respondeu-lhes, e disse: O Reino de Deus não vem com aparência visível."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem dirão: Eis aqui, ou Eis ali, porque eis que o Reino de Deus está entre vós."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse aos discípulos: Dias virão, quando desejareis ver um dos dias do Filho do homem, e não [o] vereis."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vos dirão: Eis que [ele está] aqui, ou Eis que [ele está] ali, não vades, nem sigais."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque como o relâmpago, que relampeja desde o começo do céu, e brilha até ao fim do céu, assim será também o Filho do homem em seu dia."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas é necessário primeiro sofrer muito, e ser rejeitado por esta geração."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E como aconteceu nos dias de Noé, assim será também nos dias do Filho do homem."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Comiam, bebiam, se casavam, e se davam em casamento, até o dia em que Noé entrou na arca; e veio o dilúvio, e destruiu a todos."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como também da mesma maneira aconteceu nos dias de Ló, comiam, bebiam, compravam, vendiam, plantavam, [e] construíam."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o dia em que Ló saiu de Sodoma, choveu fogo e enxofre do céu, e destruiu a todos."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim será [também] no dia em que o Filho do homem se manifestar."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquele dia, o que estiver no telhado, e suas ferramentas em casa, não desça para pegá-las; e o que [estiver] no campo, não volte para trás."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembrai-vos da mulher de Ló."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qualquer que procurar salvar sua vida a perderá; e qualquer que a perder, irá salvá-la."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Digo-vos que naquela noite, dois estarão em uma cama; um será tomado, e o outro será deixado."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Duas estarão juntas moendo; uma será tomada, e a outra será deixada."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondendo, disseram-lhe: Onde, Senhor?E ele lhes disse: Onde estiver o corpo, ali os abutres se juntarão."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "book": "levitico",
+    "name": "Levítico",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi no dia oitavo, que Moisés chamou a Arão e a seus filhos, e aos anciãos de Israel;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse a Arão: Toma das vacas um bezerro para expiação, e um carneiro para holocausto, sem defeito, e oferece-os diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aos filhos de Israel falarás, dizendo: Tomai um bode macho para expiação, e um bezerro e um cordeiro de ano, sem mácula, para holocausto;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também um boi e um carneiro para sacrifício pacífico, que imoleis diante do SENHOR; e uma oferta de cereais amassada com azeite: porque o SENHOR se aparecerá hoje a vós."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levaram o que mandou Moisés diante do tabernáculo do testemunho, e chegou-se toda a congregação, e puseram-se diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Moisés disse: Isto é o que mandou o SENHOR; fazei-o, e a glória do SENHOR se vos aparecerá."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Moisés a Arão: Achega-te ao altar, e faze tua expiação, e teu holocausto, e faze a reconciliação por ti e pelo povo: faze também a oferta do povo, e faze a reconciliação por eles; como mandou o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então chegou-se Arão ao altar; e degolou seu bezerro da expiação que era por ele."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Arão lhe trouxeram o sangue; e ele molhou seu dedo no sangue, e pôs sobre as pontas do altar, e derramou o resto do sangue ao pé do altar;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a gordura e rins e redenho do fígado, da expiação, os fez arder sobre o altar; como o SENHOR o havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas a carne e o couro os queimou ao fogo fora do acampamento."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Degolou também o holocausto, e os filhos de Arão lhe apresentaram o sangue, a qual espargiu ele ao redor sobre o altar."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Apresentaram-lhe depois o holocausto, em pedaços, e a cabeça; e os fez queimar sobre o altar."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo lavou os intestinos e as pernas, e queimou-os sobre o holocausto no altar."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ofereceu também a oferta do povo, e tomou o bode macho que era para a expiação do povo, e degolou-o, e o ofereceu pelo pecado como o primeiro."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ofereceu o holocausto, e fez segundo o rito."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ofereceu também a oferta de cereais, e encheu dela sua mão, e o fez queimar sobre o altar, também do holocausto da manhã."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Degolou também o boi e o carneiro em sacrifício pacífico, que era do povo: e os filhos de Arão lhe apresentaram o sangue (o qual espargiu ele sobre o altar ao redor),"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a gordura do boi; e do carneiro a cauda com o que cobre as entranhas, e os rins, e o redenho do fígado:"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E puseram a gordura sobre os peitos, e ele queimou a gordura sobre o altar:"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém os peitos, com a coxa direita, moveu-os Arão por oferta movida diante do SENHOR; como o SENHOR o havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois levantou Arão suas mãos até o povo e abençoou-os: e desceu de fazer a expiação, e o holocausto, e o sacrifício pacífico."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E entraram Moisés e Arão no tabernáculo do testemunho; e saíram, e bendisseram ao povo: e a glória do SENHOR se apareceu a todo o povo."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E saiu fogo de diante do SENHOR, e consumiu o holocausto e a gordura sobre o altar; e vendo-o todo o povo, louvaram, e caíram sobre seus rostos."
+                }
+            ]
+        }
+    ]
+}

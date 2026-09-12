@@ -1,0 +1,97 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 111,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aleluia! Louvarei ao SENHOR com todo o coração, no conselho e na congregação dos corretos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Grandes são as obras do SENHOR; procuradas por todos os que nelas se agradam."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Glória e majestade são o seu agir, e sua justiça permanece para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele fez memoráveis as suas maravilhas; piedoso é misericordioso é o SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele deu alimento aos que o temem; ele se lembrará para sempre de seu pacto."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele anunciou o poder se suas obras a seu povo, dando-lhes a herança de nações [estrangeiras] ."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As obras de suas mãos são verdade e juízo, e todos os seus mandamentos são fiéis."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles ficarão firmes para sempre, e são feitos em verdade e justiça."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele enviou resgate a seu povo, ordenou seu pacto para sempre; santo e temível é o seu nome."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O temor ao SENHOR é o princípio da sabedoria; inteligentes são todos o que isto praticam. O louvor a ele dura para sempre."
+                }
+            ]
+        }
+    ]
+}

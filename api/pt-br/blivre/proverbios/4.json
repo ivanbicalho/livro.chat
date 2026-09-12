@@ -1,0 +1,250 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi, filhos, a correção do pai; e prestai atenção, para que conheçais o entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eu vos dou boa doutrina; não deixeis a minha lei."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu era filho do meu pai; tenro, e único perante a face de minha mãe."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele me ensinava, e me dizia: Que teu coração retenha minhas palavras; guarda meus mandamentos, e vive."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Adquire sabedoria, adquire entendimento; [e] não te esqueças nem te desvies das palavras de minha boca."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não a abandones, e ela te guardará; ama-a, e ela te conservará."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O principal é a sabedoria; adquire sabedoria, e acima de tudo o que adquirires, adquire entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exalta-a, e ela te exaltará; quando tu a abraçares, ela te honrará."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ela dará a tua cabeça um ornamento gracioso; ela te entregará uma bela coroa."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouve, filho meu, e recebe minhas palavras; e elas te acrescentarão anos de vida."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu te ensino no caminho da sabedoria; [e] te faço andar pelos percursos direitos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando tu andares, teus passos não se estreitarão; e se tu correres, não tropeçarás."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma a correção para si, e não [a] largues; guarda-a, porque ela [é] tua vida."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não entres pela vereda dos perversos, nem andes pelo caminho dos maus."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Rejeita-o! Não passes por ele; desvia-te dele, e passa longe."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eles não dormem se não fizerem o mal; e ficam sem sono, se não fizerem tropeçar [a alguém] ."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque comem pão da maldade, e bebem vinho de violências."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o caminho dos justos é como a luz brilhante, que vai, e ilumina até o dia [ficar claro] por completo."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O caminho dos perversos é como a escuridão; não sabem nem em que tropeçam."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, presta atenção às minhas palavras; e ouve as minhas instruções."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não as deixes ficarem longe de teus olhos; guarda-as no meio de teu coração."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque são vida para aqueles que as encontram; e saúde para todo o seu corpo."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acima de tudo o que se deve guardar, guarda o teu coração; porque dele [procedem] as saídas da vida."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Afasta de ti a perversidade da boca; e põe longe de ti a corrupção dos lábios."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Teus olhos olhem direito; tuas pálpebras estejam corretas diante de ti."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pondera o curso de teus pés; e todos os teus caminhos sejam bem ordenados."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não te desvies nem para a direita, nem para a esquerda; afasta teus pés do mal."
+                }
+            ]
+        }
+    ]
+}

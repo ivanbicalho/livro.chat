@@ -1,0 +1,322 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 35,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés fez juntar toda a congregação dos filhos de Israel, e disse-lhes: Estas são as coisas que o SENHOR mandou que façais."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seis dias se fará obra, mas o dia sétimo vos será santo, sábado de repouso ao SENHOR: qualquer um que nele fizer obra morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não acendereis fogo em todas as vossas moradas no dia do sábado."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou Moisés a toda a congregação dos filhos de Israel, dizendo: Isto é o que o SENHOR mandou, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomai dentre vós oferta para o SENHOR: todo generoso de coração a trará ao SENHOR: ouro, prata, bronze;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E azul, e púrpura, e carmesim, e linho fino, e pelo de cabras;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E couros vermelhos de carneiros, e couros finos, e madeira de acácia;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E azeite para a luminária, e especiarias aromáticas para o azeite da unção, e para o incenso aromático;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pedras de ônix, e demais pedrarias, para o éfode, e para o peitoral."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo sábio de coração dentre vós, virá e fará todas as coisas que o SENHOR mandou:"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O tabernáculo, sua tenda, e sua coberta, e seus anéis, e suas tábuas, suas barras, suas colunas, e suas bases;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A arca, e suas varas, o propiciatório, e o véu da tenda;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mesa, e suas varas, e todos os seus utensílios, e o pão da proposição."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O candelabro da luminária, e seus utensílios, e suas lâmpadas, e o azeite para a luminária;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o altar do incenso, e suas varas, e o azeite da unção, e o incenso aromático, e a cortina da porta, para a entrada do tabernáculo;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O altar do holocausto, e sua grelha de bronze, e suas varas, e todos os seus utensílios, e a pia com sua base;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As cortinas do átrio, suas colunas, e suas bases, e a cortina da porta do átrio;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As estacas do tabernáculo, e as estacas do átrio, e suas cordas;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As vestimentas dos serviço para ministrar no santuário, as sagradas vestimentas de Arão o sacerdote, e as vestimentas de seus filhos para servir no sacerdócio."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E saiu toda a congregação dos filhos de Israel de diante de Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio todo homem a quem seu coração estimulou, e todo aquele a quem seu espírito lhe deu vontade, e trouxeram oferta ao SENHOR para a obra do tabernáculo do testemunho, e para toda sua confecção, e para as sagradas vestimentas."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vieram tanto homens como mulheres, todo voluntário de coração, e trouxeram correntes e pendentes, anéis e braceletes, e toda joia de ouro; e qualquer um oferecia oferta de ouro ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo homem que se achava com material azul, ou púrpura, ou carmesim, ou linho fino, ou pelo de cabras, ou odres vermelhos de carneiros, ou couros finos, o trazia."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qualquer um que oferecia oferta de prata ou de bronze, trazia ao SENHOR a oferta: e todo o que se achava com madeira de acácia, trazia-a para toda a obra do serviço."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Além disso todas as mulheres sábias de coração fiavam de suas mãos, e traziam o que haviam fiado: azul, ou púrpura, ou carmesim, ou linho fino."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas as mulheres cujo coração as levantou em sabedoria, fiaram pelos de cabras."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os príncipes trouxeram pedras de ônix, e as pedras dos engastes para o éfode e o peitoral;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a especiaria aromática e azeite, para a luminária, e para o azeite da unção, e para o incenso aromático."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Israel, tanto homens como mulheres, todos os que tiveram coração voluntário para trazer para toda a obra, que o SENHOR havia mandado por meio de Moisés que fizessem, trouxeram oferta voluntária ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Moisés aos filhos de Israel: Olhai, o SENHOR nomeou a Bezalel filho de Uri, filho de Hur, da tribo de Judá;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o encheu de espírito de Deus, em sabedoria, em inteligência, e em conhecimento, e em todo artifício,"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para projetar inventos, para trabalhar em ouro, e em prata, e em bronze,"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em obra de pedrarias para engastar, e em obra de madeira, para trabalhar em toda invenção engenhosa."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pôs em seu coração o que podia ensinar, tanto ele como Aoliabe filho de Aisamaque, da tribo de Dã:"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os encheu de sabedoria de coração, para que façam toda obra de artifício, e de invenção, e de recamado em azul, e em púrpura, e em carmesim, e em linho fino, e em tear; para que façam todo trabalho, e inventem todo desenho."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 39,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E do material azul, e púrpura, e carmesim, fizeram as vestimentas do ministério para ministrar no santuário, e também fizeram as vestiduras sagradas para Arão; como o SENHOR o havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fez também o éfode de ouro, de azul e púrpura e carmesim, e linho torcido."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estenderam as placas de ouro, e cortaram cachos para tecê-los entre o azul, e entre a púrpura, e entre o carmesim, e entre o linho, com delicada obra."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram-lhe as ombreiras que se juntassem; e uniam-se em seus dois lados."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o cinto do éfode que estava sobre ele, era do mesmo, conforme sua obra; de ouro, material azul, e púrpura, e carmesim, e linho torcido; como o SENHOR o havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lavraram as pedras de ônix cercadas de engastes de ouro, gravada de gravura de selo com os nomes dos filhos de Israel:"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as pôs sobre as ombreiras do éfode, por pedras de memória aos filhos de Israel; como o SENHOR o havia a Moisés mandado."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fez também o peitoral de primorosa obra, como a obra do éfode, de ouro, azul, e púrpura, e carmesim, e linho torcido."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Era quadrado; dobrado fizeram o peitoral: sua comprimento era de um palmo, e de um palmo sua largura, dobrado."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E engastaram nele quatro ordens de pedras. A primeira ordem era um sárdio, um topázio, e um carbúnculo: este a primeira ordem."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A segunda ordem, uma esmeralda, uma safira, e um diamante."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terceira ordem, um jacinto, uma ágata, e uma ametista."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a quarta ordem, um berilo, um ônix, e um jaspe: cercadas e encaixadas em seus engastes de ouro."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As quais pedras eram conforme os nomes dos filhos de Israel, doze segundo os nomes deles; como gravuras de selo, cada uma com seu nome segundo as doze tribos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram também sobre o peitoral as correntes pequenas de feitura de trança, de ouro puro."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram também os dois engastes e os dois anéis, de ouro; os quais dois anéis de ouro puseram nas duas extremidades do peitoral."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E puseram as duas tranças de ouro naqueles dois anéis aos extremos do peitoral."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fixaram as duas extremidades das duas tranças nos dois engastes, que puseram sobre as ombreiras do éfode, na parte dianteira dele."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fizeram dois anéis de ouro, que puseram nas duas extremidades do peitoral, em sua orla, à parte baixa do éfode."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram também dois anéis de ouro, os quais puseram nas duas ombreiras do éfode, abaixo na parte dianteira, diante de sua juntura, sobre o cinto do éfode."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ataram o peitoral de seus anéis aos anéis do éfode com um cordão de material azul, para que estivesse sobre o cinto do mesmo éfode, e não se separasse o peitoral do éfode; como o SENHOR o havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fez também o manto do éfode de obra de tecelão, todo de azul."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com sua abertura em meio dele, como a abertura de um colarinho, com uma borda em derredor da abertura, para que não se rompesse."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fizeram nas orlas do manto as romãs de azul, e púrpura, e carmesim, e linho torcido."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram também os sinos de ouro puro, os quais sinos puseram entre as romãs pelas orlas do manto ao redor entre as romãs:"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Um sino e uma romã, um sino e uma romã ao redor, nas orlas do manto, para ministrar; como o SENHOR o mandou a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Igualmente fizeram as túnicas de linho fino de obra de tecelão, para Arão e para seus filhos;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também a mitra de linho fino, e os adornos das tiaras de linho fino, e os calções de linho, de linho torcido;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também o cinto de linho torcido, e de material azul, e púrpura, e carmesim, de obra de bordador; como o SENHOR o mandou a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram também a prancha da coroa santa de ouro puro, e escreveram nela de gravura de selo, o rótulo, SANTIDADE AO SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E puseram nela um cordão de azul, para colocá-la em alto sobre a mitra; como o SENHOR o havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi acabada toda a obra do tabernáculo, do tabernáculo do testemunho: e fizeram os filhos de Israel como o SENHOR o havia mandado a Moisés: assim o fizeram."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E trouxeram o tabernáculo a Moisés, o tabernáculo e todos os seus utensílios; seus colchetes, suas tábuas, suas barras, e suas colunas, e suas bases;"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a coberta de peles vermelhas de carneiros, e a coberta de peles finas, e o véu da cortina;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A arca do testemunho, e suas varas, e o propiciatório;"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mesa, todos os seus utensílios, e o pão da proposição;"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O candelabro limpo, suas lâmpadas, as lâmpadas que deviam manter-se em ordem, e todos os seus utensílios, e o azeite para a luminária;"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o altar de ouro, e o azeite da unção, e o incenso aromático, e a cortina para a porta do tabernáculo;"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O altar de bronze, com sua grelha de bronze, suas varas, e todos os seus utensílios; e a pia, e sua base;"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As cortinas do átrio, e suas colunas, e suas bases, e a cortina para a porta do átrio, e suas cordas, e suas estacas, e todos os vasos do serviço do tabernáculo, do tabernáculo do testemunho;"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As vestimentas do serviço para ministrar no santuário, as sagradas vestiduras para Arão o sacerdote, e as vestiduras de seus filhos, para ministrar no sacerdócio."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em conformidade a todas as coisas que o SENHOR havia mandado a Moisés, assim fizeram os filhos de Israel toda a obra."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viu Moisés toda a obra, e eis que a fizeram como o SENHOR havia mandado; e abençoou-os."
+                }
+            ]
+        }
+    ]
+}

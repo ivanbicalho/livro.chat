@@ -1,0 +1,358 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 23,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus falou às multidões e aos seus discípulos,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "dizendo: Os escribas e os fariseus se sentam sobre o assento de Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, tudo o que eles vos disserem, fazei e guardai. Mas não façais segundo as suas obras, porque eles dizem e não fazem."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles amarram cargas pesadas, e as põem sobre os ombros das pessoas; porém eles mesmos nem sequer com o seu dedo as querem mover."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fazem todas as suas obras a fim de serem vistos pelas pessoas: por isso alargam seus filactérios, ) e fazem compridas as franjas."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles amam os primeiros assentos nas ceias, as primeiras cadeiras nas sinagogas,"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "as saudações nas praças, e serem chamados: “Rabi” pelas pessoas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós, não sejais chamados Rabi, porque o vosso Mestre é um: e todos vós sois irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não chameis a ninguém na terra vosso pai; porque o vosso Pai é um: aquele que está nos céus."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem sejais chamados mestres; porque o vosso mestre é um: o Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém o maior de vós será vosso servo."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ai de vós, escribas e fariseus, hipócritas! Porque fechais o Reino dos céus em frente das pessoas; pois nem vós entrais, nem permitis a entrada do que estão para entrar."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de vós, escribas e fariseus, hipócritas! Porque rodeais o mar e a terra para fazerdes um prosélito; e quando é feito, vós o tornais filho do inferno duas vezes mais que a vós."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de vós, guias cegos, que dizeis: “Qualquer um que jurar pelo templo, nada é; mas qualquer um que jurar pelo ouro do templo, devedor é”."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tolos e cegos! Pois qual é maior: o ouro, ou o templo que santificou o ouro?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também [dizeis] : “Qualquer um que jurar pelo altar, nada é; mas quem jurar pela oferta que [está] sobre ele, devedor é”."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cegos! Pois qual é maior: a oferta, ou o altar que santifica a oferta?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, quem jurar pelo altar, jura por ele, e por tudo o que está sobre ele."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quem jurar pelo templo, jura por ele, e por aquele que nele habita."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quem jurar pelo Céu, jura pelo trono de Deus, e por aquele que sobre ele está sentado."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de vós, escribas e fariseus, hipócritas! Porque dais o dízimo da hortelã, do endro, e do cominho, e desprezais o que é mais importante da Lei: a justiça, a misericórdia, e a fidelidade; estas coisas devem ser feitas, sem se desprezar as outras."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guias cegos, que coais um mosquito, e engolis um camelo!"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de vós, escribas e fariseus, hipócritas! Porque limpais o exterior do copo ou do prato, mas por dentro estão cheios de extorsão e cobiça."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fariseu cego! Limpa primeiro o interior do copo, para que também o exterior deles fique limpo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de vós, escribas e fariseus, hipócritas! Porque sois semelhantes aos sepulcros caiados, que por fora realmente parecem belos, mas por dentro estão cheios de ossos de cadáveres, e de toda imundícia."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim também vós, por fora, realmente pareceis justos às pessoas, mas por dentro estais cheios de hipocrisia e de injustiça."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai de vós, escribas e fariseus, hipócritas! Porque edificais os sepulcros dos profetas, adornais os monumentos dos justos,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e dizeis: “Se estivéssemos nos dias dos nossos pais, nunca teríamos sido cúmplices deles quando derramaram o sangue dos profetas”."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim vós mesmos dais testemunho de que sois filhos dos que mataram os profetas."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Completai, pois, a medida de vossos pais."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Serpentes, ninhada de víboras! Como escapareis da condenação do inferno?"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, eis que eu vos envio profetas, sábios, e escribas; a uns deles matareis e crucificareis, e a [outros] deles açoitareis em vossas sinagogas, e perseguireis de cidade em cidade;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para que venha sobre vós todo o sangue justo que foi derramado sobre a terra, desde o sangue do justo Abel, até o sangue de Zacarias, filho de Baraquias, ao qual matastes entre o templo e o altar."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade vos digo que tudo isto virá sobre esta geração."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jerusalém, Jerusalém, que matas os profetas, e apedrejas os que te são enviados! Quantas vezes eu quis ajuntar os teus filhos, como a galinha ajunta os seus pintos debaixo das asas; porém não quisestes!"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que vossa casa vos será deixada."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eu vos digo que a partir de agora não me vereis, até que digais: “Bendito aquele que vem no nome do Senhor”."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "book": "romanos",
+    "name": "Romanos",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, agora que somos justificados pela fé, tenhamos paz com Deus por meio do nosso Senhor Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por meio dele também temos acesso pela fé a esta graça, na qual estamos firmes, e nos alegramos na esperança da glória de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não somente [isso] , mas também nos alegramos nas tribulações, sabendo que a tribulação produz paciência;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "a paciência [produz] experiência, e a experiência [produz] esperança."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a esperança não frustra, porque o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois quando ainda éramos fracos, Cristo morreu a seu tempo pelos ímpios."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, dificilmente alguém morre por um justo, ainda que talvez alguém possa ousar morrer por uma boa pessoa."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Deus prova o seu amor por nós através de Cristo haver morrido por nós, quando ainda éramos pecadores."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, muito mais agora, que já somos justificados por seu sangue, seremos por ele salvos da ira."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, se quando éramos inimigos, fomos reconciliados com Deus pela morte do seu Filho, muito mais, tendo sido reconciliados, seremos salvos pela sua vida."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não somente [isso] , mas também nos alegramos em Deus por meio do nosso Senhor Jesus Cristo, por quem agora recebemos a reconciliação."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, assim como por um homem o pecado entrou no mundo, e pelo pecado a morte, assim também a morte passou a todos os seres humanos, porque todos pecaram."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, antes da Lei, o pecado [já] existia no mundo; porém, quando não há Lei, o pecado não é considerado."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas a morte reinou desde Adão até Moisés, até sobre aqueles que não pecaram à semelhança da transgressão de Adão, o qual era uma figura daquele que estava para vir."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o dom gratuito não é como a transgressão; porque, se pela transgressão de um, muitos morreram, muito mais a graça de Deus, e o dom pela graça de um homem, Jesus Cristo, têm sido abundantes sobre muitos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o dom não é como [a transgressão] de um que pecou; porque o julgamento de uma só [transgressão] trouxe condenação, mas o dom gratuito, de muitas transgressões, trouxe justificação."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, se pela transgressão de um, a morte reinou por causa desse, muito mais os que recebem a abundância da graça, e do dom da justiça reinarão em vida por um só, Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, assim como uma transgressão resultou em condenação sobre todos os seres humanos, assim também um ato de justiça resultou em justificação da vida sobre todos os seres humanos."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois, assim como pela desobediência de um só homem muitos foram feitos pecadores, assim também, pela obediência de um só, muitos serão justificados."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A Lei veio para que a transgressão aumentasse; mas onde o pecado aumentou, a graça superabundou;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "a fim de que, assim como o pecado reinou para a morte, também a graça reine pela justiça para a vida eterna, por meio de Jesus Cristo, nosso Senhor."
+                }
+            ]
+        }
+    ]
+}

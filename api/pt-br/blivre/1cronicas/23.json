@@ -1,0 +1,295 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 23,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sendo, pois, Davi já velho e farto de dias, fez a Salomão seu filho rei sobre Israel."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E juntando a todos os principais de Israel, e a os sacerdotes e levitas,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Foram contados os levitas de trinta anos acima; e foi o número deles por suas cabeças, contados um a um, trinta e oito mil."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Destes, vinte e quatro mil para dar pressa à obra da casa do SENHOR; e governadores e juízes, seis mil;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ademais quatro mil porteiros; e quatro mil para louvar a o SENHOR, disse Davi, com os instrumentos que fiz para render louvores."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E repartiu-os Davi em ordens conforme a os filhos de Levi, Gérson e Coate e Merari."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Gérson: Ladã, e Simei."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Ladã, três: Jeiel o primeiro, depois Zetã e Joel."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Simei, três: Selomote, Haziel, e Harã. Estes foram os príncipes das famílias de Ladã."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Simei: Jaate, Zina, Jeus, e Berias. Estes quatro foram os filhos de Simei."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jaate era o primeiro, Zina o segundo; mas Jeus e Berias não multiplicaram em filhos, por o qual foram contados por uma família."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Coate: Anrão, Izar, Hebrom, e Uziel, eles quatro."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Anrão: Arão e Moisés. E Arão foi apartado para ser dedicado às mais santas coisas, ele e seus filhos para sempre, para que queimassem perfumes diante do SENHOR, e lhe ministrassem, e bendisessem em seu nome, para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Moisés, homem de Deus, foram contados na tribo de Levi."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Moisés foram Gérson e Eliézer."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho de Gérson foi Sebuel o primeiro."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E filho de Eliézer foi Reabias o primeiro. E Eliézer não teve outros filhos; mas os filhos de Reabias foram muitos."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho de Izar foi Selomite o primeiro."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Hebrom: Jería o primeiro, Amarias o segundo, Jaaziel o terceiro, e Jecameão o quarto."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Uziel: Mica o primeiro, e Issias o segundo."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Merari: Mali e Musi. Os filhos de Mali: Eleazar e Quis."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E morreu Eleazar sem filhos, mas teve filhas; e os filhos de Quis, seus irmãos, as tomaram por mulheres."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Musi: Mali, Éder e Jeremote, eles três."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os filhos de Levi nas famílias de seus pais, cabeceiras de famílias em suas linhagens, contados por seus nomes, por suas cabeças, os quais faziam obra no ministério da casa do SENHOR, de vinte anos acima."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque Davi disse: o SENHOR Deus de Israel há dado repouso a seu povo Israel, e o habitar em Jerusalém para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também os levitas não levarão mais o tabernáculo, e todos seus vasos para seu ministério."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim que, conforme as últimas palavras de Davi, foi a contagem dos filhos de Levi de vinte anos acima."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estavam sob a mão dos filhos de Arão, para ministrar na casa do SENHOR, nos átrios e nas câmaras, e na purificação de toda coisa santificada, e na demais obra do ministério da casa de Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim para os pães da proposição, e para a flor da farinha para o sacrifício, e para os pães sem levedura, e para as coisas postas em panelas, e para o tostado, e para toda medida e conta;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E para que assistissem cada manhã todos os dias a confessar e louvar a o SENHOR, e assim à tarde;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E para oferecer todos os holocaustos a o SENHOR os sábados, novas luas, e solenidades, por a conta e forma que tinham, continuamente diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E para que tivessem a guarda do tabernáculo do testemunho, e a guarda do santuário, e as ordens dos filhos de Arão seus irmãos, no ministério da casa do SENHOR."
+                }
+            ]
+        }
+    ]
+}

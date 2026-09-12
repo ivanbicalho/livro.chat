@@ -1,0 +1,115 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 143,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:Ó SENHOR, ouve minha oração; inclina teus ouvidos às minhas súplicas; responde-me segundo tua fidelidade [e] tua justiça."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não entres em juízo com teu servo; porque nenhum ser vivo será justo diante de ti."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o inimigo persegue minha alma, atropela na terra a minha vida; [e] me obriga a viver na escuridão, como os que há muito [tempo] morreram."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso meu espírito se enche de angústia em mim, [e] meu coração está desesperado dentro de mim."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembro-me dos dias antigos, eu considero todos os teus feitos; medito nas obras de tuas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levanto minhas mãos a ti; minha alma [tem sede] de ti como a terra seca."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responde-me depressa, SENHOR; porque meu espírito está muito fraco; não escondas tua face de mim, pois eu seria semelhante aos que descem à cova."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De madrugada faze com que eu ouça tua bondade, porque em ti confio; faze-me saber o caminho que devo seguir, porque a ti levanto minha alma."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Livra-me de meus inimigos, SENHOR; [pois] em ti eu me escondo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ensina-me a fazer a tua vontade, pois tu és meu Deus; teu bom Espírito me guie por terra plana."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vivifica-me por teu nome, SENHOR; por tua justiça tira minha alma da angústia."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por tua bondade extermina os meus inimigos; e destrói a todos os que afligem a minha alma; pois eu sou teu servo."
+                }
+            ]
+        }
+    ]
+}

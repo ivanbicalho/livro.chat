@@ -1,0 +1,493 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés no deserto de Sinai, no tabernáculo do testemunho, no primeiro dia do mês segundo, no segundo ano de sua saída da terra do Egito, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomai o censo de toda a congregação dos filhos de Israel por suas famílias, pelas casas de seus pais, com a conta dos nomes, todos os homens por suas cabeças:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De vinte anos acima, todos os que podem sair à guerra em Israel, os contareis tu e Arão por suas tropas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estará convosco um homem de cada tribo, cada um chefe da casa de seus pais."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes são os nomes dos homens que estarão convosco: Da tribo de Rúben, Elizur filho de Sedeur."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Simeão, Selumiel filho de Zurisadai."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Judá, Naassom filho de Aminadabe."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Issacar, Natanael filho de Zuar."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Zebulom, Eliabe filho de Helom."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de José: de Efraim, Elisama filho de Amiúde; de Manassés, Gamaliel filho de Pedazur."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Benjamim, Abidã filho de Gideoni."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Dã, Aiezer filho de Amisadai."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Aser, Pagiel filho de Ocrã."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Gade, Eliasafe filho de Deuel."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Naftali, Aira filho de Enã."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes foram os nomeados da congregação, príncipes das tribos de seus pais, capitães dos milhares de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomou pois Moisés e Arão a estes homens que foram declarados por seus nomes:"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E juntaram toda a congregação no primeiro dia do mês segundo, e foram reunidos suas linhagens, pelas casas de seus pais, segundo a conta dos nomes, de vinte anos acima, por suas cabeças,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como o SENHOR o havia mandado a Moisés; e contou-os no deserto de Sinai."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Rúben, primogênito de Israel, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes por suas cabeças, todos os homens de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Rúben, foram quarenta e seis mil e quinhentos."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Simeão, por suas gerações, por suas famílias, pelas casas de seus pais, os contados deles conforme a conta dos nomes por suas cabeças, todos os homens de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Simeão, cinquenta e nove mil e trezentos."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Gade, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Gade, quarenta e cinco mil seiscentos e cinquenta."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Judá, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Judá, setenta e quatro mil e seiscentos."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Issacar, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Issacar, cinquenta e quatro mil e quatrocentos."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Zebulom, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta de seus nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Zebulom, cinquenta e sete mil e quatrocentos."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de José: dos filhos de Efraim, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Efraim, quarenta mil e quinhentos."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Manassés, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Manassés, trinta e dois mil e duzentos."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Benjamim, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Benjamim, trinta e cinco mil e quatrocentos."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Dã, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Dã, sessenta e dois mil e setecentos."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Aser, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Aser, quarenta e um mil e quinhentos."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dos filhos de Naftali, por suas gerações, por suas famílias, pelas casas de seus pais, conforme a conta dos nomes, de vinte anos acima, todos os que podiam sair à guerra;"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, da tribo de Naftali, cinquenta e três mil e quatrocentos."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes foram os contados, os quais contaram Moisés e Arão, com os príncipes de Israel, que eram doze, um por cada casa de seus pais."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os contados dos filhos de Israel pelas casas de seus pais, de vinte anos acima, todos os que podiam sair à guerra em Israel;"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Foram todos os contados seiscentos três mil quinhentos e cinquenta."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém os levitas não foram contados entre eles segundo a tribo de seus pais."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Somente não contarás a tribo de Levi, nem tomarás a conta deles entre os filhos de Israel:"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas tu porás aos levitas no tabernáculo do testemunho, e sobre todos os seus utensílios, e sobre todas as coisas que lhe pertencem: eles levarão o tabernáculo e todos os seus utensílios, e eles servirão nele, e assentarão suas tendas ao redor do tabernáculo."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando o tabernáculo partir, os levitas o desarmarão; e quando o tabernáculo parar, os levitas o armarão: e o estranho que se chegar, morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Israel assentarão suas tendas cada um em seu esquadrão, e cada um junto à sua bandeira, por suas tropas;"
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os levitas assentarão as suas ao redor do tabernáculo do testemunho, e não haverá ira sobre a congregação dos filhos de Israel: e os levitas terão a guarda do tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fizeram os filhos de Israel conforme todas as coisas que mandou o SENHOR a Moisés; assim o fizeram."
+                }
+            ]
+        }
+    ]
+}

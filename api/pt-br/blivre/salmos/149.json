@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 149,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aleluia! Cantai ao SENHOR um cântico novo; [haja] louvor a ele na congregação dos santos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alegre-se Israel em seu Criador; os filhos de Sião se encham de alegria em seu Rei."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvem seu nome com danças; cantai louvores a ele com tamborim e harpa."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR se agrada de seu povo; ele ornará os mansos com salvação."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saltem de prazer [seus] santos pela glória; fiquem contentes sobre suas camas."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exaltações a Deus [estarão] em suas gargantas; e espada afiada [estará] em sua mão,"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para se vingarem das nações, e repreenderem aos povos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para prenderem a seus reis com correntes, e seus nobres com grilhões de ferro;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para executarem sobre eles a sentença escrita; esta [será] a glória de todos os seus santos. Aleluia!"
+                }
+            ]
+        }
+    ]
+}

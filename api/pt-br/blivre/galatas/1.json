@@ -1,0 +1,223 @@
+{
+    "book": "galatas",
+    "name": "Gálatas",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Paulo, apóstolo (não da parte dos seres humanos, nem por meio de homem algum, mas sim por Jesus Cristo, e por Deus Pai, que o ressuscitou dos mortos),"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e todos os irmãos que estão comigo, para as igrejas da Galácia."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Graça seja convosco, e também a paz de Deus nosso Pai, e do Senhor Jesus Cristo,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "que deu a si mesmo pelos nossos pecados, para nos tirar da presente era maligna, conforme a vontade do nosso Deus e Pai,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "ao qual seja a glória para todo o sempre, Amém!"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Admiro-me de que tão rapidamente desviastes daquele que vos chamou na graça de Cristo, em troca de outro evangelho."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não que haja outro [evangelho] ,porém há alguns que vos inquietam, e querem perverter o Evangelho de Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, ainda que nós mesmos, ou um anjo do céu vos anuncie outro evangelho além do que já vos anunciamos, maldito seja."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como já havíamos dito, volto também agora a dizer: se alguém vos anunciar outro evangelho além do que já recebestes, maldito seja."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois agora estou buscando a aprovação das pessoas, ou a de Deus? Ou procuro agradar a pessoas? Se ainda tentasse agradar a pessoas, eu não seria servo de Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois faço-vos saber, irmãos, que o Evangelho anunciado por mim não se baseia em pessoas;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "pois não o recebi, nem aprendi de ser humano algum, mas sim pela revelação de Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois já ouvistes da minha conduta no judaísmo, como em excesso eu perseguia e tentava destruir a Igreja de Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e [como] no judaísmo eu era mais avançado que muitos de minha idade em minha nação, e era extremamente zeloso das tradições de meus pais."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando aquele que me separou desde o ventre da minha mãe, e por sua graça me chamou , se agradou"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "de revelar o seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "nem subi a Jerusalém para os que já eram apóstolos antes de mim; em vez disso, parti para a Arábia, e voltei outra vez a Damasco."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então, depois de três anos, subi a Jerusalém para visitar Cefas, e estive com ele por quinze dias."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vi nenhum outro dos apóstolos, a não ser Tiago, o irmão do Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, das coisas que vos escrevo, eis que, diante de Deus, não estou mentindo."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois fui para as regiões da Síria e da Cilícia."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu, porém, não era conhecido de rosto pelas igrejas da Judeia que estão em Cristo;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "mas somente haviam ouvido que “Aquele que antes nos perseguia agora anuncia a fé que antes tentava destruir”."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E glorificavam a Deus por causa de mim."
+                }
+            ]
+        }
+    ]
+}

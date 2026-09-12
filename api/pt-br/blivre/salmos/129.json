@@ -1,0 +1,79 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 129,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos degraus:Diga Israel: Desde minha juventude muitas vezes me afligiram."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde minha juventude, muitas vezes me afligiram, porém não prevaleceram contra mim."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lavradores lavraram sobre minhas costas, fizeram compridos os seus sulcos."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR é justo; ele cortou as cordas dos perversos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sejam envergonhados, e voltem para trás todos os que odeiam a Sião."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sejam como a erva dos telhados, que se seca antes que cresça."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com que o ceifeiro não enche sua mão, nem o braço daquele que amarra os molhos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem também os que passam, dizem: A bênção do SENHOR seja sobre vós; nós vos bendizemos no nome do SENHOR."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "book": "2cronicas",
+    "name": "2 Crônicas",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De vinte e cinco anos era Jotão quando começou a reinar, e dezesseis anos reinou em Jerusalém. O nome de sua mãe foi Jerusa, filha de Zadoque."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fez o que era correto em olhos do SENHOR, conforme a todas as coisas que havia feito Uzias seu pai, salvo que não entrou no templo do SENHOR. E o povo corrompia-se ainda."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Edificou ele a porta maior da casa do SENHOR, e no muro da fortaleza edificou muito."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ademais edificou cidades nas montanhas de Judá, e preparou palácios e torres nos bosques."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também teve ele guerra com o rei dos filhos de Amom, aos quais venceu; e deram-lhe os filhos de Amom naquele ano cem talentos de prata, e dez mil coros de trigo, e dez mil de cevada. Isto lhe deram os filhos de Amom, e o mesmo no segundo ano, e no terceiro."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim que Jotão foi fortificado, porque preparou seus caminhos diante do SENHOR seu Deus."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os demais dos feitos de Jotão, e todas suas guerras, e seus caminhos, eis que estão escrito no livro dos reis de Israel e de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando começou a reinar era de vinte e cinco anos, e dezesseis reinou em Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E descansou Jotão com seus pais, e sepultaram-no na cidade de Davi; e reinou em seu lugar Acaz seu filho."
+                }
+            ]
+        }
+    ]
+}

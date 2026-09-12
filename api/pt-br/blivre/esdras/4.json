@@ -1,0 +1,223 @@
+{
+    "book": "esdras",
+    "name": "Esdras",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando, pois, os adversários de Judá e de Benjamim, ouviram que os que tinham vindo do cativeiro estavam edificando o templo ao SENHOR, Deus de Israel,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "chegaram-se a Zorobabel, e aos chefes das famílias, e lhes disseram: Deixai-nos edificar convosco, porque assim como vós, buscaremos ao vosso Deus, como também já sacrificamos a ele desde os dias de Esar-Hadom, rei da Assíria, que nos fez subir até aqui."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Zorobabel, Jesua, e os demais chefes das famílias de Israel lhes disseram: Não nos convém edificar convosco casa a nosso Deus; mas somente nós a edificaremos ao SENHOR, Deus de Israel, como nos mandou o rei Ciro, rei da Pérsia."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todavia o povo da terra desencorajava o povo de Judá, e os perturbava, para que não edificassem."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E subornaram contra eles conselheiros para frustrarem sua intenção, todos os dias de Ciro rei da Pérsia, e até o reinado de Dario, rei da Pérsia."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sob o reinado de Assuero, no princípio de seu reinado, escreveram uma acusação contra os moradores de Judá e de Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nos dias de Artaxerxes, Bislão, Mitridate, Tabeel, e os demais seus companheiros, escreveram a Artaxerxes rei da Pérsia; e o escrito da carta estava feito em siríaco, e composto em siríaco."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reum o comandante, e Sinsai o escrivão, escreveram uma carta contra Jerusalém ao rei Artaxerxes, conforme o seguinte:"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reum, o comandante, e Sinsai secretário, e os demais seus companheiros, os dinaítas, os arfasaquitas, tarpelitas, arfasitas, os arquevitas, os babilônios, susanquitas, deavitas, e elamitas;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os demais povos que o grande e famoso Asnapar transportou, e fez habitar nas cidades de Samaria, e os demais da região dalém do rio."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é o teor da carta que enviaram: Ao rei Artaxerxes. De teus servos dalém do rio."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seja conhecido do rei que os judeus que subiram de ti a nós, vieram a Jerusalém; e edificam aquela cidade rebelde e má, e estão restaurando [seus] muros; e reparado [seus] fundamentos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seja agora conhecido do rei, que se aquela cidade for reconstruída, e os muros forem restaurados, os tributos, taxas, e impostos não serão pagos, e o patrimônio real será prejudicado."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Visto que somos assalariados pelo palácio, não nos convém ver a desonra do rei; por isso mandamos informar ao rei;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que se busque no livro das crônicas de teus pais; e acharás no livro das crônicas, e saberás que aquela cidade foi uma cidade rebelde, prejudicial aos reis e às províncias, e que nela desde antigamente fizeram rebeliões; por isso aquela cidade foi arruinada."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso informamos ao rei que, se aquela cidade for reconstruída, e seus muros restaurados, a parte além do rio não será tua."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Então] o rei enviou [esta] resposta a Reum, o comandante, e a Sinsai, o escrivão, e aos demais de seus companheiros que habitam em Samaria, como também aos demais da parte além do rio: Paz."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A carta que nos enviastes foi lida claramente diante de mim."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu dei ordem para que se buscasse; e encontraram que aquela cidade na antiguidade se levantou contra os reis, e nela houve rebelião e insurreição."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que houve reis poderosos em Jerusalém, dominaram toda a região além do rio; e a eles se pagava tributos, taxas e impostos."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, pois, dai ordem que impeçam aqueles homens, e aquela cidade não seja reconstruída, até que seja dado mandamento de minha parte."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sede cuidadosos para que não falheis nisto; por que haveria de aumentar o dano para o prejuízo real?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim que o teor da carta do rei Artaxerxes foi lido diante de Reum, e de Sinsai o escrivão, e seus companheiros, eles foram apressadamente a Jerusalém aos judeus, e os impediram com força e violência."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cessou, então, a obra da casa de Deus, a qual estava em Jerusalém; e cessou até o segundo ano do reinado de Dario, rei da Pérsia."
+                }
+            ]
+        }
+    ]
+}

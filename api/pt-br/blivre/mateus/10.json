@@ -1,0 +1,385 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] chamou a si os seus doze discípulos, e deu-lhes poder sobre os espíritos imundos, para os expulsarem, e curarem toda enfermidade e toda doença."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os nomes dos doze apóstolos são estes: o primeiro, Simão, chamado Pedro, e seu irmão André; Tiago, [filho] de Zebedeu, e seu irmão João;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filipe e Bartolomeu; Tomé, e Mateus o publicano; Tiago, [filho] de Alfeu; e Tadeu;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Simão o zeloso, e Judas Iscariotes, o mesmo que o traiu."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus enviou esses doze, e lhes mandou, dizendo: Não ireis pelo caminho dos gentios, nem entrareis em cidade de samaritanos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em vez disso, ide às ovelhas perdidas da casa de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando fordes, proclamai, dizendo: ‘Perto está o Reino dos céus’."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Curai os doentes, ressuscitai os mortos, limpai os leprosos, expulsai os demônios; recebestes de graça, dai de graça."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não tomeis convosco ouro, nem prata, nem cobre em vossos cintos;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "nem bolsas para o caminho, nem duas túnicas, nem sandálias, nem bordão; pois o trabalhador é digno de seu alimento."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em qualquer cidade ou aldeia que entrardes, informai-vos de quem nela seja digno, e ficai ali até que saiais."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando entrardes na casa, saudai-a."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se a casa for digna, venha sobre ela a vossa paz; mas se ela não for digna, volte para vós a vossa paz."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quem quer que não vos receber, nem ouvir vossas palavras, quando sairdes daquela casa ou cidade, sacudi o pó de vossos pés."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade vos digo que no dia do julgamento mais tolerável será para a região de Sodoma e Gomorra do que para aquela cidade."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que eu vos envio como ovelhas em meio de lobos; portanto, sede prudentes como as serpentes e inofensivos como pombas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém tende cuidado com as pessoas; porque vos entregarão em tribunais, e vos açoitarão em suas sinagogas;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E até perante governadores e reis sereis levados por causa de mim, para que haja testemunho a eles e aos gentios."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando vos entregarem, não estejais ansiosos de como ou que falareis; porque naquela mesma hora vos será dado o que deveis falar."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque não sois vós os que falais, mas sim o Espírito do vosso Pai que fala em vós."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E irmão entregará irmão à morte, e pai ao filho; e filhos se levantarão contra os pais, e os matarão."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sereis odiados por todos por causa de meu nome; mas aquele que perseverar até o fim, esse será salvo."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando, então, vos perseguirem nesta cidade, fugi para outra; porque em verdade vos digo que não acabareis de [percorrer] as cidades de Israel, até que venha o Filho do homem."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O discípulo não é superior ao mestre, nem o servo superior ao seu senhor."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seja suficiente ao discípulo ser como o seu mestre, e ao servo como o seu senhor; se ao chefe da casa chamaram de Belzebu, quanto mais aos membros de sua casa!"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, não os temais; porque nada há encoberto que não se revelará, [nada] oculto que não se saberá."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que eu vos digo em trevas, dizei na luz; e o que ouvis ao ouvido, proclamai sobre os telhados."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não temais os que matam o corpo, mas não podem matar a alma; temei mais aquele que pode destruir tanto a alma como o corpo no inferno."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não se vendem dois pardais por uma pequena moeda? Mas nem um deles cairá em terra contra a vontade de vosso Pai."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E até os cabelos de vossas cabeças estão todos contados."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim, não tenhais medo; mais valeis vós que muitos pardais."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, todo aquele que me der reconhecimento diante das pessoas, também eu o reconhecerei diante de meu Pai, que está nos céus."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém qualquer um que me negar diante das pessoas, também eu o negarei diante de meu Pai, que está nos céus."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não penseis que vim trazer paz à terra. Não vim trazer paz, mas sim espada."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu vim pôr em discórdia ‘o homem contra seu pai, a filha contra sua mãe, e a nora contra sua sogra."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os inimigos do homem serão os de sua própria casa’."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem ama pai ou mãe mais que a mim não é digno de mim; e quem ama filho ou filha mais que a mim não é digno de mim;"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quem não toma sua cruz e segue após mim não é digno de mim."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem achar sua vida a perderá; e quem, por causa de mim, perder sua vida, a achará."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem vos recebe, recebe a mim; e quem me recebe, recebe aquele que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem recebe um profeta por reconhecê-lo como profeta receberá recompensa de profeta; e quem recebe um justo por reconhecê-lo como justo receberá recompensa de justo."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que der ainda que somente um copo de [água] fria a um destes pequenos por reconhecê-lo como discípulo, em verdade vos digo que de maneira nenhuma perderá sua recompensa."
+                }
+            ]
+        }
+    ]
+}

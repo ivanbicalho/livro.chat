@@ -1,0 +1,106 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 29,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:Reconhecei ao SENHOR, vós filhos dos poderosos, reconhecei ao SENHOR [sua] glória e força."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reconhecei ao SENHOR a glória de seu nome; adorai ao SENHOR na honra da santidade."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A voz do SEHOR [percorre por] sobre as águas; o Deus da glória troveja; o SENHOR [está] sobre muitas águas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A voz do SENHOR [é] poderosa; a voz do SENHOR [é] gloriosa."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A voz do SENHOR quebra aos cedros; o SENHOR quebra aos cedros do Líbano."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele os faz saltar como bezerros; ao Líbano e a Sírion como a filhotes de bois selvagens."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A voz do SENHOR faz chamas de fogo se separarem."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A voz do SENHOR faz tremer o deserto; o SENHOR faz tremer o deserto de Cades."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A voz do SENHOR faz as cervas terem filhotes, e tira a cobertura das florestas; e em seu templo todos falam de [sua] glória."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR se sentou sobre as muitas águas [como dilúvio] ; e o SENHOR se sentará como rei para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR dará força a seu povo; o SENHOR abençoará a seu povo com paz."
+                }
+            ]
+        }
+    ]
+}

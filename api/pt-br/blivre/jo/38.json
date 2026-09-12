@@ -1,0 +1,376 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 38,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o SENHOR respondeu a Jó desde um redemoinho, e disse:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é esse que obscurece o conselho com palavras sem conhecimento?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora cinge teus lombos como homem; e eu te perguntarei, e tu me explicarás."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde estavas tu quando eu fundava a terra? Declara- [me] ,se tens inteligência."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem determinou suas medidas, se tu o sabes? Ou quem estendeu cordel sobre ela?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sobre o que estão fundadas suas bases? Ou quem pôs sua pedra angular,"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando as estrelas do amanhecer cantavam alegremente juntas, e todos os filhos de Deus jubilavam?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou [quem] encerrou o mar com portas, quando transbordou, saindo da madre,"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando eu pus nuvens por sua vestidura, e a escuridão por sua faixa;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando eu passei sobre ele meu decreto, e [lhe] pus portas e ferrolhos,"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Até aqui virás, e não passarás adiante, e aqui será o limite para a soberba de tuas ondas?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde os teus dias tens dado ordem à madrugada? [Ou] mostraste tu ao amanhecer o seu lugar,"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que tomasse os confins da terra, e os perversos fossem sacudidos dela?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E [a terra] se transforma como barro [sob] o selo; [todas as coisas sobre ela] se apresentam como vestidos?"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dos perversos é desviada sua luz, e o braço erguido é quebrado."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso chegaste tu às fontes do mar, ou passeaste no mais profundo abismo?"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Foram reveladas a ti as portas da morte, ou viste as portas da sombra de morte?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Entendeste tu as larguras da terra? Declara, se sabes tudo isto."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde está o caminho [por onde] mora a luz? E quanto às trevas, onde fica o seu lugar?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que as tragas a seus limites, e conheças os caminhos de sua casa."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente tu o sabes, pois já eras nascido, e teus dias são inúmeros!"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso entraste tu aos depósitos da neve, e viste os depósitos do granizo,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que eu retenho até o tempo da angústia, até o dia da batalha e da guerra?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde está o caminho em que a luz se reparte, e o vento oriental se dispersa sobre a terra?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem repartiu um canal às correntezas de águas, e caminho aos relâmpagos dos trovões,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para chover sobre a terra [onde] havia ninguém, [sobre] o deserto, onde não há gente,"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para fartar [a terra] deserta e desolada, e para fazer crescer aos renovos da erva."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso a chuva tem pai? Ou quem gera as gotas do orvalho?"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De qual ventre procede o gelo? E quem gera a geada do céu?"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As águas se tornam duras como pedra, e a superfície do abismo se congela."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Podes tu atar as cadeias das Plêiades, ou desatar as cordas do Órion?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Podes tu trazer as constelações a seu tempo, e guiar a Ursa com seus filhos?"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sabes tu as ordenanças dos céus? Ou podes tu dispor do domínio deles sobre a terra?"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou podes levantar tua voz até às nuvens, para que a abundância das águas te cubra?"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Podes tu mandar relâmpagos, para que saiam, e te digam: Eis-nos aqui?"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem pôs a sabedoria no íntimo? Ou quem deu entendimento à mente?"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem pode enumerar as nuvens com sabedoria? E os odres dos céus, quem pode os despejar?"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o pó se endurece, e os torrões se apegam uns aos outros?"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Caçarás tu a presa para o leão? Ou saciarás a fome dos leões jovens,"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando estão agachados nas covas, [ou] estão à espreita no matagal?"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem prepara aos corvos seu alimento, quando seus filhotes clamam a Deus, andando de um lado para o outro por não terem o que comer?"
+                }
+            ]
+        }
+    ]
+}

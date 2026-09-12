@@ -1,0 +1,286 @@
+{
+    "book": "isaias",
+    "name": "Isaías",
+    "chapter": 40,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Consolai, consolai a meu povo, diz vosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Falai ao coração de Jerusalém, e proclamai a ela, que seu esforço de guerra está terminado, que sua perversidade está perdoada; porque já recebeu [punição] em dobro da mão do SENHOR por todo os seus pecados."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voz do que clama no deserto: Preparai o caminho do SENHOR; endireitai na terra estéril vereda ao nosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo vale será levantado, e todo monte e morro serão abaixados; e o torto se endireitará, e o [terreno] acidentado se tornará plano."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a glória do SENHOR se manifestará; e toda carne juntamente verá; pois [assim] falou a boca do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Uma voz: Clama!E ele disse: O que clamarei? Que toda carne é erva, e toda a sua bondade como as flores do campo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A erva se seca, as flores caem, porque o Espírito do SENHOR nelas sopra; verdadeiramente o povo é erva."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A erva se seca, as flores caem; porém a palavra do nosso Deus continua firme para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ó Sião, que anuncias boas novas, sobe até um monte alto! Ó Jerusalém, que anuncias boas novas, levanta tua voz com força; levanta-a, não temas; dize as cidades de Judá: Eis [aqui] o vosso Deus!"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que o Senhor DEUS virá com poder; e seu braço governará por ele; eis que sua retribuição [virá] com ele, e seu pagamento diante de si."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como pastor ele apascentará seu rebanho; em seus braços recolherá aos cordeirinhos, e os levará em seu colo; ele guiará mansamente as que tiveram filhotes."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem mediu com seu punho as águas, e tomou a medida dos céus aos palmos? E [quem] recolheu numa caixa de medida o pó da terra, e pesou os montes com pesos, e os morros com balanças?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem guiou o Espírito do SENHOR? E que conselheiro o ensinou?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com quem ele tomou conselho? [Quem] lhe deu entendimento, e lhe ensinou o caminho do juízo, e lhe ensinou conhecimento, e lhe mostrou o caminho do entendimento?"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que as nações [lhe] são consideradas como uma gota de balde, e como o pó miúdo das balanças; eis que ele levanta as ilhas como poeira."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nem [todo] o Líbano seria suficiente para o fogo, nem seus animais bastam para um holocausto."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todas as nações são como nada perante ele; menos que nada e vazio ele as considera."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A quem, pois, comparareis a Deus? Ou que semelhança atribuireis a ele?"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O artífice funde a imagem, e o ourives a cobre de ouro, e cadeias de prata [lhe] funde."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O empobrecido, que não tem o que oferecer, escolhe madeira que não se estraga, [e] busca um artífice habilidoso, para preparar uma imagem que não se mova."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso não sabeis? Por acaso não ouvis? Ou desde o princípio não vos disseram? Por acaso não tendes entendido desde os fundamentos da terra?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele é o que está sentado sobre o globo da terra, cujos moradores são [para ele] como gafanhotos; ele é o que estende os céus como uma cortina, e os estica como uma tenda, para [neles] habitar."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele é o que torna os príncipes em nada, [e] faz juízes da terra serem como o vazio."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mal foram plantados, mal foram semeados, mal seu caule forma raízes na terra; e [logo] ele sopra neles, e se secam, e um vento forte os leva como palha fina."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A quem, pois, me comparareis, que eu lhe seja semelhante?,diz o Santo."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantai vossos olhos ao alto, e vede quem criou estas coisas, que faz sair numerado seu exército; e chama a todos eles pelos nomes, pela grandeza de [suas] forças, e por ser forte em poder, nenhuma [delas] faltará."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que dizes, ó Jacó, e falas, ó Israel: Meu caminho está escondido do SENHOR, e meu juízo passa longe de meu Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso não sabes, nem ouviste, que o eterno Deus, o SENHOR, o criador dos confins da terra, não se cansa, nem se fatiga, e que seu entendimento é incompreensível?"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele dá força ao cansado, e multiplica as forças daquele que não tem vigor."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até os jovens se cansam e se fatigam; e os rapazes caem;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os que confiam no SENHOR renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jó respondeu, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Verdadeiramente vós sois o povo; e convosco morrerá a sabedoria."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também eu tenho entendimento como vós; e não sou inferior a vós; e quem há que não saiba coisas como essas?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu sou o motivo de riso de meus amigos, eu que invocava a Deus, e ele me respondia; o justo e íntegro serve de riso."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na opinião de quem está descansado, a desgraça é desprezada, [como se] estivesse preparada aos que cujos pés escorregam."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As tendas dos ladrões têm descanso, e os que irritam a Deus estão seguros; os que trazem [seu] deus em suas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Verdadeiramente pergunta agora aos animais, que eles te ensinarão; e às aves dos céus, que elas te explicarão;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou fala com a terra, que ela te ensinará; até os peixes do mar te contarão."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem entre todas estas coisas não entende que a mão do SENHOR faz isto?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em sua mão está a alma de tudo quanto vive, e o espírito de toda carne humana."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso o ouvido não distingue as palavras, e o paladar prova as comidas?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nos velhos está o conhecimento, e na longa idade o entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com [Deus] está a sabedoria e a força; o conselho e o entendimento lhe pertencem."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que o que ele derruba não pode ser reconstruído; e ninguém pode libertar o homem a quem ele aprisiona."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que, [quando] ele detém as águas, elas se secam; [quando] ele as deixa sair, elas transtornam a terra."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com ele está a força e a sabedoria; Seu é o que erra, e o que faz errar."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele leva os conselheiros despojados, e faz os juízes enlouquecerem."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele solta a atadura dos reis, e ata um cinto a seus lombos."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele leva os sacerdotes despojados, e transtorna os poderosos."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele tira a fala daqueles a quem os outros confiam, e tira o juízo dos anciãos."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele derrama menosprezo sobre os príncipes, e afrouxa o cinto dos fortes."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele revela as profundezas das trevas, e traz a sombra de morte à luz."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele multiplica as nações, e ele as destrói; ele dispersa as nações, e as reúne."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele tira o entendimento dos líderes do povo da terra, e os faz vaguear pelos desertos, sem caminho."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nas trevas andam apalpando, sem terem luz; e os faz cambalear como a bêbados."
+                }
+            ]
+        }
+    ]
+}

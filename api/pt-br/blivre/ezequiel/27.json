@@ -1,0 +1,331 @@
+{
+    "book": "ezequiel",
+    "name": "Ezequiel",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio a mim a palavra do SENHOR, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu, pois, filho do homem, levanta uma lamentação sobre Tiro."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dize a Tiro, que habita nas entradas do mar, e faz comércio com dos povos em muitas terras costeiras: Assim diz o Senhor DEUS: Ó Tiro, tu dizes: Eu sou perfeita em beleza."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Teus limites estão no coração dos mares; os que te edificaram aperfeiçoaram a tua beleza."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fabricaram todos os teus conveses com faias de Senir; trouxeram cedros do Líbano para fazerem mastros para ti."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fizeram teus remos [com] carvalhos de Basã; fizeram teus bancos com ciprestes das ilhas do Chipre, unidos com marfim."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Linho bordado do Egito era tua cortina, para te servir de vela; de azul e púrpura das ilhas de Elisá era teu toldo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os moradores de Sidom e de Arvade eram teus remadores; teus sábios, ó Tiro, [que] estavam em ti, eles foram teus pilotos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os anciãos de Gebal e seus sábios eram em ti os que reparavam tuas fendas; todos os navios do mar e seus marinheiros delas foram em ti para negociar tuas mercadorias."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Persas e lídios, e os de Pute, eram em teu exército teus soldados; escudos e capacetes penduraram em ti; eles te deram tua pompa."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Arvade e teu exército estavam sobre teus muros ao redor, e os gamaditas em tuas torres; penduravam seus escudos sobre teus muros ao redor; eles aperfeiçoavam tua beleza."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Társis negociava contigo, por causa da abundância de todas as variedades de riquezas; com prata, ferro, estanho, e chumbo, negociavam [em] tuas feiras."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Javã, Tubal, e Meseque eram teus mercadores; com almas humanas e com vasos de metal, fizeram negócios contigo."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da casa de Togarma traziam cavalos, cavaleiros e mulos, para tuas feiras."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Dedã eram teus mercadores; muitas ilhas eram o comércio sob teu controle; chifres de marfim e madeira de ébano te deram como presente."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A Síria negociava contigo por causa da abundância de tuas obras; turquesas, púrpura, materiais bordados, linhos finos, corais, e rubis, traziam em tuas feiras."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles, Judá e a terra de Israel, eram teus mercadores; com trigo de Minite, e panague, mel, e azeite, e resina, fizeram negócios contigo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Damasco negociava contigo, por causa da abundância de tuas obras, pela abundância de todas as variedades de bens; com vinho de Helbom, e lã branca."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também Dã e Javã de Uzal comercializavam em tuas feiras; ferro lavrado, cássia, e cana aromática havia em teu comércio."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dedã negociava contigo, com panos preciosos para carros."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A Arábia, e todos os príncipes de Quedar, eles eram mercadores sob teu controle; com cordeiros, carneiros, e bodes; nestas coisas negociavam contigo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os mercadores de Sabá e de Raamá eram teus mercadores; com toda especiaria importante, toda pedra preciosa, e ouro, comercializavam em tuas feiras."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Harã, Cané, e Éden, os mercadores de Sabá, da Assíria, e Quilmade negociavam contigo."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes negociavam contigo em toda variedade de mercadorias: com tecidos azuis, com bordados, e com caixas de roupas preciosas, amarradas com cordões, e [postos] em cedro, em teu comércio."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os navios de Társis transportavam os artigos do teu negócio; e te encheste, e te tornaste muito pesada no meio dos mares."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Teus remadores te trouxeram a muitas águas; o vento oriental te quebrou no meio dos mares."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tuas riquezas, tuas feiras, teu negócio, teus marinheiros, teus pilotos; os que reparavam tuas fendas, teus comerciantes, e todos teus soldados que há em ti, com toda a tua companhia que está no meio de ti, cairão no meio dos mares, no dia de tua queda."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao estrondo das vozes de teus marinheiros tremerão os arredores."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos os que usam remo; marinheiros, e todos os pilotos do mar descerão de seus navios, e pararão na terra:"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farão ouvir sua voz sobre ti; gritarão amargamente, lançarão pó sobre suas cabeças, e se revolverão na cinza."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se farão calvos por causa de ti, se vestirão de sacos, e chorarão por ti com amargura da alma, com amarga lamentação."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levantarão lamentação sobre em seu pranto, e lamentarão sobre ti dizendo: Quem foi como Tiro, como a [que agora está] silenciada no meio do mar?"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando tuas mercadorias vinham dos mares, fartaste muitos povos; enriqueceste os reis da terra com a abundância de tuas riquezas e de teus negócios."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora foste quebrada dos mares, nas profundezas das águas; caíram teu negócio e toda a tua companhia no meio de ti."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os moradores dos litorais foram espantados por causa de ti, e seus reis ficaram horrorizados; seus rostos se conturbaram."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os mercadores nos povos assoviam por causa de ti; tu te tornaste em motivo de espanto, e nunca mais voltarás a existir."
+                }
+            ]
+        }
+    ]
+}

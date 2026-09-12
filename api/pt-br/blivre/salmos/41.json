@@ -1,0 +1,124 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 41,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, para o regente:Bem-aventurado aquele que dá atenção ao miserável; o SENHOR o livrará no dia do mal."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR o guardará, e o manterá vivo; ele será bem-aventurado na terra; e tu não o entregarás à vontade de seus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR o sustentará no leito de enfermidade; na doença dele tu mudas toda a sua cama."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu disse: SENHOR, tem piedade de mim, sara a minha alma, porque eu pequei contra ti."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus inimigos falam mal de mim, [dizendo] : Quando ele morrerá? [Quando] o nome dele perecerá?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se [algum deles] vem me ver, fala coisas sem valor, [e] seu coração junta maldade; ele sai, [e] fala disso."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os que me odeiam murmuram juntamente de mim; contra mim eles planejam o mal para mim, [dizendo] :"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Uma doença maligna está posta sobre ele; e aquele que está deitado não se levantará mais."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até o homem [que era] meu amigo íntimo, em quem eu confiava, que comia do meu pão; grandemente levantou contra mim seu calcanhar."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém tu, SENHOR, tem piedade de mim, e levanta-me; e eu lhes darei o pagamento [que merecem] ."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isto eu sei que tu te agradas de mim: porque meu inimigo não se declara vencedor sobre mim;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quanto a mim, tu me sustentas em minha sinceridade; e tu me puseste diante de ti para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito [seja] o SENHOR, Deus de Israel, para todo o sempre! Amém e Amém!"
+                }
+            ]
+        }
+    ]
+}

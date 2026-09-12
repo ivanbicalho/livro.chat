@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi para o regente, com “Gitite”:Ah DEUS, nosso Senhor, quão glorioso é o teu nome sobre toda a terra! Pois tu puseste tua majestade acima dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da boca das crianças, e dos que mamam, tu fundaste força, por causa de teus adversários, para fazer cessar ao inimigo e ao vingador."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando eu vejo teus céus, obra de teus dedos; a lua e as estrelas, que tu preparaste;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que é o homem, para que tu te lembres dele? E [o que é] o filho do homem, para que o visites?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tu o fizeste um pouco menor que os anjos; e com glória e honra tu o coroaste."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu o fazes ter controle sobre as obras de tuas mãos; tudo puseste debaixo de seus pés."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ovelhas e bois, todos eles, e também os animais do campo;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As aves dos céus, e os peixes do mar; [e] os que passam pelos caminhos dos mares."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ó DEUS, nosso Senhor! Quão glorioso é o teu nome sobre toda a terra!"
+                }
+            ]
+        }
+    ]
+}

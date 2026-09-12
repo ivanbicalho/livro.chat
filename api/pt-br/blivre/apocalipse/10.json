@@ -1,0 +1,106 @@
+{
+    "book": "apocalipse",
+    "name": "Apocalipse",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu vi outro forte anjo descendo do céu, vestido com uma nuvem; e por cima de [sua] cabeça [estava] o arco colorido celeste; e o rosto dele [era] como o sol, e os pés dele como coluna de fogo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E na mão dele tinha um livrinho aberto; e pôs seu pé direito sobre o mar, e o esquerdo sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E clamou em alta voz, como quando o leão ruge; e quando ele clamou, os sete trovões falaram suas vozes."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando os sete trovões falaram suas vozes, eu estava a pondo de escrevê [-las] ; mas eu ouvi uma voz do céu me dizer: “Sela as coisas que os sete trovões falaram, e não as escrevas.”"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o anjo que eu vi estar sobre o mar e sobre a terra levantou sua mão ao céu,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E jurou por aquele que vive para todo o sempre, o qual criou o céu e as coisas que nele há, e a terra e as coisas que nela há, e o mar e as coisas que nele há, que não haverá mais tempo;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas [que] nos dias da voz do sétimo anjo, quando sua trombeta estiver a ponto de tocar, o mistério de Deus se cumprirá, assim como ele bem anunciou aos seus servos e profetas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a voz que eu tinha ouvido do céu voltou a falar comigo, e disse: “Vai, [e] toma o livrinho aberto da mão do anjo que está sobre o mar e sobre a terra.”"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu fui até o anjo, dizendo-lhe: “Dá-me o livrinho.” E ele me disse: “Toma-o, e come-o; e fará amargo o teu ventre, mas em tua boca será doce como mel.”"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu tomei o livrinho da mão do anjo, e comi; e ele era em minha boca doce como o mel; mas quando eu o comi, meu ventre ficou amargo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele me disse: “É necessário que profetizes outra vez a muitos povos, nações, línguas e reis.”"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "book": "esdras",
+    "name": "Esdras",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No primeiro ano de Ciro rei da Pérsia, para que se cumprisse a palavra do SENHOR pela boca de Jeremias, o SENHOR despertou o espírito de Ciro rei da Pérsia, o qual mandou proclamar por todo o seu reino, e também por escrito, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim diz Ciro, rei da Pérsia: O SENHOR, Deus dos céus, me deu todos os reinos da terra; e ele me mandou que lhe edificasse uma casa em Jerusalém, que está em Judá."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem há entre vós de todo seu povo, seu Deus seja com ele, e suba a Jerusalém que está em Judá, e edifique a casa ao SENHOR Deus de Israel; ele é o Deus que [habita] em Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo aquele que tiver restado em qualquer lugar onde estiver morando, os homens de seu lugar o ajudem com prata, ouro, bens, e animais; além das doações voluntárias para a casa de Deus, que está em Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se levantaram os chefes das famílias de Judá e de Benjamim, os sacerdotes e os Levitas, e todos [aqueles] cujo espírito Deus despertou, para subirem a edificar a casa do SENHOR, que está em Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos os que estavam em seus arredores fortaleceram suas mãos com objetos de prata e de ouro, com bens e animais, e com coisas preciosas, além de tudo o que foi dado voluntariamente."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também o rei Ciro tirou os utensílios da casa do SENHOR, que Nabucodonosor tinha trazido de Jerusalém, e posto na casa de seus deuses."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Ciro, rei da Pérsia, tirou-os por meio do tesoureiro Mitridate, o qual os deu contados a Sesbazar, príncipe de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E esta é o seu número: trinta bacias de ouro, mil bacias de prata, vinte e nove facas,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Trinta taças de ouro, quatrocentas e dez taças de prata, e mil outros utensílios."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos. Sesbazar trouxe todos estes com os do cativeiro que subiram da Babilônia a Jerusalém."
+                }
+            ]
+        }
+    ]
+}

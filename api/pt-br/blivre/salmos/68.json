@@ -1,0 +1,322 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 68,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo e canção de Davi, para o regente:Deus se levantará, [e] seus inimigos serão dispersos, e os que o odeiam fugirão de sua presença."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como a fumaça se espalha, tu os espalharás; assim como a cera que se derrete diante do fogo, [assim também] os perversos perecerão diante de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os justos se alegrarão, [e] saltarão de prazer perante Deus, e se encherão de alegria."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai a Deus, cantai louvores ao seu nome; exaltai aquele que anda montado sobre as nuvens, pois EU-SOU é o seu nome; e alegrai [-vos] diante dele."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ele é] o pai dos órfãos, e juiz que defende as viúvas; Deus na habitação de sua santidade."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus que faz os solitários viverem em uma família, e liberta os prisioneiros; mas os rebeldes habitam em terra seca."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus, quando tu saías perante teu povo, enquanto caminhavas pelo deserto (Selá),"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A terra se abalava, e os céus se derramavam perante a presença de Deus; neste Sinai, diante da presença de Deus, o Deus de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu fizeste a chuva cair abundantemente, e firmaste tu herança, que estava cansada."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nela o teu rebanho habitou; por tua bondade, Deus, sustentaste ao miserável."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O Senhor falou; grande é o exército das que anunciam as boas novas."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reis de exércitos fugiam apressadamente; e aquela que ficava em casa repartia os despojos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ainda que estivésseis cercados por ambos os lados, [estais protegidos] como que por asas de pomba, cobertas de prata, e suas penas revestidas de ouro."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o Todo-Poderoso espalhou os reis, houve neve em Salmom."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O monte de Deus [é como] o monte de Basã; [é] um monte bem alto, [como] o monte de Basã."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que olhais com inveja, ó montes altos? A este monte Deus desejou para ser sua habitação; e o SENHOR habitará [nele] para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As carruagens de Deus são várias dezenas de milhares; o Senhor está entre elas, [como] em Sinai, em [seu] santuário."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu subiste ao alto, levaste cativos, recebeste bens dos homens, até dos rebeldes, para que [ali] o SENHOR Deus habitasse."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito seja o Senhor; dia após dia ele nos carrega; Deus [é] nossa salvação. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nosso Deus [é] um Deus de salvação; e com o Senhor DEUS há livramento para a morte;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois Deus ferirá a cabeça de seus inimigos, o topo da cabeça, onde ficam os cabelos, daquele que anda na prática de suas transgressões."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O Senhor disse: Eu [os] farei voltar de Basã; eu [os] farei voltar das profundezas do mar."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que metas teu pé no sangue dos teus inimigos; e nele [também] terá uma parte a língua de cada um de teus cães."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Viram teus caminhos, ó Deus; os caminhos de meu Deus, meu Rei, no santuário."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os cantores vieram adiante, depois os instrumentistas; entre eles as virgens tocadoras de tamborins."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendizei a Deus nas congregações; [bendizei] ao SENHOR, desde a fonte de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ali [está] o pequeno Benjamim, que domina sobre eles; os chefes de Judá e a congregação deles; os chefes de Zebulom, [e] os chefes de Nafitali."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Teu Deus ordenou tua força; fortalece, ó Deus, o que já operaste por nós."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao teu templo, em Jerusalém, os Reis te trarão presentes."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Repreende a fera das canas, a multidão de touros, juntamente com as bezerras dos povos; aos que humilham a si mesmos em [troca] de peças e prata; dissipa aos povos que gostam da guerra."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Embaixadores virão do Egito; Cuxe correrá para [estender] suas mãos a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reinos da terra, cantai a Deus; cantai louvores ao Senhor. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele anda montado por entre os céus desde os tempos antigos; eis que sua voz fala poderosamente."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reconhecei o poder de Deus; sobre Israel [está] sua exaltação, e sua força [está] nas altas nuvens."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus, tu és temível desde teus santuários; o Deus de Israel é o que dá força e poder ao povo. Bendito seja Deus!"
+                }
+            ]
+        }
+    ]
+}

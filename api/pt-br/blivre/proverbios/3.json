@@ -1,0 +1,322 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, não te esqueças de minha lei; e que teu coração guarde meus mandamentos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque te acrescentarão extensão de dias, e anos de vida e paz."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que a bondade e a fidelidade não te desamparem; amarra-as junto ao teu pescoço; escreve-as na tábua de teu coração."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então tu acharás graça e bom entendimento, aos olhos de Deus e dos homens."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Confia no SENHOR com todo o teu coração; e não te apoies em teu [próprio] entendimento."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dá reconhecimento a ele em todas os teus caminhos; e ele endireitará tuas veredas."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não sejas sábio aos teus [próprios] olhos; teme ao SENHOR, e afasta-te do mal."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isto será remédio para teu corpo, e alívio para teus ossos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Honra ao SENHOR com teus bens, e com a primeira parte de toda a tua renda."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E teus celeiros se encherão de fartura, e tuas prensas de uvas transbordarão de vinho novo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, não rejeites a correção do SENHOR, nem te desagrades de sua repreensão;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR repreende a quem ele ama, assim como o pai ao filho, [a quem] ele quer bem."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado o homem que encontra sabedoria, e o homem que ganha conhecimento."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque seu produto é melhor que o produto da prata; e seu valor, mais do que o do ouro fino."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ela é mais preciosa do que rubis; e tudo o que podes desejar não se pode comparar a ela."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Extensão de dias [há] em sua mão direita; em sua esquerda riquezas e honra."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seus caminhos são caminhos agradáveis; e todas as suas veredas são paz."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ela é uma árvore de vida para os que dela pegam; e bem-aventurados são todos os que a retêm."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR com sabedoria fundou a terra; ele preparou os céus com a inteligência."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com seu conhecimento se fenderam os abismos, e as nuvens gotejam orvalho."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Filho meu, que [estes] não se afastem de teus olhos; guarda a sabedoria e o bom-senso."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque serão vida para tua alma, e graça para teu pescoço."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então andarás por teu caminho em segurança; e com teus pés não tropeçarás."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando te deitares, não terás medo; tu deitarás, e teu sono será suave."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não temas o pavor repentino; nem da assolação dos perversos, quando vier."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR será tua esperança; e ele guardará teus pés para que não sejam presos."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não detenhas o bem daqueles que possuem o direito, se tiveres em tuas mãos poder para o fazeres."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não digas a teu próximo: Vai, e volta [depois] , que amanhã te darei; se tu tiveres contigo [o que ele te pede] ."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não planejes o mal contra teu próximo, pois ele mora tendo confiança em ti."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não brigues contra alguém sem motivo, se ele não fez mal contra ti."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não tenhas inveja do homem violento, nem escolhas [seguir] algum dos caminhos dele."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR abomina os perversos; mas ele [guarda] o seu segredo com os justos."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A maldição do SENHOR [está] na casa do perverso; porém ele abençoa a morada dos justos."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente ele zombará dos zombadores; mas dará graça aos humildes."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os sábios herdarão honra; porém os loucos terão sobre si confusão."
+                }
+            ]
+        }
+    ]
+}

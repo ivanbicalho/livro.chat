@@ -1,0 +1,349 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 40,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No primeiro dia do mês primeiro farás levantar o tabernáculo, o tabernáculo do testemunho:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porás nele a arca do testemunho, e a cobrirás com o véu:"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E meterás a mesa, e a porás em ordem: meterás também o candelabro e acenderás suas lâmpadas:"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porás o altar de ouro para o incenso diante da arca do testemunho, e porás a cortina diante da porta do tabernáculo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois porás o altar do holocausto diante da porta do tabernáculo, do tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo porás a pia entre o tabernáculo do testemunho e o altar; e porás água nela."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Finalmente porás o átrio em derredor, e a cortina da porta do átrio."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomarás o azeite da unção e ungirás o tabernáculo, e tudo o que está nele; e lhe santificarás com todos os seus utensílios, e será santo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ungirás também o altar do holocausto e todos os seus utensílios: e santificarás o altar, e será um altar santíssimo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também ungirás a pia e sua base, e a santificarás."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farás chegar a Arão e a seus filhos à porta do tabernáculo do testemunho, e os lavarás com água."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farás vestir a Arão as vestimentas sagradas, e o ungirás, e o consagrarás, para que seja meu sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois farás chegar seus filhos, e lhes vestirás as túnicas:"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os ungirás como ungiste a seu pai, e serão meus sacerdotes: e será que sua unção lhes servirá por sacerdócio perpétuo por suas gerações."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés fez conforme tudo o que o SENHOR lhe mandou; assim o fez."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E assim no dia primeiro do primeiro mês, no segundo ano, o tabernáculo foi erigido."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés fez levantar o tabernáculo, e assentou suas bases, e colocou suas tábuas, e pôs suas barras, e fez erguer suas colunas."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estendeu a tenda sobre o tabernáculo, e pôs a cobertura encima do mesmo; como o SENHOR havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomou e pôs o testemunho dentro da arca, e colocou as varas na arca, e encima o propiciatório sobre a arca:"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E meteu a arca no tabernáculo, e pôs o véu da tenda, e cobriu a arca do testemunho; como o SENHOR havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pôs a mesa no tabernáculo do testemunho, ao lado norte da cortina, fora do véu:"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre ela pôs por ordem os pães diante do SENHOR, como o SENHOR havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pôs o candelabro no tabernáculo do testemunho, em frente da mesa, ao lado sul da cortina."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acendeu as lâmpadas diante do SENHOR; como o SENHOR havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pôs também o altar de ouro no tabernáculo do testemunho, diante do véu:"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acendeu sobre ele o incenso aromático; como o SENHOR havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pôs também a cortina da porta do tabernáculo."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E colocou o altar do holocausto à porta do tabernáculo, do tabernáculo do testemunho; e ofereceu sobre ele holocausto e oferta de cereais; como o SENHOR havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pôs a pia entre o tabernáculo do testemunho e o altar; e pôs nela água para lavar."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés e Arão e seus filhos lavavam nela suas mãos e seus pés."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando entravam no tabernáculo do testemunho, e quando se traziam ao altar, se lavavam; como o SENHOR havia mandado a Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Finalmente erigiu o átrio em derredor do tabernáculo e do altar, e pôs a cortina da porta do átrio. E assim acabou Moisés a obra."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então uma nuvem cobriu o tabernáculo do testemunho, e a glória do SENHOR encheu o tabernáculo."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não podia Moisés entrar no tabernáculo do testemunho, porque a nuvem estava sobre ele, e a glória do SENHOR o tinha enchido."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando a nuvem se erguia do tabernáculo, os filhos de Israel se moviam em todas suas jornadas:"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém se a nuvem não se erguia, não se partiam até o dia em que ela se erguia."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a nuvem do SENHOR estava de dia sobre o tabernáculo, e o fogo estava de noite nele, à vista de toda a casa de Israel, em todas as suas jornadas."
+                }
+            ]
+        }
+    ]
+}

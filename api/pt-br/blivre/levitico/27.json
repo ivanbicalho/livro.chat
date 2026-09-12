@@ -1,0 +1,313 @@
+{
+    "book": "levitico",
+    "name": "Levítico",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, e dize-lhes: Quando alguém fizer especial voto ao SENHOR, segundo a avaliação das pessoas que se hajam de resgatar, assim será tua avaliação:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em quanto ao homem de vinte anos até sessenta, tua avaliação será cinquenta siclos de prata, segundo o siclo do santuário."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se for fêmea, a avaliação será trinta siclos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se for de cinco anos até vinte, tua avaliação será respeito ao homem vinte siclos, e à fêmea dez siclos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se for de um mês até cinco anos, tua avaliação será em ordem ao homem, cinco siclos de prata; e pela fêmea será tua avaliação três siclos de prata."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se for de sessenta anos acima, pelo homem tua avaliação será quinze siclos, e pela fêmea dez siclos."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém se for mais pobre que tua avaliação, então comparecerá ante o sacerdote, e o sacerdote lhe porá valor: conforme a capacidade do votante lhe imporá valor o sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se for animal de que se oferece oferta ao SENHOR, tudo o que se der dele ao SENHOR será santo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não será mudado nem trocado, bom por mau, nem mau por bom; e se se permutar um animal por outro, ele e o dado por ele em troca serão sagrados."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se for algum animal impuro, de que não se oferece oferta ao SENHOR, então o animal será posto diante do sacerdote:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote o avaliará preço, seja bom ou seja mau; conforme a avaliação do sacerdote, assim será."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se o houverem de resgatar, acrescentarão seu quinto sobre tua avaliação."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando alguém santificar sua casa consagrando-a ao SENHOR, a avaliará preço o sacerdote, seja boa ou seja má: segundo a avaliar o sacerdote, assim ficará."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se o que a santificar resgatar sua casa, acrescentará à tua avaliação o quinto do dinheiro dela, e será sua."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém santificar da terra de sua possessão ao SENHOR, tua avaliação será conforme sua semeadura: um ômer de semeadura de cevada se avaliará preço em cinquenta siclos de prata."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se santificar sua terra desde o ano do jubileu, conforme tua avaliação ficará."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se depois do jubileu santificar sua terra, então o sacerdote fará a conta do dinheiro conforme os anos que restarem até o ano do jubileu, e se diminuirá de tua avaliação."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se o que santificou a terra quiser resgatá-la, acrescentará à tua avaliação o quinto do dinheiro dela, e ficará para ele."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se ele não resgatar a terra, e a terra se vender a outro, não a resgatará mais;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em vez disso quando sair no jubileu, a terra será santa ao SENHOR, como terra consagrada: a possessão dela será do sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se santificar alguém ao SENHOR a terra que ele comprou, que não era da terra de sua herança,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o sacerdote calculará com ele a soma de tua avaliação até o ano do jubileu, e aquele dia dará teu assinalado preço, coisa consagrada ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No ano do jubileu, voltará a terra a aquele de quem ele a comprou, cuja é a herança da terra."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tudo o que avaliares o preço será conforme o siclo do santuário: o siclo tem vinte óbolos."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém o primogênito dos animais, que pela primogenitura é do SENHOR, ninguém o santificará; seja boi ou ovelha, do SENHOR é."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se for dos animais impuros, o resgatarão conforme tua avaliação, e acrescentarão sobre ela seu quinto: e se não o resgatarem, se venderá conforme tua avaliação."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém nenhuma coisa consagrada, que alguém houver santificado ao SENHOR de tudo o que tiver, de homens e animais, e das terras de sua possessão, não se venderá, nem se resgatará: todo o consagrado será coisa santíssima ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qualquer um que for consagrado dentre o homens que for separado para a condenação não será resgatado; inevitavelmente será morto."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos os dízimos da terra, tanto das sementes da terra como dos frutos das árvores, pertencem ao SENHOR; são coisas consagradas ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém quiser resgatar algo de seus dízimos, acrescentará seu quinto a ele."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo dízimo de vacas ou de ovelhas, de tudo o que passa sob a vara, a décima parte será consagrada ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não olhará se é bom ou mau, nem o trocará; e se o trocar, ele e o seu trocado serão consagrados; não se resgatará."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esses são os mandamentos que o SENHOR ordenou a Moisés para os filhos de Israel, no monte Sinai."
+                }
+            ]
+        }
+    ]
+}

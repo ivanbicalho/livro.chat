@@ -1,0 +1,268 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Deus abençoou Noé e seus filhos, e disse-lhes: Frutificai, e multiplicai, e enchei a terra:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vosso temor e vosso pavor será sobre todo animal da terra, e sobre toda ave dos céus, em tudo o que se mover na terra, e em todos os peixes do mar: em vossa mão são entregues."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo o que se move e vive vos será para mantimento: assim como os legumes e ervas, vos dei disso tudo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém a carne com sua vida, que é seu sangue, não comereis."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque certamente exigirei o sangue de vossas vidas; da mão de todo animal o exigirei, e da mão do ser humano; da mão do homem seu irmão exigirei a vida do ser humano."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que derramar sangue humano, pelo ser humano seu sangue será derramado; porque à imagem de Deus o ser humano foi feito."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas vós frutificai, e multiplicai-vos; procriai abundantemente na terra, e multiplicai-vos nela."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou Deus a Noé e a seus filhos com ele, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que eu mesmo estabeleço meu pacto convosco, e com vossa descendência depois de vós;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E com toda alma vivente que está convosco, de aves, de animais, e de toda fera da terra que está convosco; desde todos os que saíram da arca até todo animal da terra."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estabelecerei meu pacto convosco, e não será mais exterminada toda carne com águas de dilúvio; nem haverá mais dilúvio para destruir a terra."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Deus: Este será o sinal do pacto que estabeleço entre mim e vós e toda alma vivente que está convosco, por tempos perpétuos:"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu arco porei nas nuvens, o qual será por sinal de aliança entre mim e a terra."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será que quando fizer vir nuvens sobre a terra, se deixará ver então meu arco nas nuvens."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E me lembrarei do meu pacto, que há entre mim e vós e toda alma vivente de toda carne; e não serão mais as águas por dilúvio para destruir toda carne."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estará o arco nas nuvens, e o verei para me lembrar do pacto perpétuo entre Deus e toda alma vivente, com toda carne que há sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse, pois, Deus a Noé: Este será o sinal do pacto que estabeleci entre mim e toda carne que está sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Noé que saíram da arca foram Sem, Cam e Jafé: e Cam é o pai de Canaã."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes três são os filhos de Noé; e deles foi cheia toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E começou Noé a lavrar a terra, e plantou uma vinha;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E bebeu do vinho, e se embriagou, e estava descoberto dentro de sua tenda."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Cam, pai de Canaã, viu a nudez de seu pai, e disse-o aos seus dois irmãos do lado de fora."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Sem e Jafé tomaram a roupa, e a puseram sobre seus próprios ombros, e andando para trás, cobriram a nudez de seu pai tendo seus rostos virados, e assim não viram a nudez de seu pai."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E despertou Noé de seu vinho, e soube o que havia feito com ele seu filho o mais jovem;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Maldito seja Canaã; Servo de servos será a seus irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse mais: Bendito o SENHOR o Deus de Sem, E seja-lhe Canaã servo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Engrandeça Deus a Jafé, E habite nas tendas de Sem, E seja-lhe Canaã servo."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viveu Noé depois do dilúvio trezentos e cinquenta anos."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram todos os dias de Noé novecentos e cinquenta anos; e morreu."
+                }
+            ]
+        }
+    ]
+}

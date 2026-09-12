@@ -1,0 +1,160 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 90,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Oração de Moisés, homem de Deus:Senhor, tu tens sido nossa habitação, de geração em geração."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Antes que os montes surgissem, e tu produzisses a terra e o mundo, desde à eternidade até a eternidade tu és Deus."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu fazes o homem voltar ao pó, e dizes: Retornai-vos, filhos dos homens!"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque mil anos aos teus olhos são como o dia de ontem, que passou, e como a vigília da noite."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu os levas como correntes de águas; são como o sono; de madrugada são como a erva que brota:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De madrugada floresce, e brota; à tarde é cortada, e se seca."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque perecemos com tua ira, e nos assombramos com teu furor."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu pões nossas perversidades perante ti, nosso [pecado] oculto [perante] a luz do teu rosto."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque todos os nossos dias se vão por causa de tua irritação; acabamos nossos anos como um suspiro."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os dias de nossa vida [chegam até] os setenta anos; e os que são mais fortes, até os oitenta anos; e o melhor deles é canseira e opressão, porque logo é cortado, e saímos voando."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem conhece a força de tua ira? O teu furor é conforme o temor a ti."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ensina [-nos] a contar nossos dias de tal maneira que alcancemos um coração sábio."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Retorna, SENHOR! Até quando? [Tem] compaixão para com teus servos."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farta-nos de manhã com tua bondade; e nos alegraremos e seremos cheios de alegria por todos os nossos dias."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alegra-nos conforme os dias [em que] tu nos afligiste, os anos [em que] vimos o mal."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que tua obra apareça aos teus servos, e tua glória sobre seus filhos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que o agrado do SENHOR nosso Deus seja sobre nós; e confirma as obras de nossas mãos sobre nós; sim, a obra de nossas mãos, confirma!"
+                }
+            ]
+        }
+    ]
+}

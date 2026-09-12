@@ -1,0 +1,106 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 32,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Instrução de Davi:Bem-aventurado aquele cuja transgressão é perdoada, cujo pecado é encoberto."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado o homem a quem o SENHOR não considera a maldade, e em cujo espírito não há engano."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto fiquei calado, meus ossos ficaram cada vez mais fracos com meu gemido pelo dia todo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque de dia e de noite tua mão pesava sobre mim; meu humor ficou seco como no verão. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu reconheci meu pecado a ti, e não escondi minha maldade. Eu disse: Confessarei ao SENHOR minhas transgressões;E tu perdoaste a maldade do meu pecado. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso cada santo deve orar a ti em [todo] tempo que achar; até no transbordar de muitas águas, elas não chegarão a ele."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu [és] meu esconderijo, tu me guardas da angústia; tu me envolves de canções alegres de liberdade. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu te instruirei, e de ensinarei o caminho que deves seguir; eu te aconselharei, e [porei] meus olhos em ti."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não sejais como o cavalo [ou] como a mula, que não têm entendimento; cuja boca é presa com o cabresto e o freio, para que não cheguem a ti."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso [terá] muitas dores, mas aquele que confia no SENHOR, a bondade o rodeará."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alegrai-vos no SENHOR, e enchei de alegria vós justos, e cantai alegremente todos os corretos de coração."
+                }
+            ]
+        }
+    ]
+}

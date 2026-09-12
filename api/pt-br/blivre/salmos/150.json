@@ -1,0 +1,61 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aleluia! Louvai a Deus em seu santuário; louvai-o no firmamento de seu poder."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai-o por suas proezas; louvai-o conforme a imensidão de sua grandeza."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai-o com com de trombeta; louvai-o com lira e harpa."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai-o com tamborim e flauta; louvai-o com instrumentos de cordas e de sopro."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai-o com címbalos bem sonoros; louvai-o com címbalos de sons de alegria."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo quanto tem fôlego, louve ao SENHOR! Aleluia!"
+                }
+            ]
+        }
+    ]
+}

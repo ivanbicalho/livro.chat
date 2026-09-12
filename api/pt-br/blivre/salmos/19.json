@@ -1,0 +1,133 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, para o regente:Os céus declaram a glória de Deus; e o firmamento anuncia a obra de suas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dia após dia ele fala; e noite após noite ele mostra sabedoria."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não há língua, nem palavras, onde não se ouça a voz deles."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por toda a terra sai sua corda, e suas palavras até o fim do mundo; para o sol ele pôs uma tenda neles."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele [é] como o noivo, que sai de sua câmara; [e] se alegra como um homem valente, para correr [seu] caminho."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde uma extremidade dos céus [é] sua saída, e seu curso até as [outras] extremidades deles; e nada se esconde de seu calor."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A lei do SENHOR é perfeita, [e] restaura a alma; o testemunho do SENHOR é fiel, [e] da sabedoria aos simples."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os preceitos do SENHOR são corretos, [e] alegram ao coração; o mandamento do SENHOR é puro, [e] ilumina aos olhos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O temor ao SENHOR é limpo, [e] permanece para sempre; os juízos do SENHOR são verdade; juntamente são justos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[São] mais desejáveis que ouro, mais do que muito ouro fino; e mais doces que o mel, e o licor de seus favos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também por eles teu servo é advertido; por guardá-los, [há] muita recompensa."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem pode entender [seus próprios] erros? Limpa-me dos que [me] são ocultos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também retém a teu servo de arrogâncias, para que elas não me controlem; então eu serei sincero, e ficarei limpo de grande transgressão."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sejam agradáveis as palavras de minha boca, e o pensamento do meu coração, diante de ti, ó SENHOR, minha rocha e meu Libertador."
+                }
+            ]
+        }
+    ]
+}

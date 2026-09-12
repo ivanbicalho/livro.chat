@@ -1,0 +1,34 @@
+{
+    "book": "ester",
+    "name": "Ester",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei Assuero impôs um tributo sobre a terra e [sobre] as ilhas do mar."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas as obras de seu poder e de seu valor, e a declaração da grandeza de Mardoqueu, a quem o rei engrandeceu, por acaso não estão escritas no livro das crônicas dos reis da Média e da Pérsia?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o judeu Mardoqueu foi o segundo depois do rei Assuero, e grande entre os judeus, e agradável à multidão de seus irmãos, procurando o bem de seu povo, e falando prosperidade para todo o seu povo."
+                }
+            ]
+        }
+    ]
+}

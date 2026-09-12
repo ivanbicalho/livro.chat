@@ -1,0 +1,511 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 23,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levantando-se toda a multidão deles, o levaram a Pilatos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E começaram a acusá-lo, dizendo: Encontramos este [homem] ,que perverte a nação, e proíbe dar tributo a César, dizendo que ele mesmo é Cristo, o Rei."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pilatos lhe perguntou, dizendo: Tu és o Rei dos judeus?E respondendo, ele lhe disse: Tu o dizes."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pilatos disse aos chefes dos sacerdotes, e às multidões: Não acho culpa nenhuma neste homem."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles insistiam, dizendo: Ele incita ao povo, ensinando por toda a Judeia, começando desde a Galileia até aqui."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pilatos, ouvindo [falar] da Galileia, perguntou se aquele homem era galileu."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando soube que era da jurisdição de Herodes, ele o entregou a Herodes, que naqueles dias também estava em Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Herodes, ao ver Jesus, alegrou-se muito, porque havia muito tempo que desejava o ver, pois ouvia muitas coisas sobre ele; e esperava ver algum sinal feito por ele."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perguntava-lhe com muitas palavras, mas ele nada lhe respondia;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estavam [lá] os chefes dos sacerdotes, e os escribas, acusando-o com veemência."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Herodes, com seus soldados, desprezando-o, e escarnecendo dele, o vestiu com uma roupa luxuosa, e o enviou de volta a Pilatos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no mesmo dia Pilatos e Herodes se fizeram amigos; porque antes tinham inimizade um contra o outro."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pilatos, convocando aos chefes dos sacerdotes, aos líderes, e ao povo, disse-lhes:"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós me trouxestes a este homem, como que perverte o povo; e eis que eu, examinando-o em vossa presença, nenhuma culpa eu acho neste homem, das de que o acusais."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nem também Herodes; porque a ele eu vos remeti; e eis que ele nada fez para que seja digno de morte."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então eu o castigarei, e [depois] o soltarei."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém todos clamavam juntos, dizendo: Tirai-o daqui! E soltai Barrabás para nós!"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(O qual por uma rebelião feita na cidade, e [por] uma morte, tinha sido lançado na prisão)."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pilatos falou-lhes então outra vez, querendo soltar Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles clamavam, dizendo: Crucifica [-o] ! crucifica-o!"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes disse a terceira vez: Pois que mal este fez? Nenhuma culpa de morte nele eu achei. Então eu o castigarei, e [depois] o soltarei."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles continuavam, com grandes gritos, pedindo que fosse crucificado. E seus gritos, e [os] dos chefes dos sacerdotes, prevaleceram."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pilatos julgou que se fizesse o que pediam."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E soltou-lhes ao que fora lançado na prisão por uma rebelião e [uma] morte, que [era] o que pediam; porém a Jesus [lhes] entregou à sua vontade."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enquanto o levavam, tomaram a um Simão Cireneu, que vinha do campo, e puseram-lhe a cruz às costas, para que a levasse atrás de Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seguia-o uma grande multidão do povo, e de mulheres, as quais também ficavam desconsoladas, e lamentavam por ele."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus, virando-se para elas, disse: Filhas de Jerusalém, não choreis por mim, mas chorai por vós mesmas, e por vossos filhos."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eis que vêm dias em que dirão: Bem-aventuradas as estéreis, e os ventres que não deram a luz, e os peitos que não amamentaram."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então começarão a dizer aos montes: Cai sobre nós; E aos morros: Cobri-nos!"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque, se fazem isto à árvore verde, o que se fará com a [árvore] seca?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também levaram outros dois, que eram malfeitores, para matar com ele."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando chegaram ao lugar, chamado a Caveira, o crucificaram ali, e aos malfeitores, um à direita, e outro à esquerda."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus dizia: Pai, perdoa-lhes, porque não sabem o que fazem. E, repartindo suas roupas, lançaram sortes."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o povo estava olhando; e os líderes também zombavam com eles, dizendo: Salvou a outros, salve agora a si mesmo, se é o Cristo, o escolhido de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os soldados também escarneciam dele, aproximando-se dele, e mostrando-lhe vinagre;"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizendo: Se tu és o Rei dos judeus, salva a ti mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também estava acima dele um título escrito com letras gregas, romanas e hebraicas: ESTE É O REI DOS JUDEUS."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um dos malfeitores que estavam pendurados o insultava, dizendo: Se tu és o Cristo, salva a ti mesmo, e a nós."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém o outro, respondendo, repreendia-o, dizendo: Tu ainda não temes a Deus, [mesmo] estando na mesma condenação?"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E nós realmente [estamos sendo punidos] justamente, porque estamos recebendo de volta merecidamente por aquilo que praticamos; mas este nada fez de errado."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse a Jesus: Senhor, lembra-te de mim, quando chegares em teu Reino."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhe disse: Em verdade te digo, hoje estarás comigo no paraíso."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E era já quase a hora sexta, e houve trevas em toda a terra, até a hora nona."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sol se escureceu, e o véu do templo se rasgou ao meio."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus, clamando em alta voz, disse: Pai, em tuas mãos eu entrego meu espírito.E tendo dito isto, parou de respirar."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o centurião, vendo o o que tinha acontecido, deu glória a Deus, dizendo: Verdadeiramente este homem era justo."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas as multidões que se juntavam para observar, vendo o que tinha acontecido, voltaram, batendo nos peitos."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos os seus conhecidos, e as mulheres que acompanhando [-o] desde a Galileia, tinham o seguido, estavam longe, vendo estas coisas."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que um homem, de nome José, membro do conselho [de justiça] ,sendo homem bom e justo."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(Que não tinha concordado, nem com o conselho, nem em atos que fizeram), da cidade de Arimateia, [da terra] dos judeus, e que também esperava pelo Reino de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este, chegando a Pilatos, pediu o corpo de Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tendo o tirado, o envolveu em um tecido de linho, e o pôs em um sepulcro, escavado em uma rocha, onde nunca ainda tinha sido posto."
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E era o dia da preparação, e o sábado estava começando."
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as mulheres que vieram com ele da Galileia também [o] seguiram, e viram o sepulcro, e como seu corpo foi posto."
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E elas, ao voltarem, prepararam materiais aromáticos e óleos perfumados. E descansaram o sábado, conforme o mandamento."
+                }
+            ]
+        }
+    ]
+}

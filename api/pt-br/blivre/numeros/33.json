@@ -1,0 +1,511 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 33,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas são as jornadas dos filhos de Israel, os quais saíram da terra do Egito por seus esquadrões, sob a condução de Moisés e Arão."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés escreveu suas saídas conforme suas jornadas por ordem do SENHOR. Estas, pois, são suas jornadas conforme suas partidas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De Ramessés partiram no mês primeiro, aos quinze dias do mês primeiro: no segundo dia da páscoa saíram os filhos de Israel com mão alta, à vista de todos os egípcios."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estavam enterrando os egípcios os que o SENHOR havia matado deles, a todo primogênito; havendo o SENHOR feito também juízos em seus deuses."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Partiram, pois, os filhos de Israel de Ramessés, e assentaram acampamento em Sucote."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partindo de Sucote, assentaram em Etã, que está ao extremo do deserto."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partindo de Etã, voltaram sobre Pi-Hairote, que está diante de Baal-Zefom, e assentaram diante de Migdol."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partindo de Pi-Hairote, passaram por meio do mar ao deserto, e andaram caminho de três dias pelo deserto de Etã, e assentaram em Mara."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partindo de Mara, vieram a Elim, de onde havia doze fontes de águas, e setenta palmeiras; e assentaram ali."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Elim, assentaram junto ao mar Vermelho."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos do mar Vermelho, assentaram no deserto de Sim."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos do deserto de Sim, assentaram em Dofca."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Dofca, assentaram em Alus."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Alus, assentaram em Refidim, onde o povo não teve águas para beber."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Refidim, assentaram no deserto de Sinai."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos do deserto de Sinai, assentaram em Quibrote-Taavá."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Quibrote-Taavá, assentaram em Hazerote."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Hazerote, assentaram em Ritmá."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Ritmá, assentaram em Rimom-Perez."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Rimom-Perez, assentaram em Libna."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Libna, assentaram em Rissa."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Rissa, assentaram em Queelata,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Queelata, assentaram no monte de Séfer."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos do monte de Séfer, assentaram em Harada."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Harada, assentaram em Maquelote."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Maquelote, assentaram em Taate."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Taate, assentaram em Tera."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Tera, assentaram em Mitca."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Mitca, assentaram em Hasmona."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Hasmona, assentaram em Moserote."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Moserote, assentaram em Bene-Jaacã."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Bene-Jaacã, assentaram em Hor-Gidgade."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Hor-Gidgade, assentaram em Jotbatá."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Jotbatá, assentaram em Abrona."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Abrona, assentaram em Eziom-Geber."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Eziom-Geber, assentaram no deserto de Zim, que é Cades."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Cades, assentaram no monte de Hor, na extremidade da terra de Edom."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E subiu Arão o sacerdote ao monte de Hor, conforme o dito do SENHOR, e ali morreu aos quarenta anos da saída dos filhos de Israel da terra do Egito, no mês quinto, no primeiro dia do mês."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E era Arão de idade de cento e vinte e três anos, quando morreu no monte de Hor."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o cananeu, rei de Arade, que habitava ao sul na terra de Canaã, ouviu como haviam vindo os filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos do monte de Hor, assentaram em Zalmona."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Zalmona, assentaram em Punom."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Punom, assentaram em Obote."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Obote, assentaram em Ijé-Abarim; no termo de Moabe."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Ijé-Abarim, assentaram em Dibom-Gade."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Dibom-Gade, assentaram em Almom-Diblataim."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Almom-Diblataim, assentaram nos montes de Abarim, diante de Nebo."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos dos montes de Abarim, assentaram nos campos de Moabe, junto ao Jordão de Jericó."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Finalmente assentaram junto ao Jordão, desde Bete-Jesimote até Abel-Sitim, nos campos de Moabe."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés nos campos de Moabe junto ao Jordão de Jericó, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fala aos filhos de Israel, e dize-lhes: Quando houverdes passado o Jordão à terra de Canaã,"
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Expulsareis a todos os moradores daquela terra de diante de vós, e destruireis todas suas imagens esculpidas, e todas as suas imagens de fundição, e arruinareis todos os seus altares pagãos;"
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E expulsareis os moradores da terra, e habitareis nela; porque eu a dei a vós para que a possuais."
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E herdareis a terra por sortes por vossas famílias: aos muitos dareis muito por sua herança, e aos poucos dareis menos por herança sua: onde lhe sair a sorte, ali a terá cada um: pelas tribos de vossos pais herdareis."
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se não expulsardes os moradores daquela terra de diante de vós, sucederá que os que deixardes deles serão por aguilhões em vossos olhos, e por espinhos em vossos lados, e vos afligirão sobre a terra em que vós habitardes."
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Será também, que farei a vós como eu pensei fazer a eles."
+                }
+            ]
+        }
+    ]
+}

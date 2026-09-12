@@ -1,0 +1,394 @@
+{
+    "book": "1cronicas",
+    "name": "1 Crônicas",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Judá foram: Perez, Hezrom, Carmi, Hur, e Sobal."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Reaías, filho de Sobal, gerou a Jaate; e Jaate gerou a Aumai e a Laade. Estas são as famílias dos Zoratitas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estas são as do pai de Etã: Jezreel, Isma, e Idbás. E o nome da irmã deles era Hazelelponi."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Penuel foi pai de Gedor, e Ézer pai de Husá. Estes foram os filhos de Hur, primogênito de Efrata, pai de Belém."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Asur, pai de Tecoa, teve duas mulheres: Helá, e Naará."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Naará lhe gerou a Auzão, Héfer, Temeni, e a Haastari. Estes foram os filhos de Naará."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Helá foram: Zerete, Zoar, e Etnã."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Coz gerou a Anube, e a Zobeba, e as famílias de Aarel, filho de Harum."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jabez foi mais honrado que seus irmãos; sua mãe o chamara de Jabez, dizendo: Pois com dores eu o dei à luz."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jabez invocou ao Deus de Israel, dizendo: Ah, se tu me abençoares muito, e ampliares os meus limites, e se tua mão for comigo, e me protegeres do mal, para que eu não sofra! E Deus fez suceder o que ele havia pedido."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Quelube, irmão de Suá gerou a Maquir, que foi o pai de Estom."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Estom gerou a Bete-Rafa, Paseia, e a Teína, pai da cidade de Naás; estes foram os homens de Reca."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Quenaz foram: Otniel e Seraías. Os filhos de Otniel: Hatate [e Meonotai] ."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Meonotai gerou a Ofra; e Seraías gerou a Joabe, pai [dos moradores] do Vale dos Artesãos, porque foram artesãos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Calebe, filho de Jefoné foram: Iru, Elá, e Naã; e filho de Elá foi Quenaz."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Jealelel foram: Zife, Zifa, Tíria, e Asareel."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Ezra foram: Jéter, Merede, Efer, e Jalom. E [sua mulher] também deu à luz a Miriã, Samai, e a Isbá, pai de Estemoa."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sua mulher Judia lhe deu à luz a Jerede pai de Gedor, a Héber pai de Socó, e a Jecutiel pai de Zanoa. Estes foram os filhos de Bitias, filha de Faraó, a qual Merede teve por esposa."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos da mulher de Hodias, irmã de Naã, foram: o pai de Queila o garmita, e Estemoa o maacatita."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Simeão foram: Amnom, Rina, Ben-Hanã, e Tilom. E os filhos de Isi foram: Zoete, e Ben-Zoete."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Selá, filho de Judá foram: Er, pai de Leca, e Lada, pai de Maressa, e as famílias da casa dos [trabalhadores] do linho em Bete-Asbeia;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como também Joquim, os homens de Cozeba, Joás, e Sarafe (os quais dominaram sobre os moabitas), e Jasubi-Leem. Estes registros, porém, são antigos."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes foram oleiros, e habitavam em Netaim e Gedera; eles ficaram ali com o rei em sua obra."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Simeão foram: Nemuel, Jamim, Jaribe, Zerá, Saul;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cujo filho foi Salum, cujo filho foi Mibsão, cujo filho foi e Misma."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Misma foram: seu filho Hamuel, cujo filho foi Zacur, cujo filho foi Simei."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Simei teve dezesseis filhos e seis filhas, porém seus irmãos não tiveram muitos filhos, e toda a sua família não se multiplicou tanto como a dos filhos de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E habitaram em Berseba, Moladá, Hazar-Sual,"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em Bila, Ezém, Tolade,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Betuel, Hormá, Ziclague."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bete-Marcabote, Hazar-Susim, Bete-Birai, e em Saaraim. Estas foram suas cidades até quando Davi começou a reinar."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suas aldeias foram: Etã, Aim, Rimom, e Toquém, e Asã, cinco cidades;"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todas as suas aldeias que estavam ao redor destas cidades, até Baal. Estas foram suas habitações, e suas genealogias."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Mesobabe, Janleque, Josias filho de Amazias;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Joel, Jeú filho de Josibias, filho de Seraías, filho de Asiel;"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Elioenai, Jaacobá, Jesoaías, Asaias, Adiel, Jesimiel, Benaia;"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Ziza filho de Sifi, filho de Alom, filho de Jedaías, filho de Sinri, filho de Semaías."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes registrados por [seus] nomes foram os líderes de suas famílias, e que foram multiplicados muito nas casas de seus pais."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegaram até a entrada de Gedor, até o oriente do vale, buscando pastos para suas ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acharam pastos férteis e bons, e a terra era espaçosa, quieta, e descansada, porque os de Cam tinham habitado ali antes."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes, pois, que foram escritos por seus nomes, vieram nos dias de Ezequias rei de Judá, e derrubaram as tendas e habitações dos que se acharam ali, e os destruíram até hoje; e habitaram ali em seu lugar, porque ali havia pastos para suas ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também [alguns] deles, quinhentos homens dos filhos de Simeão, se foram ao monte de Seir, levando como capitães a Pelatias, Nearias, Refaías, e a Uziel, filhos de Isi;"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mataram os que haviam restado dos amalequitas, e habitaram ali até hoje."
+                }
+            ]
+        }
+    ]
+}

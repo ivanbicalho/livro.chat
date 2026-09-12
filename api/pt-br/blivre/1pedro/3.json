@@ -1,0 +1,205 @@
+{
+    "book": "1pedro",
+    "name": "1 Pedro",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Semelhantemente vós, esposas, estejais sujeitas aos próprios maridos, para que, ainda que alguns não obedeçam à Palavra, por meio do comportamento das esposas, sem palavra, sejam ganhos,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "quando eles observarem o vosso comportamento puro e com temor."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A vossa beleza não seja a exterior, [como] tranças de cabelos, joias de ouro, ou vestuário,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "mas sim, a pessoa interior no coração, o [embelezamento] incorruptível de um espírito manso e tranquilo, que é precioso diante de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois assim também se embelezavam antigamente as mulheres santas, que esperavam em Deus, e eram sujeitas aos seus maridos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dessa maneira Sara obedecia a Abraão, chamando-lhe de senhor. Vós sois filhas dela se fizerdes o bem e não temerdes espanto algum."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Semelhantemente vós maridos, convivei [com elas] com entendimento, dando honra à mulher, como a vaso mais fraco, como sendo [elas e vós] juntamente herdeiros da graça da vida; a fim de que as vossas orações não sejam impedidas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por fim, sede todos de uma mesma mentalidade, compassivos, tenhais amor pelos irmãos, e sede misericordiosos e benevolentes."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não retribuais o mal com mal, ou insulto com insulto; ao contrário, bendizei, pois para isto fostes chamados, para que herdeis a bênção."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois: quem quer amar a vida e ver dias bons, refreie sua língua do mal, e que seus lábios não falem engano."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Afaste-se do mal, e faça o bem; busque a paz, e siga-a."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque os olhos do Senhor estão sobre os justos, e seus ouvidos [atentos] às suas orações; mas a face do Senhor é contra os que fazem o mal."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quem vos fará mal se fordes zelosos do bem?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, mesmo se sofrerdes por causa da justiça, benditos sois. Não tenhais medo deles, nem vos perturbeis."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas santificai a Cristo como Senhor em vossos corações; e estai sempre preparados para responder com mansidão e respeito a todo aquele que vos pedir a razão da esperança que há em vós,"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "tendo uma boa consciência; para que, naquilo que sois malfalados, os que insultam o vosso bom comportamento em Cristo sejam envergonhados."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois é melhor que sofrais fazendo o bem, se [assim] a vontade de Deus quer, do que fazendo o mal."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque também Cristo morreu uma vez pelos pecados, o justo pelos injustos; para que vos levasse a Deus. [Ele estava] , de fato, morto na carne, mas vivificado pelo Espírito,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "no qual ele também foi pregar aos espíritos em prisão."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Estes são] os que antigamente foram rebeldes, quando a paciência de Deus aguardava nos dias de Noé, enquanto era preparada a arca. Nela, poucas almas (isto é, oito) foram salvas por meio da água."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é uma representação do batismo, que agora também vos salva, não como remoção da sujeira do corpo, mas sim como o pedido de boa consciência a Deus, por meio da ressurreição de Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele está à direita de Deus, depois de haver subido ao céu; e os anjos, as autoridades, e os poderes estão sob o seu comando."
+                }
+            ]
+        }
+    ]
+}

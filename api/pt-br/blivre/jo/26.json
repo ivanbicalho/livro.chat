@@ -1,0 +1,133 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jó respondeu, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como tende ajudado ao que não tem força, [e] sustentado ao braço sem vigor!"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como tende aconselhado ao que não tem conhecimento, e [lhe] explicaste detalhadamente a verdadeira causa!"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A quem tens dito [tais] palavras? E de quem é o espírito que sai de ti?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os mortos tremem debaixo das águas com os seus moradores."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O Xeol está nu perante Deus , e não há cobertura para a perdição."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele estende o norte sobre o vazio, suspende a terra sobre o nada."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele amarra as águas em suas nuvens, todavia a nuvem não se rasga debaixo dela."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele encobre a face de seu trono, e sobre ele estende sua nuvem."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele determinou limite à superfície das águas, até a fronteira entre a luz e as trevas."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As colunas do céu tremem, e se espantam por sua repreensão."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele agita o mar com seu poder, e com seu entendimento fere abate a Raabe."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por seu Espírito adornou os céus; sua mão perfurou a serpente veloz."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que estas são [somente] as bordas de seus caminhos; e quão pouco é o que temos ouvido dele! Quem, pois, entenderia o trovão de seu poder?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 108,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico e Salmo de Davi:Preparado está meu coração, ó Deus; cantarei e tocarei música [com] minha glória."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desperta-te, lira e harpa; eu despertarei ao amanhecer."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvarei a ti entre os povos, SENHOR, e tocarei música a ti entre as nações;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tua bondade é maior que os céus, e tua fidelidade mais alta que as nuvens."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exalta-te sobre os céus, ó Deus; e tua glória sobre toda a terra;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que teus amados sejam libertados; salva [-nos] com tua mão direita, e responde-me."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus falou em seu santuário: Eu me alegrarei; repartirei a Siquém, e medirei ao vale de Sucote."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu é Gileade, meu é Manassés; e Efraim é a fortaleza de minha cabeça; Judá é meu legislador."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Moabe é minha bacia de lavar; sobre Edom lançarei meu sapato; sobre a Filístia eu triunfarei."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem me levará a uma cidade fortificada? Quem me guiará até Edom?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso não serás tu, ó Deus? Tu que tinha nos rejeitado, e não saías [mais] com nossos exércitos?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dá-nos ajuda [para livrarmos] da angústia, porque o socorro humano é inútil."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em Deus faremos proezas; e ele pisoteará nossos adversários."
+                }
+            ]
+        }
+    ]
+}

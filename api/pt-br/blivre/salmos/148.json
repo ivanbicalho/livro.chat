@@ -1,0 +1,133 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 148,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aleluia! Louvai ao SENHOR desde os céus; louvai-o nas alturas."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai-o todos os seus anjos; louvai-o todos os seus exércitos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai-o, sol e lua; louvai-o, todas as estrelas luminosas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai-o, céus dos céus, e as águas que [estais] sobre os céus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvem ao nome do SENHOR; porque pela ordem dele foram criados."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os firmou para todo o sempre; e deu [tal] decreto, que não será traspassado."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvai ao SENHOR [vós] da terra: os monstros marinhos, e todos os abismos;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O fogo e a saraiva, a neve e o vapor; o vento tempestuoso, que executa sua palavra."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os montes e todos os morros; árvores frutíferas, e todos os cedros."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As feras, e todo o gado; répteis, e aves que tem asas."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os reis da terra, e todos os povos; os príncipes, e todos os juízes da terra."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os rapazes, e também as moças; os velhos com os jovens."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louvem ao nome do SENHOR; pois só o nome dele é exaltado; sua majestade [está] sobre a terra e o céu."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele exaltou o poder de seu povo: o louvor de todos os seus santos, os filhos de Israel, o povo [que está] perto dele. Aleluia!"
+                }
+            ]
+        }
+    ]
+}

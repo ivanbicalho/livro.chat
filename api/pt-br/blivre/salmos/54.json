@@ -1,0 +1,70 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 54,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Instrução de Davi, para o regente, para instrumentos de cordas, quando os zifeus vieram, e disseram a Saul: “Não está Davi escondido entre nós?”:Deus, salva-me por teu nome; e faze-me justiça por teu poder."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus, ouve minha oração; inclina teus ouvidos aos dizeres de minha boca;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque estranhos se levantam contra mim, e [homens] terríveis procuram [matar] a minha alma; não põem a Deus diante dos olhos deles. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que Deus é o que me socorre; o Senhor [está] com aqueles que sustentam a minha alma."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele retribuirá com o mal aos que me espiam [contra mim] ; tu os elimina por tua verdade."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De boa vontade eu te oferecerei sacrifícios; louvarei o teu nome, SENHOR, porque é bom."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu tens me livrado de toda angústia; e meus olhos verão [o fim] de meus inimigos."
+                }
+            ]
+        }
+    ]
+}

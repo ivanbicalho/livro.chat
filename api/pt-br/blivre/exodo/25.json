@@ -1,0 +1,367 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dize aos filhos de Israel que tomem para mim oferta: de todo homem que a der de sua vontade, de coração, tomareis minha oferta."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E esta é a oferta que tomareis deles: Ouro, e prata, e bronze,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E material azul, e púrpura, e carmesim, e linho fino, e pelo de cabras,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E couros de carneiros tingidos de vermelho, e couros finos, e madeira de acácia;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Azeite para a luminária, especiarias para o azeite da unção, e para o incenso aromático;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedras de ônix, e pedras de engastes, para o éfode, e para o peitoral."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farão para mim um santuário, e eu habitarei entre eles."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Conforme tudo o que eu te mostrar, o desenho do tabernáculo, e o desenho de todos os seus objetos, assim o fareis."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farão também uma arca de madeira de acácia, cujo comprimento será de dois côvados e meio, e sua largura de côvado e meio, e sua altura de côvado e meio."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a cobrirás de ouro puro; por dentro e por fora a cobrirás; e farás sobre ela uma borda de ouro ao redor."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E para ela farás de fundição quatro anéis de ouro, que porás a seus quatro cantos; dois anéis ao um lado dela, e dois anéis ao outro lado."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farás umas varas de madeira de acácia, as quais cobrirás de ouro."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E meterás as varas pelos anéis aos lados da arca, para levar a arca com elas."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As varas se estarão nos anéis da arca: não se tirarão dela."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porás no arca o testemunho que eu te darei."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farás uma coberta de ouro fino, cujo comprimento será de dois côvados e meio, e sua largura de côvado e meio."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também dois querubins de ouro, lavrados a martelo os farás, nas duas extremidades do propiciatório."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás, pois, um querubim ao extremo de um lado, e um querubim ao outro extremo do lado oposto: da qualidade do propiciatório farás os querubins em suas duas extremidades."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os querubins estenderão por encima as asas, cobrindo com suas asas o propiciatório: suas faces a uma em frente da outra, olhando ao propiciatório as faces dos querubins."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porás o propiciatório encima da arca, e no arca porás o testemunho que eu te darei."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dali me declararei a ti, e falarei contigo de sobre o propiciatório, dentre os dois querubins que estão sobre a arca do testemunho, tudo o que eu te mandarei para os filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também uma mesa de madeira de acácia: seu comprimento será de dois côvados, e de um côvado sua largura, e sua altura de côvado e meio."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a cobrirás de ouro puro, e lhe farás uma borda de ouro ao redor."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também para ele também uma moldura ao redor, da largura de uma mão, à qual moldura farás uma borda de ouro ao redor."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lhe farás quatro anéis de ouro, os quais porás aos quatro cantos que correspondem a seus quatro pés."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os anéis estarão antes da moldura, por lugares das varas, para levar a mesa."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farás as varas de madeira de acácia, e as cobrirás de ouro, e com elas será levada a mesa."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também seus pratos, e suas colheres, e seus jarros, e suas bacias, com que se fará libações: de ouro fino os farás."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porás sobre a mesa o pão da proposição diante de mim continuamente."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farás também um candelabro de ouro puro; lavrado a martelo se fará o candelabro: seu pé, e sua cana, seus copos, seus botões, e suas flores, serão do mesmo:"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sairão seis braços de seus lados: três braços do candelabro do um lado seu, e três braços do candelabro do outro seu lado:"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Três copos em forma de amêndoas em um braço, um botão e uma flor; e três copos, forma de amêndoas no outro braço, um botão e uma flor: assim, pois, nos seis braços que saem do candelabro:"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no candelabro quatro copos em forma de amêndoas, seus botões e suas flores."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Haverá um botão debaixo dos dois braços do mesmo, outro botão debaixo dos outros dois braços do mesmo, e outra botão debaixo dos outros dois braços do mesmo, em conformidade aos seis braços que saem do candelabro."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seus botões e seus braços serão do mesmo, todo ele uma peça lavrada a martelo, de ouro puro."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E farás para ele sete lâmpadas, as quais acenderás para que iluminem à parte de sua dianteira:"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também suas tenazes e seus apagadores, de ouro puro."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De um talento de ouro fino o farás, com todos estes objetos."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E olha, e faze-os conforme seu modelo, que te foi mostrado no monte."
+                }
+            ]
+        }
+    ]
+}

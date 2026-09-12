@@ -1,0 +1,70 @@
+{
+    "book": "isaias",
+    "name": "Isaías",
+    "chapter": 18,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ai da terra dos zumbidos de asas, que está além dos rios de Cuxe,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que envia embaixadores pelo mar, e em navios de junco sobre as águas, [com a ordem] : Ide, mensageiros velozes, a uma nação [de gente] alta e de pele lisa, a um povo temido desde seus territórios afora, uma nação dominadora e esmagadora, cuja terra os rios dividem."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós todos, habitantes do mundo, e vós, moradores da terra, vede quando for levantada a bandeira [nos] montes, e ouvi quando for tocada a trombeta."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque assim me disse o SENHOR: Estarei quieto olhando desde minha morada, como o calor ardente da luz do sol, como a nuvem de orvalho no calor da ceifa."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque antes da ceifa, quando a flor já se acabou, e as uvas brotam prestes a amadurecer, então ele podará as vides com a foice e, tendo cortado os ramos, ele os tirará [dali] ."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles serão deixados juntos para as aves dos montes, e para os animais da terra; e sobre eles as aves passarão o verão, e todos os animais da terra passarão o inverno sobre eles."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquele tempo, será trazido um presente ao SENHOR dos exércitos por um povo alto e de pele lisa, e um povo temível desde seus territórios afora; uma nação dominadora e esmagadora, cuja terra rios dividem, ao lugar que pertence ao nome do SENHOR dos exércitos, ao monte de Sião."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não te orgulhes do dia de amanhã; porque não sabes o que o dia trará."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que o estranho te louve, e não tua [própria] boca; o estrangeiro, e não teus [próprios] lábios."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A pedra é pesada, e a areia tem [seu] peso; mas a provocação do tolo é mais pesada do que estas ambas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O furor é cruel, e a ira impetuosa; mas quem resistirá firme perante à inveja?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor é a repreensão clara do que o amor escondido."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fiéis são as feridas [feitas] por um amigo, mas os beijos de um inimigo são enganosos."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A alma saciada rejeita o favo de mel; mas para a alma faminta, toda coisa amarga é doce."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como a ave, que vagueia de seu ninho, assim é o homem que anda vagueando de seu lugar."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O óleo e o perfume alegram ao coração; assim é a doçura de um amigo com um conselho sincero."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não abandones o teu amigo, nem o amigo de teu pai; nem entres na casa de teu irmão no dia de tua adversidade; melhor é o vizinho que está perto do que o irmão que está longe."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sê sábio, meu filho, e alegra meu coração; para que eu tenha algo a responder para aquele que me desprezar."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O prudente vê o mal, [e] se esconde; [mas] os ingênuos passam adiante, e sofrem as consequências."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma a roupa daquele que fica por fiador de estranho; toma penhor daquele [que fica por fiador] da estranha."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que bendiz ao seu amigo em alta voz durante a madrugada lhe será considerado como maldição."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mulher briguenta é semelhante a uma goteira contínua em tempo de grande chuva;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tentar contê-la é como tentar conter o vento, ou impedir que o óleo escorra de sua mão direita."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O ferro é afiado com ferro; assim também o homem afia o rosto de seu amigo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que guarda a figueira comerá de seu fruto; e o que dá atenção ao seu senhor será honrado."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como a água reflete o rosto, assim também o coração reflete o ser humano."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O Xeol e a perdição nunca estão saciados; assim também os olhos do homem nunca estão satisfeitos."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Como] o crisol é para a prata, e o forno para o ouro, assim o homem [é provado] pelos louvores que lhe dizem."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ainda que esmagues ao tolo em um pilão junto com os grãos, ainda assim sua loucura não se separaria dele."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Procura conhecer a condição de tuas ovelhas; põe teu coração sobre o gado;"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque o tesouro não [dura] para sempre; nem uma coroa [dura] de geração em geração."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando a erva aparecer, e surgirem a folhagem, e se juntarem as ervas dos montes,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os cordeiros serão para tuas roupas, e os bodes para o preço do campo;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o leite das cabras será o suficiente para tua alimentação, para a alimentação de tua casa, e para o sustento de tuas servas."
+                }
+            ]
+        }
+    ]
+}

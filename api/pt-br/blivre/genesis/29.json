@@ -1,0 +1,322 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 29,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó seguiu o seu caminho, e foi à terra dos filhos do oriente."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E olhou, e viu um poço no campo: e eis três rebanhos de ovelhas que estavam deitados próximo dele; porque daquele poço davam de beber aos gados: e havia uma grande pedra sobre a boca do poço."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E juntavam-se ali todos os rebanhos; e revolviam a pedra de sobre a boca do poço, e davam de beber às ovelhas; e voltavam a pedra sobre a boca do poço a seu lugar."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes Jacó: Irmãos meus, de onde sois? E eles responderam: De Harã somos."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes disse: Conheceis a Labão, filho de Naor? E eles disseram: Sim, nós o conhecemos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes disse: Ele está bem? E eles disseram: Está bem; e eis que Raquel sua filha vem com o gado."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele disse: Eis que ainda é cedo do dia; não é hora de recolher o gado; dai de beber às ovelhas, e ide apascentá-las."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles responderam: Não podemos, até que se juntem todos os gados, e removam a pedra de sobre a boca do poço, para que demos de beber às ovelhas."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estando ainda ele falando com eles Raquel veio com o gado de seu pai, porque ela era a pastora."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sucedeu que, quando Jacó viu Raquel, filha de Labão irmão de sua mãe, e as ovelhas de Labão, o irmão de sua mãe, chegou-se Jacó, e removeu a pedra de sobre a boca do poço, e deu de beber ao gado de Labão irmão de sua mãe."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó beijou a Raquel, e levantou sua voz, e chorou."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó disse a Raquel como ele era irmão de seu pai, e como era filho de Rebeca: e ela correu, e deu as novas a seu pai."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E assim que ouviu Labão as novas de Jacó, filho de sua irmã, correu a recebê-lo, e abraçou-o, e beijou-o, e trouxe-lhe à sua casa: e ele contou a Labão todas estas coisas."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Labão lhe disse: Certamente és osso meu e carne minha. E esteve com ele durante um mês."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então disse Labão a Jacó: Por ser tu meu irmão, me hás de servir de graça? Declara-me o que será teu salário."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Labão tinha duas filhas: o nome da mais velha era Lia, e o nome da mais nova, Raquel."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os olhos de Lia eram tenros, mas Raquel era de lindo semblante e de bela aparência."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó amou a Raquel, e disse: Eu te servirei sete anos por Raquel tua filha mais nova."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Labão respondeu: Melhor é que a dê a ti, que não que a dê a outro homem: fica-te comigo."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim serviu Jacó por Raquel sete anos: e pareceram-lhe como poucos dias, porque a amava."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Jacó a Labão: Dá-me minha mulher, porque meu tempo é cumprido para que me deite com ela."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Labão juntou a todos os homens daquele lugar, e fez banquete."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sucedeu que à noite tomou sua filha Lia, e a trouxe; e ele se deitou com ela."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deu Labão sua serva Zilpa à sua filha Lia por criada."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vinda a manhã, eis que era Lia: e ele disse a Labão: Que é isto que me fizeste? Não te servi por Raquel? Por que, pois, me enganaste?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Labão respondeu: Não se faz assim em nosso lugar, que se dê a mais nova antes da mais velha."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cumpre a semana desta, e se te dará também a outra, pelo serviço que fizeres comigo por outros sete anos."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fez Jacó assim, e cumpriu a semana daquela; e ele lhe deu a sua filha Raquel por mulher."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deu Labão a Raquel sua filha por criada a sua serva Bila."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deitou-se também com Raquel: e amou-a também mais que a Lia: e serviu a ele ainda outros sete anos."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viu o SENHOR que Lia era mal-amada, e abriu sua madre; mas Raquel era estéril."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E concebeu Lia, e deu à luz um filho, e chamou seu nome Rúben, porque disse: Já que olhou o SENHOR minha aflição; agora, portanto, meu marido me amará."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E concebeu outra vez, e deu à luz um filho, e disse: Porquanto ouviu o SENHOR que eu era mal-amada, me deu também este. E chamou seu nome Simeão."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E concebeu outra vez, e deu à luz um filho, e disse: Agora esta vez meu marido se apegará a mim, porque lhe dei três filhos; portanto, chamou seu nome Levi."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E concebeu outra vez, e deu à luz um filho, e disse: Esta vez louvarei ao SENHOR; por isto chamou seu nome Judá; e deixou de dar à luz."
+                }
+            ]
+        }
+    ]
+}

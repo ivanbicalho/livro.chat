@@ -1,0 +1,106 @@
+{
+    "book": "jonas",
+    "name": "Jonas",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jonas se desgostou muito, e se encheu de ira."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E orou ao SENHOR, e disse: Ah, SENHOR, não foi isto o que eu dizia enquanto ainda estava em minha terra? Por isso me preveni fugindo a Társis; porque sabia eu que tu és Deus gracioso e misericordioso, que demoras a te irar, tens grande misericórdia, e te arrependes do mal."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora pois, ó SENHOR, peço-te que me mates, porque é melhor para mim morrer do que viver."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR lhe disse: É correta essa tua ira?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jonas saiu da cidade, e se sentou ao oriente da cidade, e fez para si ali uma barraca, e se sentou debaixo dela à sombra, até ver o que seria da cidade."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR Deus preparou uma planta, e a fez crescer sobre Jonas para que fizesse sombra sobre sua cabeça, e lhe aliviasse de seu mal-estar; e Jonas se alegrou grandemente por causa da planta."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Deus preparou uma lagarta no dia seguinte ao amanhecer, a qual feriu a planta, e ela se secou."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, ao levantar do sol, Deus preparou um quente vento oriental; e o sol feriu a Jonas na cabeça, de modo que ele se desmaiava, e desejava a morte, dizendo: Melhor é para mim morrer do que viver."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Deus disse a Jonas: É correta a tua ira pela planta?E ele respondeu: É correto eu me irar até a morte."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse: Tu tiveste pena da planta, na qual não trabalhaste, nem tu a fizeste crescer, que em uma noite nasceu, e em outra noite pereceu;"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não teria eu pena de Nínive, aquela grande cidade onde há mais de cem e vinte mil pessoas que não sabem a diferença entre sua mão direita e a esquerda, e muitos animais?"
+                }
+            ]
+        }
+    ]
+}

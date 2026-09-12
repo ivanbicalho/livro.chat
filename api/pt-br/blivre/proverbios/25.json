@@ -1,0 +1,259 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes também são provérbios de Salomão, que foram copiados pelos homens de Ezequias, rei de Judá."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É glória de Deus encobrir alguma coisa; mas a glória dos Reis é investigá-la."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para a altura dos céus, para a profundeza da terra, assim como para o coração dos reis, não há como serem investigados."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tira as escórias da prata, e sairá um vaso para o fundidor."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tira o perverso de diante do rei, e seu trono se firmará com justiça."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não honres a ti mesmo perante o rei, nem te ponhas no lugar dos grandes;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque é melhor que te digam: Sobe aqui;Do que te rebaixem perante a face do príncipe, a quem teus olhos viram."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não sejas apressado para entrar numa disputa; senão, o que farás se no fim teu próximo te envergonhar?"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disputa tua causa com teu próximo, mas não reveles segredo de outra pessoa."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que não te envergonhe aquele que ouvir; pois tua má fama não pode ser desfeita."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A palavra dita em tempo apropriado é [como] maçãs de ouro em bandejas de prata."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sábio que repreende junto a um ouvido disposto a escutar é [como] pendentes de ouro e ornamentos de ouro refinado."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como frio de neve no tempo da colheita, [assim] é o mensageiro fiel para aqueles que o enviam; porque ele refresca a alma de seus senhores."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Como] nuvens e ventos que não trazem chuva, [assim] é o homem que se orgulha de falsos presentes."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com paciência para não se irar é que se convence um líder; e a língua suave quebra ossos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Achaste mel? Come o que te for suficiente; para que não venhas a ficar cheio demais, e vomites."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não exagere teus pés na casa de teu próximo, para que ele não se canse de ti, e te odeie."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Martelo, espada e flecha afiada é o homem que fala falso testemunho contra seu próximo."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Confiar num infiel no tempo de angústia é [como] um dente quebrado ou um pé sem firmeza."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem canta canções ao coração aflito é como aquele que tira a roupa num dia frio, ou como vinagre sobre salitre."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se aquele que te odeia tiver fome, dá-lhe pão para comer; e se tiver sede, dá-lhe água para beber;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque [assim] amontoarás brasas sobre a cabeça dele, e o SENHOR te recompensará."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O vento norte traz a chuva; [assim como] a língua caluniadora [traz] a ira no rosto."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É melhor morar num canto do terraço do que com uma mulher briguenta numa casa espaçosa."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Como] água refrescante para a alma cansada, assim são boas notícias de uma terra distante."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo que se deixa levar pelo perverso é [como] uma fonte turva e um manancial poluído."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Comer muito mel não é bom; assim como buscar muita glória para si."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem que não pode conter seu espírito é [como] uma cidade derrubada sem muro."
+                }
+            ]
+        }
+    ]
+}

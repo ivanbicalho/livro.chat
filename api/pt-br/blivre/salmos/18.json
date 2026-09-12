@@ -1,0 +1,457 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 18,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para o regente. Do servo do SENHOR, chamado Davi, o qual falou as palavras deste cântico ao SENHOR, no dia em que o SENHOR o livrou das mãos de todos os seus inimigos, e das mãos de Saul. Ele disse:Eu te amarei, SENHOR, [tu és] minha força."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR é minha rocha, e minha fortaleza, e meu libertador, meu Deus, meu rochedo, em quem confio; [é] meu escudo, e a força da minha salvação, meu alto refúgio."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu clamei ao SENHOR digno de louvor; e fiquei livre de meus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cordas de morte me cercaram; e riachos de maldade me encheram de medo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cordas do Xeol me envolveram; laços de morte me afrontaram."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em minha angústia, clamei ao SENHOR, e roguei a meu Deus; desde o seu Templo ele ouviu a minha voz; e o meu clamor diante de seu rosto chegou aos ouvidos dele."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então a terra de abalou e tremeu; e os fundamentos dos montes de moveram e foram abalados, porque ele se irritou."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fumaça subiu de seu nariz, e fogo consumidor saiu de sua boca; carvões foram acesos por ele."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele moveu os céus, e desceu; e as trevas [estavam] debaixo de seus pés."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele montou sobre um querubim, e fez seu voo; e voou veloz sobre as assas do vento."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele pôs as trevas como seu esconderijo; pôs a sua tenda ao redor dele; trevas das águas, nuvens dos céus."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Do brilho de sua presença suas nuvens se espalharam, [e também] a saraiva, e as brasas de fogo."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR trovejou nos céus; e o Altíssimo soltou sua voz; saraiva e brasas de fogo [caíram] ."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele mandou suas flechas, e os dispersou; e [lançou] muitos raios, e os perturbou."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as profundezas das águas foram vistas, e os fundamentos do mundo foram descobertos por tua repreensão, SENHOR, pelo sopro do vento do teu nariz."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde o alto ele enviou, [e] me tomou; tirou-me de muitas águas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele me livrou do meu forte inimigo, e daqueles que me odeiam; porque eles eram mais poderosos do que eu."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles me confrontaram no dia de minha calamidade; mas o SENHOR ficou junto de mim."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele me tirou para um lugar amplo; ele me libertou, porque se agradou de mim."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR me recompensou conforme a minha justiça; conforme a pureza das minhas mãos ele me retribuiu."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eu guardei os caminhos do SENHOR; nem me [afastei] do meu Deus praticando o mal."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque todos os juízos dele estavam diante de mim; e não rejeitei seus estatutos para mim."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu fui fiel com ele; e tomei cuidado contra minha maldade."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim o SENHOR me recompensou conforme a minha justiça; conforme a pureza de minhas mãos perante seus olhos."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com o bondoso tu te mostras bondoso; [e] com o homem fiel tu te mostras fiel."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com o puro tu te mostras puro; mas com o perverso tu te mostras agressivo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu livras ao povo aflito, e humilhas aos olhos que se exaltam."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu acendes minha lâmpada; o SENHOR meu Deus ilumina as minhas trevas."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque contigo eu marcho [contra] um exército; e com meu Deus eu salto um muro."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O caminho de Deus é perfeito; a palavra do SENHOR é refinada; ele [é] escudo para todos os que nele confiam."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque quem é Deus, a não ser o SENHOR? E quem é rocha, a não ser o nosso Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus [é] o que me veste de força; e o que dá perfeição ao meu caminho."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele faz meus pés como o das cervas; e me põe em meus lugares altos."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele ensina minhas mãos para a guerra, [de modo que] um arco de bronze se quebra em meus braços."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também tu me deste o escudo de tua salvação, e tua mão direita me sustentou; e tua mansidão me engrandeceu."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu alargaste os meus passos abaixo de mim; e meus pés não vacilaram."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Persegui a meus inimigos, e eu os alcancei; e não voltei até os exterminá-los."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu os perfurei, que não puderam mais se levantar; caíram debaixo dos meus pés."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu me preparaste com força para a batalha; fizeste se curvarem abaixo de mim aqueles que contra mim tinham se levantado."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tu me deste a nuca de meus inimigos; destruí aos que me odiavam."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles clamaram, mas não havia quem os livrasse; [clamaram até] ao SENHOR, mas ele não lhes respondeu."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então eu os reduzi a pó, como a poeira ao vento; eu os joguei fora como a lama das ruas."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu me livraste das brigas do povo; tu me puseste como cabeça das nações; o povo que eu não conhecia me serviu."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao [me] ouvirem, [logo] me obedeceram; estrangeiros se sujeitaram a mim."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estrangeiros se enfraqueceram; e tremeram de medo desde suas extremidades."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR vive, e bendito [seja] minha rocha; e exaltado [seja] o Deus de minha salvação;"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O Deus que dá minha vingança, e sujeita aos povos debaixo de mim;"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que me livra dos meus inimigos; tu também me exaltas sobre aqueles que se levantam contra mim; tu me livras do homem violento."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, SENHOR, eu te louvarei entre as nações, e cantarei ao teu Nome;"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que faz grandes as salvações de seu Rei, e pratica a bondade para com o seu ungido, com Davi, e sua semente, para sempre."
+                }
+            ]
+        }
+    ]
+}

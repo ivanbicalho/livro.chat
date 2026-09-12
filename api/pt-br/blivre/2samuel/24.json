@@ -1,0 +1,232 @@
+{
+    "book": "2samuel",
+    "name": "2 Samuel",
+    "chapter": 24,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltou o furor do SENHOR a acender-se contra Israel, e incitou a Davi contra eles a que dissesse: Vai, conta a Israel e a Judá."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse o rei a Joabe, general do exército que tinha consigo: Rodeia todas as tribos de Israel, desde Dã até Berseba, e contai o povo, para que eu saiba o número da gente."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Joabe respondeu ao rei: Acrescente o SENHOR teu Deus ao povo cem vezes tanto quanto são, e que o veja meu senhor ao rei; mas para que quer isto meu senhor o rei?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém a palavra do rei pôde mais que Joabe, e que os capitães do exército. Saiu, pois, Joabe, com os capitães do exército, de diante do rei, para contar o povo de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E passando o Jordão assentaram em Aroer, à direita da cidade que está em meio do ribeiro de Gade e junto a Jazer."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois vieram a Gileade, e à terra baixa de Hodsi: e dali vieram a Dã-Jaã e ao redor de Sídon."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vieram logo à fortaleza de Tiro, e a todas as cidades dos heveus e dos cananeus; e saíram ao sul de Judá, a Berseba."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois que andaram toda a terra, voltaram a Jerusalém ao fim de nove meses e vinte dias."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Joabe deu a conta do número do povo ao rei; e foram os de Israel oitocentos mil homens fortes que tiravam espada; e dos de Judá quinhentos mil homens."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois que Davi contou o povo, sentiu-se atormentado em seu coração; e disse Davi ao SENHOR: Eu pequei gravemente por haver feito isto; mas agora, ó SENHOR, rogo-te que tires o pecado de teu servo, porque eu agi muito loucamente."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pela manhã, quando Davi se levantou, veio a palavra do SENHOR a Gade profeta, vidente de Davi, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vai, e dize a Davi: Assim disse o SENHOR: Três coisas te ofereço: tu te escolherás uma delas, a qual eu faça."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Veio, pois, Gade a Davi, e notificou-lhe, e disse-lhe: Queres que te venham sete anos de fome em tua terra? Ou que fujas três meses diante de teus inimigos, e que eles te persigam? Ou que três dias haja pestilência em tua terra? Pensa agora, e olha o que responderei ao que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Davi disse a Gade: Em grande angústia estou: rogo que caia na mão do SENHOR, porque suas misericórdias são muitas, e que não caia eu em mãos de homens."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enviou o SENHOR pestilência a Israel desde a manhã até o tempo assinalado: e morreram do povo, desde Dã até Berseba, setenta mil homens."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando o anjo estendeu sua mão sobre Jerusalém para destruí-la, o SENHOR se arrependeu daquele mal, e disse ao anjo que destruía o povo: Basta agora; detém tua mão. Então o anjo do SENHOR estava junto à eira de Araúna, o jebuseu."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Davi disse ao SENHOR, quando viu ao anjo que feria ao povo: Eu pequei, eu fiz a maldade: que fizeram estas ovelhas? Rogo-te que tua mão se torne contra mim, e contra a casa de meu pai."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Gade veio a Davi aquele dia, e disse-lhe: Sobe, e faze um altar ao SENHOR na era de Araúna jebuseu."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E subiu Davi, conforme ao dito de Gade, que o SENHOR lhe havia mandado."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E olhando Araúna, viu ao rei e a seus servos que passavam a ele. Saindo então Araúna, inclinou-se diante do rei até terra."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Araúna disse: Por que vem meu senhor o rei a seu servo? E Davi respondeu: Para comprar de ti a eira, para edificar altar ao SENHOR, a fim de que a mortandade cesse do povo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Araúna disse a Davi: Tome e sacrifique meu senhor o rei o que bem lhe parecer; eis aqui bois para o holocausto; e trilhos e outros equipamentos de bois para lenha:"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tudo isto, ó rei, Araúna dá ao rei. Logo disse Araúna ao rei: o SENHOR teu Deus se agrade de ti."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei disse a Araúna: Não, mas por preço o comprarei de ti; porque não oferecerei ao SENHOR meu Deus holocaustos gastando nada. Então Davi comprou a eira e os bois por cinquenta siclos de prata."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ali Davi edificou um altar ao SENHOR, e sacrificou holocaustos e ofertas pacíficas; e o SENHOR se aplacou com a terra, e cessou a praga de Israel."
+                }
+            ]
+        }
+    ]
+}

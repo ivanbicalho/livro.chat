@@ -1,0 +1,70 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 87,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo e cântico, dos filhos de Coré:Seu fundamento está nos santos montes."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR ama os portões de Sião mais que todas as habitações de Jacó."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Gloriosas coisas são faladas de ti, ó cidade de Deus. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Farei menção de Raabe e Babilônia aos que me conhecem; eis que da Filístia, Tiro e Cuxe [se dirá] : Este é nascido ali."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E de Sião se dirá: Este e aquele outro nasceram ali. E o próprio Altíssimo a manterá firme."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR contará, quando escrever dos povos: Este nasceu ali. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como os cantores e instrumentistas; todas as minhas fontes estão em ti."
+                }
+            ]
+        }
+    ]
+}

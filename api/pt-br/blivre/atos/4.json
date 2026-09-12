@@ -1,0 +1,340 @@
+{
+    "book": "atos",
+    "name": "Atos",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enquanto eles ainda estavam falando ao povo, vieram sobre eles os sacerdotes, e o oficial do Templo, e os saduceus,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muito incomodados por eles ensinarem ao povo, e anunciarem no [nome] de Jesus a ressurreição dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E puseram as mãos sobre eles, e os puseram na prisão até o dia seguinte, porque já era tarde."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E muitos dos que ouviram a palavra, creram; e era o número dos homens de cerca de cinco mil."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu no dia seguinte, que os chefes, e anciãos, e escribas, se reuniram em Jerusalém;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Anás, o sumo sacerdote, e Caifás, e João, e Alexandre, e todos quantos havia da linhagem do governo sacerdotal."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E pondo-os no meio, perguntaram [-lhes] : Por meio de que poder ou por qual nome vós fizestes isto?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pedro, cheio do Espírito Santo, lhes disse: Chefes do povo, e anciões de Israel,"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se hoje somos interrogados quanto a uma boa ação [feita] a um enfermo, pela qual este foi curado;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seja conhecido a todos vós, e a todos o povo de Israel, que pelo nome de Jesus Cristo, o nazareno, aquele que vós crucificastes, ao qual Deus ressuscitou dos mortos, por ele este [homem] está são diante de vós."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é a pedra que foi desprezada por vós, edificadores; a qual foi feita por cabeça de esquina."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em nenhum outro há salvação; porque nenhum outro nome há abaixo do céu, dado entre os seres humanos, em quem devemos ser salvos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles, ao verem a ousadia de Pedro, e de João; e informados que eles eram homens sem instrução e ordinários, maravilharam-se; e eles sabiam que eles tinham estado com Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo estar com eles o homem que tinha sido curado, nada tinham a dizer contra [eles] ."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandando-os saírem do supremo conselho, discutiam entre si,"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizendo: O que faremos a estes homens? Porque um sinal notório foi feito por eles, manifesto a todos os que habitam em Jerusalém, e não podemos negar."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas para que [esta notícia] não seja ainda mais divulgada entre o povo, façamos sérias ameaças a eles, para que nunca mais falem a ninguém neste nome."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chamando-os, ordenaram-lhes que nunca mais falassem nem ensinassem no nome de Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, respondendo Pedro, e João, disseram-lhes: Julgai se é justo diante de Deus, ouvir a vós mais do que a Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque nós não podemos deixar de falar daquilo que temos visto e ouvido."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles, tendo os ameaçado ainda mais, nada acharam [de motivo] para os castigar, e os deixaram ir por causa do povo; porque todos glorificavam a Deus pelo que tinha acontecido."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque era de mais de quarenta anos o homem em quem este milagre de cura tinha sido feito."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles, tendo sido soltos, vieram aos seus [companheiros] , e lhes contaram tudo o que os chefes dos sacerdotes e os anciãos tinham lhes dito."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles, ao ouvirem [isto] , levantaram concordantes a voz a Deus, e disseram: Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas as coisas que neles há;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que pelo Espírito Santo por meio da boca de nosso pai, teu servo Davi disseste: Por que os gentios se irritam, e os povos gastam seus pensamentos em coisas vãs?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os reis da terra se levantaram, e os príncipes se juntaram em um mesmo [propósito] contra o Senhor, e contra o seu Ungido."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque verdadeiramente contra teu Santo Filho Jesus, ao qual tu ungiste, se ajuntaram, tanto Herodes, como Pôncio Pilatos, com os gentios e os povos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para fazerem tudo o que a tua mão e o teu conselho desde antes tinha determinado para acontecer."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E agora, Senhor, observa as ameaças deles, e dá a teus servos, que com toda ousadia falem tua palavra;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estendendo tua mão para a cura, e que se façam sinais e milagres pelo nome de teu Santo filho Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tendo orado, agitou-se o lugar em que eles estavam juntos, e foram todos cheios do Espírito Santo, e falavam a palavra de Deus com ousadia."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a multidão dos que criam, era de um só oração e uma só alma; e ninguém dizia ser próprio coisa alguma de seus bens, mas todas as coisas lhes eram comuns."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E com grande poder os apóstolos davam testemunho da ressurreição do Senhor Jesus; e em todos eles havia grande graça."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque também nenhum necessitado havia entre eles; porque todos os que possuíam propriedades de terras, ou casas, vendendo [-as] , traziam o valor das coisas vendidas, e [o] depositavam junto aos pés dos apóstolos."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a cada um se repartia segundo cada qual tinha necessidade."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E José, chamado pelos apóstolos pelo sobrenome de Barnabé (que traduzido é filho da consolação), levita, natural do Chipre,"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tendo ele uma propriedade de terra, vendeu [-a] , e trouxe o valor, e [o] depositou junto aos pés dos apóstolos."
+                }
+            ]
+        }
+    ]
+}

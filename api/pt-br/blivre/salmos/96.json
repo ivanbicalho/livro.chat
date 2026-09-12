@@ -1,0 +1,124 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 96,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai ao SENHOR uma nova canção; cantai ao SENHOR toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai ao SENHOR, bendizei ao seu nome; anunciai todos os dias sua salvação."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Contai sua glória por entre as nações, [e] suas maravilhas por entre todos os povos."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR é grande e muito digno de louvor; ele é mais temível que todos os deuses."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque todos os deuses dos povos são ídolos, porém o SENHOR fez os céus;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Majestade e glória há diante dele; força e beleza [há] em seu santuário."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reconhecei ao SENHOR, ó famílias dos povos; reconhecei que ao SENHOR pertence a glória e a força."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Reconhecei ao SENHOR a glória de seu nome; trazei ofertas, e entrai nos pátios dele."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Adorai ao SENHOR na glória da santidade; temei perante sua presença toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizei entre as nações: O SENHOR reina; o mundo está firme, e não se abalará; ele julgará aos povos de forma correta."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alegrem-se os céus, e enchei de alegria a terra; faça barulho o mar e sua plenitude."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saltem contentes o campo e tudo que nele há, e que todas as árvores dos bosque cantem de alegria,"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Diante do SENHOR; porque ele vem; porque ele vem para julgar a terra. Ele julgará ao mundo com justiça, e aos povos com sua verdade."
+                }
+            ]
+        }
+    ]
+}

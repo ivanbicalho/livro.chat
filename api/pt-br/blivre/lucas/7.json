@@ -1,0 +1,457 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois de acabar todos os seus discursos aos ouvidos do povo, ele entrou em Cafarnaum."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o servo de um certo centurião, a quem muito estimava, que estava doente, e a ponto de morrer."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando [o centurião] ouviu falar sobre Jesus, enviou-lhe uns anciãos dos judeus, rogando-lhe que viesse curar o seu servo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles vieram a Jesus, e rogaram-lhe com urgência, dizendo: Ele é digno de lhe concederes isto,"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque ele ama a nossa nação, e ele mesmo construiu a nossa sinagoga."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus foi com eles; mas quando já não estava longe da casa, o centurião enviou uns amigos, dizendo-lhe: “Senhor, não te incomodes, porque não sou digno que entres abaixo do meu telhado."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso que nem mesmo me considerei digno de vir a ti; mas diz uma palavra, e seja o meu servo sarado."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque também eu sou homem subordinado à autoridade, e tenho soldados sob o meu comando, e digo a este: 'Vai', e ele vai; e a outro: 'Vem', e ele vem; e a meu servo: 'Faz isto', e ele faz”."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Jesus ouviu isso, admirou-se dele; então se virou, e disse à multidão que o seguia: Digo-vos que nem mesmo em Israel achei tanta fé."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando os que foram enviados voltaram para casa, acharam com boa saúde o servo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu pouco depois, que [Jesus] ia a uma cidade chamada Naim, e com ele iam muitos de seus discípulos e uma grande multidão."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que [era] viúva; e com ela [ia] grande multidão da cidade."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o Senhor a viu, comoveu-se de intima compaixão por ela, e disse-lhe: Não chores."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então se aproximou, tocou o caixão (e os que a levavam, pararam), e disse: Jovem, a ti eu digo: levanta-te."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o defunto se sentou e começou a falar; e ele o entregou à sua mãe."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos se encheram de temor, e glorificavam a Deus, dizendo: “Um grande profeta se levantou entre nós, e Deus visitou o seu povo!”"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E essa sua fama correu por toda a Judeia, e por toda a região em redor."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os discípulos de João lhe anunciaram essas coisas."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então João chamou dois de seus discípulos, e os enviou ao Senhor, dizendo: “És tu aquele que havia de vir, ou esperamos outro?”"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando aqueles homens vieram a ele, disseram: “João Batista nos enviou a ti, dizendo: 'És tu aquele que havia de vir, ou esperamos outro?'”"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquela mesma hora ele curou a muitos de enfermidades, males, e espíritos maus, e a deu vista a muitos cegos."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes respondeu: Ide, e anunciai a João as coisas que tendes visto e ouvido: que os cegos veem, os mancos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam, e aos pobres é anunciado o Evangelho."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E bendito é aquele que não se ofender em mim."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando os mensageiros de João se foram, [Jesus] começou a dizer às multidões acerca de João: Que saístes para ver no deserto? Alguma cana sacudida pelo vento?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas que saístes para ver? Um homem vestido de roupas delicadas? Eis que os que [vestem] roupas delicadas e vivem no luxo estão nos palácios reais."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas que saístes para ver? Um profeta? Sim, vos digo, e muito mais que profeta."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é aquele de quem está escrito: Eis que envio o meu mensageiro adiante de tua face, o qual preparará o teu caminho diante de ti."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu vos digo, que dentre os nascidos de mulheres, ninguém há maior que João; mas o menor no reino dos céus é maior que ele."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo o povo e os publicanos ouviram, concordaram que Deus era justo, e foram batizados com o batismo de João."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os fariseus e os estudiosos da Lei rejeitaram o conselho de Deus contra si mesmos, e não foram batizados por ele."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o Senhor disse: “A quem, pois, compararei as pessoas desta geração? E a quem são semelhantes?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "São semelhantes às crianças sentadas na praça, que gritam umas às outras: 'Nós vos tocamos flautas, mas não dançastes; nós cantamos lamentações, mas não chorastes'."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque veio João Batista, que não comia pão, nem bebia vinho, e dizeis: 'Ele tem demônio';"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Veio o Filho do homem, que come e bebe, e dizeis: 'Eis um homem comilão e bebedor de vinho, amigo dos publicanos e dos pecadores'."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas a sabedoria foi considerada justa por todos os seus filhos”."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um dos fariseus lhe pediu que comesse com ele; então entrou na casa do fariseu, e sentou-se [à mesa] ."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que uma mulher da cidade, que era pecadora, quando soube que ele estava na casa do fariseu, trouxe um vaso de alabastro de óleo perfumado."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estando atrás, aos seus pés, chorando, começou a molhar-lhe os pés com lágrimas; e os enxugava com os cabelos da sua cabeça; e beijava-lhe os pés, e os ungia com o óleo perfumado."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando o fariseu que o havia convidado viu [isso] , falou consigo mesmo: Se ele fosse profeta, saberia quem e qual é a mulher que o toca; porque ela é pecadora."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhe respondeu: “Simão, tenho uma coisa a te dizer”; e ele disse: “Dize-a, Mestre”."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] disse: “Certo credor tinha dois devedores. Um lhe devia quinhentas moedas de prata, e o outro cinquenta."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como não tinham com que pagar, perdoou-lhes [a dívida] de ambos. Qual, pois, deles o amará mais?”"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Simão respondeu: Tenho para mim que aquele a quem mais perdoou. E ele lhe disse: Julgaste corretamente."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele se voltou à mulher, e disse a Simão: Vês tu esta mulher? Entrei na tua casa, e não me deste água para os pés; porém esta molhou os meus pés com lágrimas, e os enxugou com os seus cabelos."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu não me beijaste; porém esta, desde que entrou, não parou de me beijar os pés."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não ungiste a minha cabeça com óleo, porém esta ungiu os meus pés com óleo perfumado."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso te digo, os muitos pecados dela são perdoados, porque muito amou; mas ao que pouco se perdoa, pouco ama."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse a ela: Os teus pecados são perdoados."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que estavam sentados começaram a dizer entre si: Quem é este, que até perdoa pecados?"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse à mulher: A tua fé te salvou; vai em paz."
+                }
+            ]
+        }
+    ]
+}

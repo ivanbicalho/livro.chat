@@ -1,0 +1,304 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 30,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Palavras de Agur, filho de Jaque, o de fala solene; [Este] homem diz a Itiel; a Itiel e a Ucal:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente eu sou o mais bruto dos homens, e não tenho entendimento humano."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não aprendi sabedoria, nem tenho conhecimento do Santo [Deus] ."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem subiu ao céu, e desceu? Quem juntou os ventos com suas mãos? Quem amarrou as águas numa capa? Quem estabeleceu todos os limites da terra? Qual é o seu nome? e qual é o nome de seu filho, se tu o sabes?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda palavra de Deus é pura; é escudo para os que nele confiam."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nada acrescentes às suas palavras, para que ele não te repreenda, e sejas mostrado como mentiroso."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Duas coisas eu te pedi; não [as] negues a mim antes que eu morra."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Afasta de mim a inutilidade e palavra mentirosa; [e] não me dês nem pobreza nem riqueza, mantém-me com o pão que me for necessário."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que não aconteça de eu ficar farto e [te] negar, dizendo: Quem é o SENHOR?Nem também que eu empobreça, e venha a furtar, e desonre o nome do meu Deus."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não difames do servo ao seu senhor, para que ele não te amaldiçoe e fiques culpado."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há gente que amaldiçoa a seu pai e não bendiz à sua mãe;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há gente que é pura aos seus [próprios] olhos, mas que não foi lavada de sua imundície;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há gente cujos olhos são arrogantes, e cujas sobrancelhas são levantadas;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há gente cujos dentes são espadas, e cujos queixos são facas, para devorarem aos aflitos da terra aos aflitos, e aos necessitados dentre os homens."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A sanguessuga tem duas filhas: “Dá” e “Dá”; estas três coisas nunca se fartam, e quatro nunca dizem “É o suficiente”:"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O Xeol, o útero estéril, a terra que não se farta de água, e o fogo que nunca diz estar satisfeito."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os olhos que zombam do pai ou desprezam obedecer à mãe, os corvos do riacho os arrancarão, e os filhotes de abutre os comerão."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas três coisas me maravilham, e quatro que não entendo:"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O caminho da águia no céu, o caminho da serpente na rocha, o caminho do navio no meio do mar, e o caminho do homem com uma moça."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim é o caminho da mulher adúltera: ela come, limpa sua boca, e diz: Não fiz mal algum."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por três coisas a terra se alvoroça, e por quatro que não pode suportar:"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo servo que governa como rei; [pelo] tolo que se enche de comida;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pela mulher odiada, quando se casa; e [pela] serva quando toma o lugar de sua senhora."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas quatro coisas são pequenas sobre a terra, porém muito sábias:"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As formigas não são criaturas fortes, mas no verão preparam sua comida;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os roedores são um “povo” fraco, mas fazem suas casas nas rochas;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os gafanhotos não têm rei; mas todos saem em bandos;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As lagartixas podem ser pegas com as mãos, e mesmo assim estão nos palácios dos reis."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes três tem um bom andar, e quatro que se movem muito bem:"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O leão, forte entre os animais, que não foge de ninguém;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O galo, o bode, e o rei com seu exército."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se agiste como tolo, exaltando-te, e se planejaste o mal, [põe tua] mão sobre a boca;"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque [como] o forçar do leite produz manteiga, e o forçar do nariz produz sangue, [assim também] o forçar da ira produz briga."
+                }
+            ]
+        }
+    ]
+}

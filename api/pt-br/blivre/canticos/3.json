@@ -1,0 +1,106 @@
+{
+    "book": "canticos",
+    "name": "Cânticos",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Ela] :Durante as noites busquei em minha cama a quem minha alma ama; busquei-o, mas não o achei."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso me levantarei, e percorrerei a cidade, pelas ruas e pelas praças; buscarei a quem minha alma ama; busquei-o, mas não o achei."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os guardas que rondavam pela cidade me encontraram. [Eu lhes perguntei] : Vistes a quem minha alma ama?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pouco [depois] de me afastar deles, logo achei a quem minha alma ama. Eu o segurei, e não o deixei ir embora, até eu ter lhe trazido à casa de minha mãe, ao cômodo daquela que me gerou."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu vos ordeno, filhas de Jerusalém: jurai pelas corças e pelas cervas do campo que não acordeis nem desperteis ao amor, até que ele queira."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é esta, que sobe do deserto como colunas de fumaça, perfumada com mirra, incenso, e com todo tipo de pó aromático de mercador?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis a cama móvel de Salomão! Sessenta guerreiros estão ao redor dela, dentre os guerreiros de Israel;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos eles portando espadas, habilidosos na guerra; cada um com sua espada à cintura, para [o caso de haver] um ataque repentino de noite."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei Salomão fez para si uma liteira de madeira do Líbano."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Suas colunas ele fez de prata, seu assoalho de ouro, seu assento de púrpura; por dentro coberta com [a obra do] amor das filhas de Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Saí, ó filhas de Sião, e contemplai ao rei Salomão, com a coroa a qual sua mãe o coroou, no dia de seu casamento, no dia da alegria do seu coração."
+                }
+            ]
+        }
+    ]
+}

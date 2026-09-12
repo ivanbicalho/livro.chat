@@ -1,0 +1,322 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 104,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Louva, minha alma, ao SENHOR; ó SENHOR meu Deus, tu és grandioso; de majestade e de glória estás vestido."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu estás coberto de luz, como que uma roupa; estendes os céus como cortinas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele, que fixou seus cômodos sobre as águas; que faz das nuvens sua carruagem; que se move sobre as asas do vento."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que faz de seus anjos ventos, e de seus servos fogo flamejante."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele fundou a terra sobre suas bases; ela jamais se abalará."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com o abismo, como um vestido, tu a cobriste; sobre os montes estavam as águas."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Elas fugiram de tua repreensão; pela voz de teu trovão elas se recolheram apressadamente."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os montes subiram [e] os vales desceram ao lugar que tu lhes tinha fundado."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu [lhes] puseste um limite, que não ultrapassarão; não voltarão mais a cobrir a terra."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele envia fontes aos vales, para que corram por entre os montes."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Elas dão de beber a todos os animais do campo; os asnos selvagens matam a sede [com elas] ."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Junto a elas habitam as aves dos céus, que dão [sua] voz dentre os ramos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele rega os montes desde seus cômodos; a terra se farta do fruto de tuas obras."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele faz brotar a erva para os animais, e as plantas para o trabalho do homem, fazendo da terra produzir o pão,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o vinho, que alegra o coração do homem, [e] faz o rosto brilhar o rosto com o azeite; com o pão, que fortalece o coração do homem."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As árvores do SENHOR são fartamente [nutridas] ,os cedros do Líbano, que ele plantou."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Onde as aves fazem ninhos, e os pinheiros são as casas para as cegonhas."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os altos montes são para as cabras selvagens; as rochas, refúgio para os coelhos."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele fez a lua para [marcar] os tempos, e o sol sobre seu poente."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele dá ordens à escuridão, e faz haver noite, quando saem todos os animais do mato."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos dos leões, rugindo pela presa, e para buscar de Deus sua comida."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o sol volta a brilhar, [logo] se recolhem, e vão se deitar em suas tocas."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o homem sai para seu trabalho e sua obra até o entardecer."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como são muitas as suas obras, SENHOR! Tu fizeste todas com sabedoria; a terra está cheia de teus bens."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este grande e vasto mar, nele há inúmeros seres, animais pequenos e grandes."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por ali andam os navios e o Leviatã que formastes, para que te alegrasses nele."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos eles aguardam por ti, que [lhes] dês seu alimento a seu tempo [devido] ."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que tu dás, eles recolhem; tu abres tua mão, [e] eles se fartam de coisas boas."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Quando] tu escondes teu rosto, eles ficam perturbados; [quando] tu tiras o fôlego deles, [logo] eles morrem, e voltam ao seu pó."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu envias o teu fôlego, e logo são criados; e [assim] tu renovas a face da terra."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A glória do SENHOR será para sempre; alegre-se o SENHOR em suas obras."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Quando] ele olha para a terra, [logo] ela treme; [quando] ele toca nos montes, eles soltam fumaça."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantarei ao SENHOR em [toda] a minha vida; tocarei música ao meu Deus enquanto eu existir."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus pensamentos lhe serão agradáveis; eu me alegrarei no SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os pecadores serão consumidos da terra, e os maus não existirão mais. Bendizei, ó minha alma, ao SENHOR! Aleluia!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 130,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cântico dos degraus:Das profundezas clamo a ti, SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouve, Senhor, a minha voz; sejam teus ouvidos atentos à voz de minhas súplicas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se tu, SENHOR, considerares todas as perversidades, quem resistirá, Senhor?"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas contigo está o perdão, para que tu sejas temido."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mantenho esperança no SENHOR, a minha alma espera; e persisto em sua palavra."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma [espera ansiosamente] pelo Senhor, mais que os guardas [esperam] pela manhã, [mais] que os vigilantes pelo alvorecer."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Espere, Israel, pelo SENHOR; porque com o SENHOR há bondade, e com ele muito resgate."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele resgatará Israel de todas as suas perversidades."
+                }
+            ]
+        }
+    ]
+}

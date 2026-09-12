@@ -1,0 +1,286 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 11,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A balança enganosa [é] abominação ao SENHOR; mas o peso justo [é] seu prazer."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando vem a arrogância, vem também a desonra; mas com os humildes [está] a sabedoria."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A integridade dos corretos os guia; mas a perversidade dos enganadores os destruirá."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nenhum proveito terá a riqueza no dia da ira; mas a justiça livrará da morte."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A justiça do íntegro endireitará seu caminho; mas o perverso cairá por sua perversidade."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A justiça dos corretos os livrará; mas os transgressores serão presos em sua própria perversidade."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o homem mau morre, sua expectativa morre; e a esperança de seu poder perece."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo é livrado da angústia; e o perverso vem em seu lugar."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O hipócrita com a boca prejudica ao seu próximo; mas os justos por meio do conhecimento são livrados."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No bem dos justos, a cidade se alegra muito; e quando os perversos perecem, há alegria."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pelo bênção dos sinceros a cidade se exalta; mas pela boca dos perversos ela se destrói."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que não tem entendimento despreza a seu próximo; mas o homem bom entendedor se mantêm calado."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que conta fofocas revela o segredo; mas o fiel de espírito encobre o assunto."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando não há conselhos sábios, o povo cai; mas na abundância de bons conselheiros [consiste] o livramento."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Certamente aquele que se tornar fiador de algum estranho passará por sofrimento; mas aquele odeia firmar compromissos [ficará] seguro."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mulher graciosa guarda a honra, assim como os violentos guardam as riquezas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem bondoso faz bem à sua alma; mas o cruel atormenta sua [própria] carne."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso recebe falso pagamento; mas aquele que semeia justiça [terá] uma recompensa fiel."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim como a justiça [leva] para a vida; assim também aquele que segue o mal [é levado] para sua [própria] morte."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR abomina os perversos de coração; porém ele se agrada que caminham com sinceridade."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Com certeza o mal não será absolvido; mas a semente dos justos escapará livre."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A mulher bela mas sem discrição é como uma joia no focinho de uma porca."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O desejo dos justos é somente para o bem; mas a esperança dos perversos é a fúria."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há quem dá generosamente e tem cada vez mais; e há quem retém mais do que é justo e empobrece."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A alma generosa prosperará, e aquele que saciar também será saciado."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O povo amaldiçoa ao que retém o trigo; mas bênção haverá sobre a cabeça daquele que [o] vende."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que com empenho busca o bem, busca favor; porém o que procura o mal, sobre ele isso lhe virá."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que confia em suas riquezas cairá; mas os justos florescerão como as folhas."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que perturba sua [própria] casa herdará vento; e o tolo será servo do sábio de coração."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O fruto do justo é uma árvore de vida; e o que ganha almas é sábio."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, se o justo recebe seu pagamento na terra, quanto mais o perverso e o pecador!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,448 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés e a Arão, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma a conta dos filhos de Coate dentre os filhos de Levi, por suas famílias, pelas casas de seus pais,"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De idade de trinta anos acima até cinquenta anos, todos os que entram em companhia, para fazer serviço no tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este será o ofício dos filhos de Coate no tabernáculo do testemunho, no lugar santíssimo:"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando se houver de mudar o acampamento, virão Arão e seus filhos, e desarmarão o véu da tenda, e cobrirão com ele a arca do testemunho:"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porão sobre ela a coberta de peles finas, e estenderão encima o pano todo de azul, e lhe porão suas varas."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre a mesa da proposição estenderão o pano azul, e porão sobre ela os pratos, e as colheres, e os copos, e as taças para fazer libações: e o pão contínuo estará sobre ela."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estenderão sobre ela o pano de carmesim colorido, e o cobrirão com a coberta de peles finas; e lhe porão suas varas."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomarão um pano azul, e cobrirão o candelabro da luminária; e suas lâmpadas, e suas tenazes, e seus apagadores, e todos os seus vasos do azeite com que se serve;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o porão com todos os seus utensílios em uma coberta de peles finos, e o colocarão sobre umas armações."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o altar de ouro estenderão o pano azul, e lhe cobrirão com a coberta de peles finas, e lhe porão suas varas."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomarão todos os vasos do serviço, de que fazem uso no santuário, e os porão em um pano azul, e os cobrirão com uma coberta de peles finas, e os colocarão sobre umas armações."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tirarão a cinza do altar, e estenderão sobre ele um pano de púrpura:"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porão sobre ele todos os seus instrumentos de que se serve: as pás, os garfos, os braseiros, e as taças, todos os utensílios do altar; e estenderão sobre ele o propiciatório de peles finas, e lhe porão também as varas."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E em acabando Arão e seus filhos de cobrir o santuário e todos os vasos do santuário, quando o acampamento se houver de mudar, virão depois disso os filhos de Coate para conduzir: mas não tocarão coisa santa, que morrerão. Estas serão as cargas dos filhos de Coate no tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ao cargo de Eleazar, filho de Arão o sacerdote, estará o azeite da luminária, e o incenso aromático, e a oferta de cereais contínua, e o azeite da unção; o cargo de todo o tabernáculo, e de tudo o que está nele, no santuário, e em seus utensílios."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés e a Arão, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não cortareis a tribo das famílias de Coate dentre os levitas;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas isto fareis com eles, para que vivam, e não morram quando achegarem ao lugar santíssimo: Arão e seus filhos virão e os porão a cada um em seu ofício, e em seu cargo."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não entrarão para ver, quando cobrirem as coisas santas; que morrerão."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma também a conta dos filhos de Gérson pelas casas de seus pais, por suas famílias."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De idade de trinta anos acima até cinquenta anos os contarás; todos os que entram em companhia, para fazer serviço no tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este será o ofício das famílias de Gérson, para ministrar e para levar:"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levarão as cortinas do tabernáculo, e o tabernáculo do testemunho, sua coberta, e a coberta de peles finas que está sobre ele encima, e a cortina da porta do tabernáculo do testemunho,"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as cortinas do átrio, e a cortina da porta do átrio, que está próxima do tabernáculo e próxima do altar ao redor, e suas cordas, e todos os instrumentos de seu serviço, e tudo o que será feito para eles: assim servirão."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Segundo a ordem de Arão e de seus filhos será todo o ministério dos filhos de Gérson em todos os seus cargas, e em todo o seu serviço: e lhes atribuireis em responsabilidade todas as suas cargas."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este é o serviço das famílias dos filhos de Gérson no tabernáculo do testemunho: e a responsabilidade deles estará sob a mão de Itamar, filho de Arão o sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Contarás os filhos de Merari por suas famílias, pelas casas de seus pais."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde o de idade de trinta anos acima até o de cinquenta anos, os contarás; todos os que entram em companhia, para fazer serviço no tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E este será o dever de seu cargo para todo seu serviço no tabernáculo do testemunho: as tábuas do tabernáculo, e suas barras, e suas colunas, e suas bases,"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as colunas do átrio ao redor, e suas bases, e suas estacas, e suas cordas com todos os seus instrumentos, e todo seu serviço; e contareis por seus nomes todos os vasos da guarda de seu cargo."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este será o serviço das famílias dos filhos de Merari para todo seu ministério no tabernáculo do testemunho, sob a mão de Itamar, filho de Arão o sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Moisés, pois, e Arão, e os chefes da congregação, contaram os filhos de Coate por suas famílias, e pelas casas de seus pais,"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde o de idade de trinta anos acima até o de idade de cinquenta anos; todos os que entram em companhia, para ministrar no tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram os contados deles por suas famílias, dois mil setecentos e cinquenta."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes foram os contados das famílias de Coate, todos os que ministram no tabernáculo do testemunho, os quais contaram Moisés e Arão, como o mandou o SENHOR por meio de Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os contados dos filhos de Gérson, por suas famílias, e pelas casas de seus pais,"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde o de idade de trinta anos acima até o de idade de cinquenta anos, todos os que entram em companhia, para ministrar no tabernáculo do testemunho;"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles por suas famílias, pelas casas de seus pais, foram dois mil seiscentos e trinta."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os contados das famílias dos filhos de Gérson, todos os que ministram no tabernáculo do testemunho, os quais contaram Moisés e Arão por ordem do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os contados das famílias dos filhos de Merari, por suas famílias, pelas casas de seus pais,"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde o de idade de trinta anos acima até o de idade de cinquenta anos, todos os que entram em companhia, para ministrar no tabernáculo do testemunho;"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles, por suas famílias, foram três mil e duzentos."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes foram os contados das famílias dos filhos de Merari, os quais contaram Moisés e Arão, segundo o mandou o SENHOR por meio de Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os contados dos levitas, que Moisés e Arão e os chefes de Israel contaram por suas famílias, e pelas casas de seus pais,"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde o de idade de trinta anos acima até o de idade de cinquenta anos, todos os que entravam para ministrar no serviço, e ter cargo de obra no tabernáculo do testemunho;"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os contados deles foram oito mil quinhentos e oitenta,"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como o mandou o SENHOR por meio de Moisés foram contados, cada um segundo seu ofício, e segundo seu cargo; os quais contou ele, como lhe foi mandado."
+                }
+            ]
+        }
+    ]
+}

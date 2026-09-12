@@ -1,0 +1,430 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois disto houve uma festa dos judeus, e subiu Jesus para Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E há em Jerusalém à [porta] das ovelhas um tanque, que em hebraico se chama Betesda, que tem cinco entradas cobertas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nestes jazia grande multidão de enfermos, cegos, mancos, [e de corpo] ressecado«, aguardando o movimento da água."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque um anjo descia de vez em quando ao tanque, e agitava a água; e o primeiro que descia nele, depois do movimento da água, sarava de qualquer enfermidade que tivesse.»"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estava ali um certo homem, que havia trinta e oito anos que estava enfermo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vendo Jesus a este deitado, e sabendo, que já havia muito tempo que [ali] jazia, disse-lhe: Queres sarar?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhe o enfermo: Senhor, não tenho homem algum para que, quando a água se agita, me ponha no tanque; e enquanto eu venho, outro desce antes de mim."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: Levanta-te, toma teu leito, e anda."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E logo aquele homem sarou; e tomou seu leito, e andou. E era Sábado aquele dia."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram pois os judeus para aquele que fora curado: É Sábado, não te é lícito levar o leito."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu-lhes ele: Aquele que me curou, esse me disse: Toma teu leito, e anda."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Perguntaram-lhe pois: Quem é o homem que te disse: Toma teu leito e anda?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que fora curado, não sabia quem [o] era, porque Jesus se havia retirado, porque naquele lugar havia uma [grande] multidão."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois Jesus achou-o no Templo, e disse-lhe: Eis que já estás são; não peques mais, para que não te suceda alguma coisa pior."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele homem foi anunciar aos judeus que Jesus era o que o curara."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por isso os judeus perseguiam Jesus, porque ele fazia estas coisas no sábado."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhes respondeu: Meu Pai até agora trabalha, e eu [também] trabalho."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isto ainda mais procuravam os Judeus matá-lo, porque não só quebrava o sábado, mas também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu pois Jesus, e disse-lhes: Em verdade, em verdade vos digo, que não pode o Filho fazer coisa alguma de si mesmo, a não ser aquilo que ele veja o Pai fazer; porque todas as coisas que ele faz, semelhantemente o Filho também as faz."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o Pai ama ao Filho, e todas as coisas que faz lhe mostra; e maiores obras que estas lhe mostrará, para que vós vos maravilheis."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque como o Pai aos mortos ressuscita e vivifica, assim também o Filho aos que quer vivifica."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque também o Pai a ninguém julga, mas todo o juízo deu ao Filho,"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que todos honrem ao Filho, como honram ao Pai. Quem não honra ao Filho, não honra ao Pai que o enviou."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade, em verdade vos digo, que quem ouve minha palavra, e crê ao que me enviou, tem vida eterna, e não virá em condenação, mas passou da morte para a vida."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade, em verdade vos digo, que a hora vem, e agora é, quando os mortos ouvirão a voz do Filho de Deus, e aos que ao ouvirem, viverão."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque como o Pai tem vida em si mesmo, assim deu também ao Filho que tivesse vida em si mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deu-lhe poder, para fazer juízo, porque é o Filho do homem."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não vos maravilheis disto; porque a hora vem, em que todos os que estão nos sepulcros ouvirão sua voz."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sairão os que fizeram bem, para a ressurreição de vida; e os que fizeram mal, à ressurreição de condenação."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não posso eu de mim mesmo fazer alguma coisa. Como ouço, [assim] julgo; e meu juízo é justo; porque não busco minha vontade, mas a vontade do Pai que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu testemunho de mim mesmo, meu testemunho não é verdadeiro."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Outro há que testemunha de mim, e sei que o testemunho, que testemunha de mim, é verdadeiro."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós enviastes [mensageiros] a João, e ele deu testemunho à verdade."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu não recebo testemunho humano; mas digo isto para que sejais salvos."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele era uma lâmpada ardente e brilhante; e vós quisestes por um pouco de tempo alegrar em sua luz."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu tenho maior testemunho que [o] de João; porque as obras que o Pai me deu que cumprisse, as mesmas obras que eu faço, testemunham de mim que o Pai me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o Pai que me enviou, ele mesmo testemunhou de mim. Nunca ouvistes sua voz, nem vistes sua aparência."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não tendes sua palavra permanecendo em vós; porque ao que ele enviou, a esse vós não credes."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Investigai as Escrituras; porque vós pensais que nelas tendes a vida eterna, e elas são as que de mim testemunham."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não quereis vir a mim, para que tenhais vida."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não recebo honra humana."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu bem vos conheço que não tendes o amor de Deus em vós mesmos."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu vim em nome de meu Pai, e vós não me aceitais; se outro vier em seu próprio nome, a esse aceitareis."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como podeis vós crer, [se] tomais honra uns dos outros, e não buscais a honra que [vem] somente de Deus?"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não penseis que eu vos tenha de acusar para com o Pai; o que vos acusa é Moisés, em quem vós esperais."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque se vós crêsseis em Moisés, [também] a mim me creríeis; porque de mim ele escreveu."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se não credes em seus escritos, como crereis em minhas palavras?"
+                }
+            ]
+        }
+    ]
+}

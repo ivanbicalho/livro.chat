@@ -1,0 +1,430 @@
+{
+    "book": "marcos",
+    "name": "Marcos",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E logo ao amanhecer, os chefes dos sacerdotes tiveram uma reunião com os anciãos, com os escribas, e com todo o supremo conselho; e, amarrando Jesus, levaram [-no] e [o] entregaram a Pilatos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pilatos lhe perguntou: És tu o Rei dos Judeus? E ele lhe respondeu: Tu o dizes."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os chefes dos sacerdotes o acusavam de muitas coisas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outra vez Pilatos lhe perguntou: Não respondes nada? Olha quantas acusações fazem contra ti!"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jesus nada mais respondeu, de maneira que Pilatos ficou surpreso."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na festa, [Pilatos] lhes soltava um preso, qualquer um que pedissem."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havia um chamado Barrabás, preso com [outros] revoltosos, que numa rebelião havia cometido uma morte."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a multidão veio e começou a pedir, como lhes havia feito."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pilatos lhes respondeu: Quereis que eu vos solte o Rei dos Judeus?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(Porque ele sabia que os chefes dos sacerdotes haviam o entregue por inveja)."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os chefes dos sacerdotes incitaram a multidão, para que, em vez disso, lhes soltasse Barrabás."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Pilatos, respondendo, disse-lhes outra vez: Que, pois, farei com aquele a quem chamais Rei dos Judeus?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles voltaram a clamar: Crucifica-o!"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Pilatos lhes disse: Por quê? Que mal ele fez? E eles gritavam ainda mais: Crucifica-o!"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pilatos, querendo satisfazer à multidão, soltou-lhes Barrabás; e entregou Jesus açoitado, para que fosse crucificado."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os soldados o levaram para o pátio, que é o pretório; e convocaram toda a tropa."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o vestiram de púrpura; teceram uma coroa de espinhos, e puseram nele."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E começaram a saudá-lo: Viva! Ó Rei dos Judeus!"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E feriram a sua cabeça com uma cana, cuspiram nele, e, ajoelhados, o adoraram."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o escarneceram, despiram-lhe a púrpura, vestiram-no com as suas próprias roupas, e o levaram afora, para o crucificarem."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E forçaram um Simão cireneu, que estava passando, vindo do campo, o pai de Alexandre e de Rufo, para que levasse sua cruz."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o levaram ao lugar de Gólgota, que traduzido é: o lugar da caveira."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ofereceram-lhe vinho misturado com mirra; mas ele não o tomou."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havendo o crucificado, repartiram a roupas dele, lançando-lhes sortes, para o que cada um levaria."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Era a hora terceira, e o crucificaram."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a descrição de sua acusação estava acima escrita: O REI DOS JUDEUS."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E crucificaram com ele dois ladrões, um à sua direita, e outro à esquerda."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que passavam blasfemavam dele, balançando suas cabeças, e dizendo: Ah! tu que derrubas o templo, e em três dias o edificas,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "salva a ti mesmo, e desce da cruz!"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E da mesma maneira também os chefes dos sacerdotes, com os escribas, diziam aos outros, escarnecendo: Ele salvou a outros, a si mesmo não pode salvar!"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que o Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos, e creiamos! Os que estavam crucificados com ele também o insultavam."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vinda a hora sexta, vieram trevas sobre toda a terra, até a hora nona."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E na hora nona, Jesus exclamou em alta voz: ELOÍ, ELOÍ, LAMÁ SABACTÂNI, que traduzido é: Deus meu, Deus meu, por que me desamparaste?"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns dos que ali estavam, quando ouviram, disseram: Eis que ele está chamando Elias."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um correu, encheu de vinagre uma esponja; e pondo-a em uma cana, dava-lhe de beber, dizendo: Deixai, vejamos se Elias virá tirá-lo."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus bradou em grande voz, então expirou."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o véu do Templo se rasgou em dois do alto abaixo."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o centurião que estava ali diante dele, vendo que havia expirado assim, disse: Verdadeiramente este homem era Filho de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também estavam ali [algumas] mulheres olhando de longe, entre as quais estava também Maria Madalena, e Maria (mãe de Tiago o menor e de José), e Salomé;"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "as quais, quando ele estava na Galileia, o seguiam, e o serviam; e outras muitas, que haviam subido com ele a Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando já vinha o final da tarde, porque era a preparação, que é o dia antes de sábado,"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Veio José de Arimateia, honrado membro do conselho, que também esperava o Reino de Deus, e com ousadia foi a Pilatos, e pediu o corpo de Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pilatos se surpreendeu de que já fosse morto. E chamou a si o centurião, e perguntou-lhe se já era morto já havia muito tempo."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando ele recebeu a explicação do centurião, deu o corpo a José,"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "o qual comprou um lençol fino, e tirando-o [da cruz] , envolveu-o no lençol fino. Em seguida, ele o pôs num sepulcro escavado em uma rocha, e rolouuma pedra à porta do sepulcro."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Maria Madalena e Maria [mãe] de José olharam onde o puseram."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+{
+    "book": "mateus",
+    "name": "Mateus",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o Reino dos céus será semelhante a dez virgens, que tomaram suas lâmpadas, e saíram ao encontro do noivo."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E cinco delas eram tolas, e cinco prudentes."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As tolas, quando tomaram as lâmpadas, não tomaram azeite consigo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas as prudentes tomaram azeite nos frascos, com as suas lâmpadas."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O noivo demorou, por isso todas cochilaram e adormeceram."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas à meia-noite houve um grito: “Eis o noivo! Ide ao seu encontro!”."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então todas aquelas virgens se levantaram, e prepararam suas lâmpadas."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as tolas disseram às prudentes: “Dai-nos do vosso azeite, porque as nossas lâmpadas estão se apagando”."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas as prudentes responderam: “ [Não] ,para que não falte a nós e a vós; em vez disso, ide aos vendedores, e comprai para vós mesmas”."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto elas foram comprar, veio o noivo. As que estavam preparadas entraram com ele à festa do casamento, e fechou-se a porta."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois vieram também as outras virgens, dizendo: “Senhor, Senhor, abre-nos!”"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ele respondeu: “Em verdade vos digo que não vos conheço”."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, vigiai, porque não sabeis o dia nem a hora."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois [é] como um homem, que partindo para fora do país, chamou seus servos, e lhes entregou os seus bens."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a um deu cinco talentos, a outro dois, e ao terceiro um, a cada um conforme a sua habilidade, e depois partiu em viagem."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo em seguida, o que havia recebido cinco talentos foi fazer negócios com eles, e ganhou outros cinco."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, semelhantemente, o que [havia recebido] dois ganhou também outros dois."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o que tinha recebido um foi cavar a terra, e escondeu o dinheiro do seu senhor."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muito tempo depois, o senhor daqueles servos veio fazer contas com eles."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que havia recebido cinco talentos chegou trazendo-lhe outros cinco talentos, e disse: ”Senhor, cinco talentos me entregaste, eis que ganhei com eles outros cinco talentos”."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o seu senhor lhe disse: “ [Muito] bem, servo bom e fiel! Sobre o pouco foste fiel, sobre o muito te porei; entra na alegria do teu senhor”."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegando-se também o que [havia recebido] dois talentos, disse: “Senhor, dois talentos me entregaste, eis que ganhei com eles outros dois talentos”."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seu senhor lhe disse: “ [Muito] bem, servo bom e fiel! Sobre o pouco foste fiel, sobre o muito te porei; entra na alegria do teu senhor”."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, chegando também o que havia recebido um talento, disse: “Senhor, eu te conhecia, que és homem duro, que colhes onde não semeaste, e ajuntas onde não espalhaste;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu, atemorizado, fui e escondi o teu talento na terra; eis aqui tens o que é teu”."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém seu senhor lhe respondeu: “Servo mau e preguiçoso! Sabias que colho onde não semeei, e ajunto onde não espalhei."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Devias, portanto, ter depositado o meu dinheiro com os banqueiros e, quando eu voltasse, receberia o que é meu com juros."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, tirai dele o talento, e dai-o ao que tem dez talentos”."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois a todo aquele que tiver, lhe será dado, e terá em abundância; porém ao que não tiver, até o que tem lhe será tirado."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "“E lançai o servo inútil às trevas de fora (ali haverá pranto e ranger de dentes)”."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando o Filho do homem vier em sua glória, e todos os anjos com ele, então ele se assentará sobre o trono de sua glória."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E serão ajuntadas diante dele todas as nações, e separará [as pessoas] umas das outras, assim como o pastor separa as ovelhas dos bodes."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E porá as ovelhas à sua direita, porém os bodes à esquerda."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o Rei dirá o rei aos que estiverem à sua direita: “Vinde, benditos de meu Pai! Herdai o Reino que está preparado para vós desde a fundação do mundo."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tive fome, e me destes de comer; tive sede, e me destes de beber; fui forasteiro, e me acolhestes;"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[estive] nu, e me vestistes; [estive] doente, e cuidastes de mim; estive na prisão, e me visitastes”."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os justos lhe perguntarão: “Senhor, quando te vimos com fome, e [te] demos de comer, ou com sede, e [te] demos de beber?"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando te vimos forasteiro, e [te] acolhemos, ou nu, e te vestimos?"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando te vimos doente, ou na prisão, e viemos te visitar?”"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o Rei lhes responderá: “Em verdade vos digo que, todas as vezes que fizestes a um destes menores dos meus irmãos, fizestes a mim”."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então dirá também aos que [estiverem] à esquerda: “Apartai-vos de mim, malditos, ao fogo eterno, preparado para o Diabo e os seus anjos."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tive fome, e não me destes de comer; tive sede, e não me destes de beber."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fui forasteiro, e não me acolhestes; [estive] nu, e não me vestistes; [estive] doente, e na prisão, e não me visitastes."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então também eles perguntarão: “Senhor, quando te vimos com fome, ou com sede, ou forasteiro, ou nu, ou doente, ou na prisão, e não te servimos?”"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então ele lhes responderá, dizendo: “Em verdade vos digo que, todas as vezes que não fizestes a um destes menores, não fizestes a mim”."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes irão ao tormento eterno, porém os justos à vida eterna."
+                }
+            ]
+        }
+    ]
+}

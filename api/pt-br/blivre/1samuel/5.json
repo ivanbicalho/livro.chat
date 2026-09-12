@@ -1,0 +1,115 @@
+{
+    "book": "1samuel",
+    "name": "1 Samuel",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filisteus, depois de tomarem a arca de Deus, trouxeram-na desde Ebenézer a Asdode."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomaram os filisteus a arca de Deus, e meteram-na na casa de Dagom, e puseram-na junto a Dagom."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o seguinte dia os de Asdode se levantaram de manhã, e eis Dagom prostrado em terra diante da arca do SENHOR: e tomaram a Dagom, e voltaram-no a seu lugar."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltando-se a levantar de manhã o dia seguinte, eis que Dagom havia caído prostrado em terra diante da arca do SENHOR; e a cabeça de Dagom, e as duas palmas de suas mãos estavam cortadas sobre o umbral, havendo restado a Dagom o tronco somente."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por esta causa os sacerdotes de Dagom, e todos os que no templo de Dagom entram, não pisam o umbral de Dagom em Asdode, até hoje."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém agravou-se a mão do SENHOR sobre os de Asdode, e assolou-os, e feriu-os com chagas em Asdode e em todos seus termos."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo isto os de Asdode, disseram: Não fique conosco a arca do Deus de Israel, porque sua mão é dura sobre nós, e sobre nosso deus Dagom."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mandaram, pois, juntar a si todos os príncipes dos filisteus, e disseram: Que faremos da arca do Deus de Israel? E eles responderam: Passe-se a arca do Deus de Israel a Gate. E passaram ali a arca do Deus de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que quando a houveram passado, a mão do SENHOR foi contra a cidade com grande tormento; e feriu os homens daquela cidade desde o pequeno até o grande, que se encheram de chagas."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então enviaram a arca de Deus a Ecrom. E quando a arca de Deus veio a Ecrom, os ecronitas deram vozes dizendo: Passaram a mim a arca do Deus de Israel para matar a mim e a meu povo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enviaram a juntar todos os príncipes dos filisteus, dizendo: Despachai a arca do Deus de Israel, e torne-se a seu lugar, e não mate a mim nem a meu povo: porque havia tormento de morte em toda a cidade, e a mão de Deus se havia ali agravado."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que não morriam, eram feridos de chagas; e o clamor da cidade subia ao céu."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lembrou-se Deus de Noé, e de todos os animais, selvagens e domésticos que estavam com ele na arca; e fez passar Deus um vento sobre a terra, e diminuíram as águas."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se fecharam as fontes do abismo, e as comportas dos céus; e a chuva dos céus foi detida."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltaram-se as águas de sobre a terra, indo e voltando; e decresceram as águas ao fim de cento e cinquenta dias."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E repousou a arca no mês sétimo, a dezessete dias do mês, sobre os montes de Ararate."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as águas foram decrescendo até o mês décimo: no décimo, ao primeiro dia do mês, se revelaram os cumes dos montes."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sucedeu que, ao fim de quarenta dias, abriu Noé a janela da arca que havia feito,"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enviou ao corvo, o qual saiu, e esteve indo e voltando até que as águas se secaram de sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enviou também de si à pomba, para ver se as águas se haviam retirado de sobre a face da terra;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não achou a pomba onde sentar a planta de seu pé, e voltou-se a ele à arca, porque as águas estavam ainda sobre a face de toda a terra: então ele estendeu sua mão e recolhendo-a, a fez entrar consigo na arca."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E esperou ainda outros sete dias, e voltou a enviar a pomba fora da arca."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a pomba voltou a ele à hora da tarde; e eis que trazia uma folha de oliveira tomada em seu bico; então Noé entendeu que as águas haviam se retirado de sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E esperou ainda outros sete dias, e enviou a pomba, a qual não voltou já mais a ele."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sucedeu que no ano seiscentos e um de Noé, no mês primeiro, ao primeiro do mês, as águas se enxugaram de sobre a terra e tirou Noé a cobertura da arca, e olhou, e eis que a face da terra estava enxuta."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no mês segundo, aos vinte e sete dias do mês, se secou a terra."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou Deus a Noé dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sai da arca tu, a tua mulher, os teus filhos, e as mulheres dos teus filhos contigo."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os animais que estão contigo de toda carne, de aves e de animais e de todo réptil que anda arrastando sobre a terra, tirarás contigo; e vão pela terra, e frutifiquem, e multipliquem-se sobre a terra."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os animais, e todo réptil e toda ave, tudo o que se move sobre a terra segundo suas espécies, saíram da arca."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E edificou Noé um altar ao SENHOR e tomou de todo animal limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E percebeu o SENHOR cheiro suave; e o SENHOR disse em seu coração: Não voltarei mais a amaldiçoar a terra por causa do ser humano; porque o intento do coração do ser humano é mau desde sua juventude: nem voltarei mais a destruir todo vivente, como fiz."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto a terra durar, a sementeira e a colheita, o frio e calor, verão e inverno, dia e noite, não cessarão."
+                }
+            ]
+        }
+    ]
+}

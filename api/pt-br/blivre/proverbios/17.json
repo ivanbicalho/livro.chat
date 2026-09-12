@@ -1,0 +1,259 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 17,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Melhor é um pedaço seco de comida com tranquilidade, do que uma casa cheia de carne com briga."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O servo prudente dominará o filho causador de vergonha, e receberá parte da herança entre os irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O crisol é para a prata, e o forno para o ouro; mas o SENHOR prova os corações."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O malfeitor presta atenção ao lábio injusto; o mentiroso inclina os ouvidos à língua maligna."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem ridiculariza o pobre insulta o seu Criador; aquele que se alegra da calamidade não ficará impune."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A coroa dos idosos [são] os filhos de seus filhos; e a glória dos filhos são seus pais."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não é adequado ao tolo falar com elegância; muito menos para o príncipe falar mentiras."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O presente é [como] uma pedra preciosa aos olhos de seus donos; para onde quer que se voltar, [tentará] ter algum proveito."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem perdoa a transgressão busca a amizade; mas quem repete o assunto afasta amigos íntimos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A repreensão entra mais profundamente no prudente do que cem açoites no tolo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na verdade quem é mal busca somente a rebeldia; mas o mensageiro cruel será enviado contra ele."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[É melhor] ao homem encontrar uma ursa roubada [de seus filhotes] ,do que um tolo em sua loucura."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quanto ao que devolve o mal no lugar do bem, o mal nunca se afastará de sua casa."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Começar uma briga é [como] deixar águas rolarem; por isso, abandona a discussão antes que haja irritação."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem absolve ao perverso e quem condena ao justo, ambos são abomináveis ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que serve o dinheiro na mão do tolo, já que ele não tem interesse em obter sabedoria?"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O amigo ama em todo tempo, e o irmão nasce para [ajudar] na angústia."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem imprudente assume compromisso, ficando como fiador de seu próximo."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem ama a briga, ama a transgressão; quem constrói alta sua porta busca ruína."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso de coração nunca encontrará o bem; e quem distorce [as palavras de] sua língua cairá no mal."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem gera o louco [cria] sua própria tristeza; e o pai do imprudente não se alegrará."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O coração alegre é um bom remédio, mas o espírito abatido faz os ossos se secarem."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso toma o presente do seio, para perverter os caminhos da justiça."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A sabedoria está diante do rosto do prudente; porém os olhos do tolo [estão voltados] para os confins da terra."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O filho tolo é tristeza para seu pai, e amargura para aquela que o gerou."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também não é bom punir ao justo, nem bater nos príncipes por causa da justiça."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem entende o conhecimento guarda suas palavras; [e] o homem de bom entendimento [é] de espírito calmo."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até o tolo, quando está calado, é considerado como sábio; [e] quem fecha seus lábios, como de bom senso."
+                }
+            ]
+        }
+    ]
+}

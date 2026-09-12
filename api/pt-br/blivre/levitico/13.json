@@ -1,0 +1,538 @@
+{
+    "book": "levitico",
+    "name": "Levítico",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés e a Arão, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando o homem tiver na pele de sua carne inchaço, ou pústula, ou mancha branca, e houver na pele de sua carne como chaga de lepra, será trazido a Arão o sacerdote, ou a um dos sacerdotes seus filhos:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote olhará a chaga na pele da carne: se o pelo na chaga se tornou branco, e parecer a chaga mais profunda que a pele da carne, chaga de lepra é; e o sacerdote lhe reconhecerá, e lhe dará por impuro."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se na pele de sua carne houver mancha branca, mas não parecer mais profunda que a pele, nem seu pelo se houver tornado branco, então o sacerdote encerrará ao que tem chagas por sete dias;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao sétimo dia o sacerdote o olhará; e se a chaga a seu parecer se houver parado, não havendo-se estendido na pele, então o sacerdote lhe voltará a encerrar por outros sete dias."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao sétimo dia o sacerdote lhe reconhecerá de novo; e se parece haver-se escurecido a chaga, e que não estendeu na pele, então o sacerdote o dará por limpo: era pústula; e lavará suas roupas, e será limpo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se houver ido crescendo a pústula na pele, depois que foi mostrado ao sacerdote para ser limpo, será visto outra vez pelo sacerdote:"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se reconhecendo-o o sacerdote, vê que a pústula cresceu na pele, o sacerdote o dará por impuro: é lepra."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando houver chaga de lepra no homem, será trazido ao sacerdote;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote olhará, e se parecer inchaço branco na pele, o qual tenha mudado a cor do pelo, e se descobre também a carne viva,"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lepra é envelhecida na pele de sua carne; e lhe dará por impuro o sacerdote, e não lhe encerrará, porque é impuro."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se brotar a lepra estendendo pela pele, e ela cobrir toda a pele do que tem chagas desde sua cabeça até seus pés, a toda vista de olhos do sacerdote;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o sacerdote lhe reconhecerá; e se a lepra houver coberto toda sua carne, dará por limpo ao que tem chagas: tornou-se toda ela branca; e ele é limpo."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o dia que parecer nele a carne viva, será impuro."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote olhará a carne viva, e o dará por impuro. É impura a carne viva: é lepra."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando a carne viva se mudar e tornar branca, então virá ao sacerdote;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote olhará, e se a chaga se houver tornado branca, o sacerdote dará por limpo ao que tinha a chaga, e será limpo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando na carne, em sua pele, houver úlcera, e se sarar,"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suceder no lugar da úlcera inchaço branco, ou mancha branca avermelhada, será mostrado ao sacerdote:"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote olhará; e se parecer estar mais baixa que sua pele, e seu pelo se houver tornado branco, o dará o sacerdote por impuro: é chaga de lepra que se originou na úlcera."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se o sacerdote a considerar, e não parecer nela pelo branco, nem estiver mais baixa que a pele, mas sim escura, então o sacerdote o encerrará por sete dias:"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se se for estendendo pela pele, então o sacerdote o dará por impuro: é chaga."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém se a mancha branca estiver em seu lugar, que não tenha estendido, é a cicatriz da úlcera; e o sacerdote o dará por limpo."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim quando a carne tiver em sua pele queimadura de fogo, e houver no sarado do fogo mancha esbranquiçada, avermelhada ou branca,"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sacerdote a olhará; e se o pelo se houver tornado branco na mancha, e parecer estar mais profunda que a pele, é lepra que saiu na queimadura; e o sacerdote declarará ao sujeito impuro, por ser chaga de lepra."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se o sacerdote a olhar, e não parecer na mancha pelo branco, nem estiver mais baixa que a pele, mas sim que está escura, lhe encerrará o sacerdote por sete dias;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao sétimo dia o sacerdote a reconhecerá: se se houver ido estendendo pela pele, o sacerdote o dará por impuro: é chaga de lepra."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém se a mancha estiver em seu lugar, e não se houver estendido na pele, a não ser que está escura, inchaço é da queimadura: o dará o sacerdote por limpo; que sinal da queimadura é."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao homem ou mulher que lhe sair chaga na cabeça, ou no queixo,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sacerdote olhará a chaga; e se parecer estar mais profunda que a pele, e o pelo nela fora ruivo e fino, então o sacerdote o dará por impuro: é tinha, é lepra da cabeça ou do queixo."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando o sacerdote houver olhado a chaga da tinha, e não parecer estar mais profunda que a pele, nem for nela pelo negro, o sacerdote encerrará ao que tem chagas da tinha por sete dias:"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao sétimo dia o sacerdote olhará a chaga: e se a tinha não parecer haver-se estendido, nem houver nela pelo ruivo, nem parecer a tinha mais profunda que a pele,"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o raparão, mas não raparão o lugar da tinha: e encerrará o sacerdote ao que tem a tinha por outros sete dias."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao sétimo dia olhará o sacerdote a tinha; e se a tinha não houver estendido na pele, nem parecer estar mais profunda que a pele, o sacerdote o dará por limpo; e lavará suas roupas, e será limpo."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém se a tinha se houver ido estendendo na pele depois de sua purificação,"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o sacerdote a olhará; e se a tinha houver estendido na pele, não busque o sacerdote o pelo ruivo, é impuro."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se lhe parecer que a tinha está detida, e que saiu nela o pelo negro, a tinha está sarada; ele está limpo, e por limpo o dará o sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também o homem ou mulher, quando na pele de sua carne tiver machas, machas brancas,"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sacerdote olhará: e se na pele de sua carne parecerem machas brancas algo escurecidas, é impigem que brotou na pele, está limpa a pessoa."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o homem, quando se lhe cair os cabelos da cabeça, é calvo, mas limpo."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se à parte de seu rosto se lhe cair os cabelos da cabeça, é calvo pela frente, mas limpo."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando na calva ou na calva da frente houver chaga branca avermelhada, lepra é que brota em sua calva ou em sua calva da frente."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o sacerdote o olhará, e se parecer a inchaço da chaga branca avermelhada em sua calva ou em sua calva da frente, como o parecer da lepra da pele da carne,"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Leproso é, é impuro; o sacerdote o dará logo por impuro; em sua cabeça tem sua chaga."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o leproso em quem houver chaga, suas roupas serão derrotados e sua cabeça descoberta, e com o lábio superior coberto proclamará: -Imundo! -Imundo!"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Durante todo o tempo que a chaga estiver nele será imundo; estará impuro: habitará sozinho; fora do acampamento será sua morada."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando na roupa houver praga de lepra, em vestido de lã, ou em vestido de linho;"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou na urdidura ou em trama, de linho ou de lã, ou em pele, ou em qualquer obra de pele;"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E que a praga seja verde, ou vermelha, em roupa ou em pele, ou na urdidura, ou em trama, ou em qualquer obra de pele; praga é de lepra, e se há de mostrar ao sacerdote."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote olhará a praga, e encerrará a coisa que tem praga por sete dias."
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao sétimo dia olhará a praga: e se houver estendido a praga na roupa, ou urdidura, ou na trama, ou em pele, ou em qualquer obra que se faz de peles, lepra roedora é a praga; impura será."
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Será queimada a roupa, ou urdidura ou trama, de lã ou de linho, ou qualquer obra de peles em que houver tal praga; porque lepra roedora é; ao fogo será queimada."
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se o sacerdote olhar, e não parecer que a praga se tenha estendido na roupa, ou urdidura, ou na trama, ou em qualquer obra de peles;"
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o sacerdote mandará que lavem onde está a praga, e o encerrará outra vez por sete dias."
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote olhará depois que a praga for lavada; e se parecer que a praga não mudou seu aspecto, ainda que não tenha estendido a praga, impura é; a queimarás ao fogo; corrosão é penetrante, esteja o estragado na face ou no verso daquela coisa."
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se o sacerdote a vir, e parecer que a praga se escureceu depois que foi lavada, a cortará da roupa, ou da pele, ou da urdidura, ou da trama."
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se parecer mais no vestido, ou urdidura, ou trama, ou em qualquer coisa de peles, esverdeando nela, queimarás ao fogo aquilo onde estiver a praga."
+                }
+            ]
+        },
+        {
+            "verse": 58,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém a roupa, ou urdidura, ou trama, ou qualquer coisa de pele que lavares, e que se lhe tirar a praga, se lavará segunda vez, e então será limpa."
+                }
+            ]
+        },
+        {
+            "verse": 59,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a lei da praga da lepra da roupa de lã ou de linho, ou da urdidura, ou da trama, ou de qualquer coisa de pele, para que seja dada por limpa ou por impura."
+                }
+            ]
+        }
+    ]
+}

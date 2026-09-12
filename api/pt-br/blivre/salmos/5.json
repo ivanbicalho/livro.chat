@@ -1,0 +1,115 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi para o regente, com instrumentos de sopro:SENHOR, escuta as minhas palavras; entende aquilo que estou meditando;"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouve a voz do meu clamor, meu Rei e meu Deus; porque a ti eu oro."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "SENHOR, pela manhã ouvirás minha voz; pela manhã apresentarei [meu clamor] a ti, e ficarei esperando."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu não [és] Deus que tens prazer na maldade; contigo não habitará o mau."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os arrogantes não ficarão de pé diante dos teus olhos; tu odeias todas os praticantes de maldade."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu destruirás aos que falam mentiras; o SENHOR abomina ao homem sanguinário e enganador."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu, pela grandeza de tua bondade, entrarei em tua casa; adorarei inclinado para o templo de tua santidade em temor a ti."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "SENHOR, guia-me em tua justiça, por causa dos meus adversários; prepara diante de mim o teu caminho."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque não há verdade na boca deles; seu interior são meras destruições; a garganta deles é uma sepultura aberta; com suas línguas elogiam falsamente."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Declara-os culpados, ó Deus, [e] que caiam de seus próprios conselhos; expulsa-os por causa da abundância de suas transgressões, porque eles se rebelaram contra ti."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se alegrem todos os que confiam em ti; clamai de alegria para sempre; porque tu os proteges; e fiquem contentes em ti aqueles que amam o teu nome."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tu, SENHOR, abençoarás ao justo; como com um escudo tu o rodearás com tua bondade."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 20,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegaram os filhos de Israel, toda a congregação, ao deserto de Zim, no mês primeiro, e assentou o povo em Cades; e ali morreu Miriã, e foi ali sepultada."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E como não havia água para a congregação, juntaram-se contra Moisés e Arão."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E brigou o povo com Moisés, e falaram dizendo: Antes que nós tivéssemos morrido quando pereceram nossos irmãos diante do SENHOR!"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por que fizeste vir a congregação do SENHOR a este deserto, para que morramos aqui nós e nossos animais?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por que nos fizeste subir do Egito, para trazer-nos a este mal lugar? Não é lugar de sementeira, de figueiras, de vinhas, nem romãs: nem ainda de água para beber."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foram-se Moisés e Arão de diante da congregação à porta do tabernáculo do testemunho, e lançaram-se sobre seus rostos; e a glória do SENHOR apareceu sobre eles."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma a vara e reúne a congregação, tu e Arão teu irmão, e falai à rocha em olhos deles; e ela dará sua água, e lhes tirarás águas da rocha, e darás de beber à congregação, e a seus animais."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Moisés tomou a vara de diante do SENHOR, como ele lhe mandou."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E juntaram Moisés e Arão a congregação diante da rocha, e disse-lhes: Ouvi agora, rebeldes: Faremos para vós sair águas desta rocha?"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então levantou Moisés sua mão, e feriu a rocha com sua vara duas vezes: e saíram muitas águas, e bebeu a congregação, e seus animais."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR disse a Moisés e a Arão: Porquanto não crestes em mim, para santificar-me aos olhos dos filhos de Israel, portanto, não poreis esta congregação na terra que lhes dei."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas são as águas da briga, pelas quais contenderam os filhos de Israel com o SENHOR, e ele se santificou neles."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enviou Moisés embaixadores ao rei de Edom desde Cades: Assim diz Israel teu irmão: Tu soubeste todo o trabalho que nos veio:"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como nossos pais desceram ao Egito, e estivemos no Egito longo tempo, e os egípcios nos maltrataram, e a nossos pais;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E clamamos ao SENHOR, o qual ouviu nossa voz, e enviou anjo, e tirou-nos do Egito; e eis que estamos em Cades, cidade ao extremo de teus confins:"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Rogamo-te que passemos por tua terra; não passaremos por lavoura, nem por vinha, nem beberemos água de poços: pelo caminho real iremos, sem apartar-nos à direita nem à esquerda, até que havemos passado teu termo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Edom lhe respondeu: Não passarás por minha terra, de outra maneira sairei contra ti armado."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Israel disseram: Pelo caminho seguido iremos; e se bebermos tuas águas eu e meus gados, darei o preço delas: certamente sem fazer outra coisa, passarei de seguida."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele respondeu: Não passarás. E saiu Edom contra ele com muito povo, e mão forte."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não quis, pois, Edom deixar passar a Israel por seu termo, e apartou-se Israel dele."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E partidos de Cades os filhos de Israel, toda aquela congregação, vieram ao monte de Hor."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés e Arão no monte de Hor, nos confins da terra de Edom, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Arão será reunido a seus povos; pois não entrará na terra que eu dize aos filhos de Israel, porquanto fostes rebeldes a meu mandamento nas águas da briga."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toma a Arão e a Eleazar seu filho, e faze-os subir ao monte de Hor;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E faze desnudar a Arão suas roupas, e viste delas a Eleazar seu filho; porque Arão será reunido a seus povos, e ali morrerá."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés fez como o SENHOR lhe mandou: e subiram ao monte de Hor à vista de toda a congregação."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés fez desnudar a Arão de suas roupas e vestiu-as a Eleazar seu filho: e Arão morreu ali no cume do monte: e Moisés e Eleazar desceram do monte."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo toda a congregação que Arão era morto, fizeram-lhe luto por trinta dias todas as famílias de Israel."
+                }
+            ]
+        }
+    ]
+}

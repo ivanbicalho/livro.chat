@@ -1,0 +1,664 @@
+{
+    "book": "neemias",
+    "name": "Neemias",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sucedeu, pois, que, quando o muro já havia sido edificado, e já tinha posto as portas, e sido estabelecidos os porteiros, os cantores e os Levitas,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mandei o meu irmão Hanani, e Hananias, chefe do palácio de Jerusalém (porque era um homem fiel e temente a Deus, mais que muitos),"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes: Não se abram as portas de Jerusalém até que o sol aqueça; e enquanto ainda estiverem presentes, fechem as portas, e [as] trancai. E ponham-se guardas dos moradores de Jerusalém, cada um em sua guarda, e cada um diante de sua casa."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a cidade era espaçosa e grande, porém pouca gente havia dentro dela, e as casas [ainda] não haviam sido reconstruídas."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Deus pôs em meu coração que juntasse os nobres, os oficiais, e o povo, para que fossem registrados pela ordem de suas genealogias; e achei o livro da genealogia dos que haviam subido antes, e achei nele escrito [o seguinte] :"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os filhos da província que subiram do cativeiro, dos que foram levados por Nabucodonosor, rei de Babilônia, e que voltaram a Jerusalém e a Judá, cada um à sua cidade;"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os quais vieram com Zorobabel, Jesua, Neemias, Azarias, Raamias, Naamani, Mardoqueu, Bilsã, Misperete, Bigvai, Neum, Baaná. Este é o número dos homens do povo de Israel:"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Parós, dois mil cento e setenta e dois;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Sefatias, trezentos e setenta e dois;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Ara, seiscentos e cinquenta e dois;"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Paate-Moabe, dos filhos de Jesua e de Joabe, dois mil oitocentos e dezoito;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Elão, mil duzentos e cinquenta e quatro;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Zatu, oitocentos e quarenta e cinco;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Zacai, setecentos e sessenta;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Binui, seiscentos e quarenta e oito;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Bebai, seiscentos e vinte e oito;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Azgade, dois mil seiscentos e vinte e dois;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Adonicão, seiscentos e sessenta e sete;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Bigvai, dois mil e sessenta e sete;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Adim, seiscentos e cinquenta e cinco;"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Ater, de Ezequias, noventa e oito;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Hasum, trezentos e vinte e oito;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Bezai, trezentos e vinte e quatro;"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Harife, cento e doze;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Gibeom, noventa e cinco;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens de Belém e de Netofá, cento e oitenta e oito;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens de Anatote, cento e vinte e oito;"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens de Bete-Azmavete, quarenta e dois;"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens de Quiriate-Jearim, Cefira e Beerote, setecentos e quarenta e três;"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens de Ramá e de Geba, seiscentos e vinte e um;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens de Micmás, cento e vinte e dois;"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens de Betel e de Ai, cento e vinte e três;"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os homens da outra Nebo, cinquenta e dois;"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos do outro Elão, mil duzentos e cinquenta e quatro;"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Harim, trezentos e vinte;"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Jericó, trezentos e quarenta e cinco;"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Lode, de Hadide, e Ono, setecentos vinte e um;"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Senaá, três mil novecentos e trinta."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os sacerdotes: os filhos de Jedaías, da casa de Jesua, novecentos e setenta e três;"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Imer, mil e cinquenta e dois;"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Pasur, mil duzentos quarenta e sete;"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Harim, mil dez e sete."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os levitas: os filhos de Jesua, de Cadmiel, dos filhos de Hodeva, setenta e quatro."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os cantores: os filhos de Asafe, cento e quarenta e oito."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os porteiros: os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai, cento e trinta e oito."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os servos do templo: os filhos de Zia, os filhos de Hasufa, os filhos de Tabaote,"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Queros, os filhos de Sia, os filhos de Padom,"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Lebana, os filhos de Hagaba, os filhos de Salmai,"
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Hanã, os filhos de Gidel, os filhos de Gaar,"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Reaías, os filhos de Rezim, os filhos de Necoda,"
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Gazão, os filhos de Uzá, os filhos de Paseia,"
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Besai, os filhos de Meunim, os filhos de Nefusesim,"
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Baquebuque, os filhos de Hacufa, os filhos de Harur,"
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Baslite, os filhos de Meída, os filhos de Harsa,"
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Barcos, os filhos de Sísera, os filhos de Tamá,"
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Nesias, os filhos de Hatifa."
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos dos servos de Salomão: os filhos de Sotai, os filhos de Soferete, os filhos de Perida,"
+                }
+            ]
+        },
+        {
+            "verse": 58,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Jaala, os filhos de Darcom, os filhos de Gidel,"
+                }
+            ]
+        },
+        {
+            "verse": 59,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Hazebaim, os filhos de Amom."
+                }
+            ]
+        },
+        {
+            "verse": 60,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os servos do templo, e filhos dos servos de Salomão, trezentos e noventa e dois."
+                }
+            ]
+        },
+        {
+            "verse": 61,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também estes subiram de Tel-Melá, Tel-Harsa, Querube, Adom, e Imer, porém não puderam mostrar a casa de seus pais, nem sua linhagem, se eram de Israel:"
+                }
+            ]
+        },
+        {
+            "verse": 62,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e quarenta e dois."
+                }
+            ]
+        },
+        {
+            "verse": 63,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dos sacerdotes: os filhos de Habaías, os filhos de Coz, os filhos de Barzilai, o qual tomara mulher das filhas de Barzilai, o gileadita, e chamou-se pelo nome delas."
+                }
+            ]
+        },
+        {
+            "verse": 64,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes buscaram seu registro de genealogias, porém não se achou; por isso, como impuros, foram excluídos do sacerdócio."
+                }
+            ]
+        },
+        {
+            "verse": 65,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o governador lhes disse que não comessem das coisas mais santas, até que houvesse sacerdote com Urim e Tumim."
+                }
+            ]
+        },
+        {
+            "verse": 66,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda esta congregação junta era quarenta e dois mil trezentos e sessenta,"
+                }
+            ]
+        },
+        {
+            "verse": 67,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Exceto seus servos e suas servas, que eram sete mil trezentos e trinta e sete; e tinham duzentos e quarenta e cinco cantores e cantoras."
+                }
+            ]
+        },
+        {
+            "verse": 68,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seus cavalos, setecentos e trinta e seis; seus mulos, duzentos e quarenta e cinco;"
+                }
+            ]
+        },
+        {
+            "verse": 69,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os camelos, quatrocentos e trinta e cinco; asnos, seis mil setecentos e vinte."
+                }
+            ]
+        },
+        {
+            "verse": 70,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns dos chefes das famílias fizeram doações para a obra. O governador deu para o tesouro mil dracmas de ouro, cinquenta bacias, e quinhentas trinta vestes sacerdotais."
+                }
+            ]
+        },
+        {
+            "verse": 71,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E [alguns] dos chefes das famílias deram para o tesouro da obra, vinte mil dracmas de ouro, e duas mil e duzentas libras de prata."
+                }
+            ]
+        },
+        {
+            "verse": 72,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que o resto do povo deu foi vinte mil dracmas de ouro, duas mil libras de prata, e sessenta e sete vestes sacerdotais."
+                }
+            ]
+        },
+        {
+            "verse": 73,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os sacerdotes, os Levitas, e os porteiros, os cantores, os do povo, os servos do templo, e todo Israel, habitaram em suas cidades.E vindo o mês sétimo, estando os filhos de Israel em suas cidades,"
+                }
+            ]
+        }
+    ]
+}

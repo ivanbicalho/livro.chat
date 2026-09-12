@@ -1,0 +1,70 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 110,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:O SENHOR disse a meu Senhor: Senta-te à minha direita, até que eu ponha teus inimigos por escabelo de teus pés."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR enviará o cetro de tua força desde Sião, [dizendo] : Domina tu no meio de teus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Teu povo será voluntário no dia do teu poder; com santas honras, desde o ventre do amanhecer, tu [terás] o orvalho de tua juventude."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR jurou, e não se arrependerá: Tu és Sacerdote eterno, segundo a ordem de Melquisedeque."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O Senhor está à tua direita; ele ferirá aos reis no dia de sua ira."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Julgará entre as nações; ele [as] encherá de corpos mortos; [e] ferirá a cabeça de uma grande terra."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele beberá do ribeiro no caminho, então levantará a cabeça."
+                }
+            ]
+        }
+    ]
+}

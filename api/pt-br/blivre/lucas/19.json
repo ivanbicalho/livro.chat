@@ -1,0 +1,439 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E [Jesus] entrou e foi passando por Jericó."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eis que havia ali um homem, chamado pelo nome de Zaqueu, e este era chefe dos publicanos, e era rico."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E procurava ver quem era Jesus, e não podia, por causa da multidão, pois era pequeno de altura."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E correndo com antecedência, subiu em uma árvore de frutos que parecem figos, para o ver; porque ele passaria por ali."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando Jesus chegou a aquele lugar, olhando para cima, o viu, e disse-lhe: Zaqueu, apressa-te, e desce; porque hoje é necessário que eu fique em tua casa."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E apressando-se, desceu, e o recebeu com alegria."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todos, vendo [isto] , murmuravam, dizendo: Ele entrou para se hospedar com um homem pecador."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Zaqueu, levantando-se, disse ao Senhor: Senhor, eis que dou a metade de meus bens aos pobres; e se eu consegui algo enganando a alguém, eu [o] devolvo quatro vezes mais."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhe disse: Hoje houve salvação nesta casa, porque ele também é filho de Abraão."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o Filho do homem veio para buscar, e para salvar o que tinha se perdido."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ouvindo eles estas coisas, [Jesus] prosseguiu, e disse uma parábola, porque estava perto de Jerusalém, e pensavam que logo o Reino seria manifesto."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse, pois: Um certo homem nobre partiu para uma terra distante."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chamando dez servos seus, deu-lhes dez minas, e disse-lhes: Investi até que eu venha;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seus cidadãos o odiavam; e mandaram representantes depois dele, dizendo: Não queremos que este reine sobre nós."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, quando ele voltou, tendo tomado o reino, disse que lhe chamassem a aqueles servos, a quem tinha dado o dinheiro, para saber o que cada um tinha ganho fazendo investimentos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio o primeiro, dizendo: Senhor, tua mina rendeu outras dez minas."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhe disse: Ótimo, bom servo! Por teres sido fiel no pouco, terás autoridade sobre dez cidades."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio o segundo, dizendo: Senhor, tua mina rendeu cinco minas."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse também a este: E tu [governarás] cinco cidades."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio outro, dizendo: Eis aqui tua mina, que guardei em um lenço."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque tive medo de ti, que és um homem rigoroso, que tomas o que não puseste, e colhes o que não semeaste."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele lhe disse: Servo mau, por tua boca eu te julgarei; tu sabias que eu era um homem rigoroso, que tomo o que não pus, e que colho o que não semeei;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que, então, não puseste meu dinheiro no banco; e quando eu viesse, o receberia de volta com juros?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse aos que estavam com ele: Tirai-lhe a mina, e dai-a ao que tem as dez minas."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles lhe disseram: Senhor, ele [já] tem dez minas."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[O senhor respondeu:] Porque eu vos digo, que todo aquele que tiver, lhe será dado; mas ao que não tiver, até o que tem, lhe será tirado."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém a aqueles meus inimigos, que não quiseram que eu reinasse sobre eles, trazei [- os] aqui, e matai [-os] diante de mim."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dito isto, ele foi caminhando adiante, subindo para Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu que, chegando perto de Betfagé, e de Betânia, ao monte chamado das Oliveiras, mandou a dois de seus discípulos,"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizendo: Ide à aldeia que está em frente; onde, ao entrardes, achareis um potro atado, em que ninguém jamais se sentou; soltai-o, e trazei [-o] ."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém vos perguntar: Por que [o] soltais? Direis assim a ele: Porque o Senhor precisa dele."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E indo os que tinham sido mandados, acharam como lhes disse:"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E soltando o potro, seus donos lhe disseram: Por que soltais o potro?"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles disseram: O Senhor precisa dele."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o trouxeram a Jesus; e lançando suas roupas sobre o potro, puseram Jesus montado nele."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E indo ele andando, estendiam suas roupas pelo caminho."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando já chegava perto da descida do monte das Oliveiras, toda a multidão de discípulos, com alegria começou a louvar a Deus em alta voz, por todas as maravilhas que tinham visto,"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizendo: Bendito o Rei que vem em nome do Senhor; paz no céu, e glória nas alturas."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns dos fariseus da multidão lhe disseram: Mestre, repreende a teus discípulos."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondendo ele, disse-lhes: Digo-vos, que se estes se calarem, as pedras clamariam."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando já estava chegando, viu a cidade, e chorou por causa dela,"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizendo: Ah, se tu também conhecesses, pelo menos neste teu dia, aquilo que lhe traria paz! Mas agora [isto] está escondido de teus olhos."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque dias virão sobre ti, em que teus inimigos lhe cercarão com barricadas, e ao redor te sitiarão, e lhe pressionarão por todos os lados."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E derrubarão a ti, e a teus filhos; e não deixarão em ti pedra sobre pedra, porque não conheceste o tempo em que foste visitada."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E entrando no Templo, começou a expulsar a todos os que vendiam e compravam ali,"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizendo-lhes: Está escrito: Minha casa é casa de oração; Mas vós a tendes feito um esconderijo de ladrões."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ensinava diariamente no Templo; e os chefes dos sacerdotes, e os escribas, e os chefes do povo, procuravam matá-lo."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não achavam como fazer, porque todo o povo o ouvia com muita atenção."
+                }
+            ]
+        }
+    ]
+}

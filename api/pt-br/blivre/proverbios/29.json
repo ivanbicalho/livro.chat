@@ -1,0 +1,250 @@
+{
+    "book": "proverbios",
+    "name": "Provérbios",
+    "chapter": 29,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem que age com teimosia, mesmo depois de muitas repreensões, será tão destruído que não terá mais cura."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os justos se engrandecem, o povo se alegra; mas quando o perverso domina, o povo geme."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem que ama a sabedoria alegra a seu pai; mas o companheiro de prostitutas gasta os bens."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei por meio da justiça firma a terra; mas o amigo de subornos a transtorna."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem que lisonjeia a seu próximo arma uma rede para seus pés."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na transgressão do homem mau há uma armadilha; mas o justo se alegra e se enche de alegria."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justo considera a causa judicial dos pobres; [mas] o perverso não entende [este] conhecimento."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Homens zombadores trazem confusão a cidade; mas os sábios desviam a ira."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem sábio que disputa no julgamento contra um tolo, mesmo se perturbado ou rindo, não terá descanso."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Homens sanguinários odeiam o honesto; mas os corretos procuram o seu bem."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O louco mostra todo o seu ímpeto; mas o sábio o mantém sob controle."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O governante que dá atenção a palavras mentirosas, todos os seus servos serão perversos."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O pobre e o enganador se encontram: o SENHOR ilumina aos olhos de ambos."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O rei que julga aos pobres por meio da verdade, seu trono se firmará para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A vara e a repreensão dão sabedoria; mas o rapaz deixado solto envergonha a sua mãe."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando os perversos se multiplicam, multiplicam-se as transgressões; mas os justos verão sua queda."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Castiga a teu filho, e ele te fará descansar, e dará prazeres à tua alma."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não havendo visão profética, o povo fica confuso; porém o que guarda a lei, ele é bem-aventurado."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O servo não será corrigido por meio de palavras; porque [ainda que] entenda, mesmo assim ele não responderá [corretamente] ."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Viste um homem precipitado em suas palavras? Mais esperança há para um tolo do que para ele."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que mima a seu servo desde a infância, por fim ele quererá ser [seu] filho."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O homem que se irrita facilmente levanta brigas; e o furioso multiplica as transgressões."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A arrogância do homem o abaterá; mas o humilde de espírito obterá honra."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que reparte com o ladrão odeia sua [própria] alma; ele ouve maldições e não [o] denuncia."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O temor do homem arma ciladas; mas o que confia no senhor ficará em segurança."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muitos buscam a face do governante; mas o julgamento de cada um [vem] do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O justos odeiam ao homem perverso; e o injusto odeia aos que andam no caminho correto."
+                }
+            ]
+        }
+    ]
+}

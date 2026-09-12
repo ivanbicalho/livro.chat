@@ -1,0 +1,358 @@
+{
+    "book": "romanos",
+    "name": "Romanos",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, agora, nenhuma condenação há para os que estão em Cristo Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a Lei do Espírito de vida, em Cristo Jesus, te livrou da lei do pecado e da morte."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o que era impossível para a lei, porque estava enferma pela carne, Deus, ao enviar o seu próprio Filho em semelhança da carne pecadora, e por causa do pecado, condenou o pecado na carne,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "para que a exigência da lei se cumprisse em nós, que andamos, não segundo a carne, mas sim, segundo o Espírito."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois os que são segundo a carne voltam sua mentalidade para as coisas da carne, mas os que são segundo o Espírito, para as coisas do Espírito."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois a mentalidade da carne é morte, mas a mentalidade do Espírito é vida e paz."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois a mentalidade da carne é inimizade contra Deus, pois não se sujeita à Lei de Deus, porque nem sequer pode."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, os que permanecem na carne não podem agradar a Deus."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém vós não permaneceis na carne, mas sim, no Espírito, se é que o Espírito de Deus habita em vós. Porém, se alguém não tem o Espírito de Cristo, esse não lhe pertence."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se Cristo está em vós, apesar do corpo estar morto por causa do pecado, o Espírito é vida por causa da justiça."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós, aquele que dos mortos ressuscitou a Cristo Jesus também dará vida aos vossos corpos mortais por meio do seu Espírito, que habita em vós."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso, irmãos, somos devedores, não à carne, para vivermos segundo a carne;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque, se viverdes segundo a carne, morrereis; mas se, pelo Espírito, fizerdes morrer as ações do corpo, vivereis."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois todos quantos são guiados pelo Espírito de Deus são filhos de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois não recebestes o espírito de escravidão, para voltardes ao medo; mas recebestes o Espírito de adoção como filhos, pelo qual clamamos: Aba, Pai!"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O próprio Espírito dá testemunho com o nosso espírito de que somos filhos de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, se somos filhos, logo somos também herdeiros; herdeiros de Deus, e coerdeiros de Cristo; se sofremos com ele, é para que também com ele sejamos glorificados."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois considero que as aflições deste tempo presente nem se comparam com a glória que nos será revelada."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois a criação espera ansiosamente a revelação dos filhos de Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "porque a criação ficou sujeita à futilidade (não por vontade própria, mas sim por causa daquele que a sujeitou),"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "na esperança de que também a mesma criação seja liberta da escravidão da degradação para a liberdade da glória dos filhos de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois sabemos que toda a criação geme e sofre dores como as de parto até agora."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não somente [isso] , mas também nós, que temos os primeiros frutos do Espírito, gememos em nós mesmos, esperando a [adoção] , [isto é] , a redenção do nosso corpo."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois fomos salvos na esperança. Ora, a esperança que se vê não é esperança; afinal, por que alguém ainda espera o que já vê?"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas, se esperamos o que não vemos, com paciência esperamos."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E da mesma maneira também o Espírito ajuda em nossas fraquezas. Pois não sabemos orar como se deve, mas o próprio Espírito intercede [por nós] com gemidos inexprimíveis."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aquele que examina os corações sabe qual é a intenção do Espírito, pois ele intercede pelos santos, segundo [a vontade] de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sabemos que todas as coisas juntamente contribuem para o bem daqueles que amam a Deus, dos que são chamados segundo o seu propósito."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois aos que desde antes conheceu, também os predestinou para serem conformes à imagem do seu Filho, para que ele seja o primogênito entre muitos irmãos."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então, que diremos acerca dessas coisas? Se Deus é por nós, quem será contra nós?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aquele que nem mesmo ao seu próprio Filho poupou, como não nos dará também com ele todas as coisas?"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem fará acusação contra os escolhidos de Deus? Deus é quem justifica."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem [os] condenará? Cristo Jesus é o que morreu; além disto é o que também ressuscitou; o que também está à direita de Deus, e que intercede por nós."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem nos separará do amor de Cristo? A aflição, a angústia, a perseguição, a fome, a nudez, o perigo, ou a espada?"
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como está escrito: “Pois por causa de ti somos entreges à morte o dia todo; somos contados como ovelhas para o matadouro”."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas em todas estas coisas somos mais que vencedores, por meio daquele que nos amou."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tenho certeza que nem a morte, nem a vida, nem anjos, nem principados, nem o presente, nem o futuro, nem poderes,"
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "nem altura, nem profundeza, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus, nosso Senhor."
+                }
+            ]
+        }
+    ]
+}

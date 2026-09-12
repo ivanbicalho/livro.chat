@@ -1,0 +1,70 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 142,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Instrução de Davi; oração quando ele estava na caverna:Com minha voz clamo ao SENHOR; com minha voz suplico ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Diante dele derramo meu pedido; diante dele contei minha angústia."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estando meu espírito angustiado em mim, tu conheceste meu percurso; no caminho em que eu andava esconderam um laço de armadilha para mim."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu olho à direita, e eis que não há quem me conheça; não há nenhum refúgio para mim; nem ninguém se importava com minha alma."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu clamo a ti, SENHOR, dizendo: Tu és meu refúgio, [e] minha porção na terra dos viventes."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Presta atenção aos meus gritos, porque estou muito oprimido; resgata-me daqueles que me perseguem, pois são mais fortes que eu."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tira minha alma da prisão, para que eu louve o teu nome; os justos me rodearão, porque tu me tratarás bem."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "book": "marcos",
+    "name": "Marcos",
+    "chapter": 11,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando se aproximaram de Jerusalém, de Betfagé, e de Betânia, junto ao monte das Oliveiras, [Jesus] enviou dois de seus discípulos,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "dizendo-lhes: Ide ao vilarejo que está adiante de vós; e assim que nela entrardes, achareis um jumentinho amarrado, sobre o qual ninguém se sentou; soltai-o, e trazei-o."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém vos disser: Por que fazeis isso?, dizei: O Senhor precisa dele, e logo o devolverá para cá."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles foram, e acharam um jumentinho amarrado à porta, do lado de fora em uma esquina, e o soltaram."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns dos que ali estavam lhes perguntaram: Que fazeis, soltando o jumentinho?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles lhes disseram como Jesus [lhes] havia dito, e os deixaram ir."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então trouxeram o jumentinho a Jesus. Lançaram sobre ele suas roupas, e [Jesus] sentou-se sobre ele."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muitos estendiam suas roupas pelo caminho, e outros [espalhavam] ramos que haviam cortado dos campos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que iam adiante, e os que seguiam, clamavam: Hosana, bendito o que vem no Nome do Senhor!"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito o Reino que vem, [o Reino] do nosso pai Davi! Hosana nas alturas!"
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] entrou em Jerusalém, e no Templo. E depois que ter visto tudo em redor, e sendo já tarde, ele saiu para Betânia com os doze."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no dia seguinte, quando saíram de Betânia, ele teve fome."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vendo de longe uma figueira que tinha folhas, [veio ver] se acharia alguma coisa nela; mas ao chegar perto dela, nada achou, a não ser folhas, pois não era o tempo de figos."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então [Jesus] lhe disse: Nunca mais ninguém coma fruto de ti! E seus discípulos ouviram isso."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois vieram a Jerusalém. E entrando [Jesus] no Templo, começou a expulsar os que vendiam e compravam no Templo; e revirou as mesas dos cambiadores, e as cadeiras dos que vendiam pombas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não consentia que ninguém levasse vaso algum pelo Templo."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ensinava, dizendo-lhes: Não está escrito: Minha casa será chamada casa de oração de todas as nações? Mas vós fizestes dela esconderijo de ladrões!"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os chefes dos sacerdotes e os escribas ouviram isso, e buscavam uma maneira de o matar; pois o temiam, porque toda a multidão estava admirada do ensino dele."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E como já era tarde, eles saíram fora da cidade."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E passando pela manhã, viram que a figueira estava seca desde as raízes."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro se lembrou disso, e disse-lhe: Mestre, eis que a figueira que amaldiçoaste, se secou."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondendo Jesus, disse-lhes: Tende fé em Deus."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade vos digo que qualquer um que disser a este monte: Levanta-te, e lança-te no mar; e não duvidar em seu coração, mas crer que se fará o que diz, tudo o que disser lhe será feito."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto eu vos digo que tudo o que pedirdes orando, crede que recebereis, e vós [o] tereis."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando estiverdes orando, perdoai, se tendes algo contra alguém, para que o vosso Pai, que [está] nos céus, vos perdoe vossas ofensas."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois voltaram a Jerusalém; e, enquanto ele andava pelo Templo, vieram a ele os chefes dos sacerdotes, os escribas, e os anciãos."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disseram-lhe: Com que autoridade fazes estas coisas? Ou quem te deu esta autoridade, para fazerdes estas coisas?"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhes respondeu: Também eu vos farei uma pergunta, e respondei-me; então vos direi com que autoridade faço estas coisas."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O batismo de João era do céu ou dos homens? Respondei-me."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles argumentavam entre si, dizendo: Se dissermos do céu, ele dirá: Por que, pois, não crestes nele?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, se dissermos dos homens, tememos ao povo, porque todos consideravam que João era verdadeiramente profeta."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então responderam a Jesus: Não sabemos. E Jesus lhes replicou: Também eu não vos direi com que autoridade faço estas coisas."
+                }
+            ]
+        }
+    ]
+}

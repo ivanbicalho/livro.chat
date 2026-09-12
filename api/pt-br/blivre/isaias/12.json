@@ -1,0 +1,61 @@
+{
+    "book": "isaias",
+    "name": "Isaías",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tu dirás naquele dia: Eu te agradeço, SENHOR, pois, ainda que tenhas te irado contra mim, tua ira foi removida, e tu me consolas!"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que Deus é minha salvação; [nele] confiarei, e não terei medo; porque minha força e minha canção é o SENHOR DEUS; e ele tem sido minha salvação."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alegremente tirareis águas das fontes da salvação."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E direis naquele dia: Agradecei ao SENHOR, falai em alta voz ao seu nome; informai seus feitos entre os povos, anunciai quão exaltado é o seu nome."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Cantai ao SENHOR, porque ele fez coisas grandiosas; que isto seja conhecido em toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Grita e canta de alegria, ó moradora de Sião; porque o Santo de Israel é grande no meio de ti!"
+                }
+            ]
+        }
+    ]
+}

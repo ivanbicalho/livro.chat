@@ -1,0 +1,313 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 21,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jó respondeu, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouvi atentamente minhas palavras, e seja isto vossas consolações."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Suportai-me, e eu falarei; e depois de eu ter falado, [então] zombai."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso eu me queixo de algum ser humano? Porém ainda que [assim fosse] ,por que meu espírito não se angustiaria?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Olhai-me, e espantai-vos; e ponde a mão sobre a boca."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois quando eu me lembro [disto] ,me assombro, e minha carne é tomada de tremor."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que razão os perversos vivem, envelhecem, e ainda crescem em poder?"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seus filhos progridem com eles diante de seus rostos; e seus descendentes diante de seus olhos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Suas casas têm paz, sem temor, e a vara de Deus não está contra eles."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seus touros procriam, e não falham; suas vacas geram filhotes, e não abortam."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Suas crianças saem como um rebanho, e seus filhos saem dançando."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantam [a voz] ao [som] de tamboril e de harpa e se alegram ao som de flauta."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em prosperidade gastam seus dias, e em um momento descem ao Xeol."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim dizem a Deus: Afasta-te de nós, porque não queremos conhecer teus caminhos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem é o Todo-Poderoso, para que o sirvamos? E de que nos aproveitará que oremos a ele?"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que sua prosperidade não se deve às mãos deles. Longe de mim esteja o conselho dos perversos!"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quantas vezes sucede que a lâmpada dos perversos se apaga, e sua perdição vem sobre eles, [e] Deus em sua ira [lhes] reparte dores?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles serão como palha diante do vento, como o restos de palha que o turbilhão arrebata."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Vós dizeis] : Deus guarda sua violência para seus filhos. Que [Deus] pague ao próprio [perverso] ,para que o conheça."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seus olhos vejam sua ruína, e beba da ira do Todo-Poderoso."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois que interesse teria ele em sua casa depois de si, quando o número for cortado o número de seus meses?"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Poderia alguém ensinar conhecimento a Deus, que julga [até] os que estão no alto?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Alguém morre na sua força plena, estando todo tranquilo e próspero,"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seus baldes estando cheios de leite, e o tutano de seus ossos umedecido."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém outro morre com amargura de alma, nunca tendo experimentado a prosperidade."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Juntamente jazem no pó, e os vermes os cobrem."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que eu sei vossos pensamentos, e os mais intentos que planejais contra mim."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque dizeis: Onde está a casa do príncipe?, e: Onde está tenda das moradas dos perversos?"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso não perguntastes aos que passam pelo caminho, e não conheceis seus sinais?"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que os maus são preservados no dia da destruição, [e] são livrados no dia das fúrias?"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem lhe denunciará seu caminho em sua face? E quem lhe pagará pelo que ele fez?"
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Finalmente ele é levado à sepultura, e no túmulo fazem vigilância."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os torrões do vale lhe são doces; e todos o seguem; e adiante dele estão inúmeros."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como, pois, me consolais em vão, já que vossas em vossas respostas [só] resta falsidade?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 22,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi para o regente, como em “cerva da manhã”:Deus meu, Deus meu, por que me desamparaste? Longe [estás] de meu livramento [e] das palavras de meu gemido."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus meu, eu clamo de dia, e tu não me respondes; também [clamo] de noite, e não tenho sossego."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém tu és Santo, que habitas [nos] louvores de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nossos pais confiaram em ti; eles confiaram, e tu os livraste."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles clamaram a ti, e escaparam [do perigo] ; eles confiaram em ti, e não foram envergonhados."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu sou um verme, e não um homem; [sou] humilhado pelos homens, e desprezado pelo povo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os que me veem zombam de mim; abrem os lábios [e] sacodem a cabeça, [dizendo] :"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele confiou no “SENHOR”; [agora] que ele o salve e o liberte; pois se agrada nele."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tu és o que me tiraste do ventre; [e] o que me deu segurança, [estando eu] junto aos seios de minha mãe."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu fui lançado sobre ti desde [que saí d] o útero; desde o ventre de minha mãe tu [és] meu Deus."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não fiques longe de mim, porque a minha angústia está perto; pois não há quem [me] ajude."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Muitos touros me cercaram; fortes de Basã me rodearam."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Abriram contra mim suas bocas, [como] leão que despedaça e ruge."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu me derramei como água, e todos os meus ossos se soltaram uns dos outros; meu coração é como cera, [e] se derreteu por entre meus órgãos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha força se secou como um caco de barro, e minha língua está grudada no céu da boca; e tu me pões no pó da morte;"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque cães ficaram ao meu redor; uma multidão de malfeitores me cercou; perfuraram minhas mãos e meus pés."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu poderia contar todos os meus ossos; eles estão [me] olhando, e prestando atenção em mim."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles repartem entre si minhas roupas; e sobre minha vestimenta eles lançam sortes."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém tu, SENHOR, não fiques longe; força minha, apressa-te para me socorrer."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Livra minha alma da espada; [e] minha vida da violência do cão."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salva-me da boca do leão; e responde-me dos chifres dos touros selvagens."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Então] eu contarei teu nome a meus irmãos; no meio da congregação eu te louvarei."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós que temeis ao SENHOR, louvai a ele! E vós, de toda a semente de Jacó, glorificai a ele! Prestai culto a ele, vós de toda a semente de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele não desprezou nem abominou a aflição do aflito, nem escondeu seu rosto dele; mas sim, quando [o aflito] clamou, ele [o] ouviu."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu louvor será para ti na grande congregação; eu pagarei meus juramentos perante os que o temem."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os humilhados comerão, e ficarão fartos; louvarão ao SENHOR aqueles que o buscam; vosso coração viverá para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os extremos da terra se lembrarão [disso] , e se converterão ao SENHOR; e todas as gerações das nações adorarão diante de ti."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o reino [pertence] ao SENHOR; e ele governa sobre as nações."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os ricos da terra comerão e adorarão, [e] perante o rosto dele se prostrarão todos os que descem ao pó, e [que] não podem manter viva sua alma."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A descendência o servirá; ela será contada ao Senhor, para a geração [seguinte] ."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Chegarão, e anunciarão a justiça dele ao povo que nascer, porque ele [assim] fez."
+                }
+            ]
+        }
+    ]
+}

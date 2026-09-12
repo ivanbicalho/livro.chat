@@ -1,0 +1,133 @@
+{
+    "book": "hebreus",
+    "name": "Hebreus",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Deus falou antigamente muitas vezes, e de muitas maneiras, aos ancestrais pelos profetas."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas nestes últimos falou a nós por meio do [seu] Filho, a quem constituiu por herdeiro de todas as coisas, e pelo qual também fez o universo."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[O Filho] é o resplendor da [sua] glória, a expressa imagem da sua pessoa, e sustenta todas as coisas pela palavra de poder. E, depois de fazer por si mesmo a purificação dos pecados, sentou-se à direita da Majestade nas alturas;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e se tornou muito superior aos anjos, assim como herdou um nome mais excelente que eles."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois a qual dos anjos [Deus] jamais disse: “Tu és meu Filho, eu hoje te gerei”, E em outra vez: “Eu lhe serei por Pai, e ele me será por Filho”?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E outra vez, quando introduz o primogênito ao mundo, diz: E todos os anjos de Deus o adorem."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quanto aos anjos, porém, ele diz: Ele faz de seus anjos espíritos; e de seus trabalhadores, labareda de fogo;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas ao Filho [diz] : Ó Deus, o teu trono é para todo o sempre. Cetro de equidade é o cetro do teu Reino."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Amaste a justiça, e odiaste a transgressão; por isso, Deus, o teu Deus, te ungiu com óleo de alegria mais que os teus companheiros."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E: Tu Senhor, no princípio fundaste a terra, e os céus são obras de tuas mãos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles perecerão, mas tu continuas. Todos eles como roupa se envelhecerão;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "como uma manta tu os envolverás, e como roupa serão mudados; porém tu és o mesmo, e os teus anos não cessarão."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a qual dos anjos ele jamais disse: Senta-te à minha direita, até que eu ponha os teus inimigos como estrado de teus pés?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso não são todos eles espíritos servidores, enviados para auxílio dos que herdarão a salvação?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 10,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Faze para ti duas trombetas de prata; de obra de martelo as farás, as quais te servirão para convocar a congregação, e para fazer mover o acampamento."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando as tocarem, toda a congregação se juntará a ti à porta do tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas quando tocarem somente uma, então se congregarão a ti os príncipes, os chefes dos milhares de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando tocardes alarme, então moverão o acampamento dos que estão alojados ao oriente."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando tocardes alarme a segunda vez, então moverão o acampamento dos que estão alojados ao sul: alarme tocarão à suas partidas."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém quando houverdes de juntar a congregação, tocareis, mas não com som de alarme."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os filhos de Arão, os sacerdotes, tocarão as trombetas; e as tereis por estatuto perpétuo por vossas gerações."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando vierdes à guerra em vossa terra contra o inimigo que vos oprimir, tocareis alarme com as trombetas: e sereis em memória diante do SENHOR vosso Deus, e sereis salvos de vossos inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no dia de vossa alegria, e em vossas solenidades, e nos princípios de vossos meses, tocareis as trombetas sobre vossos holocaustos, e sobre os sacrifícios de vossas pazes, e vos serão por memória diante de vosso Deus: Eu sou o SENHOR vosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi no ano segundo, no mês segundo, aos vinte do mês, que a nuvem se levantou do tabernáculo do testemunho."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E moveram os filhos de Israel por suas partidas do deserto de Sinai; e parou a nuvem no deserto de Parã."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E moveram a primeira vez ao dito do SENHOR por meio de Moisés."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a bandeira do acampamento dos filhos de Judá começou a marchar primeiro, por seus esquadrões: e Naassom, filho de Aminadabe, era sobre seu exército."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o exército da tribo dos filhos de Issacar, Natanael filho de Zuar."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o exército da tribo dos filhos de Zebulom, Eliabe filho de Helom."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E depois que estava já desarmado o tabernáculo, moveram os filhos de Gérson e os filhos de Merari, que o levavam."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo começou a marchar a bandeira do acampamento de Rúben por seus esquadrões: e Elizur, filho de Sedeur, era sobre seu exército."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o exército da tribo dos filhos de Simeão, Selumiel filho de Zurisadai."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o exército da tribo dos filhos de Gade, Eliasafe filho de Deuel."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo começaram a marchar os coatitas levando o santuário; e enquanto que eles traziam, os outros levantavam o tabernáculo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois começou a marchar a bandeira do acampamento dos filhos de Efraim por seus esquadrões: e Elisama, filho de Amiúde, era sobre seu exército."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o exército da tribo dos filhos de Manassés, Gamaliel filho de Pedazur."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o exército da tribo dos filhos de Benjamim, Abidã filho de Gideoni."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo começou a marchar a bandeira do campo dos filhos de Dã por seus esquadrões, recolhendo todos os acampamentos: e Aiezer, filho de Amisadai, era sobre seu exército."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o exército da tribo dos filhos de Aser, Pagiel filho de Ocrã."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sobre o exército da tribo dos filhos de Naftali, Aira filho de Enã."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas são as partidas dos filhos de Israel por seus exércitos, quando se moviam."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então disse Moisés a Hobabe, filho de Reuel midianita, seu sogro: Nós nos partimos para o lugar do qual o SENHOR disse: Eu a vós o darei. Vem conosco, e te faremos bem: porque o SENHOR falou bem a respeito de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhe respondeu: Eu não irei, mas sim que me marcharei à minha terra e à minha parentela."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhe disse: Rogo-te que não nos deixes; porque tu conheces nossos alojamentos no deserto, e nos serás em lugar de olhos."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será, que se vieres conosco, quando tivermos o bem que o SENHOR nos há de fazer, nós te faremos bem."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim partiram do monte do SENHOR, caminho de três dias; e a arca da aliança do SENHOR foi diante deles caminho de três dias, buscando-lhes lugar de descanso."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a nuvem do SENHOR ia sobre eles de dia, desde que partiram do acampamento."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E foi, que em movendo a arca, Moisés dizia: Levanta-te, o SENHOR, e sejam dissipados teus inimigos, e fujam de tua presença os que te aborrecem."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando ela assentava, dizia: Volta, SENHOR, aos milhares de milhares de Israel."
+                }
+            ]
+        }
+    ]
+}

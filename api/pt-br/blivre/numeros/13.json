@@ -1,0 +1,304 @@
+{
+    "book": "numeros",
+    "name": "Números",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "“Envia homens que reconheçam a terra de Canaã, a qual eu dou aos filhos de Israel; de cada tribo de seus pais enviareis um homem, cada um líder entre eles.”"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Moisés os enviou desde o deserto de Parã, conforme a palavra do SENHOR; e todos aqueles homens eram líderes dos filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os nomes dos quais são estes: da tribo de Rúben, Samua, filho de Zacur."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Simeão, Safate, filho de Hori."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Judá, Calebe, filho de Jefoné."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Issacar, Jigeal, filho de José."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Efraim, Oseias, filho de Num."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Benjamim, Palti, filho de Rafu."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Zebulom, Gadiel, filho de Sodi."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de José: pela tribo de Manassés, Gadi, filho de Susi."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Dã, Amiel, filho de Gemali."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Aser, Setur, filho de Micael."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Naftali, Nabi, filho de Vofsi."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Da tribo de Gade, Guel, filho de Maqui."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os nomes dos homens que Moisés enviou para reconhecer a terra; e a Oseias, filho de Num, Moisés lhe pôs o nome de Josué."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Moisés os enviou para reconhecer a terra de Canaã, dizendo-lhes: “Subi por aqui, pelo sul, e subi ao monte:"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e observai a terra que tal é; e o povo que a habita, se é forte ou débil, se pouco ou numeroso;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "qual é a terra habitada, se é boa ou má; e quais são as cidades habitadas, se de tendas ou de fortalezas;"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e qual é o terreno, se é fértil ou fraco, se nele há ou não árvores; esforçai-vos, e colhei do fruto daquela terra.” E o tempo era o tempo das primeiras uvas."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles subiram, e reconheceram a terra desde o deserto de Zim até Reobe, entrando em Hamate."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E subiram pelo sul, e vieram até Hebrom: e ali estavam Aimã, e Sesai, e Talmai, filhos de Anaque. Hebrom foi edificada sete anos antes de Zoã, a do Egito."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegaram até o ribeiro de Escol, e dali cortaram um ramo com um cacho de uvas, o qual trouxeram dois em uma vara, e das romãs e dos figos."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chamou-se aquele lugar vale de Escol pelo cacho que cortaram dali os filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltaram de reconhecer a terra ao fim de quarenta dias."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E andaram e vieram a Moisés e a Arão, e a toda a congregação dos filhos de Israel, no deserto de Parã, em Cades, e deram-lhes a resposta, e a toda a congregação, e lhes mostraram o fruto da terra."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lhe contaram, e disseram: Nós chegamos à terra à qual nos enviaste, a que certamente flui leite e mel; e este é o fruto dela."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o povo que habita aquela terra é forte, e as cidades muito grandes e fortes; e também vimos ali os filhos de Anaque."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Amaleque habita a terra do sul; e os heteus, e os jebuseus, e os amorreus, habitam no monte; e os cananeus habitam junto ao mar, e à beira do Jordão."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Calebe fez calar o povo diante de Moisés, e disse: Subamos logo, e passemos a ela; que mais poderemos que ela."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os homens que subiram com ele, disseram: Não poderemos subir contra aquele povo; porque é mais forte que nós."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falaram mal entre os filhos de Israel da terra que haviam reconhecido, dizendo: A terra por de onde passamos para reconhecê-la, é terra que consome a seus moradores; e todo o povo que vimos em meio dela, são homens de grande estatura."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também vimos ali gigantes, filhos de Anaque, raça dos gigantes: e éramos nós, à nossa aparência, como gafanhotos; e assim lhes parecíamos a eles."
+                }
+            ]
+        }
+    ]
+}

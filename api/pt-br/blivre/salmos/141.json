@@ -1,0 +1,97 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 141,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:Ó SENHOR, eu clamo a ti; apressa-te a mim; ouve minha voz, quando eu clamar a ti."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Apresente-se minha oração [como] incenso diante de ti; [e] o levantar de minhas mãos [como] a oferta do anoitecer."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Põe, SENHOR, uma guarda em minha boca; vigia a abertura dos meus lábios."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não inclines meu coração para as coisas más, para fazer o mal junto com homens que praticam maldade; e não coma eu das delícias deles."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que o justo me faça o favor de me espancar e me repreender; [isto me será] azeite sobre a cabeça; minha cabeça não rejeitará, porque ainda orarei contra as maldades deles."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Quando] seus juízes forem lançados contra a rocha, então ouvirão minhas palavras, porque [são] agradáveis."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como quem lavra e fende a terra, assim nossos ossos são espalhados à entrada do Xeol."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém meus olhos [estão voltados] para ti, ó Senhor DEUS; em ti confio; não desampares minha alma."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Guarda-me do perigo da armadilha que me prepararam; e dos laços da cilada dos que praticam maldade."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Caiam os perversos cada um em suas próprias redes, e eu passe adiante [em segurança] ."
+                }
+            ]
+        }
+    ]
+}

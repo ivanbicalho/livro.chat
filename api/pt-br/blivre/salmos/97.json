@@ -1,0 +1,115 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 97,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR reina; que a terra se encha de alegria; alegrem-se as muitas ilhas."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Nuvens e escuridão há ao redor dele; justiça e juízo são a base de seu trono."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fogo vai adiante dele, que inflama seus adversários ao redor."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seus relâmpagos iluminam o mundo; a terra os vê, e treme."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os montes se derretem como cera na presença do SENHOR, na presença do Senhor de toda a terra."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os céus anunciam sua justiça, e todos os povos veem sua glória."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sejam envergonhados todos os que servem a imagens, e os que se orgulham de ídolos; prostrai-vos diante dele todos os deuses."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sião ouviu, e se alegrou; e as filhas de Judá tiveram muita alegria, por causa de teus juízos, SENHOR;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tu, SENHOR, és o Altíssimo sobre toda a terra; tu és muito mais elevado que todos os deuses."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós que amais ao SENHOR: odiai o mal; ele guarda a alma de seus santos, [e] os resgata da mão dos perversos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A luz é semeada para o justo, e a alegria para os corretos de coração."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós justos, alegrai-vos no SENHOR; e agradecei em memória de sua santidade."
+                }
+            ]
+        }
+    ]
+}

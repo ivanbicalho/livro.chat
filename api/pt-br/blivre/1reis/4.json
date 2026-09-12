@@ -1,0 +1,313 @@
+{
+    "book": "1reis",
+    "name": "1 Reis",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Foi, pois, o rei Salomão rei sobre todo Israel."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes foram os príncipes que teve: Azarias filho de Zadoque, sacerdote;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eliorefe e Aías, filhos de Sisa, escribas; Josafá filho de Ailude, chanceler;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Benaia filho de Joiada era sobre o exército; e Zadoque e Abiatar eram os sacerdotes;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Azarias filho de Natã era sobre os governadores; Zabude filho de Natã era principal oficial, amigo do rei;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Aisar era mordomo; e Adonirão filho de Abda era sobre o tributo."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tinha Salomão doze governadores sobre todo Israel, os quais mantinham ao rei e à sua casa. Cada um deles estava obrigado a abastecer por um mês no ano."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes são os nomes deles: Ben-Hur no monte de Efraim;"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ben-Dequer, em Macaz, e em Saalbim, e em Bete-Semes, e em Elom-Bete-Hanã;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ben-Hesede, em Arubote; este tinha também a Socó e toda a terra de Hefer."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ben-Abinadabe, em toda a região de Dor: este tinha por mulher a Tafate filha de Salomão;"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Baana filho de Ailude, em Taanaque e Megido, e em toda Bete-Seã, que é próxima de Zaretã, por abaixo de Jezreel, desde Bete-Seã até Abel-Meolá, e até a outra parte de Jocmeão;"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ben-Geber, em Ramote de Gileade; este tinha também as cidades de Jair filho de Manassés, as quais estavam em Gileade; tinha também a província de Argobe, que era em Basã, sessenta grandes cidades com muro e fechaduras de bronze;"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ainadabe filho de Ido, em Maanaim;"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Aimaás em Naftali; este tomou também por mulher a Basemate filha de Salomão."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Baaná filho de Husai, em Aser e em Alote;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Josafá filho de Parua, em Issacar;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Simei filho de Elá, em Benjamim;"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Geber filho de Uri, na terra de Gileade, a terra de Seom rei dos amorreus, e de Ogue rei de Basã; este era o único governador naquela terra."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Judá e Israel eram muitos, como a areia que está junto ao mar em multidão, comendo e bebendo e alegrando-se."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Salomão dominava sobre todos os reinos, desde o rio até a terra dos filisteus, e até o termo do Egito; e traziam tributos, e serviram a Salomão todos os dias em que viveu."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a provisão de Salomão era, cada dia, trinta coros de farinha refinada, e sessenta coros de farinha comum;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "dez bois engordados, e vinte bois de pasto, e cem ovelhas; sem os cervos, cabras, búfalos, e aves engordadas."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ele dominava em toda a região que estava da outra parte do rio, desde Tifsa até Gaza, sobre todos os reis da outra parte do rio; e teve paz por todos os lados em derredor seu."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Judá e Israel viviam seguros, cada um debaixo de sua parreira e debaixo de sua figueira, desde Dã até Berseba, todos os dias de Salomão."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Além disso, Salomão tinha quarenta mil cavalos em seus estábulos para suas carruagens, e doze mil cavaleiros."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estes governadores mantinham ao rei Salomão, e a todos os que vinham à mesa do rei Salomão, a cada mês; e faziam que nada faltasse."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Faziam também trazer cevada e palha para os cavalos e para os animais de carga, ao lugar de onde ele estava, cada um conforme ao cargo que tinha."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E deu Deus a Salomão sabedoria, e prudência muito grande, e largura de coração como a areia que está à beira do mar."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que foi maior a sabedoria de Salomão que a de todos os orientais, e que toda a sabedoria dos egípcios."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ainda foi mais sábio que todos os homens; mais que Etã ezraíta, e que Hemã e Calcol e Darda, filhos de Maol: e foi nomeado entre todas as nações de ao redor."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E propôs três mil parábolas; e seus versos foram mil e cinco."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também descreveu as árvores, desde o cedro do Líbano até o hissopo que nasce na parede. Também descreveu os animais, as aves, os répteis, e os peixes."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vinham de todos os povos a ouvir a sabedoria de Salomão, e de todos os reis da terra, de onde havia chegado a fama de sua sabedoria."
+                }
+            ]
+        }
+    ]
+}

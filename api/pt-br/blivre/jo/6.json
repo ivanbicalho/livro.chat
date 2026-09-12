@@ -1,0 +1,277 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas Jó respondeu, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Oh se pesassem justamente minha aflição, e meu tormento juntamente fosse posto em uma balança!"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois na verdade seria mais pesada que a areia dos mares; por isso minhas palavras têm sido impulsivas."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque as flechas do Todo-Poderoso estão em mim, cujo veneno meu espírito bebe; e temores de Deus me atacam."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso o asno selvagem zurra junto à erva, ou o boi berra junto a seu pasto?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso se come o insípido sem sal? Ou há gosto na clara do ovo?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Minha alma se recusa tocar [essas coisas] ,que são para mim como comida detestável."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ah se meu pedido fosse realizado, e se Deus [me] desse o que espero!"
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que Deus me destruísse; ele soltasse sua mão, e acabasse comigo!"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Isto ainda seria meu consolo, um alívio em meio ao tormento que não [me] poupa; pois eu não tenho escondido as palavras do Santo."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qual é minha força para que eu espere? E qual meu fim, para que eu prolongue minha vida?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É, por acaso, a minha força a força de pedras? Minha carne é de bronze?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tenho eu como ajudar a mim mesmo, se todo auxílio me foi tirado?"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao aflito, seus amigos deviam ser misericordiosos, mesmo se ele tivesse abandonado o temor ao Todo-Poderoso."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus irmãos foram traiçoeiros comigo, como ribeiro, como correntes de águas que transbordam,"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que estão escurecidas pelo gelo, e nelas se esconde a neve;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que no tempo do calor se secam e, ao se aquecerem, desaparecem de seu lugar;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os cursos de seus caminhos se desviam; vão se minguando, e perecem."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As caravanas de Temã as veem; os viajantes de Sabá esperam por elas."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Foram envergonhados por aquilo em que confiavam; e ao chegarem ali, ficaram desapontados."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, vós vos tornastes semelhantes a elas; pois vistes o terror, e temestes."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso eu disse: Trazei-me [algo] ? Ou: Dai presente a mim de vossa riqueza?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ou: Livrai-me da mão do opressor? Ou: Resgatai-me das mãos dos violentos?"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ensinai-me, e eu [me] calarei; e fazei-me entender em que errei."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como são fortes as palavras de boa razão! Mas o que vossa repreensão reprova?"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pretendeis repreender palavras, sendo que os argumentos do desesperado são como o vento?"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De fato vós lançaríeis [sortes] sobre o órfão, e venderíeis vosso amigo."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, pois, disponde-vos a olhar para mim; e [vede] se eu minto diante de vós."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mudai de opinião, pois, e não haja perversidade; mudai de opinião, pois minha justiça continua."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Há perversidade em minha língua? Não poderia meu paladar discernir as coisas más?"
+                }
+            ]
+        }
+    ]
+}

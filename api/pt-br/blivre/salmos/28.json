@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 28,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:A ti, SENHOR, rocha minha, eu clamo; não te silencies para comigo; para que não [aconteça de, se] tu calares quanto a mim, eu não [me torne] semelhante aos que descem à cova."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ouve a voz de minhas súplicas, quando eu clamar a ti, ao levantar às minhas mãos ao templo de tua santidade."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não me jogues fora com os perversos, nem com os praticantes da maldade, que falam de paz com sem próximo, porém [há] o mal no coração deles."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dá-lhes conforme as obras deles, e conforme a maldade de seus atos; dá-lhes conforme a obra das mãos deles, retribui-lhes como eles merecem."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque eles não dão atenção para os atos do SENHOR, nem para a obra de suas mãos; [então] ele os derrubará e não os edificará."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bendito [seja] o SENHOR, porque ele ouviu a voz de minhas súplicas."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR [é] a minha força e meu escudo; meu coração confiou nele, e foi socorrido; por isso meu coração salta de alegria; e com meu canto eu o louvarei."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR [é] a força deles, e o poder das salvações de seu Ungido."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salva a teu povo, e abençoa a tua herança; e apascenta-os, e levanta-os para sempre."
+                }
+            ]
+        }
+    ]
+}

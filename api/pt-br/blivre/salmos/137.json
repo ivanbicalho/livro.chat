@@ -1,0 +1,88 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 137,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Junto aos rios da Babilônia nos sentamos e choramos, enquanto nos lembramos de Sião."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sobre os salgueiros que há no meio dela penduramos nossas harpas."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ali os que tinham nos capturado nos pediam letras de canções, e os que nos destruíram, que [os] alegrássemos, [dizendo] : Cantai para nós [algumas] das canções de Sião."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Como cantaríamos canções do SENHOR em terra estrangeira?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se eu me esquecer de ti, ó Jerusalém, que minha mão direita se esqueça [de sua habilidade] ."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que minha língua grude no céu da boca se eu não me lembrar de ti, se eu não pôr Jerusalém acima de todas as minhas alegrias."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Lembra-te, SENHOR, dos filhos de Edom no dia de Jerusalém, que diziam: Arruinai [-a] ,arruinai [-a] ,até ao seus fundamentos!"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ah filha de Babilônia, que serás destruída! Bem-aventurado a quem te retribuir o que fizeste conosco."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Bem-aventurado aquele que tomar dos teus filhos, e [lançá-los] contra as pedras."
+                }
+            ]
+        }
+    ]
+}

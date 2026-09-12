@@ -1,0 +1,286 @@
+{
+    "book": "1corintios",
+    "name": "1 Coríntios",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quanto aos [dons] espirituais, irmãos, não quero que sejais ignorantes."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vós sabeis que éreis gentios, vós vos desviáveis para os ídolos mudos, conforme éreis guiados."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isso eu vos deixo claro que ninguém que fala pelo Espírito de Deus chama a Jesus de maldito; e ninguém pode dizer [que] Jesus [é] o Senhor, a não ser pelo Espírito Santo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E há variedade de dons, mas o Espírito é o mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E há variedade de trabalhos [na Igreja] ,mas o Senhor é o mesmo."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E há variedade de operações, mas é o mesmo Deus que opera tudo em todos."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas a cada um é dada a manifestação do Espírito, para o que for conveniente."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque a um é dada, pelo Espírito, palavra de sabedoria; e a outro palavra de conhecimento, pelo mesmo Espírito."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e a outro fé pelo mesmo Espírito; e a outro dons de curas, pelo mesmo Espírito."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a outro operações de milagres; e a outro profecia; e a outro o [dom de] discernir aos espíritos; e a outro variedade de línguas; e a outro interpretação de línguas."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas todas estas coisas [quem] opera [é] um e o mesmo Espírito, repartindo particularmente a cada um como quer."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque assim como o corpo é um, e tem muitos membros, e todos os membros deste único corpo, sendo muitos, compõem um só corpo; assim também é Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque também todos nós somos batizados em um [só] Espírito, para um [só] corpo, quer judeus, quer gregos, quer servos, quer livres; e para todos nós foi dado de beber um [só] Espírito."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque também o corpo não é um [só] membro, mas muitos."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se o pé disser: Por eu não ser mão, não sou do corpo;Por isso, ele não é do corpo?"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se a orelha disser: Por eu não ser olho, não sou do corpo;Por isso, ela não é do corpo?"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se todo o corpo fosse olho, onde [estaria] o ouvido? Se [fosse] todo ouvido, onde [estaria] o olfato?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas agora Deus pôs os membros no corpo, a cada qual deles como ele quis."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque se todos fossem um [só] membro, onde [estaria] o corpo?"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas há agora muitos membros, porém um [só] corpo."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o olho não pode dizer à mão: Não tenho necessidade de ti;Nem a cabeça aos pés: Não tenho necessidade de vós;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Antes até os membros do corpo que [nos] parecem ser os mais fracos, são muito mais necessários."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os que pensamos serem os menos honrados do corpo, a esses muito mais honramos; e os nossos mais desprezíveis têm muito mais respeito."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém os nosso mais respeitáveis não têm [tanta] necessidade; mas [assim] Deus juntou o corpo, dando muito mais honra ao que tinha falta [dela] ."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para que não haja divisão no corpo, mas que os membros tenham igual cuidado uns com os outros."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E seja que, [caso] um membro sofra, [também] os membros sofrem juntos; e [caso] um membro seja honrado, todos os membros se alegram juntos."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E vós sois o corpo de Cristo, e membros em particular."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Deus pôs a uns na Igreja: em primeiro lugar apóstolos, em segundo profetas, em terceiro mestres; depois milagres, dons de curas, socorros, lideranças, variedades de línguas."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por acaso são todos apóstolos? São todos profetas? São todos mestres? São todos com dons de milagres?"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tem todos dons de curas? Falam todos [várias] línguas? Interpretam todos?"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém desejai com zelo pelos melhores dons; e eu vos mostro um caminho ainda mais excelente."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "book": "exodo",
+    "name": "Êxodo",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estes são os nomes dos filhos de Israel que entraram em Egito com Jacó; cada um entrou com sua família:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Rúben, Simeão, Levi e Judá;"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Issacar, Zebulom e Benjamim;"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dã e Naftali, Gade e Aser."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim, todas as pessoas que descenderam do corpo de Jacó foram setenta. Porém José estava no Egito."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois que morreram José, todos os seus irmãos, e toda aquela geração,"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "os filhos de Israel cresceram e multiplicaram, e foram aumentados e fortalecidos grandemente; de maneira que a terra encheu-se deles."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Levantou-se, entretanto, um novo rei sobre o Egito, que não conhecia José."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele disse ao seu povo: Eis que o povo dos filhos de Israel é maior e mais forte que nós;"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Agora, pois, sejamos astutos para com ele, a fim de que não se multiplique, e aconteça que caso venha guerra, ele se alie aos nossos inimigos, lute contra nós, e saia desta terra."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então puseram sobre [o povo de Israel] capatazes para os oprimirem com trabalhos forçados; e edificaram a Faraó as cidades de armazenamento, Pitom e Ramessés."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, quanto mais os oprimiam, mais se multiplicavam e cresciam. Por isso eles detestavam os filhos de Israel."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim os egípcios fizeram os filhos de Israel servirem duramente,"
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e amargaram a vida deles com dura servidão, em fazerem barro e tijolos, em todo trabalho do campo, e em todo o seu serviço, ao qual os obrigavam com rigor."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei do Egito falou às parteiras das hebreias, uma das quais se chamava Sifrá, e outra Puá, e disse-lhes:"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando fizerdes o parto das hebreias, e olhardes os assentos, se for filho, matai-o; e se for filha, então viva."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas as parteiras temeram a Deus, e não fizeram como o rei do Egito lhes mandara; em vez disso, preservaram a vida dos meninos."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o rei do Egito mandou chamar às parteiras e lhes perguntou: Por que fizestes isto, que preservastes a vida dos meninos?"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As parteiras responderam a Faraó: As mulheres hebreias não são como as egípcias; pois são fortes, de maneira que dão à luz antes que a parteira chegue a elas."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Deus fez bem às parteiras. E o povo se multiplicou, e se fortaleceu muito."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por as parteiras terem temido a Deus, ele constituiu famílias a elas."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Faraó deu a todo o seu povo a seguinte ordem: Lançai no rio todo filho que nascer, e a toda filha preservai a vida."
+                }
+            ]
+        }
+    ]
+}

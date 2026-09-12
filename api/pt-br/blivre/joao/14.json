@@ -1,0 +1,286 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 14,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não se perturbe vosso coração; credes em Deus, crede também em mim."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na casa de meu Pai há muitas moradas; senão, eu vos diria; vou para vos preparar lugar."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando eu for, e vos preparar lugar, outra vez virei, e vos tomarei comigo, para que vós também estejais onde eu estiver."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E já sabeis para onde vou, e sabeis o caminho."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Tomé: Senhor, não sabemos para onde vais; e como podemos saber o caminho?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhe disse: Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai, a não ser por mim."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se vós conhecêsseis a mim, também conheceríeis a meu Pai; e desde agora já o conheceis, e o tendes visto."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Filipe: Senhor, mostra-nos ao Pai, e basta-nos."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhe disse: Tanto tempo [há que] estou convosco, e [ainda] não me tens conhecido, Filipe? Quem a mim tem visto, já tem visto ao Pai; e como dizes tu: Mostra-nos ao Pai?"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não crês tu que eu [estou] no Pai, e que o Pai está em mim? As palavras que eu vos falo, não as falo de mim mesmo, mas o Pai que está em mim, ele [é o que] faz as obras."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Crede em mim que eu [estou] no Pai, e [que] o Pai está em mim; e quando não, crede em mim por causa das próprias obras."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Em verdade, em verdade vos digo, que aquele que crê em mim, as obras que eu faço também ele as fará; e fará maiores que estas. Porque eu vou a meu Pai."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tudo quanto pedirdes em meu nome, eu o farei; para que o Pai seja glorificado no Filho."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se alguma coisa me pedirdes em meu nome, eu [a] farei."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se me amais, guardai meus mandamentos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique sempre convosco;"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao Espírito de verdade, a quem o mundo não pode receber; porque não o vê, nem o conhece; mas vós o conheceis, porque habita convosco, e estará em vós."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Não vos deixarei órfãos; eu virei a vós."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ainda um pouco, e o mundo não me verá mais; mas vós me vereis; porque eu vivo, e vós vivereis."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Naquele dia conhecereis que [estou] em meu Pai, e vós em mim, e eu em vós."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem tem meus mandamentos, e os guarda, esse é o que me ama; e quem a mim me ama, será amado de meu Pai, e eu o amarei, e a ele me manifestarei."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Judas (não o Iscariotes): Senhor, que há, porque a nós te manifestarás, e não ao mundo?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus, e disse-lhe: Se alguém me ama, guardará minha palavra, e meu Pai o amará, e viremos a ele, e faremos morada com ele."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quem não me ama, não guarda minhas palavras. E a palavra que ouvis não é minha, mas sim do Pai que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas coisas tenho dito a vós, estando [ainda] convosco."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas aquele Consolador, o Espírito Santo, ao qual o Pai enviará em meu nome, esse vos ensinará tudo, e tudo quanto tenho dito vós, [ele] vos fará lembrar."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A paz vos deixo, minha paz vos dou; vou dá- [la] a vós, não como o mundo [a] dá. Não se perturbe vosso coração, nem se atemorize."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Já ouvistes que vos tenho dito: Vou, e venho a vós. Se me amásseis, verdadeiramente vos alegraríeis, porque tenho dito: Vou ao Pai; pois meu Pai maior é que eu."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E já agora o disse a vós antes que aconteça, para que quando acontecer, [o] creiais."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Já não falarei muito convosco; pois o príncipe deste mundo já vem, e ele nada tem em mim."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas para que o mundo saiba que eu amo ao Pai, e assim faço como o Pai me mandou; levantai-vos, vamos embora daqui."
+                }
+            ]
+        }
+    ]
+}

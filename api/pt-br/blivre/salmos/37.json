@@ -1,0 +1,367 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 37,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi:Não te irrites com os malfeitores, nem tenhas inveja dos que praticam perversidade."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque assim como a erva, eles logo serão cortados; e como a verdura eles cairão."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Confia no SENHOR, e faze o bem; habita a terra, e te alimentarás em segurança."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E agrada-te no SENHOR; e ele te dará os pedidos de teu coração."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Entrega o teu caminho ao SENHOR; confia nele, e ele agirá,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "e manifestará a tua justiça como a luz, e o teu direito como o sol do meio-dia."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Descansa no SENHOR, e espera nele; não te irrites contra aquele cujo caminho prospera, [nem] com o homem que planeja maldades."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Detém a ira, abandona o furor; não te irrites de maneira alguma para fazer o mal."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque os malfeitores serão exterminados; mas os que esperam no SENHOR herdarão a terra."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ainda um pouco, e o perverso não [mais existirá] ; e tu olharás para o lugar dele, e ele não [aparecerá] ."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os mansos herdarão a terra, e se agradarão com muita paz."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso trama contra o justo, e range seus dentes contra ele."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O Senhor ri dele, porque vê que já vem o dia dele."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perversos pegarão a espada e armarão seu arco, para abaterem ao miserável e necessitado, para matarem os corretos no caminho."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas sua espada entrará em seus corações, e seus arcos serão quebrados."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O pouco que o justo [tem] é melhor do que a riqueza de muitos perversos."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque os braços dos perversos serão quebrados, mas o SENHOR sustenta os justos."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O SENHOR conhece os dias dos corretos, e a herança deles permanecerá para sempre."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eles não serão envergonhados no tempo mau, e terão fartura nos dias de fome."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os perversos perecerão, e os inimigos do SENHOR desaparecerão tal como as melhores partes dos cordeiros; eles de desfarão na fumaça."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso toma emprestado, e paga de volta; mas o justo se compadece e dá."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque os que são por ele abençoados herdarão a terra; mas os que são por ele amaldiçoados serão removidos."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os passos do homem [justo] são preparados pelo SENHOR; e ele tem prazer em seu caminho."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando cai, ele não fica derrubado, pois o SENHOR sustenta a sua mão."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu já fui jovem, e já envelheci; mas nunca vi o justo desamparado, nem a sua semente a pedir pão."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O dia todo ele se compadece, e empresta; e sua semente é abençoada."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Afasta-te do mal, e faze o bem; e faça sua habitação eterna."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR ama o juízo, e não desampara a seus santos: eles estão guardados para sempre; mas a semente dos perversos será removida."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os justos herdarão a terra, e para sempre nela habitarão."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A boca do justo fala de sabedoria, e sua língua fala do [bom] juízo."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A Lei de seu Deus [está] em seu coração; seus passos não serão abalados."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O perverso espia ao justo, e procura matá-lo."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Mas] o SENHOR não o deixa em suas mãos; nem também o condenará, quando for julgado."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Espera no SENHOR, guarda o seu caminho, e ele te exaltará, para herdares a terra; tu verás que os perversos serão removidos."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu vi ao perverso violento crescer como a árvore verde, natural da terra."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele já foi embora, e eis que ele não [existe mais] ; eu o procurei, e não foi achado."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Olha ao sincero, e vê o correto; porque o fim de [tal] homem é a paz."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os transgressores serão juntamente destruídos; o fim dos perversos será eliminado."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém a salvação dos justos [vem] do SENHOR, [que é] a força deles no tempo de angústia."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR os socorrerá, e os livrará; ele os livrará dos perversos, e os salvará, porque nele confiam."
+                }
+            ]
+        }
+    ]
+}

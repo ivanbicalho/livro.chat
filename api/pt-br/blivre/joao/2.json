@@ -1,0 +1,232 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no terceiro dia houve um casamento em Caná da Galileia; e a mãe de Jesus estava ali."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E também Jesus foi convidado com seus discípulos ao casamento."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tendo faltado vinho, a mãe de Jesus lhe disse: Não têm vinho."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus lhe disse: O que eu tenho contigo, mulher? A minha hora ainda não chegou."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sua mãe disse aos serventes: Fazei tudo quanto ele vos disser."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estavam ali postos seis vasos de pedra, conforme à purificação dos judeus, em cada uma cabiam duas ou três metretas. )"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes Jesus: Enchei estes vasos com água. E encheram-nas até encima."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes: Agora tirai, e a levai ao mestre de cerimônia. Então levaram."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando o mestre de cerimônia experimentou a água feita vinho (sem saber de onde era, porém os serventes que haviam tirado a água sabiam), o mestre de cerimônia chamou o noivo,"
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhe: Todos põem primeiro o vinho bom, e quando [os convidados] já [estão] bêbados, então [se dá] o pior; [porém] tu guardaste o bom vinho até agora."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Este princípio de sinais Jesus fez em Caná da Galileia, e manifestou sua glória; e seus discípulos creram nele."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois disto desceu a Cafarnaum, ele e sua mãe, seus irmãos, e seus discípulos, e ficaram ali não muitos dias."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estava perto a Páscoa dos judeus, e Jesus subiu a Jerusalém."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E achou no Templo os que vendiam bois, ovelhas, e pombas, e os cambistas sentados."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tendo feito um açoite com cordas, lançou todos para fora do Templo, assim como as ovelhas, e os bois; e espalhou o dinheiro dos cambistas, e virou as mesas."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aos que vendiam pombas, disse: Tirai isto daqui; e não torneis a casa de meu Pai uma casa de comércio!"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lembraram-se seus discípulos que está escrito: O zelo de tua casa me tem me devorado."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Responderam pois os Judeus, e disseram-lhe: Que sinal nos mostras de que fazes estas coisas?"
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Respondeu Jesus, e disse-lhes: Derrubai este Templo, e em três dias o levantarei."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os judeus, pois, disseram: [Durante] quarenta e seis anos este Templo foi edificado, e tu o levantarás tu em três dias?"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém ele falava do Templo de seu corpo."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Portanto, quando ressuscitou dos mortos, seus discípulos se lembraram que ele lhes tinha dito isto; e creram na Escritura, e na palavra que Jesus tinha [lhes] dito."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E estando ele em Jerusalém pela páscoa, na festa, muitos creram em seu nome, ao verem os sinais que ele fazia."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas o mesmo Jesus a si mesmo não confiava neles, porque conhecia a todos."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não necessitava de que alguém [lhe] desse testemunho de ser humano algum, pois ele bem sabia o que havia no [interior do] ser humano."
+                }
+            ]
+        }
+    ]
+}

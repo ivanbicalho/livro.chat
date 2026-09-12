@@ -1,0 +1,196 @@
+{
+    "book": "1samuel",
+    "name": "1 Samuel",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E esteve a arca do SENHOR na terra dos filisteus sete meses."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então os filisteus, chamando os sacerdotes e adivinhos, perguntaram: Que faremos da arca do SENHOR? Declarai-nos como a devemos tornar a enviar a seu lugar."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles disseram: Se enviais a arca do Deus de Israel, não a envieis vazia; mas lhe pagareis a expiação: e então sereis sãos, e conhecereis por que não se afastou de vós sua mão."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles disseram: E que será a expiação que lhe pagaremos? E eles responderam: Conforme o número dos príncipes dos filisteus, cinco chagas de ouro, e cinco ratos de ouro, porque a mesma praga que todos têm, têm também vossos príncipes."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fareis, pois, as formas de vossas chagas, e as formas de vossos ratos que destroem a terra, e dareis glória ao Deus de Israel: talvez aliviará sua mão de sobre vós, e de sobre vossos deuses, e de sobre vossa terra."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas por que endureceis vosso coração, como os egípcios e Faraó endureceram seu coração? Depois que os houve assim tratado, não os deixaram que se fossem, e se foram?"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Fazei, pois, agora um carro novo, e tomai logo duas vacas que criem, às quais não haja sido posto jugo, e preparai as vacas ao carro, e fazei voltar de detrás delas seus bezerros a casa."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomareis logo a arca do SENHOR, e a poreis sobre o carro; e ponde em uma caixa ao lado dela as joias de ouro que lhe pagais em expiação: e a deixareis que se vá."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E olhai: se sobe pelo caminho de seu termo a Bete-Semes, ele nos fez este mal tão grande; e se não, teremos certeza de que não foi sua mão que nos feriu, mas nos foi coincidência."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aqueles homens o fizeram assim; pois tomando duas vacas que criavam, prepararam-nas ao carro, e encerraram em casa seus bezerros."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo puseram a arca do SENHOR sobre o carro, e a caixa com os ratos de ouro e com as formas de suas chagas."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E as vacas se encaminharam pelo caminho de Bete-Semes, e iam por um mesmo caminho andando e bramando, sem desviar-se nem à direita nem à esquerda: e os príncipes dos filisteus foram atrás elas até o termo de Bete-Semes."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os de Bete-Semes ceifavam o trigo no vale; e levantando seus olhos viram a arca, e alegraram-se quando a viram."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o carro veio ao campo de Josué Bete-Semita, e parou ali porque ali havia uma grande pedra; e eles cortaram a madeira do carro, e ofereceram as vacas em holocausto ao SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os levitas baixaram a arca do SENHOR, e a caixa que estava junto a ela, na qual estavam as joias de ouro, e puseram-nas sobre aquela grande pedra; e os homens de Bete-Semes sacrificaram holocaustos e mataram vítimas ao SENHOR naquele dia."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O qual vendo os cinco príncipes dos filisteus, voltaram a Ecrom o mesmo dia."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas, pois, são as chagas de ouro que pagaram os filisteus ao SENHOR em expiação: por Asdode uma, por Gaza uma, por Asquelom uma, por Gate uma, por Ecrom uma;"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ratos de ouro conforme ao número de todas as cidades dos filisteus pertencentes aos cinco príncipes, desde as cidades fortes até as aldeias sem muro; e até a grande pedra sobre a qual puseram a arca do SENHOR, pedra que está no campo de Josué, bete-semita, até hoje."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então feriu Deus aos de Bete-Semes, porque haviam olhado no arca do SENHOR; feriu no povo cinquenta mil e setenta homens. E o povo pôs luto, porque o SENHOR lhe havia ferido de tão grande praga."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disseram os de Bete-Semes: Quem poderá estar diante do SENHOR o Deus santo? e a quem subirá desde nós?"
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enviaram mensageiros aos de Quriate-Jearim, dizendo: Os filisteus devolveram a arca do SENHOR: descei, pois, e levai-a a vós."
+                }
+            ]
+        }
+    ]
+}

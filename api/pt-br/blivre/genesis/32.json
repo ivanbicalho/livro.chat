@@ -1,0 +1,295 @@
+{
+    "book": "genesis",
+    "name": "Gênesis",
+    "chapter": 32,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jacó se foi seu caminho, e saíram-lhe ao encontro anjos de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Jacó quando os viu: Este é o acampamento de Deus; e chamou o nome daquele lugar Maanaim."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E enviou Jacó mensageiros diante de si a Esaú seu irmão, à terra de Seir, campo de Edom."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandou-lhes dizendo: Assim direis a mim senhor Esaú: Assim diz teu servo Jacó: Com Labão morei, e detive-me até agora;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tenho vacas, e asnos, e ovelhas, e servos, e servas; e envio a dizê-lo a meu senhor, para achar favor em teus olhos."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os mensageiros voltaram a Jacó, dizendo: Viemos a teu irmão Esaú, e ele também veio a receber-te, e quatrocentos homens com ele."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jacó teve grande temor, e angustiou-se; e partiu o povo que tinha consigo, e as ovelhas e as vacas e os camelos, em dois grupos;"
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Se vier Esaú a um grupo e o ferir, o outro grupo escapará."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse Jacó: Deus de meu pai Abraão, e Deus de meu pai Isaque, o SENHOR, que me disseste: Volta-te à tua terra e à tua parentela, e eu te farei bem."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Menor sou que todas as misericórdias, e que toda a verdade que usaste para com teu servo; que com meu bordão passei este Jordão, e agora estou sobre dois grupos."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Livra-me agora da mão de meu irmão, da mão de Esaú, porque o temo; não venha talvez, e me fira a mãe com os filhos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tu disseste: Eu te farei bem, e tornarei tua descendência como a areia do mar, que não se pode contar de tão numerosa."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dormiu ali aquela noite, e tomou do que lhe veio à mão um presente para seu irmão Esaú."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Duzentas cabras e vinte machos de bode, duzentas ovelhas e vinte carneiros,"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Trinta camelas de cria, com seus filhotes, quarenta vacas e dez novilhos, vinte asnas e dez jumentos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E entregou-o em mão de seus servos, cada manada à parte; e disse a seus servos: Passai diante de mim, e ponde espaço entre manada e manada."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandou ao primeiro, dizendo: Se meu irmão Esaú te encontrar, e te perguntar, dizendo De quem és? E: Para onde vais? E: para quem é isto que levas diante de ti?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então dirás: Presente é de teu servo Jacó, que envia a meu senhor Esaú; e eis que também ele vem atrás de nós."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandou também ao segundo, e ao terceiro, e a todos os que iam atrás aquelas manadas, dizendo: Conforme isto falareis a Esaú, quando o achardes."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E direis também: Eis que teu servo Jacó vem atrás de nós. Porque disse: Apaziguarei sua ira com o presente que vai adiante de mim, e depois verei seu rosto; talvez lhe serei aceito."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E passou o presente adiante dele; e ele dormiu aquela noite no acampamento."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E levantou-se aquela noite, e tomou suas duas mulheres, e suas duas servas, e seus onze filhos, e passou o vau de Jaboque."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomou-os, pois, e passou-os o ribeiro, e fez passar o que tinha."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ficou Jacó sozinho, e lutou com ele um homem até que raiava a alva."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando viu que não podia com ele, tocou no lugar da juntura de sua coxa, e desconjuntou-se a coxa de Jacó enquanto com ele lutava."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Deixa-me, que raia a alva. E ele disse: Não te deixarei, se não me abençoares."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhe disse: Qual é teu nome? E ele respondeu: Jacó."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele disse: Não se dirá mais teu nome Jacó, mas sim Israel: porque lutaste com Deus e com os homens, e venceste."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jacó lhe perguntou, e disse: Declara-me agora teu nome. E ele respondeu: Por que perguntas por meu nome? E abençoou-o ali."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chamou Jacó o nome daquele lugar Peniel: porque vi a Deus face a face, e foi livrada minha alma."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E saiu-lhe o sol quando passou a Peniel; e andava mancando de sua coxa."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por isto até o dia de hoje os filhos de Israel não comem do tendão que se contrai, o qual está na juntura da coxa; porque o homem tocou a Jacó este lugar de sua coxa no tendão que se contrai."
+                }
+            ]
+        }
+    ]
+}

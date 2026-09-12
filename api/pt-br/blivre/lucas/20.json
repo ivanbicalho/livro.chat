@@ -1,0 +1,430 @@
+{
+    "book": "lucas",
+    "name": "Lucas",
+    "chapter": 20,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E aconteceu, num daqueles dias que, enquanto ele estava ensinando ao povo no Templo, e anunciando o Evangelho, vieram até ele os chefes dos sacerdotes, e os escribas com os anciãos."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falaram-lhe, dizendo: Dize-nos, com que autoridade fazes estas coisas? Ou quem é o que te deu esta autoridade?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondendo ele, disse-lhes: Também eu vos perguntarei algo, e dizei-me:"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O batismo de João era do céu, ou dos homens?"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles discutiam entre si, dizendo: Se dissermos: Do céu, ele nos dirá: Por que, então, vós não [o] crestes?"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se dissermos: Dos homens, todo o povo nos apedrejará; pois estão convencidos de que João era profeta."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E responderam que não sabiam de onde [era] ."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhes disse: Nem eu vos direi com que autoridade eu faço estas coisas."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E começou a dizer ao povo esta parábola: Um certo homem plantou uma vinha, e a arrendou a [uns] lavradores, e viajou para outro país por muito tempo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E certo tempo [depois] mandou um servo aos lavradores, para que lhe dessem do fruto da vinha; mas os lavradores, espancando-o, mandaram [-no] sem coisa alguma."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltou a mandar outro servo; mas eles, espancando e humilhando também [a ele] ,o mandaram sem nada."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E voltou a mandar ao terceiro; mas eles, ferindo também a este, [o] expulsaram."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o senhor da vinha disse: Que farei? Mandarei a meu filho amado; talvez quando o verem, [o] respeitarão."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os lavradores, vendo-o, discutiram entre si, dizendo: Este é o herdeiro; vamos matá-lo, para que a herança venha a ser nossa."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E expulsando-o da vinha, [o] mataram. O que, então, lhes fará o senhor da vinha?"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Virá, e destruirá a estes lavradores, e dará a vinha a outros.E eles, ouvindo isto, disseram: Que [isto] nunca aconteça!"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas [Jesus] ,olhando para eles, disse: Por que, então, isto está escrito: A pedra que os construtores rejeitaram, essa foi posta como a principal da esquina?"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todo aquele que cair sobre aquela pedra, se quebrará em pedaços; e aquele sobre quem ela cair, se fará pó."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os chefes dos sacerdotes e os escribas queriam detê-lo naquela mesma hora, mas temiam ao povo; porque entenderam que foi contra eles que ele tinha dito a parábola."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E, observando-o, mandaram espiões, que fingissem ser justos, para o pegarem por meio de algo que ele dissesse, e o entregarem ao poder e autoridade do governador."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perguntaram-lhe, dizendo: Mestre, nós sabemos que falas e ensinas corretamente, e que não te importas com as aparências, mas na verdade tu ensinas o caminho de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "É lícito para nós dar tributo a César, ou não?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele, entendendo a astúcia deles, disse-lhes:"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mostrai-me uma moeda; ela tem a imagem e a inscrição de quem?E eles, respondendo, disseram: De César."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então lhes disse: Dai pois a César o que [é] de César, e a Deus o que [é] de Deus."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não puderam lhe pegar em algo que ele tenha dito diante do povo; e maravilhados de sua resposta, calaram-se."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E chegando-se alguns dos saduceus, que negam haver a ressurreição, perguntaram-lhe,"
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Dizendo: Mestre, Moisés nos escreveu, que se o irmão de alguém morrer, tendo mulher, e morrer sem filhos, o irmão deve tomar a mulher, e gerar descendência a seu irmão."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Houve, pois, sete irmãos, e o primeiro tomou mulher, e morreu sem filhos."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o segundo,"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o terceiro a tomou, e assim também os sete, e não deixaram filhos, e morreram."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E por fim, depois de todos, morreu também a mulher."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Na ressurreição, pois, ela será mulher de qual deles? Pois os sete a tiveram por mulher."
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondendo Jesus, disse-lhes: Os filhos destes tempos se casam, e se dão em casamento."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas os que forem considerados dignos de alcançarem aqueles tempos futuros, e da ressurreição dos mortos, nem se casarão, nem se darão em casamento."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque já não podem mais morrer; pois são iguais aos anjos; e são filhos de Deus, pois são filhos da ressurreição."
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E até Moisés mostrou, junto à sarça, que os mortos ressuscitam, quando ele chama ao Senhor de Deus de Abraão, e Deus de Isaque, e Deus de Jacó."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ora, ele não é Deus de mortos, mas de vivos; pois todos vivem por causa dele."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E alguns dos escribas, respondendo, disseram: Mestre, bem disseste."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E não ousavam lhe perguntar mais nada."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes disse: Como dizem que o Cristo é filho de Davi?"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois o próprio Davi diz no livro dos Salmos: Disse o Senhor a meu Senhor: Senta-te à minha direita,"
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até que eu ponha teus inimigos por escabelo de teus pés."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se Davi o chama de Senhor, como, então, é seu filho?"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto todo o povo estava ouvindo, ele disse a seus discípulos:"
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Tomai cuidado com os escribas, que querem andar roupas compridas, e amam as saudações nas praças, e as primeiras cadeiras nas sinagogas, e os primeiros assentos nos jantares."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que devoram as casas das viúvas, e fingem fazer longas orações. Estes receberão mais grave condenação."
+                }
+            ]
+        }
+    ]
+}

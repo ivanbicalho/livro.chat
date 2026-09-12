@@ -1,0 +1,304 @@
+{
+    "book": "levitico",
+    "name": "Levítico",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés e a Arão, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Falai aos filhos de Israel, e dizei-lhes: Qualquer homem, quando seu corrimento sair de sua carne, será impuro."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E esta será sua impureza em seu fluxo; seja que sua carne derramou por causa de seu fluxo, ou que sua carne se obstruiu por causa de seu fluxo, ele será impuro."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda cama em que se deitar o que tiver fluxo, será impura; e toda coisa sobre que se sentar, impura será."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que tocar em sua cama, lavará suas roupas; lavará também a si mesmo com água, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que se sentar sobre aquilo em que se houver sentado o que tem fluxo, lavará suas roupas, se lavará também a si mesmo com água, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também o que tocar a carne do que tem fluxo, lavará suas roupas, e a si mesmo se lavará com água, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se o que tem fluxo cuspir sobre o limpo, este lavará suas roupas, e depois de haver-se lavado com água, será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E toda sela sobre que cavalgar o que tiver fluxo, será impura."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que tocar qualquer coisa que tenha estado debaixo dele, será impuro até à tarde; e o que a levar, lavará suas roupas, e depois de lavar-se com água, será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E todo aquele a quem tocar o que tem fluxo, e não lavar com água suas mãos, lavará suas roupas, e a si mesmo se lavará com água, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a vasilha de barro em que tocar o que tem fluxo, será quebrada; e toda vasilha de madeira será lavada com água."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando se houver limpado de seu fluxo o que tem fluxo, se há de contar sete dias desde sua purificação, e lavará suas roupas, e lavará sua carne em águas vivas, e será limpo."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no oitavo dia tomará duas rolinhas, ou dois pombinhos, e virá diante do SENHOR à porta do tabernáculo do testemunho, e os dará ao sacerdote:"
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E os fará o sacerdote, uma oferta pelo pecado, e o outro holocausto: e lhe purificará o sacerdote de seu fluxo diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o homem, quando dele sair derramamento seminal, lavará em águas toda sua carne, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E toda vestimenta, ou toda pele sobre a qual houver o derramamento seminal, lavará com água, e será impura até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a mulher com quem o homem tiver ajuntamento seminal, ambos se lavarão com água, e serão impuros até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando a mulher tiver fluxo de sangue, e seu fluxo for em sua carne, sete dias estará separada; e qualquer um que tocar nela, será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tudo aquilo sobre que ela se deitar durante sua separação, será impuro: também tudo aquilo sobre que se sentar, será impuro."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que tocar a sua cama, lavará suas roupas, e depois de lavar-se com água, será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também qualquer um que tocar qualquer móvel sobre que ela se houver sentado, lavará suas roupas; lavará logo a si mesmo com água, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se estiver sobre a cama, ou sobre a cadeira em que ela se houver sentado, o que tocar nela será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se alguém dormir com ela, e sua menstruação for sobre ele, será impuro por sete dias; e toda cama sobre que dormir, será impura."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a mulher, quando seguir o fluxo de seu sangue por muitos dias fora do tempo de seu costume, ou quando tiver fluxo de sangue mais de seu costume; todo o tempo do fluxo de seu imundícia, será impura como nos dias de seu costume."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Toda cama em que dormir todo o tempo de seu fluxo, lhe será como a cama de seu costume; e todo móvel sobre que se sentar, será impuro, como a impureza de seu costume."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qualquer um que tocar em essas coisas será impuro; e lavará suas roupas, e a si mesmo se lavará com água, e será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando for livre de seu fluxo, se há de contar sete dias, e depois será limpa."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o oitavo dia tomará consigo duas rolinhas, ou dois pombinhos, e os trará ao sacerdote, à porta do tabernáculo do testemunho:"
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote fará um oferta pelo pecado, e o outro holocausto; e a purificará o sacerdote diante do SENHOR do fluxo de sua impureza."
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim separareis os filhos de Israel de suas imundícias, a fim de que não morram por suas imundícias, contaminando meu tabernáculo que está entre eles."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a lei do que tem fluxo, e do que sai derramamento seminal, vindo a ser impuro por causa disso;"
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E da que padece seu costume, e acerca do que tiver fluxo, seja homem ou fêmea, e do homem que dormir com mulher impura."
+                }
+            ]
+        }
+    ]
+}

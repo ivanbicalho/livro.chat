@@ -1,0 +1,52 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 100,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de louvor:Gritai de alegria ao SENHOR toda a terra!"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Servi ao SENHOR com alegria; vinde com alegre canto perante sua presença."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sabei que o SENHOR é Deus; foi ele, e não nós, que nos fez seu povo, e ovelhas de seu pasto."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Entrai pelas portas dele com agradecimento, por seus pátios com canto de louvor; agradecei a ele, [e] bendizei o seu nome."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque o SENHOR é bom, sua bondade [dura] para sempre; e a fidelidade dele [continua] de geração após geração."
+                }
+            ]
+        }
+    ]
+}

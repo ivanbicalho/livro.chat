@@ -1,0 +1,268 @@
+{
+    "book": "jo",
+    "name": "Jó",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jó respondeu dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até quando atormentareis minha alma, e me quebrantareis com palavras?"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Já dez vezes me humilhastes; não tendes vergonha em me maltratar."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mesmo se eu tiver errado, meu erro cabe apenas a mim."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Visto que vos exaltais contra mim, e contra mim usais minha desgraça,"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Sabei, pois, que foi Deus que me transtornou, e [com] sua rede me cercou."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eis que eu clamo: Violência! Porém não sou respondido; grito, porém não há justiça."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele entrincheirou meu caminho, de modo que não consigo passar; e pôs trevas sobre minhas veredas."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele me despojou de minha honra, e tirou a coroa de minha cabeça."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele me derrubou por todos os lados, e pereço; e arrancou minha esperança como a uma árvore."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fez inflamar contra mim sua ira, e me considerou para consigo como a [um de] seus inimigos."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Juntas vieram suas tropas; prepararam contra mim seu caminho, e se acamparam ao redor de minha tenda."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele afastou meus irmãos para longe de mim; e os que me conheciam agora me estranham."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus parentes [me] deixaram, e meus conhecidos se esqueceram de mim."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os moradores de minha casa e minhas servas me tiveram por estranho; estrangeiro me tornei em seus olhos."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Chamei a meu servo, e ele não respondeu; de minha própria boca eu lhe suplicava."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meu hálito é estranho à minha mulher, e sou repugnante aos filhos de minha mãe."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Até os meninos me desprezam; quando eu me levanto, falam contra mim."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Todos os meus amigos próximos me abominam; e [até] aqueles que eu amava se viraram contra mim."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Meus ossos se grudaram à minha pele e à minha carne; e escapei [só] com a pele de meus dentes."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Compadecei-vos de mim, meus amigos, compadecei-vos de mim; pois a mão de Deus me tocou."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Por que vós me perseguis como Deus, e não vos fartais de minhas carne?"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ah se minhas palavras fossem escritas! Ah se fossem escritas em um livro!"
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Que com ponta de ferro e com chumbo fossem esculpidas em pedra para sempre!"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois eu sei que meu Redentor vive, e ao fim se levantará sobre a terra;"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mesmo depois de consumida minha pele, então em minha carne verei a Deus;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ao qual eu verei para mim, e meus olhos [o] verão, e não outro. [Isto é o que] minhas entranhas anseiam dentro de mim."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se disserdes: Como o perseguiremos? Pois a raiz do problema se acha em mim,"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Temei vós mesmos a espada; pois furor [há nos] castigos pela espada; para que [assim] saibais que [haverá] julgamento."
+                }
+            ]
+        }
+    ]
+}

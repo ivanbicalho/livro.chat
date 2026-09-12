@@ -1,0 +1,97 @@
+{
+    "book": "jonas",
+    "name": "Jonas",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jonas orou ao SENHOR seu Deus, desde as entranhas do peixe,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse: Clamei da minha angústia ao SENHOR, e ele me respondeu; do ventre do Xeol gritei, [e] tu ouviste minha voz."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tu me lançaste no profundo, no meio dos mares, e a correnteza me cercou; todas as tuas ondas e tuas vagas passaram sobre mim."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eu disse: Lançado estou de diante de teus olhos; porém voltarei a ver o teu santo templo."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As águas me cercaram até a alma, o abismo me rodeou; as algas se enrolaram à minha cabeça."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desci aos fundamentos dos montes; a terra trancou suas fechaduras a mim para sempre; porém tu tiraste minha vida da destruição, ó SENHOR meu Deus."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando minha alma desfalecia em mim, eu me lembrei do SENHOR; e minha oração chegou a ti em teu santo templo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Os que dão atenção a coisas inúteis e ilusórias abandonam sua própria misericórdia."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eu porém sacrificarei a ti com voz de gratidão; pagarei o que prometi. A salvação [vem] do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o SENHOR falou ao peixe, e este vomitou a Jonas em terra firme."
+                }
+            ]
+        }
+    ]
+}

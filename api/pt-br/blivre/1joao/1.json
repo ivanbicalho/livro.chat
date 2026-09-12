@@ -1,0 +1,97 @@
+{
+    "book": "1joao",
+    "name": "1 João",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e nossas mãos tocaram, quanto à Palavra da vida,"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "(pois a vida já foi manifesta, e nós a vimos, demos testemunho, e vos anunciamos a vida eterna, que estava com o Pai, e a nós foi manifesta)"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "o que vimos e ouvimos, isso vos anunciamos, para que também vós tenhais comunhão conosco. E a nossa comunhão [é] com o Pai, e com o seu Filho Jesus Cristo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Estas coisas escrevemos para que a nossa alegria seja completa."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele nada de trevas."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se dissermos que temos comunhão com ele, e andarmos em trevas, mentimos, e não praticamos a verdade."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém, se andamos na luz, como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus, seu Filho, nos purifica de todo pecado."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se dissermos que não temos pecado, enganamos a nós mesmos, e a verdade não está em nós."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se confessarmos nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Se dissermos que não pecamos, nós o fazemos de mentiroso, e a palavra dele não está em nós."
+                }
+            ]
+        }
+    ]
+}

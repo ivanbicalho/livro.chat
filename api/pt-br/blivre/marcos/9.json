@@ -1,0 +1,457 @@
+{
+    "book": "marcos",
+    "name": "Marcos",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disse-lhes também: Em verdade vos digo, que há alguns dos que aqui estão, que não experimentarão a morte, até que vejam o reino de Deus vindo com poder."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, sozinhos, para um alto monte ; e transfigurou-se diante deles."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E suas roupas ficaram resplandescentes, muito brancas , como nenhum lavadeiro na terra seria capaz de branquear."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E apareceu-lhes Elias com Moisés, e falavam com Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Pedro disse a Jesus: Mestre, é bom para nós estarmos aqui; façamos três tendas: uma para ti, uma para Moisés, e uma para Elias."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois ele não sabia o que dizia, pois estavam assombrados."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então desceu uma nuvem, que os cobriu com a sua sombra, e veio uma voz da nuvem, que dizia: Este é meu Filho amado; a ele ouvi."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "De repente, quando olharam em redor, não viram mais ninguém, a não ser só Jesus com eles."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Enquanto desciam do monte, [Jesus] lhes mandou que a ninguém contassem o que haviam visto, até que o Filho do homem ressuscitasse dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E eles guardaram o caso entre si, perguntando uns aos outros o que seria aquilo de “ressuscitar dos mortos”."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então lhe perguntaram: Por que os escribas dizem que Elias tem que vir primeiro?"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ele lhes respondeu: De fato Elias vem primeiro, e restaura todas as coisas. Então, como está escrito sobre o Filho do homem tem que sofrer muito, e ser desprezado?"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém eu vos digo que Elias já veio, e fizeram-lhe tudo o que quiseram, como está escrito sobre ele."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando vieram aos discípulos, eles viram uma grande multidão ao redor deles; e uns escribas estavam discutindo com eles."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo que toda a multidão o viu, ficou admirada. Então correram a ele, e o cumprimentaram."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] lhes perguntou : O que estais discutindo com eles?"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E um da multidão lhe respondeu: Mestre, trouxe a ti o meu filho, que tem um espírito mudo."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E onde quer que o toma, faz-lhe ter convulsões, solta espuma, range os dentes, e vai ficando rígido. Eu disse aos teus discípulos que o expulsassem, mas não conseguiram."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "[Jesus] lhes respondeu: Ó geração incrédula! Até quando estarei ainda convosco? Até quando vos suportarei? Trazei-o a mim."
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então trouxeram-no a ele. E quando o viu, logo o espírito o fez ter uma convulsão e, caindo em terra, rolava, e espumava."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E perguntou ao seu pai: Quanto tempo há que isto lhe sobreveio? E ele lhe disse: Desde a infância."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E muitas vezes o lançou também no fogo e na água para o destruir. Mas, se podes algo, tem compaixão de nós, e ajuda-nos."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Jesus lhe disse: Se podes? Tudo é possível ao que crê."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo o pai do menino, clamando, disse: Creio! Ajuda-me na minha incredulidade."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando Jesus viu que a multidão corria e se ajuntava, repreendeu o espírito imundo, dizendo-lhe: Espírito mudo e surdo, eu te ordeno, sai dele, e nunca mais entres nele!"
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então [o espírito] , gritando, e fazendo-o ter muita convulsão, saiu. E [o menino] ficou como morto, de maneira que muitos diziam que estava morto."
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então Jesus o tomou pela mão, e o ergueu; e ele se levantou."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E quando entrou em casa, seus discípulos lhe perguntaram à parte: Por que nós não conseguimos o expulsar?"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E lhes respondeu: Este tipo não pode sair por coisa alguma, a não ser com oração ."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois partiram dali, e caminharam pela Galileia. Mas [Jesus] não queria que ninguém soubesse,"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ensinava a seus discípulos, e lhes dizia: O Filho do homem será entregue em mãos de homens, e o matarão; e [estando] ele morto, ressuscitará ao terceiro dia."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles não entendiam esta palavra, e temiam lhe perguntar."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E veio a Cafarnaum, e entrando em casa, perguntou-lhes: Que indagais entre vós pelo caminho?"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas eles se calaram; porque eles haviam discutido uns com os outros pelo caminho, qual [deles seria] o maior."
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E sentando-se ele, chamou aos doze, e disse-lhes: Se alguém quiser ser o primeiro, seja o últimos de todos, e servo de todos."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomando um menino, ele o pôs no meio deles, e tomando-o entre seus braços, disse-lhes:"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Qualquer que em meu nome receber a um dos tais meninos, recebe a mim; e qualquer que me receber, não é a mim que recebe, mas, sim, àquele que me enviou."
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondeu-lhe João, dizendo: Mestre, vimos um que em teu nome expulsava os demônios, e ele não nos segue. Então o proibimos, porque não nos segue."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém Jesus disse: Não o proibais; porque ninguém há que faça milagre em meu nome, e logo possa falar mal de mim."
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois quem não é contra nós, é por nós."
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque qualquer que vos der um copo d'água para beber em meu nome, porque sois de Cristo, em verdade vos digo, que não perderá sua recompensa."
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer que conduzir ao pecado um destes pequenos que creem em mim, melhor lhe fora que lhe pusesse ao pescoço uma grande pedra de moinho, e que fosse lançado no mar."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se a tua mão te faz pecar, corta-a; melhor te é entrar na vida mutilado, do que, tendo duas mãos, ir ao inferno, ao fogo que nunca se apaga."
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se teu pé te faz pecar, corta-o; melhor te é entrar na vida manco, do que, tendo dois pés, ser lançado no inferno."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "—"
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se teu olho te faz pecar, lança-o fora; melhor te é entrar no Reino de Deus com um olho, do que, tendo dois olhos, ser lançado no fogo do inferno,"
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "onde seu verme não morre, e o fogo nunca se apaga."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque cada um será salgado com fogo."
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sal é bom; mas se o sal se tornar insípido, com que o temperareis? Tende sal em vós mesmos, e paz uns com os outros."
+                }
+            ]
+        }
+    ]
+}

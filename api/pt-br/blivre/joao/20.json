@@ -1,0 +1,286 @@
+{
+    "book": "joao",
+    "name": "João",
+    "chapter": 20,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no primeiro [dia] da semana Maria Madalena veio de madrugada, sendo ainda escuro, ao sepulcro; e viu a pedra já tirada do sepulcro."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Correu pois, e veio a Simão Pedro, e ao outro discípulo a quem Jesus amava, e disse-lhes: Tomaram o Senhor do sepulcro, e não sabemos onde o puseram."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pedro saiu pois e o outro discípulo [também] ,e vieram ao sepulcro."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E corriam estes dois juntos: e o outro discípulo correu adiante mais depressa que Pedro, e chegou primeiro ao sepulcro."
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E abaixando-se, viu estar os lençóis; entretanto não entrou."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Chegou pois Simão Pedro seguindo-o, e entrou no sepulcro, e viu estar os lençóis [ali] ."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o lenço que fora [posto] sobre sua cabeça, não [o viu] estar com os lençóis, mas [estava] dobrado em um lugar à parte."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então pois entrou também o outro discípulo, que primeiro chegara ao sepulcro, e viu, e creu."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porque ainda não sabiam a Escritura, que era necessário que ressuscitasse dos mortos."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Voltaram pois os Discípulos para [a casa] deles."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E Maria estava fora chorando junto ao sepulcro. Estando ela pois chorando, abaixou-se para [ver] o sepulcro."
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E viu a dois anjos [vestidos] de branco, sentados um à cabeceira, e o outro aos pés, onde estava posto o corpo de Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E disseram-lhe eles: Mulher, por que choras? Disse-lhes ela: Porque levaram a meu Senhor, e não sei onde o puseram."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havendo dito isto, virou-se para trás, e viu Jesus em pé, e não sabia que era Jesus."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: Mulher, por que choras? A quem buscas? Ela, pensando que era o jardineiro, disse-lhe: Senhor, se tu o levaste, dize-me onde o puseste, e eu o levarei."
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: Maria! Ela, virando-se, disse-lhe: Rabôni! (que quer dizer Mestre)."
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: Não me toques; porque ainda não subi para o meu Pai; porém vai a meus irmãos, e dize- lhes: Subo para meu Pai, e para vosso Pai; [para] meu Deus, e [para] vosso Deus."
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Veio Maria Madalena, e anunciou aos discípulos, que vira ao Senhor, e [que] estas coisas lhe dissera."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Vinda pois já a tarde, o primeiro dia da semana, e fechadas as portas onde os Discípulos, por medo dos judeus, tinham se reunido, veio Jesus, e pôs-se no meio [deles] ,e disse-lhes: Tenhais paz!"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E dizendo isto, mostrou-lhes suas mãos, e [seu] lado. Então os discípulos se alegraram, vendo ao Senhor."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhes pois Jesus outra vez: Tenhais Paz! Como o Pai me enviou, assim eu vos envio."
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E havendo dito isto, soprou [sobre eles] ,e disse-lhes: Recebei o Espírito Santo."
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "A quem quer que perdoardes os pecados, lhes são perdoados; [e] a quem quer que vós retiverdes [os pecados] ,[lhes] são retidos."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E a Tomé, um dos doze, chamado o Dídimo, não estava com eles, quando Jesus veio."
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disseram-lhe pois os outros discípulos: Vimos ao Senhor. Porém ele lhes disse: Se em suas mãos não vir o sinal dos cravos, e não pôr meu dedo no lugar dos cravos, e não pôr minha mão em seu lado, em maneira nenhuma crerei."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E oito dias depois, estavam os discípulos outra vez dentro, [e] com eles Tomé; e veio Jesus, fechadas já as portas, e pôs-se no meio, e disse: Tenhais paz!"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois disse a Tomé: Põe teu dedo aqui, e vê minhas mãos; e chega tua mão, e toca-a em meu lado; e não sejas incrédulo, mas sim crente."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E respondeu Tomé e disse-lhe: Senhor meu, e Deus meu!"
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Disse-lhe Jesus: Porque me viste, Tomé, creste; bem-aventurados aqueles que não virem, e crerem."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Jesus fez também ainda muitos outros sinais ainda em presença de seus discípulos, que neste livro não estão escritos;"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Porém estes estão escritos, para que creiais que Jesus é o Cristo, o Filho de Deus; e para que crendo, tenhais vida em seu nome."
+                }
+            ]
+        }
+    ]
+}

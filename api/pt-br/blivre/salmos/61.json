@@ -1,0 +1,79 @@
+{
+    "book": "salmos",
+    "name": "Salmos",
+    "chapter": 61,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Salmo de Davi, para o regente, com instrumento de cordas:Ouve, ó Deus, o meu clamor; presta atenção à minha oração."
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Desde o limite da terra eu clamo a ti, pelo sofrimento do meu coração; leva-me para uma rocha alta para mim."
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tu tens sido o meu refúgio [e] torre forte perante o inimigo."
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Eu habitarei em tua tenda para sempre; tomarei refúgio [me] escondendo sob tuas asas. (Selá)"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Pois tu, ó Deus, ouviste meus votos; tu tens [me] dado a herança dos que temem o teu nome."
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Acrescentarás dias e mais dias ao Rei; seus anos serão como de geração em geração."
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Ele habitará para sempre diante de Deus; prepara que [tua] bondade e fidelidade o guardem."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Assim cantarei ao teu nome para sempre, para eu pagar meus votos dia após dia."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,520 @@
+{
+    "book": "levitico",
+    "name": "Levítico",
+    "chapter": 14,
+    "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 2,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta será a lei do leproso quando se limpar: Será trazido ao sacerdote:"
+                }
+            ]
+        },
+        {
+            "verse": 3,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote sairá fora do acampamento; e olhará o sacerdote, e vendo que está sã a praga da lepra do leproso,"
+                }
+            ]
+        },
+        {
+            "verse": 4,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sacerdote mandará logo que se tomem para o que se purifica duas aves vivas, limpas, e pau de cedro, e carmesim, e hissopo;"
+                }
+            ]
+        },
+        {
+            "verse": 5,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E mandará o sacerdote matar uma ave em um vaso de barro sobre águas vivas;"
+                }
+            ]
+        },
+        {
+            "verse": 6,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Depois tomará a ave viva, e o pau de cedro, e o carmesim, e o hissopo, e o molhará com a ave viva no sangue da ave morta sobre as águas vivas:"
+                }
+            ]
+        },
+        {
+            "verse": 7,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E espargirá sete vezes sobre o que se purifica da lepra, e lhe dará por limpo; e soltará a ave viva sobre a face do campo."
+                }
+            ]
+        },
+        {
+            "verse": 8,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que se purifica lavará suas roupas, e rapará todos os seus pelos, e se há de lavar com água, e será limpo: e depois entrará no acampamento, e morará fora de sua tenda sete dias."
+                }
+            ]
+        },
+        {
+            "verse": 9,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E será, que ao sétimo dia rapará todos os seus pelos, sua cabeça, e sua barba, e as sobrancelhas de seus olhos; finalmente, rapará todo seu pelo, e lavará suas roupas, e lavará sua carne em águas, e será limpo."
+                }
+            ]
+        },
+        {
+            "verse": 10,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E no oitavo dia tomará dois cordeiros sem defeito, e uma cordeira de ano sem mácula; e três décimos [de efa] de boa farinha para oferta amassada com azeite, e um logue de azeite."
+                }
+            ]
+        },
+        {
+            "verse": 11,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote que lhe purifica apresentará com aquelas coisas ao que se há de limpar diante do SENHOR, à porta do tabernáculo do testemunho:"
+                }
+            ]
+        },
+        {
+            "verse": 12,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomará o sacerdote um cordeiro, e o oferecerá pela culpa, com o logue de azeite, e o moverá como oferta movida diante do SENHOR:"
+                }
+            ]
+        },
+        {
+            "verse": 13,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E degolará o cordeiro no lugar onde degolam o sacrifício pelo pecado e o holocausto, no lugar do santuário: porque como o sacrifício pelo pecado, assim também o sacrifício pela culpa é do sacerdote: é coisa muito sagrada."
+                }
+            ]
+        },
+        {
+            "verse": 14,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomará o sacerdote do sangue do animal sacrificado pela culpa, e porá o sacerdote sobre a ponta da orelha direita do que se purifica, e sobre o polegar de sua mão direita, e sobre o polegar de seu pé direito."
+                }
+            ]
+        },
+        {
+            "verse": 15,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também tomará o sacerdote do logue de azeite, e lançará sobre a palma de sua mão esquerda:"
+                }
+            ]
+        },
+        {
+            "verse": 16,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E molhará seu dedo direito no azeite que tem em sua mão esquerda, e espargirá do azeite com seu dedo sete vezes diante do SENHOR:"
+                }
+            ]
+        },
+        {
+            "verse": 17,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E do que restar do azeite que tem em sua mão, porá o sacerdote sobre a ponta da orelha direita do que se purifica, e sobre o polegar de sua mão direita, e sobre o polegar de seu pé direito, sobre o sangue da expiação pela culpa:"
+                }
+            ]
+        },
+        {
+            "verse": 18,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que restar do azeite que tem em sua mão, porá sobre a cabeça do que se purifica: e fará o sacerdote expiação por ele diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 19,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Oferecerá logo o sacerdote o sacrifício pelo pecado, e fará expiação pelo que se há de purificar de sua impureza, e depois degolará o holocausto:"
+                }
+            ]
+        },
+        {
+            "verse": 20,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fará subir o sacerdote o holocausto e a oferta de cereais sobre o altar. Assim fará o sacerdote expiação por ele, e será limpo."
+                }
+            ]
+        },
+        {
+            "verse": 21,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se for pobre, que não alcançar sua mão a tanto, então tomará um cordeiro para ser oferecido como oferta movida pela culpa, para reconciliar-se, e um décimo [de efa] de boa farinha amassada com azeite para oferta de cereais, e um logue de azeite;"
+                }
+            ]
+        },
+        {
+            "verse": 22,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E duas rolinhas, ou dois pombinhos, o que alcançar sua mão: e um será para expiação pelo pecado, e o outro para holocausto;"
+                }
+            ]
+        },
+        {
+            "verse": 23,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "As quais coisas trará ao oitavo dia de sua purificação ao sacerdote, à porta do tabernáculo do testemunho diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 24,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote tomará o cordeiro da expiação pela culpa, e o logue de azeite, e o moverá o sacerdote como oferta movida diante do SENHOR;"
+                }
+            ]
+        },
+        {
+            "verse": 25,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo degolará o cordeiro da culpa, e tomará o sacerdote do sangue da culpa, e porá sobre a ponta da orelha direita do que se purifica, e sobre o polegar de sua mão direita, e sobre o polegar de seu pé direito."
+                }
+            ]
+        },
+        {
+            "verse": 26,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o sacerdote lançará do azeite sobre a palma de sua mão esquerda;"
+                }
+            ]
+        },
+        {
+            "verse": 27,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E com seu dedo direito espargirá o sacerdote do azeite que tem em sua mão esquerda, sete vezes diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 28,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também porá o sacerdote do azeite que tem em sua mão sobre a ponta da orelha direita do que se purifica, e sobre o polegar de sua mão direita, e sobre o polegar de seu pé direito, no lugar do sangue da culpa."
+                }
+            ]
+        },
+        {
+            "verse": 29,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que sobrar do azeite que o sacerdote tem em sua mão, o porá sobre a cabeça do que se purifica, para reconciliá-lo diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 30,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Também oferecerá uma das rolinhas, ou dos pombinhos, o que alcançar sua mão:"
+                }
+            ]
+        },
+        {
+            "verse": 31,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O um do que alcançar sua mão, em expiação pelo pecado, e o outro em holocausto, ademais da oferta: e fará o sacerdote expiação pelo que se há de purificar, diante do SENHOR."
+                }
+            ]
+        },
+        {
+            "verse": 32,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a lei do que houver tido praga de lepra, cuja mão não alcançar o prescrito para purificar-se."
+                }
+            ]
+        },
+        {
+            "verse": 33,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E falou o SENHOR a Moisés e a Arão, dizendo:"
+                }
+            ]
+        },
+        {
+            "verse": 34,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Quando houveres entrado na terra de Canaã, a qual eu vos dou em possessão, e puser eu praga de lepra em alguma casa da terra de vossa possessão,"
+                }
+            ]
+        },
+        {
+            "verse": 35,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Virá aquele cuja for a casa, e dará aviso ao sacerdote, dizendo: Como praga apareceu em minha casa."
+                }
+            ]
+        },
+        {
+            "verse": 36,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então mandará o sacerdote, e despejarão a casa antes que o sacerdote entre a olhar a praga, para que não seja contaminado tudo o que estiver na casa: e depois o sacerdote entrará a reconhecer a casa:"
+                }
+            ]
+        },
+        {
+            "verse": 37,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E olhará a praga: e se se virem machas nas paredes da casa, cavidades esverdeadas ou vermelhas, as quais parecerem mais profundas que a parede,"
+                }
+            ]
+        },
+        {
+            "verse": 38,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "O sacerdote sairá da casa à porta dela, e fechará a casa por sete dias."
+                }
+            ]
+        },
+        {
+            "verse": 39,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E ao sétimo dia voltará o sacerdote, e olhará: e se a praga houver crescido nas paredes da casa,"
+                }
+            ]
+        },
+        {
+            "verse": 40,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então mandará o sacerdote, e arrancarão as pedras em que estiver a praga, e as lançarão fora da cidade, em lugar impuro:"
+                }
+            ]
+        },
+        {
+            "verse": 41,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E fará raspar a casa por dentro ao redor, e derramarão o pó que rasparem fora da cidade em lugar impuro:"
+                }
+            ]
+        },
+        {
+            "verse": 42,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomarão outras pedras, e as porão em lugar das pedras tiradas; e tomarão outro barro, e rebocarão a casa."
+                }
+            ]
+        },
+        {
+            "verse": 43,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E se a praga voltar a esverdear naquela casa, depois que fez arrancar as pedras, e raspar a casa, e depois que foi rebocada,"
+                }
+            ]
+        },
+        {
+            "verse": 44,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então o sacerdote entrará e olhará; e se parecer haver-se estendido a praga na casa, lepra roedora está na casa: impura é."
+                }
+            ]
+        },
+        {
+            "verse": 45,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Derrubará, portanto, a tal casa, suas pedras, e seus madeiros, e toda a mistura da casa; e o tirará fora da cidade a lugar impuro."
+                }
+            ]
+        },
+        {
+            "verse": 46,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E qualquer um que entrar naquela casa todos os dias que a mandou fechar, será impuro até à tarde."
+                }
+            ]
+        },
+        {
+            "verse": 47,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E o que dormir naquela casa, lavará suas roupas; também o que comer na casa, lavará suas roupas."
+                }
+            ]
+        },
+        {
+            "verse": 48,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Mas se entrar o sacerdote e olhar, e vir que a praga não se estendeu na casa depois que foi rebocada, o sacerdote dará a casa por limpa, porque a praga sarou."
+                }
+            ]
+        },
+        {
+            "verse": 49,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Então tomará para limpar a casa duas aves, e pau de cedro, e carmesim, e hissopo:"
+                }
+            ]
+        },
+        {
+            "verse": 50,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E degolará uma ave em uma vasilha de barro sobre águas vivas:"
+                }
+            ]
+        },
+        {
+            "verse": 51,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E tomará o pau de cedro, e o hissopo, e o carmesim, e a ave viva, e o molhará no sangue da ave morta e nas águas vivas, e espargirá a casa sete vezes:"
+                }
+            ]
+        },
+        {
+            "verse": 52,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E purificará a casa com o sangue da ave, e com as águas vivas, e com a ave viva, e o pau de cedro, e o hissopo, e o carmesim:"
+                }
+            ]
+        },
+        {
+            "verse": 53,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Logo soltará a ave viva fora da cidade sobre a face do campo: Assim fará expiação pela casa, e será limpa."
+                }
+            ]
+        },
+        {
+            "verse": 54,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Esta é a lei acerca de toda praga de lepra, e de tinha;"
+                }
+            ]
+        },
+        {
+            "verse": 55,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E da lepra da roupa, e da casa;"
+                }
+            ]
+        },
+        {
+            "verse": 56,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "E acerca do inchaço, e da pústula, e da mancha branca:"
+                }
+            ]
+        },
+        {
+            "verse": 57,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "Para ensinar quando é impuro, e quando limpo. Esta é a lei tocante à lepra."
+                }
+            ]
+        }
+    ]
+}
