@@ -1,9 +1,11 @@
 import "./style.css";
 import Alpine from "alpinejs";
 import Navigo from "navigo";
+import { getChapter, getInit } from "./api.ts";
 
 interface Book {
-  api: string;
+  book: string;
+  name: string;
   [key: string]: unknown;
 }
 
@@ -24,7 +26,6 @@ interface VerseEntry {
 }
 
 interface ChapterResponse {
-  name: string;
   chapter: number;
   book: string;
   verses: VerseEntry[];
@@ -54,20 +55,23 @@ declare global {
   }
 }
 
+interface InitResponse {
+  books: Book[];
+  characters: Character[];
+}
+
 const BOOKS: Record<string, Book> = {};
 const CHARACTERS: Record<string, Character> = {};
 
 // fetched once on app startup
-const initPromise = fetch("/api/pt-br/blivre/init.json")
-  .then((res) => res.json())
-  .then((data) => {
-    (data.books || []).forEach((book: Book) => {
-      BOOKS[book.api] = book;
-    });
-    (data.characters || []).forEach((character: Character) => {
-      CHARACTERS[character.id] = character;
-    });
+const initPromise = getInit<InitResponse>().then((data) => {
+  (data.books || []).forEach((book: Book) => {
+    BOOKS[book.book] = book;
   });
+  (data.characters || []).forEach((character: Character) => {
+    CHARACTERS[character.id] = character;
+  });
+});
 
 function characterFor(speakerId: string): Character {
   return CHARACTERS[speakerId] || { id: speakerId, name: speakerId, icon: "" };
@@ -97,10 +101,8 @@ async function loadChapter(book: string, chapter: string) {
   store.error = null;
   try {
     await initPromise;
-    const res = await fetch(`/api/pt-br/blivre/${book}/${chapter}.json`);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data: ChapterResponse = await res.json();
-    store.name = data.name;
+    const data = await getChapter<ChapterResponse>(book, chapter);
+    store.name = BOOKS[data.book]?.name || "";
     store.chapter = data.chapter;
     store.book = data.book;
     store.messages = buildMessages(data.verses);

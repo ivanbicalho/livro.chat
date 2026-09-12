@@ -1,8 +1,16 @@
 {
     "book": "genesis",
-    "name": "Gênesis",
     "chapter": 1,
     "verses": [
+        {
+            "verse": 1,
+            "segments": [
+                {
+                    "speaker": "narrator",
+                    "text": "No princípio criou Deus os céus e a terra."
+                }
+            ]
+        },
         {
             "verse": 2,
             "segments": [

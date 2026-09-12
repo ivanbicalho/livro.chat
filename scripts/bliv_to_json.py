@@ -6,7 +6,8 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).parent
 RAW_FILE = BASE_DIR / "bliv-n4_vpl.txt"
-API_DIR = BASE_DIR.parent / "api" / "pt-br" / "blivre"
+PT_BR_DIR = BASE_DIR.parent / "public" / "api" / "pt-br"
+API_DIR = PT_BR_DIR / "blivre"
 
 LINE_PATTERN = re.compile(r"^(\S+)\s+(\d+):(\d+)\s+(.*)$")
 
@@ -83,7 +84,7 @@ BOOKS = {
 def parse_raw(raw_path):
     """Return dict: book_code -> chapter_number -> verse_number -> text"""
     books = {}
-    with open(raw_path, encoding="utf-8") as f:
+    with open(raw_path, encoding="utf-8-sig") as f:
         for line in f:
             line = line.strip()
             if not line:
@@ -98,10 +99,9 @@ def parse_raw(raw_path):
     return books
 
 
-def write_chapter_json(book, book_name, chapter, verses, out_dir):
+def write_chapter_json(book, chapter, verses, out_dir):
     data = {
         "book": book,
-        "name": book_name,
         "chapter": chapter,
         "verses": [
             {
@@ -118,13 +118,45 @@ def write_chapter_json(book, book_name, chapter, verses, out_dir):
         f.write("\n")
 
 
+def update_init_json(api_dir, pt_br_dir):
+    """Rebuild the "books" list in init.json (chapters/verseCount) from the generated chapter files."""
+    init_path = pt_br_dir / "init.json"
+    with open(init_path, encoding="utf-8") as f:
+        init_data = json.load(f)
+
+    books = []
+    for book_dir, book_name in BOOKS.values():
+        chapter_dir = api_dir / book_dir
+        if not chapter_dir.is_dir():
+            continue
+        chapter_files = sorted(chapter_dir.glob("*.json"), key=lambda p: int(p.stem))
+        verse_count = []
+        for chapter_file in chapter_files:
+            with open(chapter_file, encoding="utf-8") as f:
+                verse_count.append(len(json.load(f)["verses"]))
+        books.append(
+            {
+                "book": book_dir,
+                "name": book_name,
+                "chapters": len(chapter_files),
+                "verseCount": verse_count,
+            }
+        )
+
+    init_data["books"] = books
+    with open(init_path, "w", encoding="utf-8") as f:
+        json.dump(init_data, f, ensure_ascii=False, indent=4)
+        f.write("\n")
+
+
 def main():
     books = parse_raw(RAW_FILE)
     for book_code, chapters in books.items():
-        book, book_name = BOOKS.get(book_code, (book_code.lower(), book_code))
+        book, _ = BOOKS.get(book_code, (book_code.lower(), book_code))
         out_dir = API_DIR / book
         for chapter, verses in chapters.items():
-            write_chapter_json(book, book_name, chapter, verses, out_dir)
+            write_chapter_json(book, chapter, verses, out_dir)
+    update_init_json(API_DIR, PT_BR_DIR)
     print(f"Done. Converted {len(books)} books.")
 
 
